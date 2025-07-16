@@ -92,7 +92,7 @@ def get_google_doc_name(document_id, creds):
 def main():
     """Main function to run the application."""
     print("--- Cover Letter/CV Tailor - Phase 1 ---")
-    print("This script will download a Google Document and save it locally.")
+    print("This script will download specified Google Documents and save them locally.")
 
     # 1. Authenticate with Google
     creds = authenticate_google_api()
@@ -100,22 +100,14 @@ def main():
         print("Authentication failed. Exiting.")
         return
 
-    # 2. Get Google Doc ID from user
-    google_doc_id = input("\nEnter the Google Document ID (from the URL, e.g., 1ABC...xyz): ").strip()
-    if not google_doc_id:
-        print("Google Document ID cannot be empty. Exiting.")
-        return
+    # Define the list of documents to download
+    # Each dictionary contains the Google Doc ID and a desired local filename (without extension)
+    documents_to_download = [
+        {"id": "1UGTreEstQWI1gH5TKAaK2Xk2jlLyH3eqiNTvHY9IJYA", "name": "CV-Sebastian-Ochoa-Alvarez"},
+        {"id": "1p39fia1T_Q-Er9glZryQ8XTkSfvqFHSAVt6LmrOksu0", "name": "CL-Sebastian-Ochoa-Alvarez"} # Assuming CL stands for Cover Letter
+    ]
 
-    # Optional: Get document name for better user feedback
-    doc_name = get_google_doc_name(google_doc_id, creds)
-    if doc_name:
-        print(f"Found Google Document: '{doc_name}'")
-    else:
-        print("Could not retrieve document name. Please ensure the ID is correct and you have access.")
-        # Decide if you want to exit or proceed without the name
-        # For now, we'll proceed, but the user might want to re-enter ID if name wasn't found.
-
-    # 3. Get company name and job description from user
+    # 2. Get company name and job description from user
     company_name = input("Enter the Company Name: ").strip()
     job_description = input("Enter the Job Description (e.g., 'Software Engineer'): ").strip()
 
@@ -123,7 +115,7 @@ def main():
         print("Company Name and Job Description cannot be empty. Exiting.")
         return
 
-    # 4. Create the folder structure
+    # 3. Create the folder structure
     # Sanitize inputs for folder names (remove invalid characters)
     # This is a basic sanitization. For production, consider a more robust library.
     sanitized_company_name = "".join(c for c in company_name if c.isalnum() or c in (' ', '-', '_')).strip()
@@ -132,10 +124,7 @@ def main():
     today_date = datetime.date.today().strftime("%Y-%m-%d") # Format: YYYY-MM-DD
 
     # Construct the full path for the new folder
-    # The base directory will be where the script is run, or you can specify a different one.
-    base_save_directory = "Tailored_Documents" # Or specify a full path like "C:/Users/YourUser/Documents/Tailored_Documents"
-    
-    # Create the nested folder path
+    base_save_directory = "Tailored_Documents"
     save_folder_path = os.path.join(base_save_directory, sanitized_company_name, sanitized_job_description, today_date)
 
     try:
@@ -146,18 +135,28 @@ def main():
         print("Please check permissions or path validity. Exiting.")
         return
 
-    # 5. Define the local file name and full path
-    # Using the original document name if available, otherwise a generic one.
-    # Changed file extension from .odt to .pdf
-    output_filename = f"{doc_name if doc_name else 'document'}.pdf"
-    output_file_path = os.path.join(save_folder_path, output_filename)
+    # 4. Loop through the predefined documents and download each one
+    for doc_info in documents_to_download:
+        google_doc_id = doc_info["id"]
+        doc_name_for_file = doc_info["name"] # Use the predefined name for the local file
 
-    # 6. Download the Google Doc
-    print(f"Attempting to download Google Doc ID: {google_doc_id}...")
-    download_google_doc(google_doc_id, output_file_path, creds)
+        # Optional: Get actual Google Doc name for more informative output (not used for filename)
+        # actual_google_doc_name = get_google_doc_name(google_doc_id, creds)
+        # if actual_google_doc_name:
+        #     print(f"Found Google Document: '{actual_google_doc_name}' (ID: {google_doc_id})")
+        # else:
+        #     print(f"Could not retrieve actual document name for ID: {google_doc_id}. Using predefined name.")
+
+        # Define the local file name and full path
+        output_filename = f"{doc_name_for_file}.pdf"
+        output_file_path = os.path.join(save_folder_path, output_filename)
+
+        # Download the Google Doc
+        print(f"\nAttempting to download '{doc_name_for_file}' (ID: {google_doc_id})...")
+        download_google_doc(google_doc_id, output_file_path, creds)
 
     print("\nPhase 1 completed!")
-    print(f"Your document is saved at: {output_file_path}")
+    print(f"All specified documents are saved in: {save_folder_path}")
 
 if __name__ == '__main__':
     main()
