@@ -1,0 +1,21 @@
+# Ignore Python-specific files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+env/
+venv/
+.venv/
+
+# Ignore IDE-specific files (e.g., VS Code)
+.vscode/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore sensitive files and directories
+# This is crucial for your project to prevent Google OAuth tokens from being committed.
+token.json
+credentials.json
