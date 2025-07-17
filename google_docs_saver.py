@@ -1,162 +1,271 @@
-# Import necessary libraries
 import os
 import datetime
-from google.auth.transport.requests import Request
-from google.oauth2.credentials import Credentials
-from google_auth_oauthlib.flow import InstalledAppFlow
-from googleapiclient.discovery import build
-from googleapiclient.errors import HttpError
+import re
+import shutil
+from weasyprint import HTML # Import WeasyPrint
 
-# Define the scopes required for Google Docs API access.
-# 'https://www.googleapis.com/auth/documents.readonly' allows reading documents.
-# 'https://www.googleapis.com/auth/drive.readonly' allows reading metadata about files (like their names).
-# If you need to modify documents programmatically, you would add 'https://www.googleapis.com/auth/documents'
-SCOPES = ['https://www.googleapis.com/auth/documents.readonly', 'https://www.googleapis.com/auth/drive.readonly']
+# --- User Configuration ---
+# Paths to your HTML template files
+CV_TEMPLATE_HTML_PATH = 'cv_template.html'
+CL_TEMPLATE_HTML_PATH = 'cl_template.html'
 
-def authenticate_google_api():
-    """Authenticates with Google and returns credentials."""
-    creds = None
-    # The file token.json stores the user's access and refresh tokens, and is
-    # created automatically when the authorization flow completes for the first
-    # time.
-    if os.path.exists('token.json'):
-        creds = Credentials.from_authorized_user_file('token.json', SCOPES)
-    # If there are no (valid) credentials available, let the user log in.
-    if not creds or not creds.valid:
-        if creds and creds.expired and creds.refresh_token:
-            creds.refresh(Request())
+# --- Data Reading Function (Same as before) ---
+def read_data_from_file(file_path):
+    """
+    Reads data from a text file, parsing key-value pairs and multi-line sections.
+    Special handling for SKILLS_LIST and CERTIFICATIONS_LIST to parse into subtitle/description.
+    """
+    data = {}
+    current_key = None
+    current_value_lines = []
+    
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            for line in f:
+                line = line.strip()
+                if not line or line.startswith('#'): # Skip empty lines and comments
+                    continue
+                
+                if line == '---END_SECTION---':
+                    if current_key:
+                        if current_key in ["SKILLS_LIST", "CERTIFICATIONS_LIST"]: # Handle both lists similarly
+                            # Process lists specifically: parse into list of dicts
+                            parsed_list = []
+                            for item_line in current_value_lines:
+                                # Regex to capture - **Subtitle**: Description
+                                match = re.match(r'^- \*\*(.*?)\*\*:(.*)', item_line)
+                                if match:
+                                    subtitle = match.group(1).strip()
+                                    description = match.group(2).strip()
+                                    parsed_list.append({"subtitle": subtitle, "description": description})
+                                else:
+                                    print(f"Warning: {current_key} line format mismatch: '{item_line}'. Skipping this line.")
+                            data[current_key] = parsed_list
+                        else:
+                            data[current_key] = "\n".join(current_value_lines).strip()
+                        current_key = None
+                        current_value_lines = []
+                    continue
+
+                if ':' in line and current_key is None:
+                    key, value = line.split(':', 1)
+                    key = key.strip()
+                    value = value.strip()
+                    if value: # If value is not empty, it's a single-line entry
+                        data[key] = value
+                    else: # If value is empty, it's the start of a multi-line entry
+                        current_key = key
+                        current_value_lines = []
+                elif current_key: # Continue collecting lines for a multi-line entry
+                    current_value_lines.append(line)
+                else:
+                    print(f"Warning: Skipping unparseable line in {file_path}: {line}")
+    except FileNotFoundError:
+        print(f"Error: Data file not found at {file_path}")
+        return None
+    except Exception as e:
+        print(f"Error reading data file: {e}")
+        return None
+    
+    # Add any remaining multi-line section if file ends without ---END_SECTION---
+    if current_key and current_value_lines:
+        if current_key in ["SKILLS_LIST", "CERTIFICATIONS_LIST"]:
+            parsed_list = []
+            for item_line in current_value_lines:
+                match = re.match(r'^- \*\*(.*?)\*\*:(.*)', item_line)
+                if match:
+                    subtitle = match.group(1).strip()
+                    description = match.group(2).strip()
+                    parsed_list.append({"subtitle": subtitle, "description": description})
+                else:
+                    print(f"Warning: {current_key} line format mismatch: '{item_line}'. Skipping this line.")
+            data[current_key] = parsed_list
         else:
-            # The 'credentials.json' file is downloaded from Google Cloud Console.
-            # Make sure it's in the same directory as this script.
-            flow = InstalledAppFlow.from_client_secrets_file(
-                'credentials.json', SCOPES)
-            creds = flow.run_local_server(port=0)
-        # Save the credentials for the next run
-        with open('token.json', 'w') as token:
-            token.write(creds.to_json())
-    return creds
+            data[current_key] = "\n".join(current_value_lines).strip()
 
-def download_google_doc(document_id, file_path, creds):
+    return data
+
+
+def generate_html_content(template_html_path, data, doc_type):
     """
-    Downloads a Google Doc as a PDF file.
-
-    Args:
-        document_id (str): The ID of the Google Document to download.
-        file_path (str): The full path where the PDF file will be saved.
-        creds (google.oauth2.credentials.Credentials): Authenticated Google credentials.
+    Reads an HTML template, replaces placeholders with data, and returns the full HTML string.
     """
     try:
-        # Build the Google Drive API service. We use Drive API to export documents.
-        drive_service = build('drive', 'v3', credentials=creds)
+        with open(template_html_path, 'r', encoding='utf-8') as f:
+            html_content = f.read()
 
-        # Request to export the document as PDF
-        # Changed mimeType from 'application/vnd.oasis.opendocument.text' to 'application/pdf'
-        request = drive_service.files().export_media(fileId=document_id,
-                                                     mimeType='application/pdf')
-        
-        # Execute the request and save the content to the specified file path.
-        with open(file_path, 'wb') as fh:
-            downloaded_file = request.execute()
-            fh.write(downloaded_file)
-        print(f"Document downloaded successfully to: {file_path}")
+        # Prepare replacements
+        replacements = {}
 
-    except HttpError as error:
-        print(f"An error occurred: {error}")
-        print("Please ensure the Google Doc ID is correct and you have access to it.")
+        # Global Information
+        replacements["{{APPLICATION_DATE}}"] = datetime.date.today().strftime("%Y-%m-%d")
+        replacements["{{HIRING_MANAGER}}"] = data.get("HIRING_MANAGER", "")
+        replacements["{{COMPANY_NAME}}"] = data.get("COMPANY_NAME", "")
+        replacements["{{JOB_ROLE}}"] = data.get("JOB_ROLE", "")
+
+        # Cover Letter Specific Content
+        if doc_type == "CL":
+            subject_template = data.get("SUBJECT", "")
+            final_subject = subject_template.replace("{{JOB_ROLE}}", replacements["{{JOB_ROLE}}"]).replace("{{COMPANY_NAME}}", replacements["{{COMPANY_NAME}}"])
+            replacements["{{SUBJECT}}"] = final_subject
+            replacements["{{CONTENT}}"] = data.get("CONTENT", "")
+
+        # CV Specific Content
+        if doc_type == "CV":
+            replacements["{{CAREER_SUMMARY}}"] = data.get("CAREER_SUMMARY", "")
+
+            # SKILLS_TITLE and SKILLS_DESC
+            for i in range(1, 5): # Assuming SKILLS_TITLE_1 to SKILLS_TITLE_4
+                replacements[f"{{{{SKILLS_TITLE_{i}}}}}"] = data.get(f"SKILLS_TITLE_{i}", "")
+                replacements[f"{{{{SKILLS_DESC_{i}}}}}"] = data.get(f"SKILLS_DESC_{i}", "")
+
+            # Company Summaries and Bullet Points
+            companies = ["GLOBANT", "MANGOSOFT", "TIPI", "ITBIGBOSS", "BODYTECH"]
+            for company in companies:
+                replacements[f"{{{{COMPANY_SUMMARY_{company}}}}}"] = data.get(f"COMPANY_SUMMARY_{company}", "")
+                
+                # For company bullet points, we need to format them as HTML <li> items
+                bullet_points_key = f"COMPANY_BULLET_1_{company}" # Assuming _1, _2, _3
+                
+                # Collect all bullet points for the company
+                company_bullets_html = ""
+                for i in range(1, 4): # Assuming 3 bullet points per company
+                    bullet_key = f"COMPANY_BULLET_{i}_{company}"
+                    bullet_text = data.get(bullet_key, "").strip()
+                    if bullet_text:
+                        # Remove leading '-' or '•' if present from data.txt, as HTML <li> will add its own bullet
+                        if bullet_text.startswith('- '):
+                            bullet_text = bullet_text[2:]
+                        elif bullet_text.startswith('• '):
+                            bullet_text = bullet_text[2:]
+                        company_bullets_html += f"<li>{bullet_text}</li>\n"
+                
+                # Replace the placeholder for the entire bullet list
+                # Note: The HTML template uses {{COMPANY_BULLET_1_GLOBANT}} directly inside <li> tags.
+                # We will replace these individually in a loop below.
+                # For now, ensure the individual bullet placeholders are handled.
+                # If the template uses a single {{BULLET_POINTS_COMPANY}} placeholder, then the above logic would be used.
+                # Given the template, we'll process each bullet point placeholder individually.
+                replacements[f"{{{{COMPANY_BULLET_1_{company}}}}}"] = data.get(f"COMPANY_BULLET_1_{company}", "").strip().lstrip('- •').strip()
+                replacements[f"{{{{COMPANY_BULLET_2_{company}}}}}"] = data.get(f"COMPANY_BULLET_2_{company}", "").strip().lstrip('- •').strip()
+                replacements[f"{{{{COMPANY_BULLET_3_{company}}}}}"] = data.get(f"COMPANY_BULLET_3_{company}", "").strip().lstrip('- •').strip()
+
+
+            # Certifications and Education are hardcoded in the HTML template,
+            # so we don't need to replace them from data.txt unless they were placeholders.
+            # Based on the provided HTML template, they are static.
+            # If they were placeholders like {{CERTIFICATIONS_LIST}}, we'd process them here.
+            # For now, let's assume the HTML template handles them directly.
+            
+            # Re-process SKILLS_LIST and CERTIFICATIONS_LIST from data.txt for dynamic content
+            # The HTML template has these hardcoded, so we need to make sure our data.txt provides the content
+            # and we insert it into the correct HTML structure.
+            # Given the HTML template structure:
+            # <ul class="skills-list">
+            #    <li><strong>{{SKILLS_TITLE_1}}</strong>: {{SKILLS_DESC_1}}</li>
+            # </ul>
+            # The data.txt has SKILLS_TITLE_1 and SKILLS_DESC_1. This is already handled above.
+            # The same applies to CERTIFICATIONS_LIST. The HTML template has static text for these.
+            # If the user wants to dynamically populate these from data.txt, the template needs placeholders.
+            # For now, I will assume the provided HTML template is the source of truth for structure,
+            # and only replace the placeholders that exist in it.
+
+        # Perform the actual replacements
+        for placeholder, value in replacements.items():
+            html_content = html_content.replace(placeholder, value)
+
+        return html_content
+
+    except FileNotFoundError:
+        print(f"Error: HTML template not found at {template_html_path}")
+        return None
     except Exception as e:
-        print(f"An unexpected error occurred during download: {e}")
+        print(f"Error generating HTML content: {e}")
+        return None
 
-def get_google_doc_name(document_id, creds):
+
+def convert_html_to_pdf(html_content, output_pdf_path):
     """
-    Retrieves the name of a Google Document.
-
-    Args:
-        document_id (str): The ID of the Google Document.
-        creds (google.oauth2.credentials.Credentials): Authenticated Google credentials.
-
-    Returns:
-        str: The name of the document, or None if an error occurs.
+    Converts an HTML string to a PDF file using WeasyPrint.
     """
+    print(f"  Attempting to convert HTML to PDF: {output_pdf_path}")
     try:
-        drive_service = build('drive', 'v3', credentials=creds)
-        # Fetch only the 'name' field for efficiency
-        file = drive_service.files().get(fileId=document_id, fields='name').execute()
-        return file.get('name')
-    except HttpError as error:
-        print(f"An error occurred while fetching document name: {error}")
-        return None
+        HTML(string=html_content).write_pdf(output_pdf_path)
+        print(f"  Successfully created PDF: {output_pdf_path}")
+        return True
     except Exception as e:
-        print(f"An unexpected error occurred: {e}")
-        return None
+        print(f"  Error during HTML to PDF conversion: {e}")
+        print("  Please ensure WeasyPrint and its system dependencies (like GTK+ on Windows, Pango/Cairo/GDK-Pixbuf on Linux/macOS) are correctly installed.")
+        return False
+
 
 def main():
     """Main function to run the application."""
-    print("--- Cover Letter/CV Tailor - Phase 1 ---")
-    print("This script will download specified Google Documents and save them locally.")
+    print("--- Cover Letter/CV Tailor - Phase 2 (HTML & PDF Processing) ---")
+    print("This script will generate tailored HTML documents and convert them to PDF.")
 
-    # 1. Authenticate with Google
-    creds = authenticate_google_api()
-    if not creds:
-        print("Authentication failed. Exiting.")
+    # 1. Read data from data.txt
+    data_file_path = 'data.txt'
+    document_data = read_data_from_file(data_file_path)
+    if not document_data:
+        print("Failed to load data from data.txt. Exiting.")
         return
 
-    # Define the list of documents to download
-    # Each dictionary contains the Google Doc ID and a desired local filename (without extension)
-    documents_to_download = [
-        {"id": "1UGTreEstQWI1gH5TKAaK2Xk2jlLyH3eqiNTvHY9IJYA", "name": "CV-Sebastian-Ochoa-Alvarez"},
-        {"id": "1p39fia1T_Q-Er9glZryQ8XTkSfvqFHSAVt6LmrOksu0", "name": "CL-Sebastian-Ochoa-Alvarez"} # Assuming CL stands for Cover Letter
-    ]
+    # Extract company name and job role from data.txt
+    company_name_from_file = document_data.get("COMPANY_NAME", "Unknown Company")
+    job_role_from_file = document_data.get("JOB_ROLE", "Unknown Role")
 
-    # 2. Get company name and job description from user
-    company_name = input("Enter the Company Name: ").strip()
-    job_description = input("Enter the Job Description (e.g., 'Software Engineer'): ").strip()
+    print(f"\nUsing Company Name from data.txt: {company_name_from_file}")
+    print(f"Using Job Role from data.txt: {job_role_from_file}")
 
-    if not company_name or not job_description:
-        print("Company Name and Job Description cannot be empty. Exiting.")
-        return
+    # 2. Create the folder structure
+    sanitized_company_name = "".join(c for c in company_name_from_file if c.isalnum() or c in (' ', '-', '_')).strip()
+    sanitized_job_description = "".join(c for c in job_role_from_file if c.isalnum() or c in (' ', '-', '_')).strip()
 
-    # 3. Create the folder structure
-    # Sanitize inputs for folder names (remove invalid characters)
-    # This is a basic sanitization. For production, consider a more robust library.
-    sanitized_company_name = "".join(c for c in company_name if c.isalnum() or c in (' ', '-', '_')).strip()
-    sanitized_job_description = "".join(c for c in job_description if c.isalnum() or c in (' ', '-', '_')).strip()
+    today_date = datetime.date.today().strftime("%Y-%m-%d")
 
-    today_date = datetime.date.today().strftime("%Y-%m-%d") # Format: YYYY-MM-DD
-
-    # Construct the full path for the new folder
-    base_save_directory = "Tailored_Documents"
+    base_save_directory = "Tailored_Documents_HTML_PDF"
     save_folder_path = os.path.join(base_save_directory, sanitized_company_name, sanitized_job_description, today_date)
 
     try:
         os.makedirs(save_folder_path, exist_ok=True)
-        print(f"Created folder structure: {save_folder_path}")
+        print(f"\nCreated folder structure: {save_folder_path}")
     except OSError as e:
         print(f"Error creating directory {save_folder_path}: {e}")
         print("Please check permissions or path validity. Exiting.")
         return
 
-    # 4. Loop through the predefined documents and download each one
-    for doc_info in documents_to_download:
-        google_doc_id = doc_info["id"]
-        doc_name_for_file = doc_info["name"] # Use the predefined name for the local file
+    # Fixed name part for the output files as requested
+    fixed_output_name = "Sebastian-Ochoa-Alvarez"
 
-        # Optional: Get actual Google Doc name for more informative output (not used for filename)
-        # actual_google_doc_name = get_google_doc_name(google_doc_id, creds)
-        # if actual_google_doc_name:
-        #     print(f"Found Google Document: '{actual_google_doc_name}' (ID: {google_doc_id})")
-        # else:
-        #     print(f"Could not retrieve actual document name for ID: {google_doc_id}. Using predefined name.")
+    # 3. Process CV
+    print(f"\n--- Processing CV ---")
+    cv_html_content = generate_html_content(CV_TEMPLATE_HTML_PATH, document_data, "CV")
+    if cv_html_content:
+        output_cv_html_path = os.path.join(save_folder_path, f"CV-{fixed_output_name}.html")
+        output_cv_pdf_path = os.path.join(save_folder_path, f"CV-{fixed_output_name}.pdf")
+        
+        with open(output_cv_html_path, 'w', encoding='utf-8') as f:
+            f.write(cv_html_content)
+        print(f"  Generated HTML file: {output_cv_html_path}")
 
-        # Define the local file name and full path
-        output_filename = f"{doc_name_for_file}.pdf"
-        output_file_path = os.path.join(save_folder_path, output_filename)
+        convert_html_to_pdf(cv_html_content, output_cv_pdf_path)
 
-        # Download the Google Doc
-        print(f"\nAttempting to download '{doc_name_for_file}' (ID: {google_doc_id})...")
-        download_google_doc(google_doc_id, output_file_path, creds)
+    # 4. Process CL
+    print(f"\n--- Processing CL ---")
+    cl_html_content = generate_html_content(CL_TEMPLATE_HTML_PATH, document_data, "CL")
+    if cl_html_content:
+        output_cl_html_path = os.path.join(save_folder_path, f"CL-{fixed_output_name}.html")
+        output_cl_pdf_path = os.path.join(save_folder_path, f"CL-{fixed_output_name}.pdf")
+        
+        with open(output_cl_html_path, 'w', encoding='utf-8') as f:
+            f.write(cl_html_content)
+        print(f"  Generated HTML file: {output_cl_html_path}")
 
-    print("\nPhase 1 completed!")
-    print(f"All specified documents are saved in: {save_folder_path}")
+        convert_html_to_pdf(cl_html_content, output_cl_pdf_path)
+
+    print("\nPhase 2 (HTML & PDF) completed!")
+    print(f"Tailored .html and .pdf documents are generated in: {save_folder_path}")
 
 if __name__ == '__main__':
     main()

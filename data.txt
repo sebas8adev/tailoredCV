@@ -1,0 +1,56 @@
+# Global Information
+HIRING_MANAGER: Garrett DeLanoy
+COMPANY_NAME: ektello
+JOB_ROLE: Project Manager
+COMPANY_NAME: Universal Studios Orlando (Hybrid)
+APPLICATION_DATE: March 21st, 2025 # This line is added/updated
+
+# Cover Letter Content
+SUBJECT: Application for {{JOB_ROLE}} at {{COMPANY_NAME}}
+CONTENT: Dear Garrett,
+Thank you for reaching out on LinkedIn regarding the Project Manager opportunity at Universal Studios Orlando. I am very interested in this hybrid role and believe my extensive experience in managing complex digital transformation initiatives aligns well with your requirements.
+My background includes high-level leadership in delivering multiple projects and programs across diverse industries like travel/hospitality, finance, e-commerce, and media. I excel at defining project governance, allocating resources, and managing financials, consistently driving initiatives from strategic planning through execution. My adaptive approach, leveraging methodologies like SAFe, Scrum, and Kanban, enables me to steer globally distributed teams and achieve project objectives.
+I bring robust technical acumen in AI-driven solutions, cloud infrastructure (AWS, Google Cloud), and system integrations. I effectively communicate technical components and have a track record of translating complex requirements into actionable plans, overseeing large-scale team staffing (150+ positions), and achieving significant performance improvements (e.g., 40% enhancement in digital platform efficiency). My experience also includes identity and access management, Microsoft Active Directory, and server/networking fundamentals, which are desired for this role.
+The opportunity to contribute to the innovative environment at Universal Studios Orlando is particularly exciting. I am confident that my leadership skills, combined with my ability to foster innovation and facilitate successful project outcomes, would be a valuable asset to your team.
+I have attached my tailored CV for your review, which provides further detail on my qualifications and achievements. Thank you for your time and consideration. I look forward to the possibility of discussing this exciting role further.
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager and program leader with extensive experience in driving complex digital transformation and technical project delivery across diverse global industries. Adept at steering globally distributed teams and delivering impactful AI-driven, cloud-based, and system integration solutions, consistently achieving significant performance improvements and successfully overseeing large-scale team staffing. Proficient in Agile (SAFe, Scrum, Kanban) and formal project management, I excel at full lifecycle management from strategic planning and executive reporting to financial oversight, passionately fostering innovation and operational efficiency.
+SKILLS_TITLE_1: Strategic Project & Program Leadership
+SKILLS_DESC_1: Drives high-level, adaptive delivery of complex programs and multiple projects, managing resources, financials, and governance while building strong cross-functional partnerships.
+SKILLS_TITLE_2: Agile & Hybrid Methodologies
+SKILLS_DESC_2: Expertly implements and coaches SAFe, Scrum, Hybrid, Kanban, and Lean Startup, optimizing backlogs and leading planning for efficient, results-driven roadmaps.
+SKILLS_TITLE_3: Technical & Cloud Proficiency
+SKILLS_DESC_3: Possesses deep acumen in AI integrations, cloud platforms (AWS, Google Cloud), Microsoft Active Directory, networking, and enterprise systems, translating technical concepts effectively.
+SKILLS_TITLE_4: Business Acumen & Impact
+SKILLS_DESC_4: Delivers quantifiable results across diverse industries like cruise lines, banking, e-commerce, and healthcare, excelling in communication and stakeholder engagement.
+
+# Work Experience - Globant
+COMPANY_SUMMARY_GLOBANT: Globant is a global software development and consulting company specializing in digital transformation and AI technology solutions.
+COMPANY_BULLET_1_GLOBANT: Orchestrates end-to-end delivery of complex digital products, including AI Chatbots for Royal Caribbean Group, managing global teams (+30 people) to achieve on-time feature execution aligned with strategic backlog prioritization.
+COMPANY_BULLET_2_GLOBANT: Drives program-level performance and cost efficiency across client portfolios, including Dick's Sporting Goods, achieving significant improvements such as a 40% enhancement in digital platform efficiency through adaptive quarterly roadmap execution and PI Planning.
+COMPANY_BULLET_3_GLOBANT: Oversees Scrum of Scrums implementation for large-scale banking products for Banco de Chile, managing over 100 on-site and offshore personnel, staffing 150+ positions, and delivering consistent KPI and OKR reporting.
+
+# Work Experience - Mango-soft
+COMPANY_SUMMARY_MANGOSOFT: Mango-Soft is a strategic technology partner specializing in custom software product development, leveraging Big Data, AI/ML, and Cloud services.
+COMPANY_BULLET_1_MANGOSOFT: Manages full lifecycle development and production support for media and streaming applications for clients like Concacaf and MLS Teams, ensuring product definition through to successful deployment.
+COMPANY_BULLET_2_MANGOSOFT: Directs projects integrating advanced cloud services for healthcare clients, including San Rafael Hospital, Antioquia Clinic, and Las Americas Clinic, enabling imaging, visualization, and voice-to-text assisted procedures, achieving defined KPI and OKR targets.
+COMPANY_BULLET_3_MANGOSOFT: Leads development of a voice-to-text app for healthcare professionals, facilitating secure data transfer (DICOM, HL7 V2) and integration for patient data visualization.
+
+# Work Experience - TIPI
+COMPANY_SUMMARY_TIPI: TIPI delivers specialized technology solutions, including integrated hardware and software for government and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Manages end-to-end development and deployment of integrated hardware/software bodycam solutions for Colombian Police, overseeing technical teams and operations for 3,000+ devices.
+COMPANY_BULLET_2_TIPI: Directs implementation of patient flow tracking and medical team communication devices for Clinics and Hospitals in Colombia, integrating Bluetooth and RFID technologies across 10+ facilities.
+COMPANY_BULLET_3_TIPI: Leads project constraints based on government contracts, providing hands-on guidance for software development lifecycle, quality, and release management.
+
+# Work Experience - itBigBoss
+COMPANY_SUMMARY_ITBIGBOSS: IT Big Boss Software House provides a SaaS-based business project management software suite for diverse industries.
+COMPANY_BULLET_1_ITBIGBOSS: Oversees the full software development lifecycle for a SaaS-based Point of Sale (POS) system, implementing and adapting it for over 1,000 small businesses across Latin America.
+COMPANY_BULLET_2_ITBIGBOSS: Provides technical leadership and hands-on guidance in coding, quality, and release management for the POS product, ensuring seamless integrations with various devices and external systems.
+COMPANY_BULLET_3_ITBIGBOSS: Leads operations support and workflow for the SaaS platform, ensuring high availability and user satisfaction for more than 1,000 clients.
+
+# Work Experience - Bodytech
+COMPANY_SUMMARY_BODYTECH: Bodytech is a fitness club and gym chain operating in Colombia, Peru, and Chile, focusing on health and well-being through comprehensive fitness services.
+COMPANY_BULLET_1_BODYTECH: Manages the implementation and operations of IT infrastructure, including networking, IP Phoning, and CCTV, across more than 60 sites in Colombia, Peru, and Chile.
+COMPANY_BULLET_2_BODYTECH: Oversees the full software development lifecycle for critical systems such as access control, CRM, and billing software, including technical leadership for Dynamics CRM & ERP implementations.
+COMPANY_BULLET_3_BODYTECH: Leads IT Service Desk operations, ensuring efficient support and operational excellence for diverse business functions.
