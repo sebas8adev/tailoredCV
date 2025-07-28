@@ -1,0 +1,55 @@
+# Global Information
+HIRING_MANAGER: Hiring Team
+COMPANY_NAME: STO Building Group
+JOB_ROLE: Traveling Project Manager (Mission Critical)
+APPLICATION_DATE: July 26, 2024
+
+# Cover Letter Content
+SUBJECT: Application for Traveling Project Manager (Mission Critical) at STO Building Group
+CONTENT: Dear STO Building Group Hiring Team,<br><br>I am writing to express my enthusiastic interest in the Traveling Project Manager (Mission Critical) position, as advertised on LinkedIn. With over 10 years of experience managing complex, large-scale projects, I have a strong background in overseeing mission-critical infrastructure initiatives, including data center migrations and the deployment of technology systems across multi-site environments.<br><br>My career has been centered on the core principles of effective project management: rigorous financial oversight, precise scheduling, comprehensive stakeholder management, and meticulous quality control. I am adept at managing the entire project lifecycle, from initial planning, bid reviews, and resource allocation to execution, risk mitigation, and final project close-out. My experience includes direct responsibility for supervising technical teams and managing vendor and subcontractor relationships to ensure projects are delivered on time and within budget.<br><br>I am particularly drawn to this role at STO Building Group because of its focus on mission-critical projects. I am confident that my adaptive approach and my experience in managing both physical hardware deployments and complex system integrations provide a strong foundation to meet the demands of this position. I am a results-oriented leader, fully prepared for the travel requirements, and eager to contribute to the success of your high-profile construction projects.<br><br>Thank you for considering my application. I have attached my CV for your review and look forward to the opportunity to discuss how my skills and experience align with the goals of STO Building Group.<br><br>Sincerely,<br><br>Andres Perez
+
+# CV Content
+CAREER_SUMMARY: Versatile Project Manager with 10+ years of experience leading global teams and delivering complex infrastructure and mission-critical system transformations. Expert in full-cycle project management, from pre-construction planning and bidding to financial oversight, vendor supervision, and project close-out. Skilled in managing large-scale, multi-site deployments with a focus on schedule adherence and budget control.
+SKILLS_TITLE_1: Project & Construction Management Principles
+SKILLS_DESC_1: Full Project Lifecycle, Budget & Schedule Control, Bid Review, Vendor & Subcontractor Management, Change Orders, Financial Reporting, Risk Mitigation, Project Close-out.
+SKILLS_TITLE_2: Mission-Critical Infrastructure & Operations
+SKILLS_DESC_2: Data Center Migration, IT Infrastructure Deployment (Networking, CCTV), Physical Access Control Systems, Platform Modernization, Operations & Support Workflow.
+SKILLS_TITLE_3: Stakeholder & Relationship Management
+SKILLS_DESC_3: Client Relationship Management, Executive Reporting, C-Level Communication, Cross-Functional Team Leadership (100+ members), RFP & Proposal Development.
+SKILLS_TITLE_4: Project Management Tools & Methodologies
+SKILLS_DESC_4: Jira, Confluence, MS Teams, Asana, Hybrid Methodologies (Waterfall, Kanban), Adaptive Project Planning.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Technical Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company offering innovative technology solutions. Globant helps organizations with digital transformation, leveraging AI and software development for global clients.
+COMPANY_BULLET_1_GLOBANT: Directed end-to-end delivery of a new guest services platform for Royal Caribbean, leading a global team of 30+ to successful on-time deployment.
+COMPANY_BULLET_2_GLOBANT: Drove program performance for Dick's Sporting Goods, achieving a 40% boost in e-commerce platform efficiency through adaptive quarterly roadmaps and resource optimization.
+COMPANY_BULLET_3_GLOBANT: Managed a mission-critical data center migration from on-premise to GCP for Banco de Chile, coordinating over 100 personnel to ensure seamless transition.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software consultancy specializing in custom cloud-based solutions, Big Data, and AI applications for clients in the media, sports, and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Oversaw the end-to-end delivery of media streaming infrastructure on AWS for Concacaf, enabling live match streaming and media management for a global audience.
+COMPANY_BULLET_2_MANGOSOFT: Managed the integration of medical imaging and voice-to-text systems for multiple clinics, improving the efficiency of surgical procedures and clinical documentation.
+COMPANY_BULLET_3_MANGOSOFT: Led full-cycle resource planning, from RFP review to staffing and project execution for 10+ member teams, ensuring alignment with client and project goals.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology firm developing integrated hardware and software solutions for public safety, law enforcement, and healthcare sectors, focusing on IoT and real-time data.
+COMPANY_BULLET_1_TIPI: Directed the lifecycle for a law enforcement bodycam system, overseeing hardware, firmware, and software from planning to deployment of 3,000+ units.
+COMPANY_BULLET_2_TIPI: Managed all project constraints for government contracts, ensuring on-time delivery, quality assurance, and compliance with strict public sector regulations and requirements.
+COMPANY_BULLET_3_TIPI: Led implementation of patient-flow and asset tracking systems across 10+ hospitals, managing hardware installation, vendor coordination, and software integration.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A Software-as-a-Service (SaaS) provider delivering comprehensive Point-of-Sale (POS) and business management solutions for the restaurant, fitness, and retail industries.
+COMPANY_BULLET_1_ITBIGBOSS: Led the software development lifecycle and implementation of a POS system, successfully deploying the solution to over 1,000 small businesses across Latin America.
+COMPANY_BULLET_2_ITBIGBOSS: Oversaw integration with diverse third-party hardware, including biometrics, turnstiles, and payment terminals, ensuring seamless end-to-end system functionality for clients.
+COMPANY_BULLET_3_ITBIGBOSS: Directed technical and operational support workflows for a team of 30+, establishing processes that ensured high system uptime and customer satisfaction.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading operator of health and fitness centers, providing high-end wellness services to members across multiple locations in Colombia, Peru, and Chile.
+COMPANY_BULLET_1_BODYTECH: Managed technology infrastructure deployment across 60+ sites in 3 countries, including networking, IP phoning, CCTV, and physical access control systems with turnstiles.
+COMPANY_BULLET_2_BODYTECH: Acted as the technical leader for a company-wide Dynamics CRM & ERP implementation, overseeing vendor management, system configuration, and ensuring successful user adoption.
+COMPANY_BULLET_3_BODYTECH: Established and led the IT Service Desk and operational support functions, significantly improving ticket resolution rates and overall system reliability for all locations.

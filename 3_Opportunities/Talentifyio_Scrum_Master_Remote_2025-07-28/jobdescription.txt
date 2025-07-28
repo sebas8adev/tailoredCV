@@ -1,0 +1,53 @@
+Status: processed
+Data-Status: complete
+Job board: LinkedIn
+Company Name: Talentify.io
+Role Name: Scrum Master (Remote)
+Location: United States
+Type: Not specified
+Salary range: Not specified
+Hiring Team: Not identified
+Application Instructions: See Job Post URL
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4273290884&distance=25&f_TPR=r7200&geoId=105142029&keywords=scrum%20master&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON
+
+Job Description:
+About the job
+Employer Industry: Information Technology
+
+Why Consider This Job Opportunity
+
+ Salary up to $185,185
+ Comprehensive benefits package, including various incentive programs and 401k contributions
+ Opportunity for career advancement and growth within the organization
+ Engage in a dynamic environment focused on Lean-Agile practices and team improvement
+ Collaborative work culture that values communication and problem-solving
+ Chance to foster a Lean-Agile mindset across teams and improve business agility
+
+What To Expect (Job Responsibilities)
+
+ Facilitate team progress toward goals, ensuring adherence to Scrum principles and practices
+ Eliminate impediments by engaging stakeholders and supporting team communications
+ Coordinate work with other teams to enhance flow and throughput
+ Support the Product Owner in managing the backlog and maintaining a healthy team dynamic
+ Lead initiatives to nurture a Lean-Agile mindset and drive culture change within the organization
+
+What Is Required (Qualifications)
+
+ Bachelor's Degree in Information Technology or Computer Science, or 4 additional years of relevant work experience in lieu of a degree
+ Minimum of 5 years of experience using Agile/Scrum/SAFe practices in IT delivery
+ Knowledge of Lean Agile values, principles, and frameworks like Scrum and Kanban
+ Excellent written and oral communication skills
+ Proficient in Microsoft Office programs and Atlassian Agile tools
+
+How To Stand Out (Preferred Qualifications)
+
+ Experience in Product Ownership, DevOps, and Test Automation practices
+ Strong accountability for program success and ability to lead change effectively
+ Ability to organize data and generate metrics, reports, and dashboards
+ Self-starter with strong prioritization skills
+
+#InformationTechnology #Agile #ScrumMaster #CareerOpportunity #LeanAgile #TeamCollaboration
+
+"We prioritize candidate privacy and champion equal-opportunity employment. Central to our mission is our partnership with companies that share this commitment. We aim to foster a fair, transparent, and secure hiring environment for all. If you encounter any employer not adhering to these principles, please bring it to our attention immediately. We are not the EOR (Employer of Record) for this position. Our role in this specific opportunity is to connect outstanding candidates with a top-tier employer."
+
+Talentify helps candidates around the world to discover and stay focused on the jobs they want until they can complete a full application in the hiring company career page/ATS.

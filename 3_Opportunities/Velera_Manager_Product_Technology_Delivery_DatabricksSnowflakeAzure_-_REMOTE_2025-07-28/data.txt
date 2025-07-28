@@ -1,0 +1,55 @@
+# Global Information
+HIRING_MANAGER: Velera Hiring Team
+COMPANY_NAME: Velera
+JOB_ROLE: Manager, Product Technology Delivery
+APPLICATION_DATE: July 26, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Manager, Product Technology Delivery at Velera
+CONTENT: Dear Velera Hiring Team,<br><br>I am writing to express my keen interest in the Manager, Product Technology Delivery position. With over 15 years of experience leading technical teams in the delivery of complex data-driven solutions, my background aligns closely with the requirements of this role.<br><br>My career has been focused on mentoring and managing high-performing data and software development teams, a core responsibility outlined in your job description. I have a strong technical foundation in modern data engineering, including extensive hands-on and leadership experience with cloud platforms like Azure, AWS, and GCP, and data warehousing technologies such as Databricks and Snowflake. My proficiency in SQL, Python, and CI/CD pipelines has been instrumental in ensuring the delivery of high-quality, reliable data products.<br><br>I am particularly drawn to Velera's mission of "People Helping People." I believe my leadership style, which emphasizes mentorship, collaboration, and continuous improvement, will foster a motivating environment for your data development team and contribute to accelerating your partners' success through innovative technology.<br><br>I am confident that my expertise in project delivery, resource management, and stakeholder engagement makes me a strong candidate to help lead your team. Thank you for your time and consideration.
+
+# CV Content
+CAREER_SUMMARY: Versatile Delivery Manager with 15+ years of experience leading global data & software teams through complex digital transformations. Expert in Agile (SAFe, Scrum) and adaptive project delivery for cloud (Azure, GCP, AWS) and AI-driven data solutions. Skilled in full-cycle resource management, technical mentorship, and delivering high-quality data products using Databricks, Snowflake, and CI/CD pipelines.
+SKILLS_TITLE_1: Data & Cloud Platforms
+SKILLS_DESC_1: Azure (ADF, Synapse), Databricks, Snowflake, AWS, GCP, CI/CD, Git, SQL, Python
+SKILLS_TITLE_2: Project & Product Delivery
+SKILLS_DESC_2: Agile (SAFe, Scrum of Scrums, Kanban), Hybrid Methodologies, End-to-End SDLC, PI Planning, Release Management, Risk Mitigation
+SKILLS_TITLE_3: Leadership & Management
+SKILLS_DESC_3: Team Leadership & Mentorship, Resource Management, Stakeholder Engagement, Performance Management (KPIs/OKRs), Budget & Scope Control
+SKILLS_TITLE_4: Industry & Business Acumen
+SKILLS_DESC_4: Fintech, Banking, Healthcare, Retail, E-Commerce, Travel & Hospitality, Data-Driven Solutions, AI Integration
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Technical Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company leveraging AI and innovative technologies to help organizations reinvent themselves and create a way forward in their industries.
+COMPANY_BULLET_1_GLOBANT: Led delivery for Royal Caribbean's AI-driven digital concierge, managing a +30-person offshore team and ensuring on-time feature releases through SAFe and PI Planning.
+COMPANY_BULLET_2_GLOBANT: Managed data-centric projects for Banco de Chile, including a datacenter migration to GCP and implementing a new data warehouse, improving data accessibility and insights.
+COMPANY_BULLET_3_GLOBANT: Drove a 40% e-commerce performance improvement for Dick's Sporting Goods by leading Core Web Vitals initiatives and optimizing the development and release cycle.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm creating innovative cloud-based solutions, specializing in Big Data, AI applications, and custom software for media and healthcare clients.
+COMPANY_BULLET_1_MANGOSOFT: Delivered a cloud-native media platform for Concacaf on AWS, integrating streaming services and Big Data analytics, boosting fan engagement and media management capabilities.
+COMPANY_BULLET_2_MANGOSOFT: Managed development of a healthcare imaging integration platform, leveraging AWS services and HL7 standards to improve clinical workflow efficiency and reduce data silos.
+COMPANY_BULLET_3_MANGOSOFT: Led teams to implement a voice-to-text application for medical professionals, enhancing documentation accuracy and reducing transcription time for partner hospitals.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology company developing integrated hardware and software solutions, including IoT and mobile applications, for public safety and healthcare sectors in Colombia.
+COMPANY_BULLET_1_TIPI: Directed the full SDLC for a bodycam system for the Colombian Police, deploying 3,000 devices with AI-powered facial recognition and real-time streaming capabilities.
+COMPANY_BULLET_2_TIPI: Led hands-on coding and technical design for a Java/Python-based backend, ensuring robust performance and security for critical law enforcement data management systems.
+COMPANY_BULLET_3_TIPI: Deployed a patient-flow tracking system across 10+ hospitals, improving asset tracking and reducing patient wait times through enhanced operational visibility.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering a comprehensive POS solution with integrated inventory, CRM, and billing for over 1,000 small businesses in the LATAM market.
+COMPANY_BULLET_1_ITBIGBOSS: Architected and led development of a .NET and SQL Server-based SaaS POS platform, achieving broad adoption across the fitness and restaurant industries.
+COMPANY_BULLET_2_ITBIGBOSS: Oversaw the product lifecycle, integrating third-party systems like biometrics and payment processors to expand product functionality and increase market penetration.
+COMPANY_BULLET_3_ITBIGBOSS: Managed implementation and support operations, ensuring high system uptime and customer satisfaction for a diverse client base of over 1,000 businesses.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in LATAM, dedicated to improving well-being through services supported by a robust internal technology platform.
+COMPANY_BULLET_1_BODYTECH: Managed IT infrastructure and operations across 60+ sites in three countries, implementing networking and security systems to support rapid business expansion.
+COMPANY_BULLET_2_BODYTECH: Led the technical implementation of Dynamics CRM & ERP systems, automating billing and member management, which improved data accuracy and operational efficiency.
+COMPANY_BULLET_3_BODYTECH: Directed the SDLC for a custom access control system using biometrics, enhancing security and streamlining member check-in processes across all locations.

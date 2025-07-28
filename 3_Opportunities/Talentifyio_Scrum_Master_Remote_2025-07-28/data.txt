@@ -1,0 +1,56 @@
+# Global Information
+HIRING_MANAGER: Talentify.io Hiring Team
+COMPANY_NAME: Talentify.io
+JOB_ROLE: Scrum Master (Remote)
+COMPANY_NAME: Talentify.io
+APPLICATION_DATE: July 2, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Scrum Master (Remote) at Talentify.io
+CONTENT: Dear Talentify.io Hiring Team,<br><br>I am writing to express my keen interest in the Scrum Master (Remote) position I found advertised on LinkedIn. With over 5 years of dedicated experience implementing Agile, Scrum, and SAFe practices in demanding IT environments, I am confident I possess the skills and expertise you are seeking to foster a Lean-Agile mindset and enhance business agility.<br><br>In my recent roles, I have focused on core Scrum Master responsibilities, including facilitating team progress toward goals, diligently removing impediments by engaging stakeholders, and supporting Product Owners in managing dynamic backlogs. I am an expert in leading all Scrum ceremonies, coaching teams on Agile principles, and coordinating with other teams to improve workflow and throughput.<br><br>My background includes hands-on experience with the Atlassian suite (Jira, Confluence) and a deep understanding of driving cultural change within organizations to embrace Lean-Agile values. I have a record of organizing data to generate meaningful metrics and reports that track progress against OKRs and KPIs.<br><br>I am a Certified SAFe 6 Agilist and Advanced Certified ScrumMaster (A-CSM) passionate about continuous improvement and team collaboration. I am eager to bring my leadership and facilitation skills to your team.<br><br>Thank you for your time and consideration. I look forward to discussing how I can contribute to your organization.<br><br>Sincerely,<br>Juan Felipe Orejuela
+
+# CV Content
+CAREER_SUMMARY: Adaptive Scrum Master with 10+ years of experience guiding cross-functional teams and fostering Lean-Agile transformations across diverse industries. Expert in Scrum, Kanban, and SAFe frameworks, driving team progress and eliminating impediments to enhance business agility. Skilled in stakeholder engagement, backlog management, and performance metric analysis using Atlassian tools.
+SKILLS_TITLE_1: Agile & Lean Methodologies
+SKILLS_DESC_1: SAFe, Scrum, Kanban, Scrum of Scrums, Hybrid (Waterfall/Scrum), Lean-Agile Mindset
+SKILLS_TITLE_2: Scrum Master Expertise
+SKILLS_DESC_2: Facilitation, Impediment Removal, Stakeholder Engagement, Backlog Management, Team Coaching
+SKILLS_TITLE_3: Project & Delivery Tools
+SKILLS_DESC_3: Atlassian Suite (Jira, Confluence), MS Teams, Slack, Clickup, Asana, Azure DevOps
+SKILLS_TITLE_4: Technical & Domain Acumen
+SKILLS_DESC_4: SDLC, DevOps Practices, CI/CD, Cloud (AWS, GCP), AI Integration, Test Automation
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Technical Project Manager & Scrum Master
+COMPANY_SUMMARY_GLOBANT: A digitally native company offering AI-powered software development and technology consulting services to help organizations reinvent themselves and unleash their potential.
+COMPANY_BULLET_1_GLOBANT: Drove 40% e-commerce performance improvement for Dick's Sporting Goods by leading teams through Core Web Vitals optimization using Scrum best practices.
+COMPANY_BULLET_2_GLOBANT: Facilitated SAFe PI Planning for Royal Caribbean, aligning 30+ member global teams to ensure on-time delivery of AI chatbots and guest applications.
+COMPANY_BULLET_3_GLOBANT: Coached teams on Scrum, leading all ceremonies and removing impediments to improve development velocity and successfully execute the quarterly product roadmap.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software consulting firm specializing in custom development for media and healthcare, delivering innovative cloud-based solutions using Big Data and AWS services.
+COMPANY_BULLET_1_MANGOSOFT: Implemented Scrum for Concacaf and healthcare clients, leading ceremonies and coaching teams to successfully deliver media streaming and health data integration platforms.
+COMPANY_BULLET_2_MANGOSOFT: Coordinated with cross-functional teams to resolve blockers, enabling seamless delivery of AWS-based streaming services and improving patient data access for hospital clients.
+COMPANY_BULLET_3_MANGOSOFT: Supported Product Owners in backlog refinement and prioritization for new products, increasing team focus and ensuring successful product launches and hyper-care support.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: An innovative tech company developing integrated hardware and software solutions, including IoT devices and management platforms for public safety and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Led development for a bodycam system for the Colombian Police using a hybrid Kanban model, delivering a full solution for over 3,000 devices.
+COMPANY_BULLET_2_TIPI: Guided the full SDLC for embedded Android firmware and web management software, coordinating teams to meet stringent government contract deadlines and ensure compliance.
+COMPANY_BULLET_3_TIPI: Directed the implementation of an IoT nurse-call system across 10+ hospitals, improving patient response times and streamlining critical clinical communication workflows.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering a comprehensive POS and business management platform, tailored for small businesses in the restaurant, fitness, and retail industries.
+COMPANY_BULLET_1_ITBIGBOSS: Managed the end-to-end SDLC for a SaaS POS platform, deploying features for over 1,000 small businesses and increasing their operational efficiency.
+COMPANY_BULLET_2_ITBIGBOSS: Led a 30-person development team in a hybrid Kanban environment, overseeing coding, QA, and release management to enhance product stability and features.
+COMPANY_BULLET_3_ITBIGBOSS: Spearheaded platform implementation for diverse clients, resulting in high user adoption by automating billing, inventory, and CRM processes for fitness and health centers.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, focused on delivering exceptional member experiences through technology-driven services and club operations.
+COMPANY_BULLET_1_BODYTECH: Directed IT infrastructure and service desk operations across 60+ sites in 3 countries, ensuring high system uptime and support for all business functions.
+COMPANY_BULLET_2_BODYTECH: Led the SDLC for a custom CRM and billing system, which automated recurring payments and improved member retention through better data management.
+COMPANY_BULLET_3_BODYTECH: Managed the technical implementation of Microsoft Dynamics CRM & ERP, coordinating vendors and internal teams to centralize business operations and improve overall efficiency.
