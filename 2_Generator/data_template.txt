@@ -1,0 +1,56 @@
+Global Information
+HIRING_MANAGER: {{HIRING_MANAGER}}
+COMPANY_NAME: {{COMPANY_NAME}}
+JOB_ROLE: {{JOB_ROLE}}
+APPLICATION_DATE: July 28, 2025
+---END_SECTION---
+Cover Letter Content
+SUBJECT: Application for {{JOB_ROLE}} at {{COMPANY_NAME}}
+CONTENT:
+Dear {{HIRING_MANAGER}},<br><br>I am writing to express my enthusiastic interest in the {{JOB_ROLE}} position at {{COMPANY_NAME}}, which I discovered on LinkedIn. As a certified Scrum Master (A-CSM, CSM, SAFe) with over 8 years of experience leading teams in data-centric and analytics-driven environments, my background is an ideal fit for this role.<br><br>My career has been dedicated to championing Agile best practices to build high-performing teams. I have extensive experience facilitating all Scrum ceremonies, coaching teams on Scrum and Kanban, and proactively removing impediments to ensure continuous delivery. For example, as Chief Scrum Master at Globant, I led five scrum teams in building a data warehouse, data lake, and Power BI solutions, directly aligning with your need for a leader in a data-centric environment.<br><br>I am proficient with JIRA, data management concepts, and DevOps practices. My experience includes projects utilizing AWS for data-intensive applications, such as developing a voice-to-text platform and integrating medical imaging data. I excel at collaborating with Product Managers to maintain a clear backlog and fostering a culture of transparency, accountability, and continuous improvement.<br><br>I am confident that my skills in coaching, facilitation, and conflict resolution, combined with my technical background in data environments, will allow me to make a significant contribution to your client's team. I am excited by the opportunity to work on-site in Orlando and help build innovative data assets.<br><br>Thank you for your consideration. I look forward to discussing this opportunity further.<br><br>Sincerely,<br>Sebastian Ochoa Alvarez
+---END_SECTION---
+CV Content
+CAREER_SUMMARY: Certified Scrum Master (A-CSM, SAFe) with 8+ years of experience leading and coaching high-performing teams in data-centric and analytics-driven environments. Expert in facilitating Scrum ceremonies, removing impediments, and fostering a culture of continuous improvement to deliver innovative data assets on cloud platforms like AWS.
+SKILLS_TITLE_1: Agile & Scrum Mastery
+SKILLS_DESC_1: Scrum, Kanban, SAFe; Ceremony Facilitation, Impediment Removal, Backlog Prioritization, Agile Coaching & Mentorship.
+SKILLS_TITLE_2: Data & Analytics Environments
+SKILLS_DESC_2: Data Governance, Data Quality, Data Lifecycle, Data Warehouse & Pipeline Development (AWS, GCP).
+SKILLS_TITLE_3: Tools & Platforms
+SKILLS_DESC_3: Jira, Confluence, Asana, AWS, Snowflake (familiarity), SQL, CI/CD, DevOps Practices.
+SKILLS_TITLE_4: Leadership & Collaboration
+SKILLS_DESC_4: Stakeholder Liaison, Conflict Resolution, Team Self-Organization, Continuous Improvement, Servant Leadership.
+---END_SECTION---
+Work Experience - Globant
+JOB_TITLE_GLOBANT: Scrum Master
+COMPANY_SUMMARY_GLOBANT: A digitally native company focused on reinventing businesses through innovative technology solutions and AI, serving top global brands across various industries.
+COMPANY_BULLET_1_GLOBANT: Led 5 teams as Chief Scrum Master for Banco de Chile, facilitating the development of a data warehouse, data lake, and Power BI solutions.
+COMPANY_BULLET_2_GLOBANT: Coached a 30+ person team for Royal Caribbean using SAFe, improving team velocity and delivering an AI-powered Digital Concierge on time and within budget.
+COMPANY_BULLET_3_GLOBANT: Championed Scrum of Scrums for Dick's Sporting Goods, resolving dependencies and improving e-commerce platform performance by 40% through agile delivery.
+---END_SECTION---
+Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Scrum Master
+COMPANY_SUMMARY_MANGOSOFT: A software development company delivering scalable architecture and custom solutions for clients in media, healthcare, and sports.
+COMPANY_BULLET_1_MANGOSOFT: Facilitated Scrum ceremonies for a team developing data-intensive healthcare apps on AWS, including voice-to-text and medical imaging (DICOM) data integrations.
+COMPANY_BULLET_2_MANGOSOFT: Guided a team in building a media platform for Concacaf using AWS data services (DynamoDB, Athena), increasing fan engagement through new features.
+COMPANY_BULLET_3_MANGOSOFT: Implemented Scrum, coached the team on Agile principles, and improved delivery predictability for multiple data-centric projects, leading to successful, on-time releases.
+---END_SECTION---
+Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: An innovation and technology company developing integrated hardware and software solutions for public safety and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Led development of a law enforcement bodycam system using Kanban, managing the data lifecycle from capture to cloud storage for over 3,000 devices.
+COMPANY_BULLET_2_TIPI: Managed delivery of a hospital asset tracking system using RFID, coordinating hardware and software teams to provide real-time data for improved operations.
+COMPANY_BULLET_3_TIPI: Directed the full SDLC for a SaaS-based patient flow tracking board, integrating with hospital systems to improve communication and reduce wait times.
+---END_SECTION---
+Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A software house that created and scaled a SaaS POS solution for over 1,000 businesses in retail, fitness, and hospitality.
+COMPANY_BULLET_1_ITBIGBOSS: Led the software development life cycle for a SaaS POS platform, managing development and releases that resulted in adoption by over 1,000 businesses.
+COMPANY_BULLET_2_ITBIGBOSS: Coordinated all technical aspects of the product, including integrations with payment processors, hardware devices, and third-party accounting applications.
+COMPANY_BULLET_3_ITBIGBOSS: Directed the operations and support workflow, ensuring high system uptime and customer satisfaction for a large and diverse user base.
+---END_SECTION---
+Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: The leading fitness chain in the Andean region, operating over 140 health clubs that provide holistic fitness, wellness, and medical services.
+COMPANY_BULLET_1_BODYTECH: Directed the technical implementation of Microsoft Dynamics CRM and ERP, overseeing data migration and system integrations for a 270,000+ member database.
+COMPANY_BULLET_2_BODYTECH: Managed the lifecycle for a custom CRM and billing software, which automated processes and increased member retention through improved data management.
+COMPANY_BULLET_3_BODYTECH: Led IT infrastructure and service desk operations for 60+ sites, achieving high system uptime and improving ticket resolution rates through process optimization.
