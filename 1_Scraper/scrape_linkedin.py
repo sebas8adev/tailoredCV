@@ -4,6 +4,8 @@ import os
 import re
 import time
 import datetime
+import webbrowser  # New import to open the browser on click
+from win10toast import ToastNotifier  # New import for the notification
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
@@ -113,7 +115,6 @@ def scrape_linkedin_jobs():
 
 def create_opportunity_folder(job_data):
     """Creates the folder and the detailed jobdescription.txt file with both status fields."""
-    # --- THIS IS THE CORRECTED SECTION ---
     sanitized_company = "".join(c for c in job_data.get('company_name', 'Unknown_Company') if c.isalnum() or c in (' ', '-', '_')).strip().replace(' ', '_')
     sanitized_role = "".join(c for c in job_data.get('role_name', 'Unknown_Role') if c.isalnum() or c in (' ', '-', '_')).strip().replace(' ', '_')
     
@@ -146,20 +147,44 @@ def create_opportunity_folder(job_data):
 def main():
     """Main function to run the scraper and create opportunity folders."""
     print("--- Phase 1: LinkedIn Job Scraper ---")
+    
+    # --- NEW: Initialize the Toast Notifier ---
+    toaster = ToastNotifier()
+
     if not os.path.exists(OPPORTUNITIES_BASE_DIR):
         os.makedirs(OPPORTUNITIES_BASE_DIR)
+        
     scraped_jobs = scrape_linkedin_jobs()
+    
     if not scraped_jobs:
         print("No new jobs were scraped. Exiting.")
         return
+        
     new_opportunities_count = 0
     for job in scraped_jobs:
         folder_path = create_opportunity_folder(job)
         if folder_path:
             print(f"  -> SUCCESS: Created new opportunity folder at: {folder_path}")
             new_opportunities_count += 1
+            
+            # --- NEW: TRIGGER THE NOTIFICATION ---
+            title = f"New Job Found: {job.get('role_name', 'Unknown Role')}"
+            message = f"Company: {job.get('company_name', 'Unknown')}\nClick here to open the job post!"
+            url = job.get('job_post_url', '')
+
+            # The lambda function makes the URL clickable
+            # threaded=True ensures the script doesn't pause waiting for the notification to disappear
+            toaster.show_toast(
+                title,
+                message,
+                duration=15, # Notification stays for 15 seconds
+                threaded=True,
+                callback_on_click=lambda: webbrowser.open(url)
+            )
+            
         else:
             print(f"  -> INFO: Skipping duplicate opportunity for {job.get('role_name', 'Unknown Role')} at {job.get('company_name', 'Unknown Company')}.")
+            
     print(f"\nScraping complete. Found and created {new_opportunities_count} new opportunities.")
 
 if __name__ == '__main__':
