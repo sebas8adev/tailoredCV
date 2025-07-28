@@ -253,37 +253,59 @@ NOTE 1: Every skill should not have more than one line of description.
 NOTE 2: Group the skills in no more than 4 items, with a single description each.
 NOTE 3: Review and adapt it, taking into account these comments: Key skills should be words or very short phrases that reflect hard/technical skills (no soft skills like communication). For example, “Stakeholder Engagement” instead of “Working with stakeholders to…”. Employers are scanning your resume very quickly to identify your key skills, so you want to give them the information they need as directly and concisely as possible. You should definitely have categories if they’re relevant (e.g., “Project Management Methodologies: Scrum, Waterfall,...”), but all of the items listed in those categories should also be words or very short phrases. Include a “Language Skills” line even if it’s just Spanish—especially valuable for U.S. employers seeking multilingual talent.
 NOTE 4: Just include the relevant skills directly related to the Job Description, or, if some of my key skills are not direct on the Job Description, include them if those skills are directly transferible to the role.
-These categories are likely easier to scan and identify your top skills:
+These categories are likely easier to scan and identify your top skills, the following is an example:
 > Project & Program Management: SAFe, Scrum, Kanban, Hybrid, Lean Startup, PI Planning, Roadmap Execution.
 > Cloud & Technical Tools: AWS, Google Cloud Platform, Microsoft Active Directory, Networking, Enterprise Systems.
 > Data & AI Technologies: AI/ML Integrations, Big Data Analytics, DICOM, HL7 V2, Voice-to-Text. 
 > Compliance & Reporting: KPI/OKR Tracking, Governance, Risk Management.
 > Software: Jira, Confluence, Azure DevOps, Trello, MS Project, Git.
 > Language Skills: Spanish (native), [add any others except for English]
+
 > For the Globant work experience:
+> Generate a Job Title choosing one of the following, according to the most direct job title defined in the Job Description. The options are: Senior Project Manager, Project Manager, Senior Scrum Master, Scrum Master, Technical Project Manager, Technical Scrum Master.
+NOTE: If the job description states "Senior Project Manager", please include the "Senior" part. If not, please avoid it.
 > Generate one description of the company under 26 words (check www.globant.com), showing the industry, mission, and scale, in the same words or communication style as the job description. Focus on AI, consulting company, and software development.
 > Generate a bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
 > Generate a second bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
 > Generate a third bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
 NOTE 1: Focus the experience on program and portfolio-based projects, cruise lines, banking, e-commerce, and retail.
+
 - For the Mango-soft work experience:
+> Generate a Job Title choosing one of the following, according to the most direct job title defined in the Job Description. The options are: Senior Project Manager, Project Manager, Senior Scrum Master, Scrum Master, Technical Project Manager, Technical Scrum Master.
+NOTE: If the job description states "Senior Project Manager", please include the "Senior" part. If not, please avoid it.
 > Generate one description of the company under 26 words (check www.mango-soft.com), showing the industry, mission, and scale, in the same words or communication style as the job description
 > Generate a bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
 > Generate a second bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
 > Generate a third bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
 NOTE: Focus the experience on Big Data, cloud services, media, and healthcare.
+
 - For the Tipi work experience:
+> Generate a Job Title choosing one of the following, according to the most direct job title defined in the Job Description. The options are: Senior Project Manager, Project Manager, Senior Scrum Master, Scrum Master, Technical Project Manager, Technical Scrum Master.
+NOTE: If the job description states "Senior Project Manager", please include the "Senior" part. If not, please avoid it.
 > Generate one description of the company under 26 words (check www.mango-soft.com), showing the industry, mission, and scale, in the same words or communication style as the job description.
 > Generate a bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
 > Generate a second bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
 > Generate a third bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
 NOTE: Focus the experience on Hardware+Software solutions, law enforcement, and healthcare.
+
 - For the IT Big Boss Software House work experience:
+> Generate a Job Title choosing one of the following, according to the most direct job title defined in the Job Description. The options are: Senior Project Manager, Project Manager, Senior Scrum Master, Scrum Master, Technical Project Manager, Technical Scrum Master.
+NOTE: If the job description states "Senior Project Manager", please include the "Senior" part. If not, please avoid it.
 > Generate one description of the company under 26 words (check https://www.youtube.com/watch?v=UveLGnjz78E), showing the industry, mission, and scale, in the same words or communication style as the job description.
 > Generate a bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
 > Generate a second bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
 > Generate a third bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
 NOTE: Focus the experience on SaaS, POS, SDLC, fitness centers, retail, and restaurants.
+
+- For the Bodytech work experience:
+> Generate a Job Title choosing one of the following, according to the most direct job title defined in the Job Description. The options are: IT Manager, Technology Manager, Operations Manager, CTO.
+NOTE: If the job description states "Senior Project Manager", please include the "Senior" part. If not, please avoid it.
+> Generate one description of the company under 26 words (check https://bodytech.com.co), showing the industry, mission, and scale, in the same words or communication style as the job description.
+> Generate a bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
+> Generate a second bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
+> Generate a third bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
+NOTE: Focus the experience on Health and Fitness Centers, ERP & CRM implementations, Technology Infrastucture, Operations, Support, Security, Platform.
+
 ADDITIONAL NOTES:
 - Be sure to make it optimal for ATS.
 - Be focused on results, achievements, and improvements. Just like any modern hiring manager would like it.
@@ -342,30 +364,35 @@ SKILLS_TITLE_4: 
 SKILLS_DESC_4: 
 
 # Work Experience - Globant
+JOB_TITLE_GLOBANT:
 COMPANY_SUMMARY_GLOBANT: 
 COMPANY_BULLET_1_GLOBANT: 
 COMPANY_BULLET_2_GLOBANT: 
 COMPANY_BULLET_3_GLOBANT: 
 
 # Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:
 COMPANY_SUMMARY_MANGOSOFT: 
 COMPANY_BULLET_1_MANGOSOFT: 
 COMPANY_BULLET_2_MANGOSOFT: 
 COMPANY_BULLET_3_MANGOSOFT: 
 
 # Work Experience - TIPI
+JOB_TITLE_TIPI:
 COMPANY_SUMMARY_TIPI: 
 COMPANY_BULLET_1_TIPI: 
 COMPANY_BULLET_2_TIPI: 
 COMPANY_BULLET_3_TIPI: 
 
 # Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:
 COMPANY_SUMMARY_ITBIGBOSS: 
 COMPANY_BULLET_1_ITBIGBOSS: 
 COMPANY_BULLET_2_ITBIGBOSS: 
 COMPANY_BULLET_3_ITBIGBOSS: 
 
 # Work Experience - Bodytech
+JOB_TITLE_BODYTECH:
 COMPANY_SUMMARY_BODYTECH: 
 COMPANY_BULLET_1_BODYTECH: 
 COMPANY_BULLET_2_BODYTECH: 

@@ -26,30 +26,35 @@ SKILLS_TITLE_4: Business Acumen & Impact
 SKILLS_DESC_4: Delivers quantifiable results across diverse industries like cruise lines, banking, e-commerce, and healthcare, excelling in communication and stakeholder engagement.
 
 # Work Experience - Globant
+JOB_TITLE_GLOBANT:
 COMPANY_SUMMARY_GLOBANT: Globant is a global software development and consulting company specializing in digital transformation and AI technology solutions.
 COMPANY_BULLET_1_GLOBANT: Orchestrates end-to-end delivery of complex digital products, including AI Chatbots for Royal Caribbean Group, managing global teams (+30 people) to achieve on-time feature execution aligned with strategic backlog prioritization.
 COMPANY_BULLET_2_GLOBANT: Drives program-level performance and cost efficiency across client portfolios, including Dick's Sporting Goods, achieving significant improvements such as a 40% enhancement in digital platform efficiency through adaptive quarterly roadmap execution and PI Planning.
 COMPANY_BULLET_3_GLOBANT: Oversees Scrum of Scrums implementation for large-scale banking products for Banco de Chile, managing over 100 on-site and offshore personnel, staffing 150+ positions, and delivering consistent KPI and OKR reporting.
 
 # Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:
 COMPANY_SUMMARY_MANGOSOFT: Mango-Soft is a strategic technology partner specializing in custom software product development, leveraging Big Data, AI/ML, and Cloud services.
 COMPANY_BULLET_1_MANGOSOFT: Manages full lifecycle development and production support for media and streaming applications for clients like Concacaf and MLS Teams, ensuring product definition through to successful deployment.
 COMPANY_BULLET_2_MANGOSOFT: Directs projects integrating advanced cloud services for healthcare clients, including San Rafael Hospital, Antioquia Clinic, and Las Americas Clinic, enabling imaging, visualization, and voice-to-text assisted procedures, achieving defined KPI and OKR targets.
 COMPANY_BULLET_3_MANGOSOFT: Leads development of a voice-to-text app for healthcare professionals, facilitating secure data transfer (DICOM, HL7 V2) and integration for patient data visualization.
 
 # Work Experience - TIPI
+JOB_TITLE_TIPI:
 COMPANY_SUMMARY_TIPI: TIPI delivers specialized technology solutions, including integrated hardware and software for government and healthcare sectors.
 COMPANY_BULLET_1_TIPI: Manages end-to-end development and deployment of integrated hardware/software bodycam solutions for Colombian Police, overseeing technical teams and operations for 3,000+ devices.
 COMPANY_BULLET_2_TIPI: Directs implementation of patient flow tracking and medical team communication devices for Clinics and Hospitals in Colombia, integrating Bluetooth and RFID technologies across 10+ facilities.
 COMPANY_BULLET_3_TIPI: Leads project constraints based on government contracts, providing hands-on guidance for software development lifecycle, quality, and release management.
 
 # Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:
 COMPANY_SUMMARY_ITBIGBOSS: IT Big Boss Software House provides a SaaS-based business project management software suite for diverse industries.
 COMPANY_BULLET_1_ITBIGBOSS: Oversees the full software development lifecycle for a SaaS-based Point of Sale (POS) system, implementing and adapting it for over 1,000 small businesses across Latin America.
 COMPANY_BULLET_2_ITBIGBOSS: Provides technical leadership and hands-on guidance in coding, quality, and release management for the POS product, ensuring seamless integrations with various devices and external systems.
 COMPANY_BULLET_3_ITBIGBOSS: Leads operations support and workflow for the SaaS platform, ensuring high availability and user satisfaction for more than 1,000 clients.
 
 # Work Experience - Bodytech
+JOB_TITLE_BODYTECH:
 COMPANY_SUMMARY_BODYTECH: Bodytech is a fitness club and gym chain operating in Colombia, Peru, and Chile, focusing on health and well-being through comprehensive fitness services.
 COMPANY_BULLET_1_BODYTECH: Manages the implementation and operations of IT infrastructure, including networking, IP Phoning, and CCTV, across more than 60 sites in Colombia, Peru, and Chile.
 COMPANY_BULLET_2_BODYTECH: Oversees the full software development lifecycle for critical systems such as access control, CRM, and billing software, including technical leadership for Dynamics CRM & ERP implementations.
