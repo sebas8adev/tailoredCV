@@ -1,0 +1,372 @@
+Before starting, if you have any previous interactions related to this same topic, please don't use them just as a reference, this new prompt has been refined and improved to get the most of our team work.
+First, this is my career experience:
+
+1. Studies:
+1.1. Bachelor's degree in Systems Engineering.
+1.2. Graduate Certificate in Technology Management.
+2. Certifications:
+2.1. Certified SAFe 6 Agilist.
+2.2. Advanced Certified ScrumMaster (A-CSM).
+2.3. Certified ScrumMaster (CSM).
+2.4. Certified Scrum Product Owner (CSPO).
+2.5. Management 3.0.
+2.6. Google Project Management Certificate.
+2.7. Career Essentials in Project Management by Microsoft and LinkedIn.
+2.8. Lean Startup.
+2.9. Career Essentials in Generative AI by Microsoft and LinkedIn.
+2.10. Cloud Digital Leader Certification by Google Cloud.
+2.11. AWS Cloud Technical Essentials.
+3. Work Experience:
+3.1. Company: Globant
+3.1.1. Role: Senior Project Manager
+3.1.2. Dates: Aug, 2021 - Jul, 2025.
+3.1.3. Projects:
+3.1.3.1. Client: Royal Caribbean Group.
+- Role: Technical Project Manager & Scrum Master.
+- Products: Guest App, Room Service.
+- Features: Google AI Chatbot, Digital Concierge, Onboard Wifi, Tickets and reservations, Room Service.
+- Teams: +30 people offshore in India, Mexico, Colombia, USA, Argentina, Peru, Ecuador.
+- Type of engagement: Fixed Price.
+- Methodology: SAFe.
+- Tools: Jira, Confluence, MS Teams, Slack.
+- Technologies: Google AI Chat, React, React Native, Android, iOS, Java 11 & Springboot, MySql Server, Kafka, Firebase, SonarQube, github.
+- Achievements: 
+:Features discovery, plan and execution on time and capacity, working along with Product Owners and Technical leaders to groom the Backlog, refine it and prioritize it by PI/quarter and sprint.
+:PI Planning preparation, presentation and execution.
+:Quarterly roadmap execution and adaptability according to the plan, with KPI and OKR.
+:Improvement of the performance and cost of the work done based on the capacity and velocity.
+:Scrum events/ceremonies implementation, coach and facilitation.
+:Plan, execution and control of the project constraints such as people, budget, quality and scope.
+:Implementation of the hyper care and production support for the released products.
+:Release management, defining the scope based on the commited backlog and capacity planned during the release dates.
+3.1.3.2. Client: Dick's Sporting Goods.
+- Role: Technical Project Manager & Scrum Master.
+- Products: Ecommerce, MangifAI (AI for test automation).
+- Features: Page components (Home, Header, Footer), Products List, Product Detail Page, Checkout.
+- Teams: +30 people offshore in India, Mexico, Colombia, USA, Argentina, Peru, Ecuador.
+- Type of engagement: Time & Materials.
+- Methodology: Scrum of Scrums.
+- Tools: Jira, Confluence, MS Teams, Slack.
+- Technologies: AEM, Angular, Java 11 & Springboot, SQL Server, Firebase, SonarQube, github.
+- Achievements: 
+:Ecommerce performance improvement by 40% with the Core Web Vitals. 
+:Scrum events/ceremonies implementation, coach and facilitation.
+:Quarterly roadmap execution and adaptability according to the plan, with KPI and OKR.
+:Improvement of the performance and cost of the work done based on the capacity and velocity.
+:Plan, execution and control of the project constraints such as people, budget, quality and scope.
+:Features discovery, plan and execution on time and capacity, working along with Product Owners and Technical leaders to groom the Backlog, refine it and prioritize it by PI/quarter and sprint.
+:Release management, defining the scope based on the commited backlog and capacity planned during the release dates.
+3.1.3.3. Client: Banco de Chile (From ).
+- Role: Chief Scrum Master & Project Manager.
+- Products: Metaverse, Mi Banco App, Data Ingestion, Datawarehouse, Power BI, Genexus AI (Low code).
+- Features: Metaverse Branch, Customer balance in the app, transactions in the app, datacenter migration from prem to gcp, datawarehouse, datalake, power bi.
+- Teams: +100 peopleon-site and offshore in Chile, Colombia, Argentina, Peru, Ecuador y Uruguay.
+- Type of engagement: Time & Materials.
+- Methodology: Hybrid Scrum and Waterfall.
+- Tools: Jira, Confluence, MS Teams.
+- Technologies: Angular, Android, iOS, Java 11 & Springboot, SQL Server, Oracle, Firebase, Selenium.
+- Achievements: 
+:Worked with the client partner to review the RFP, create the proposals and follow-up.
+:Define and staff (requeriment, filter, selection, interview, fit, enrollment) the teams for more than 150 positions.
+:Implement the Scrum of Scrums methodology leading other 5 scrum masters.
+:Plan, implement and control the methodology implementation.
+:Deliver the KPI and OKR defined on a weekly, bi-weeky, monthly and Quarterly basis. 
+3.1.3.4. Client: Abastible.
+- Role: Scrum Master & Project Manager.
+- Products: Wallet App, Authorized Dealers, Delivery App, Salesforce CRM.
+- Features: Salesforce Sales, Comerce, Marketing, Order, Sale, Geolocation, Delivery routes.
+- Teams: +20 peopleon-site and offshore in Chile, Colombia, Argentina, Peru, Ecuador y Uruguay.
+- Type of engagement: Time & Materials.
+- Methodology: Hybrid Scrum and Waterfall.
+- Tools: Jira, Confluence, MS Teams.
+- Technologies: Salesforce CRM, Apex, Flutter, MySql, PostgreSQL, Firebase.
+- Achievements: 
+:End-to-end implementation for partners distribution, wallet and neighborhood partners apps.
+:Salesforce implementation for Sales, Marketing Clod, Commerce.
+:Worked with the client partner to review the RFP, create the proposals and follow-up.
+:Define and staff (requeriment, filter, selection, interview, fit, enrollment) the teams for more than 20 positions.
+:Implement the Scrum methodology.
+:Scrum events/ceremonies implementation, coach and facilitation.
+:Deliver the KPI and OKR defined on a weekly, bi-weeky, monthly and Quarterly basis. 
+3.1.4. Reason for leaving: I started working in Colombia and now I've moved to the US, but the relocation process and change of payroll has not been approved, so I need to find a job in the US to start having local benefits and create a better future here.
+3.2. Company: Mango-Soft
+3.2.1. Role: Technical Project Manager
+3.2.2. Dates: Jan, 2020 - Jul, 2021
+3.2.3. Projects:
+3.2.3.1. Client: Concacaf and MLS Teams.
+- Role: Scrum Master & Project Manager.
+- Products: Concacaf App, Media Center, News center, Streaming Services.
+- Features: Championships, matches, statistics, media, news, notifications, media management, statistics management, news management, matches streaming.
+- Teams: +10 people on-site and offshore in Colombia.
+- Type of engagement: Fixed Price.
+- Methodology: Hybrid Waterfall & Scrum.
+- Tools: Clickup, Google, Slack.
+- Technologies: AWS (Polly, Livestreaming, DynamoDB, Athena), Neo4j, MySql, Redis
+- Achievements: 
+:Worked with the client partner to review the RFP, create the proposals and follow-up.
+:Define and staff (requeriment, filter, selection, interview, fit, enrollment) the teams for more than 10 positions.
+:Implement the Scrum methodology.
+:Scrum events/ceremonies implementation, coach and facilitation.
+:Deliver the KPI and OKR defined on a weekly, bi-weeky, monthly and Quarterly basis. 
+:Implement the products since its definition until production.
+:Implementation of the hyper care and production support for the released products.
+3.2.3.2. Client: San Rafael Hospital, Antioquia Clinic, Las Americas Clinic.
+- Role: Scrum Master & Project Manager.
+- Products and features: Imaging integration and visualization, surgery event management, voice to text assisted procedures.
+- Teams: +10 people on-site and offshore in Colombia.
+- Type of engagement: Fixed Price.
+- Methodology: Hybrid Waterfall & Scrum.
+- Tools: Clickup, Google, Slack.
+- Technologies: AWS (Polly, Livestreaming, DynamoDB, Athena), Neo4j, MySql, Redis
+- Achievements: 
+:Worked with the client partner to review the RFP, create the proposals and follow-up.
+:Define and staff (requeriment, filter, selection, interview, fit, enrollment) the teams for more than 10 positions.
+:Implement the Scrum methodology.
+:Scrum events/ceremonies implementation, coach and facilitation.
+:Deliver the KPI and OKR defined on a weekly, bi-weeky, monthly and Quarterly basis. 
+:Implementation of the hyper care and production support for the released products.
+3.2.3.3. Others:
+- Voice-to-text app for healthcare professionals.
+- Transfer from medical devices to AWS, using DICOM.
+- Patient portal to visualize those images and their descriptions or the doctor's comments.
+- Integration with a 3d visualizer for the medical images transferred.
+- Integration with health centers to retrieve patients' data using HL7 V2.
+- Tracking board for the surgery procedures to visualize the progress for the defined steps in the surgery process.
+3.2.4. Reason for leaving: People from Globant contacted me via LinkedIn and I received a very attractive offer and the opportunity where I could work in a larger scale clients and products.
+3.3. Company: TIPI
+3.3.1. Role: Technical Project Manager
+3.3.2. Dates: Jan, 2019 - Dec, 2019
+3.3.3. Projects:
+3.3.3.1. Client: Colombian Police.
+- Role: Technical Project Manager.
+- Products and features: Bodycam mobile device with photo and video recording, geolocalization, S.O.S, docking station to charge the bodycams, download the data and update the firmware, bodycam firmware in Android, bodycam management software composed of: Web application for management, geolocalization, real-time video streaming, video and photos reproduction, face-recognition and alerts.
+- Teams: +10 people on-site.
+- Type of engagement: Fixed Price.
+- Methodology: Hybrid Waterfall and Kanban.
+- Tools: Asana, bitbucket.
+- Technologies: Angular, Java 8 & Springboot, Python, Android, MySql, MongoDb.
+- Achievements: 
+:Define and staff (requeriment, filter, selection, interview, fit, enrollment) the teams for more than 10 positions.
+:Define and lead the project constraints based on goverment contracts starting on planning, implementing, quality, implementation and support.
+:Lead the team technically and work along with them hands-on with coding, code-review, quality, release.
+:Lead the operations team in customer support, deployment and releases for more than 3.000 bodycams in different cities.
+:Lead the software development life cycle for the devices and software.
+:Lead for the Operations support and workflow. 
+3.3.3.2. Client: Clinics and Hospitals in Colombia.
+- Role: Technical Project Manager.
+- Products and features: Bluetooth device for calling the nurses and doctors, RFID devices to identify the assets location, turn management for hospitals and clinics.
+- Teams: +10 people on-site.
+- Type of engagement: Software as a Service.
+- Methodology: Hybrid Waterfall and Kanban.
+- Tools: Asana, bitbucket.
+- Technologies: Angular, Java 8 & Springboot, Python, Android, MySql, MongoDb.
+- Achievements: 
+:Implementation of the products for more than 10 clinics and hospitals in Colombia.
+:Lead for the Operations support and workflow. 
+3.3.3.3. Others:
+- Tracking board for the patient flow, integrated into their systems.
+- A device to call the medical team from the room and a visualization on the TVs.
+3.3.4. Reason for leaving: The people from Mango-soft contacted me via LinkedIn and I wanted to have an international opportunity to work in the US market.
+3.4. Company: IT Big Boss Software House
+3.4.1. Role: Technical Project Manager
+3.4.2. Dates: Aug, 2012 - Dec, 2019
+3.4.3. Projects:
+3.4.3.1. POS for restaurants, fitness, beauty and health centers.
+- Features: Payment Processing, Sales Transactions, Receipt Generation, Inventory Management, Customer Relationship Management, Reporting and Analytics, Employee Management, Order Management, Invoicing.
+- Integrations: Biometrics, Touch screens, Android devices, barcodes, printers, cash devices, order apps, accounting apps, taxes goverment, turnstiles, access control, electronic signature and documents.
+- Teams: +30 people on-site.
+- Type of engagement: Software as a Service.
+- Methodology: Hybrid Waterfall and Kanban.
+- Tools: Azure.
+- Technologies: .Net (vb, asp, c#), MS Sql Server, MySql, Android.
+- Achievements: 
+:Software development life cycle for the product.
+:Implementation and adaptation for more than 1.000 small business in Latam.
+:Lead the team technically and work along with them hands-on with coding, code-review, quality, release.
+:Lead for the Operations support and workflow. 
+3.4.4. Reason for leaving: When the pandemic was showing that the restaurants and fitness, beauty and health centers would be affected, I decided to sell the company to my partner and find a new opportunity working for a company as employee.
+3.5. Company: Bodytech
+3.5.1. Role: IT Manager
+3.5.2. Dates: Jul, 2005 - Jul, 2012
+3.5.3. Projects and Achievements:
+ :Life cycle for the Access control with software, turnstiles and biometrics.
+ :Software Development Life Cycle for the CRM and billing software.
+ :Implementation and operations leader for the IT Service Desk.
+ :Technical leader for the Dynamics CRM & ERP implementation.
+ :Infrastructure manager for Networking, IP Phoning, Printing services and CCTV, implementing more than 60 sites in Colombia, Peru and Chile.
+3.5.4. Reason for leaving: I found the opportunity of creating my own business focused on sofwtare for small fitness centers.
+3.6. Company: Intersoft
+3.6.1. Role: Software Developer
+3.6.2. Dates: Apr, 2004 - Jun, 2005
+3.6.3. Projects and Achievements:
+:Software Development Life Cycle for the Local taxes implementation, encripted pdf with account summary at Citibank Colombia.
+:Software Development Life Cycle for the Clinic History with detailed implementations for different medical specialties at Compensar Colombia.
+3.6.4. Reason for leaving: While I was training at the Bodytech Gym I met the founder and he explained to  his IT vision for the company and proposed me to be part of it.
+
+Second, review the following LinkedIn message:
+Project Manager Opportunity- Universal Studios Orlando- Hybrid
+Good afternoon! 
+My name is Garrett with ektello and I just came across your profile within my Project Manager search. I wanted to reach out and see if you have any interest in the job description that I have attached for you. If so, please answer the following so that I can assist as best as possible. Please attach a current version of your resume here as well. 
+1. How soon can you start a new position? 
+2. Pay expectations?
+3. Are you legally able to work in the US? 
+4. What is your current work authorization status i.e H1b, H4, Greencard,?
+5. Will you now or in the future need sponsorship?
+6. Are you able to work on W2?
+7. Are you willing to work either contract or contract to direct work?
+Thank you and I look forward to your response! :)
+Garrett DeLanoy
+Senior IT Recruiter 
+Project Manager- 21170.docx
+SEBASTIAN OCHOA ALVAREZ sent the following message at 5:13 PM
+View SEBASTIAN’s profileSEBASTIAN OCHOA ALVAREZ
+SEBASTIAN OCHOA ALVAREZ   5:13 PM
+Hey Garrett,
+Thanks so much for reaching out about this Project Manager opportunity at Universal Studios Orlando! I'm definitely interested.
+I'll get those questions answered for you and attach my updated CV soon. I just need a little time to work on it.
+Thanks again!
+Best,
+Sebastian Ochoa
+Garrett DeLanoy sent the following messages at 7:22 PM
+View Garrett’s profileGarrett DeLanoy
+Garrett DeLanoy   7:22 PM
+Hi Sebastian! 
+Sounds good. I look forward to your reply!
+third, review the attached Job Description.
+
+Finally, help me with:
+1. Help me tailor my CV to that Job Description:
+- Generate a new Career Summary, taking into account the job description, recruiter message, and my experience with the valuable transferible experience.
+NOTE 1: The structure should be something like, no more than 3 lines: [General Role] professional with [number] years of experience in [areas or activities of specialization or industry]. (Passionate about [mission]) OR (Key quantifiable metric to give a sense of scale of past responsibility). 
+NOTE 2: check the one that I have on LinkedIn:
+"Dynamic and results-oriented Senior Technical Project Manager with a robust track record leading complex, end-to-end projects across diverse business markets including Finance, Healthcare, Retail, Travel/Hospitality, Media, and Public Safety. My expertise in project management approaches encompasses Agile methodologies (SAFe, Scrum, Kanban) and a deep understanding of formal PMP/PMI project management practices, enabling me to effectively steer globally distributed, cross-functional teams (+30-100 engineers) towards exceeding project goals.
+I am proficient in managing various types of projects, including cloud infrastructure initiatives (AWS, GCP, Azure), multifaceted system integrations, full SDLC software development, and delivering AI-driven solutions such as chatbots and Generative AI applications. My experience covers the full project lifecycle, from strategic planning, RFP response, and meticulous execution to risk management, budget oversight, and seamless release management.
+With a strong technical foundation that includes technologies such as cloud platforms, API development/utilization, data migration, and AI integration, I excel at translating complex requirements into actionable plans and fostering clear stakeholder communication.
+Certified in SAFe (SAFe 6 Agilist), Scrum (A-CSM, CSM, CSPO), Google Cloud (Digital Leader), AWS (Cloud Technical Essentials), and Generative AI (Microsoft and LinkedIn), I am passionate about driving innovation and operational efficiency. My focus is on leveraging my extensive experience to contribute to impactful projects and foster organizational success.
+I welcome connections with industry professionals to discuss advancements and potential collaborations."
+Try to have a more robust career summary, according to the instructions, the job description, and my current LinkedIn summary.
+NOTE 3: Review and adapt it, taking into account this comment: Make sure you add years of experience. It should be more concise, though, to quickly show what kind of professional you are to recruiters 
+scanning your resume. Something similar to: Versatile Project Manager with # years of experience leading global teams and delivering complex digital transformations across industries. Skilled in AI-driven, cloud-based, and system integration solutions, with a track record of improving performance and managing large-scale staffing. Expert in Agile (SAFe, Scrum, Kanban) and traditional methodologies, with strengths in end-to-end project delivery, executive reporting, and financial oversight.
+NOTE 4: Review and adapt it, taking into account this comment: I suggest using a stronger word than "proficient" since you're trying to convince employers and recruiters you're a strong candidate. Maybe "Expert in"? Additionally, don't include any full sentences. Phrases only.
+- Generate a summary of qualifications/ skills aligned with the job description and valuable transferable skills.
+NOTE 1: Every skill should not have more than one line of description.
+NOTE 2: Group the skills in no more than 4 items, with a single description each.
+NOTE 3: Review and adapt it, taking into account these comments: Key skills should be words or very short phrases that reflect hard/technical skills (no soft skills like communication). For example, “Stakeholder Engagement” instead of “Working with stakeholders to…”. Employers are scanning your resume very quickly to identify your key skills, so you want to give them the information they need as directly and concisely as possible. You should definitely have categories if they’re relevant (e.g., “Project Management Methodologies: Scrum, Waterfall,...”), but all of the items listed in those categories should also be words or very short phrases. Include a “Language Skills” line even if it’s just Spanish—especially valuable for U.S. employers seeking multilingual talent.
+NOTE 4: Just include the relevant skills directly related to the Job Description, or, if some of my key skills are not direct on the Job Description, include them if those skills are directly transferible to the role.
+These categories are likely easier to scan and identify your top skills:
+> Project & Program Management: SAFe, Scrum, Kanban, Hybrid, Lean Startup, PI Planning, Roadmap Execution.
+> Cloud & Technical Tools: AWS, Google Cloud Platform, Microsoft Active Directory, Networking, Enterprise Systems.
+> Data & AI Technologies: AI/ML Integrations, Big Data Analytics, DICOM, HL7 V2, Voice-to-Text. 
+> Compliance & Reporting: KPI/OKR Tracking, Governance, Risk Management.
+> Software: Jira, Confluence, Azure DevOps, Trello, MS Project, Git.
+> Language Skills: Spanish (native), [add any others except for English]
+> For the Globant work experience:
+> Generate one description of the company under 26 words (check www.globant.com), showing the industry, mission, and scale, in the same words or communication style as the job description. Focus on AI, consulting company, and software development.
+> Generate a bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
+> Generate a second bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
+> Generate a third bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
+NOTE 1: Focus the experience on program and portfolio-based projects, cruise lines, banking, e-commerce, and retail.
+- For the Mango-soft work experience:
+> Generate one description of the company under 26 words (check www.mango-soft.com), showing the industry, mission, and scale, in the same words or communication style as the job description
+> Generate a bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
+> Generate a second bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
+> Generate a third bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
+NOTE: Focus the experience on Big Data, cloud services, media, and healthcare.
+- For the Tipi work experience:
+> Generate one description of the company under 26 words (check www.mango-soft.com), showing the industry, mission, and scale, in the same words or communication style as the job description.
+> Generate a bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
+> Generate a second bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
+> Generate a third bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
+NOTE: Focus the experience on Hardware+Software solutions, law enforcement, and healthcare.
+- For the IT Big Boss Software House work experience:
+> Generate one description of the company under 26 words (check https://www.youtube.com/watch?v=UveLGnjz78E), showing the industry, mission, and scale, in the same words or communication style as the job description.
+> Generate a bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
+> Generate a second bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
+> Generate a third bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
+NOTE: Focus the experience on SaaS, POS, SDLC, fitness centers, retail, and restaurants.
+ADDITIONAL NOTES:
+- Be sure to make it optimal for ATS.
+- Be focused on results, achievements, and improvements. Just like any modern hiring manager would like it.
+- Include AI in everything that can make sense.
+- Keep it short and sweet.
+- Try to focus first on the skills needed for the job description and then include the transferable skills from my previous experience.
+- Include the markets where I have business acumen.
+- Include the known platforms and technologies where I have business acumen.
+- Please, when referring to the "years of experience" part, make sure of: Make it 10+ years of experience, or the required number for the job description if it's higher. Make sure to try to avoid age bias.
+- Please keep the work history within 3 bullet points per experience.
+- Analyze the type of language that the Hiring Manager is using, and the company, and tailor the messages and my CV on the same type of communication.
+- Use "adaptive" in my type of approach.
+- Avoid complicated words.
+- Don't use: proven.
+- Avoid mentioning "big clients" or "big projects" to give room to small companies and startups as well as big companies, but more specific to the job description and type of client, and you can use the client name, to give context, such as "Dick's Sporting Goods", "Royal Caribbean", etc.
+- Make the work experiences concise for easier scanning. For example, Drove program performance and cost efficiency across client portfolios, including Dick's Sporting Goods, achieving a 40% boost in digital platform efficiency via adaptive quarterly roadmaps and PI Planning.
+- Quantify: something like adoption results, e.g., number of users, time to launch, reduction in support issues.
+- To make it more concise, remove the examples; they aren't that important for showing your skills.
+- Make sure of the Quantify impact—how many users? Did it reduce time spent on documentation?.
+- Suggestion to strengthen result: Add benefit—did it reduce patient wait times, improve communication speed?.
+- Result is missing. Suggestion: Include outcome—on-time delivery under regulation? Cost savings? Improved compliance?.
+- Result missing: automated billing, increased member retention, reduced data entry time?.
+- Quantify if possible: ticket resolution rate, satisfaction score, or system uptime?.
+- Please double-check the generated text, to be sure of: It's according to the Job Description, Role, Responsibilities, Company, and the specific application. It's according to my specific profile, experience, and skills. The examples, comments, and notes provided are just references; make sure to avoid referenced text or words that don't apply to the company, job description, role, or my experience.
+- Don't bias the generated text to specific tasks or responsibilities, such as staffing. Even though it's a big part of the job, it's part of something bigger, like "leadership for high-performance teams", or "team allocation".
+- For the cover letter content "CONTENT", include the HTML tags for the new line, and break like, so the final HTML output can show a line between every section.
+- The cover letter content "CONTENT" should be more similar to the CV than an actual answer to their specific direct message questions. So, be sure to include the relevant information about my profile, skills, and experience related to the job description, company, and role.
+- For the cover letter greetings, such as "Dear Garry", be sure to include the full name: Dear Garry Lastname.
+- The "APPLICATION_DATE" should be a grammatically written date in the US, using, for instance, July 2nd, 2025, or so.
+- If you identify that the contact is not direct for the job opportunity company, I.E., there is a freelancer recruiter finding candidates for a Universal Studios job position, make sure that the letter is well directed.
+- be sure to have a final text clean, avoid [cite_start], [cite: 6, 7], [cite: 9], [cite: 10]
+
+EXPECTED OUTPUT:
+I have a formatted text file, with some specific fields by line as follows. Please identify every subtitle, generate the content next to it, and return to me the same specific format with the content updated.
+
+# Global Information
+HIRING_MANAGER: 
+COMPANY_NAME: 
+JOB_ROLE: 
+COMPANY_NAME: 
+APPLICATION_DATE: 
+
+# Cover Letter Content
+SUBJECT: Application for {{JOB_ROLE}} at {{COMPANY_NAME}}
+CONTENT: 
+
+# CV Content
+CAREER_SUMMARY: 
+SKILLS_TITLE_1: 
+SKILLS_DESC_1: 
+SKILLS_TITLE_2: 
+SKILLS_DESC_2: 
+SKILLS_TITLE_3: 
+SKILLS_DESC_3: 
+SKILLS_TITLE_4: 
+SKILLS_DESC_4: 
+
+# Work Experience - Globant
+COMPANY_SUMMARY_GLOBANT: 
+COMPANY_BULLET_1_GLOBANT: 
+COMPANY_BULLET_2_GLOBANT: 
+COMPANY_BULLET_3_GLOBANT: 
+
+# Work Experience - Mango-soft
+COMPANY_SUMMARY_MANGOSOFT: 
+COMPANY_BULLET_1_MANGOSOFT: 
+COMPANY_BULLET_2_MANGOSOFT: 
+COMPANY_BULLET_3_MANGOSOFT: 
+
+# Work Experience - TIPI
+COMPANY_SUMMARY_TIPI: 
+COMPANY_BULLET_1_TIPI: 
+COMPANY_BULLET_2_TIPI: 
+COMPANY_BULLET_3_TIPI: 
+
+# Work Experience - itBigBoss
+COMPANY_SUMMARY_ITBIGBOSS: 
+COMPANY_BULLET_1_ITBIGBOSS: 
+COMPANY_BULLET_2_ITBIGBOSS: 
+COMPANY_BULLET_3_ITBIGBOSS: 
+
+# Work Experience - Bodytech
+COMPANY_SUMMARY_BODYTECH: 
+COMPANY_BULLET_1_BODYTECH: 
+COMPANY_BULLET_2_BODYTECH: 
+COMPANY_BULLET_3_BODYTECH:
