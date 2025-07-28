@@ -203,37 +203,7 @@ First, this is my career experience:
 :Software Development Life Cycle for the Clinic History with detailed implementations for different medical specialties at Compensar Colombia.
 3.6.4. Reason for leaving: While I was training at the Bodytech Gym I met the founder and he explained to  his IT vision for the company and proposed me to be part of it.
 
-Second, review the following LinkedIn message:
-Project Manager Opportunity- Universal Studios Orlando- Hybrid
-Good afternoon! 
-My name is Garrett with ektello and I just came across your profile within my Project Manager search. I wanted to reach out and see if you have any interest in the job description that I have attached for you. If so, please answer the following so that I can assist as best as possible. Please attach a current version of your resume here as well. 
-1. How soon can you start a new position? 
-2. Pay expectations?
-3. Are you legally able to work in the US? 
-4. What is your current work authorization status i.e H1b, H4, Greencard,?
-5. Will you now or in the future need sponsorship?
-6. Are you able to work on W2?
-7. Are you willing to work either contract or contract to direct work?
-Thank you and I look forward to your response! :)
-Garrett DeLanoy
-Senior IT Recruiter 
-Project Manager- 21170.docx
-SEBASTIAN OCHOA ALVAREZ sent the following message at 5:13 PM
-View SEBASTIAN’s profileSEBASTIAN OCHOA ALVAREZ
-SEBASTIAN OCHOA ALVAREZ   5:13 PM
-Hey Garrett,
-Thanks so much for reaching out about this Project Manager opportunity at Universal Studios Orlando! I'm definitely interested.
-I'll get those questions answered for you and attach my updated CV soon. I just need a little time to work on it.
-Thanks again!
-Best,
-Sebastian Ochoa
-Garrett DeLanoy sent the following messages at 7:22 PM
-View Garrett’s profileGarrett DeLanoy
-Garrett DeLanoy   7:22 PM
-Hi Sebastian! 
-Sounds good. I look forward to your reply!
-third, review the attached Job Description.
-
+Second, review the attached jobdescription.txt file.
 Finally, help me with:
 1. Help me tailor my CV to that Job Description:
 - Generate a new Career Summary, taking into account the job description, recruiter message, and my experience with the valuable transferible experience.
@@ -251,15 +221,9 @@ NOTE 4: Review and adapt it, taking into account this comment: I suggest using a
 - Generate a summary of qualifications/ skills aligned with the job description and valuable transferable skills.
 NOTE 1: Every skill should not have more than one line of description.
 NOTE 2: Group the skills in no more than 4 items, with a single description each.
-NOTE 3: Review and adapt it, taking into account these comments: Key skills should be words or very short phrases that reflect hard/technical skills (no soft skills like communication). For example, “Stakeholder Engagement” instead of “Working with stakeholders to…”. Employers are scanning your resume very quickly to identify your key skills, so you want to give them the information they need as directly and concisely as possible. You should definitely have categories if they’re relevant (e.g., “Project Management Methodologies: Scrum, Waterfall,...”), but all of the items listed in those categories should also be words or very short phrases. Include a “Language Skills” line even if it’s just Spanish—especially valuable for U.S. employers seeking multilingual talent.
+NOTE 3: Review and adapt it, taking into account these comments: Key skills should be words or very short phrases that reflect hard/technical skills (no soft skills like communication). For example, “Stakeholder Engagement” instead of “Working with stakeholders to…”. Employers are scanning your resume very quickly to identify your key skills, so you want to give them the information they need as directly and concisely as possible. You should definitely have categories if they’re relevant (e.g., “Project Management Methodologies: Scrum, Waterfall,...”), but all of the items listed in those categories should also be words or very short phrases. 
 NOTE 4: Just include the relevant skills directly related to the Job Description, or, if some of my key skills are not direct on the Job Description, include them if those skills are directly transferible to the role.
-These categories are likely easier to scan and identify your top skills, the following is an example:
-> Project & Program Management: SAFe, Scrum, Kanban, Hybrid, Lean Startup, PI Planning, Roadmap Execution.
-> Cloud & Technical Tools: AWS, Google Cloud Platform, Microsoft Active Directory, Networking, Enterprise Systems.
-> Data & AI Technologies: AI/ML Integrations, Big Data Analytics, DICOM, HL7 V2, Voice-to-Text. 
-> Compliance & Reporting: KPI/OKR Tracking, Governance, Risk Management.
-> Software: Jira, Confluence, Azure DevOps, Trello, MS Project, Git.
-> Language Skills: Spanish (native), [add any others except for English]
+These categories are likely easier to scan and identify your top skills, the following is just an example, don't do it exactly, generate them according to the job description and my job experience:
 
 > For the Globant work experience:
 > Generate a Job Title choosing one of the following, according to the most direct job title defined in the Job Description. The options are: Senior Project Manager, Project Manager, Senior Scrum Master, Scrum Master, Technical Project Manager, Technical Scrum Master.

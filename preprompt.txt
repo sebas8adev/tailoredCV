@@ -1,0 +1,9 @@
+Please review the attached files:
+
+- prompt.txt: Contains the prompt for this petition.
+- jobdescription.txt: Contains the Job Description mentioned in the promp.txt file
+
+NOTE 1: Please read the whole prompt, and review every detail, don't keep up your memory,
+NOTE 2: The output has a lot of the "[cite:...", remove them. all of them.
+NOTE 3: The skills section should be created according to the job description and my experience. You continue putting the items that were in the previous prompts.
+NOTE 4: Be sure of reading the attached prompt, not your memory, and for example, adapt the skills section according to the job description.

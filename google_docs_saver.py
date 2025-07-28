@@ -8,6 +8,9 @@ from weasyprint import HTML # Import WeasyPrint
 # Paths to your HTML template files
 CV_TEMPLATE_HTML_PATH = 'cv_template.html'
 CL_TEMPLATE_HTML_PATH = 'cl_template.html'
+# Paths to source data files to be copied
+DATA_FILE_PATH = 'data.txt'
+JOB_DESCRIPTION_FILE_PATH = 'jobdescription.txt' # Assuming this file exists in the same directory
 
 # --- Data Reading Function (Same as before) ---
 def read_data_from_file(file_path):
@@ -120,30 +123,16 @@ def generate_html_content(template_html_path, data, doc_type):
                 replacements[f"{{{{SKILLS_DESC_{i}}}}}"] = data.get(f"SKILLS_DESC_{i}", "")
 
             # Company Summaries and Bullet Points
-            companies = ["GLOBANT", "MANGOSOFT", "TIPI", "ITBIGBOSS", "BODYTECH"]
+            companies = ["GLOBANT", "MANGOSOFT", "TIPI", "ITBIGBOSS", "BODYTECH", "INTERSOFT"] # Added INTERSOFT
             for company in companies:
+                # Add JOB_TITLE for each company
+                replacements[f"{{{{JOB_TITLE_{company}}}}}"] = data.get(f"JOB_TITLE_{company}", "")
+                
                 replacements[f"{{{{COMPANY_SUMMARY_{company}}}}}"] = data.get(f"COMPANY_SUMMARY_{company}", "")
                 
                 # For company bullet points, we need to format them as HTML <li> items
-                bullet_points_key = f"COMPANY_BULLET_1_{company}" # Assuming _1, _2, _3
-                
-                # Collect all bullet points for the company
-                company_bullets_html = ""
-                for i in range(1, 4): # Assuming 3 bullet points per company
-                    bullet_key = f"COMPANY_BULLET_{i}_{company}"
-                    bullet_text = data.get(bullet_key, "").strip()
-                    if bullet_text:
-                        # Remove leading '-' or '•' if present from data.txt, as HTML <li> will add its own bullet
-                        if bullet_text.startswith('- '):
-                            bullet_text = bullet_text[2:]
-                        elif bullet_text.startswith('• '):
-                            bullet_text = bullet_text[2:]
-                        company_bullets_html += f"<li>{bullet_text}</li>\n"
-                
-                # Replace the placeholder for the entire bullet list
                 # Note: The HTML template uses {{COMPANY_BULLET_1_GLOBANT}} directly inside <li> tags.
                 # We will replace these individually in a loop below.
-                # For now, ensure the individual bullet placeholders are handled.
                 # If the template uses a single {{BULLET_POINTS_COMPANY}} placeholder, then the above logic would be used.
                 # Given the template, we'll process each bullet point placeholder individually.
                 replacements[f"{{{{COMPANY_BULLET_1_{company}}}}}"] = data.get(f"COMPANY_BULLET_1_{company}", "").strip().lstrip('- •').strip()
@@ -155,18 +144,6 @@ def generate_html_content(template_html_path, data, doc_type):
             # so we don't need to replace them from data.txt unless they were placeholders.
             # Based on the provided HTML template, they are static.
             # If they were placeholders like {{CERTIFICATIONS_LIST}}, we'd process them here.
-            # For now, let's assume the HTML template handles them directly.
-            
-            # Re-process SKILLS_LIST and CERTIFICATIONS_LIST from data.txt for dynamic content
-            # The HTML template has these hardcoded, so we need to make sure our data.txt provides the content
-            # and we insert it into the correct HTML structure.
-            # Given the HTML template structure:
-            # <ul class="skills-list">
-            #    <li><strong>{{SKILLS_TITLE_1}}</strong>: {{SKILLS_DESC_1}}</li>
-            # </ul>
-            # The data.txt has SKILLS_TITLE_1 and SKILLS_DESC_1. This is already handled above.
-            # The same applies to CERTIFICATIONS_LIST. The HTML template has static text for these.
-            # If the user wants to dynamically populate these from data.txt, the template needs placeholders.
             # For now, I will assume the provided HTML template is the source of truth for structure,
             # and only replace the placeholders that exist in it.
 
@@ -205,11 +182,19 @@ def main():
     print("This script will generate tailored HTML documents and convert them to PDF.")
 
     # 1. Read data from data.txt
-    data_file_path = 'data.txt'
-    document_data = read_data_from_file(data_file_path)
+    document_data = read_data_from_file(DATA_FILE_PATH)
     if not document_data:
         print("Failed to load data from data.txt. Exiting.")
         return
+
+    # --- DEBUGGING STEP: Print the loaded data ---
+    print("\n--- Contents of document_data after reading data.txt ---")
+    for key, value in document_data.items():
+        if "JOB_TITLE_" in key or "COMPANY_SUMMARY_" in key or "COMPANY_BULLET_" in key:
+            print(f"{key}: {value}")
+    print("-----------------------------------------------------")
+    # --- END DEBUGGING STEP ---
+
 
     # Extract company name and job role from data.txt
     company_name_from_file = document_data.get("COMPANY_NAME", "Unknown Company")
@@ -264,8 +249,30 @@ def main():
 
         convert_html_to_pdf(cl_html_content, output_cl_pdf_path)
 
+    # 5. Copy source files to the output folder
+    print(f"\n--- Copying source files to output folder ---")
+    # Copy data.txt
+    try:
+        shutil.copy2(DATA_FILE_PATH, save_folder_path)
+        print(f"  Copied {DATA_FILE_PATH} to {save_folder_path}")
+    except FileNotFoundError:
+        print(f"  Warning: {DATA_FILE_PATH} not found. Skipping copy.")
+    except Exception as e:
+        print(f"  Error copying {DATA_FILE_PATH}: {e}")
+
+    # Copy jobdescription.txt
+    try:
+        shutil.copy2(JOB_DESCRIPTION_FILE_PATH, save_folder_path)
+        print(f"  Copied {JOB_DESCRIPTION_FILE_PATH} to {save_folder_path}")
+    except FileNotFoundError:
+        print(f"  Warning: {JOB_DESCRIPTION_FILE_PATH} not found. Skipping copy.")
+    except Exception as e:
+        print(f"  Error copying {JOB_DESCRIPTION_FILE_PATH}: {e}")
+
     print("\nPhase 2 (HTML & PDF) completed!")
     print(f"Tailored .html and .pdf documents are generated in: {save_folder_path}")
+    print(f"Source files copied to: {save_folder_path}")
 
 if __name__ == '__main__':
     main()
+
