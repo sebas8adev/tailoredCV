@@ -1,0 +1,1 @@
+$env:GOOGLE_API_KEY="AIzaSyCaGau571XfHLr2zKAikljH-LGRj1PRx5o"

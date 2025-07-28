@@ -1,5 +1,5 @@
 Job board: LinkedIn Jobs.
-Company: Optomi.
+Company Name: Optomi.
 Role Name: Scrum Master. 
 Location: Orlando, FL.
 Type: On-site.
