@@ -1,0 +1,63 @@
+Global Information
+
+HIRING_MANAGER: Insight Global Hiring Team
+COMPANY_NAME: Insight Global
+JOB_ROLE: Project Manager
+APPLICATION_DATE: July 28, 2025
+
+Cover Letter Content
+
+SUBJECT: Application for Project Manager at Insight Global
+CONTENT: Dear Insight Global Hiring Team,<br><br>I am writing to express my keen interest in the remote Project Manager position for your Higher Education client, which I found advertised on LinkedIn. With over 10 years of experience managing complex system migrations, SaaS implementations, and integrations, my background is an excellent match for the requirements of this 12-month contract.<br><br>My career has been centered on leading projects that involve significant coordination between internal teams, third-party vendors, and stakeholders—core responsibilities of this role. I have extensive experience managing customizations, reporting, and complex integrations, treating each as a focused initiative to ensure successful outcomes. My background includes facilitating UAT, coordinating technical specifications, and managing contract and budget awareness for large-scale deployments.<br><br>While my direct experience is not in EdTech, I have a substantial record of successfully leading large system implementations, such as company-wide ERP/CRM migrations, which are functionally equivalent to the Ellucian Colleague to SaaS migration you are undertaking. Furthermore, my technical skills include hands-on experience with .Net/C# and various SQL databases, including PostgreSQL, aligning with the nice-to-have qualifications.<br><br>I am a results-oriented project manager who excels at ensuring clear communication and smooth task flow in complex technical environments. I am confident I have the transferable skills and project management expertise to successfully drive your client's SaaS migration. I am based in the US and available to work in either EST or CST.<br><br>Thank you for your time and consideration. I look forward to discussing how I can contribute to your client's success.<br><br>Sincerely,<br>Sebastian Ochoa Alvarez
+
+CV Content
+
+CAREER_SUMMARY: Project Manager with 10+ years of experience leading complex system migrations and digital transformations. Skilled in managing SaaS implementations, coordinating integrations between vendors and stakeholders, and overseeing the full project lifecycle from planning to deployment.
+SKILLS_TITLE_1: Project & Migration Management
+SKILLS_DESC_1: SaaS Migration, System Integration, Vendor & Stakeholder Communication, UAT Facilitation, Budget & Contract Awareness.
+SKILLS_TITLE_2: Technical & Platform Acumen
+SKILLS_DESC_2: .Net/C#, SQL (PostgreSQL, MS SQL), ERP/CRM Implementation, Cloud Platforms (AWS, GCP), API Integration.
+SKILLS_TITLE_3: Project Management Methodologies
+SKILLS_DESC_3: Agile (Scrum, SAFe), Waterfall, Hybrid Models; Full SDLC management from planning to deployment.
+SKILLS_TITLE_4: Tools & Software
+SKILLS_DESC_4: Jira, Confluence, Asana, MS Teams, Azure DevOps.
+
+Work Experience - Globant
+
+JOB_TITLE_GLOBANT: Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company focused on reinventing businesses through innovative technology solutions and AI, serving top global brands across various industries.
+COMPANY_BULLET_1_GLOBANT: Spearheaded a large-scale data center migration to GCP for a major financial client, coordinating multiple teams and ensuring data integrity and system continuity.
+COMPANY_BULLET_2_GLOBANT: Managed end-to-end integration of an AI Chatbot and digital guest services, coordinating technical leads, third-party vendors, and product owners to enhance customer experience.
+COMPANY_BULLET_3_GLOBANT: Facilitated quarterly roadmaps for teams over 30+, managing dependencies, and executing UAT sessions for timely and high-quality software releases.
+
+Work Experience - Mango-soft
+
+JOB_TITLE_MANGOSOFT: Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development company delivering scalable architecture and custom solutions for clients in media, healthcare, and sports.
+COMPANY_BULLET_1_MANGOSOFT: Led development of a healthcare voice-to-text app, managing the project from definition to production, reducing clinical documentation time through AWS integration.
+COMPANY_BULLET_2_MANGOSOFT: Coordinated the integration of medical imaging data (DICOM) to AWS for multiple clinics, enhancing data access and visualization for patient and provider portals.
+COMPANY_BULLET_3_MANGOSOFT: Managed the full project lifecycle for a media streaming platform for Concacaf, liaising with the client to define scope and ensure on-time delivery.
+
+Work Experience - TIPI
+
+JOB_TITLE_TIPI: Project Manager
+COMPANY_SUMMARY_TIPI: An innovation and technology company developing integrated hardware and software solutions for public safety and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Directed the full SDLC for a law enforcement bodycam system, overseeing firmware, software, and deployment for over 3,000 devices, ensuring governmental compliance.
+COMPANY_BULLET_2_TIPI: Led a project to implement RFID and Bluetooth-based tracking systems in 10+ hospitals, integrating with existing infrastructure to improve patient workflow efficiency.
+COMPANY_BULLET_3_TIPI: Managed project constraints based on government contracts, ensuring on-time delivery and quality while leading both development and operations teams.
+
+Work Experience - itBigBoss
+
+JOB_TITLE_ITBIGBOSS: Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A software house that developed and scaled a SaaS POS solution using .Net technologies for over 1,000 businesses in retail and hospitality.
+COMPANY_BULLET_1_ITBIGBOSS: Led the development of a SaaS POS system built on .Net (C#) and MS SQL Server, scaling the product to over 1,000 businesses.
+COMPANY_BULLET_2_ITBIGBOSS: Managed the full SDLC, including feature integrations with third-party hardware, payment processors, and accounting applications, enhancing product value.
+COMPANY_BULLET_3_ITBIGBOSS: Directed technical teams in hands-on coding and releases, ensuring high-quality and timely updates for a complex, multi-integration SaaS platform.
+
+Work Experience - Bodytech
+
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: The leading fitness chain in the Andean region, operating over 140 health clubs that provide holistic fitness, wellness, and medical services.
+COMPANY_BULLET_1_BODYTECH: Led the technical implementation of Microsoft Dynamics CRM & ERP, managing customizations, data migration, and user adoption across the enterprise.
+COMPANY_BULLET_2_BODYTECH: Directed infrastructure projects across 60+ sites, overseeing networking, security, and service desk operations to achieve a 99.9% system uptime.
+COMPANY_BULLET_3_BODYTECH: Managed the lifecycle for a custom CRM and billing software, handling development, integration, and support, which automated billing and increased member retention.

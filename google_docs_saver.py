@@ -101,7 +101,7 @@ def generate_html_content(template_html_path, data, doc_type):
         replacements = {}
 
         # Global Information
-        replacements["{{APPLICATION_DATE}}"] = datetime.date.today().strftime("%Y-%m-%d")
+        replacements["{{APPLICATION_DATE}}"] = data.get("APPLICATION_DATE", "")
         replacements["{{HIRING_MANAGER}}"] = data.get("HIRING_MANAGER", "")
         replacements["{{COMPANY_NAME}}"] = data.get("COMPANY_NAME", "")
         replacements["{{JOB_ROLE}}"] = data.get("JOB_ROLE", "")
