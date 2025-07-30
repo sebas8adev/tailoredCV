@@ -1,0 +1,68 @@
+# Global Information
+HIRING_MANAGER: Ievgeniia Maslovska
+COMPANY_NAME: Luxoft
+JOB_ROLE: Project Administrator/Coordinator (IT Infrastructure)
+COMPANY_NAME: Luxoft
+APPLICATION_DATE: July 26, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Project Administrator/Coordinator (IT Infrastructure) at Luxoft
+CONTENT: Dear Ievgeniia Maslovska,
+<br><br>
+I am writing to express my enthusiastic interest in the Project Administrator/Coordinator (IT Infrastructure) role at Luxoft, as advertised on LinkedIn. With over a decade of experience managing complex, large-scale IT projects, I am confident that my skills align perfectly with the requirements of this position.
+<br><br>
+My background includes extensive hands-on experience in IT infrastructure, including server and network management, data center migrations, and cloud platform integration (AWS, GCP). I have successfully directed the integration of technical solutions, managed project financials to ensure budget compliance, and utilized SDLC and integration methodologies to deploy solutions for global clients in finance, retail, and healthcare.
+<br><br>
+I am proficient with the essential tools for this role, including MS Project and the full MS Office Suite, and have practical experience with modern innovation tools like GenAI and Power Automate to drive efficiency. My ability to analyze requirements, mitigate risks, and ensure clear communication across global teams has been central to my success in delivering projects on time and within scope.
+<br><br>
+I am eager to bring my adaptive project management approach and technical acumen to the Luxoft team. Thank you for your time and consideration. I look forward to discussing how my experience can contribute to your projects.
+<br><br>
+Sincerely,
+<br>
+[Your Name]
+
+# CV Content
+CAREER_SUMMARY: Adaptive Technical Project Manager with 10+ years of experience directing complex, global IT infrastructure projects across finance, retail, and healthcare. Expert in full SDLC delivery, datacenter migrations, and cloud solutions (AWS, GCP), managing budgets and large-scale deployments. Skilled in Agile and traditional methodologies, with hands-on experience using GenAI and automation to enhance project efficiency.
+SKILLS_TITLE_1: Project & Infrastructure Management
+SKILLS_DESC_1: SDLC, Datacenter Migration, Server/Network/Security Infrastructure, Cloud Platforms (AWS, GCP), Deployment Planning, Risk Mitigation, Financial & Time Reporting.
+SKILLS_TITLE_2: Methodologies & Frameworks
+SKILLS_DESC_2: Agile (SAFe, Scrum of Scrums, Kanban), Hybrid (Waterfall/Scrum), ITIL Concepts, Contract & Procurement Processes.
+SKILLS_TITLE_3: Technical & Tools Proficiency
+SKILLS_DESC_3: GenAI & Automation Tools, Jira, Confluence, MS Project, MS Office Suite (Excel, PowerPoint), Power Automate, CI/CD Concepts.
+SKILLS_TITLE_4: Leadership & Business Acumen
+SKILLS_DESC_4: Stakeholder Communication, Global Team Leadership, C-Level Reporting (RAG), RFP Analysis, Budget & Resource Management, Vendor Negotiation.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Technical Project Manager
+COMPANY_SUMMARY_GLOBANT: A digital consulting company specializing in AI-powered solutions and software development, helping organizations reinvent their businesses and industries through technology.
+COMPANY_BULLET_1_GLOBANT: Directed a datacenter migration to GCP for Banco de Chile, managing +100 engineers and ensuring a seamless transition with minimal downtime for core banking services.
+COMPANY_BULLET_2_GLOBANT: Led infrastructure and AI chatbot projects for Royal Caribbean, managing global teams of 15+ and overseeing budget, planning, and successful production releases.
+COMPANY_BULLET_3_GLOBANT: Enhanced e-commerce platform performance by 40% for Dick's Sporting Goods by leading infrastructure-focused initiatives and optimizing the full SDLC and deployment pipeline.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm delivering custom solutions focused on media, healthcare, and big data, leveraging cloud services to innovate for international clients.
+COMPANY_BULLET_1_MANGOSOFT: Managed end-to-end development of AWS-based streaming and media services for Concacaf, leading a team of 10+ to deliver on-time, fixed-price projects.
+COMPANY_BULLET_2_MANGOSOFT: Coordinated infrastructure projects for healthcare clients, integrating medical devices with AWS cloud services (Polly, DynamoDB) to improve data accessibility and diagnostics.
+COMPANY_BULLET_3_MANGOSOFT: Implemented hyper care and production support protocols for all released products, reducing post-launch critical issues by 30% through proactive monitoring and planning.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology company developing integrated hardware and software solutions, including bodycams and IoT devices for public safety and healthcare sectors in Colombia.
+COMPANY_BULLET_1_TIPI: Led the full SDLC and deployment of 3,000+ bodycam units for the Colombian Police, coordinating firmware, software, and backend infrastructure development.
+COMPANY_BULLET_2_TIPI: Managed hardware and software provisioning for projects, including procurement and contract compliance, ensuring on-time delivery under strict government regulations.
+COMPANY_BULLET_3_TIPI: Directed operations support workflows for deployed IoT systems in hospitals, improving communication speed and nurse response times through reliable device integration.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A Software as a Service (SaaS) provider delivering POS and management solutions for over 1,000 small businesses in the retail and fitness industries.
+COMPANY_BULLET_1_ITBIGBOSS: Oversaw the entire SDLC for a SaaS POS platform, integrating hardware like printers, biometrics, and payment devices for seamless retail operations.
+COMPANY_BULLET_2_ITBIGBOSS: Directed the implementation and customization of the platform for 1,000+ businesses, managing technical requirements and ensuring high customer satisfaction and retention.
+COMPANY_BULLET_3_ITBIGBOSS: Led a team of 30+ in software development and operations, handling releases, technical support, and infrastructure management on MS Azure and SQL Server.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, transforming member experiences through technology and personalized wellness solutions across 60+ locations.
+COMPANY_BULLET_1_BODYTECH: Managed IT infrastructure across 60+ sites in 3 countries, overseeing networking, security, IP telephony, and CCTV systems to ensure 99% operational uptime.
+COMPANY_BULLET_2_BODYTECH: Led the technical implementation of Microsoft Dynamics CRM & ERP, integrating systems to automate billing and improve member data management across the enterprise.
+COMPANY_BULLET_3_BODYTECH: Established the company's IT Service Desk from the ground up, defining support processes and leading operations, improving ticket resolution times by 40%.

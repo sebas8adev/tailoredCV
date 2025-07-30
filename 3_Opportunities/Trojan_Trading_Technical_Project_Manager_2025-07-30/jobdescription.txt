@@ -1,0 +1,52 @@
+Status: pending
+Data-Status: pending
+Job board: LinkedIn
+Company Name: Trojan Trading
+Role Name: Technical Project Manager
+Location: United States
+Type: Remote
+Salary range: $100k - $350k
+Hiring Team: Not identified
+Application Instructions: See Job Post URL
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4244897204&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+Job Description:
+About the job
+About Trojan
+Trojan leads the way in cryptocurrency trading, known as the largest Telegram trading bot for facilitating over $28 billion in volume traded by more than 50,000 daily active users. We deliver seamless on-chain trading experiences with advanced tools such as DCA & limit orders, sniping, and automatic wallet copy-trading. Our platform sets the standard in speed, innovation, and reliability.
+
+Why Join Us?
+At Trojan, we thrive on innovation and efficiency. Joining our team means contributing to projects that revolutionise the crypto trading landscape. We’re continuously expanding our offerings to elevate user experience and accessibility. This is your chance to contribute to a cutting-edge and widely used product that stands out in a competitive market for its reliability, speed and unmatched features.
+
+Role Overview
+We are seeking a Technical Project Manager to oversee task distribution, delivery timelines, and project coordination across our growing development team. This role bridges technical expertise and project leadership, ensuring smooth collaboration and efficient delivery of key initiatives.
+
+Key Responsibilities
+Coordinate & Lead: Work closely with engineers to scope tasks, oversee task distribution, ensure clear priorities and achievable deadlines.
+Monitor Delivery: Track project progress using project management tools, maintain project momentum, identify bottlenecks, and proactively resolve blockers.
+Ensure Technical Feasibility: Use your technical expertise to validate project scopes and optimize workflows.
+Drive Agile Practices: Implement best practices for Agile frameworks, including sprint planning, stand-ups, and retrospectives.
+Foster Collaboration: Serve as the link between engineering, and leadership, ensuring alignment across projects.
+
+Requirements
+Experience: 5+ years in a technical project manager role (Technical Manager, Scrum Master, or similar).
+Technical Expertise: Solid understanding of software development processes and the ability to assess engineering tasks.
+Agile Mastery: Strong experience with Agile frameworks, including Scrum and Kanban.
+Crypto Knowledge: Familiarity with DeFi and crypto trading platforms.
+Leadership Skills: Proven ability to lead cross-functional teams and drive projects to completion within ambitious deadlines.
+Communication: Clear, concise communication to align teams and manage stakeholder expectations.
+Interest in DeFi: A genuine curiosity and understanding of trading tools and trends.
+Problem-Solving: Proactive mindset to identify issues, propose solutions, and keep projects on track.
+
+Preferred Experience
+Background in crypto trading platforms, DeFi, or blockchain-related projects.
+Familiarity with CI/CD workflows and collaborative development tools.
+Familiarity with memecoins trading on Solana and related market dynamics.
+
+What We Offer
+Flexibility: Work remotely on your own schedule.
+Growth and Innovation: Be part of a lean team that is constantly evolving and integrating the latest in trading technology.
+Impactful Work: Your contributions will directly shape the user experience of one of the most used trading tools on the market.
+
+Compensation/Culture
+The overall market range for roles at Trojan Trading is typically $100k - $350k annually. This market range is based on total compensation. Trojan Trading has a culture that values meritocracy, personal growth, and an ego-free environment.

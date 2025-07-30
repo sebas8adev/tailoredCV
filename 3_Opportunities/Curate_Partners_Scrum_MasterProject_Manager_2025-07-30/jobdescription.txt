@@ -1,0 +1,28 @@
+Status: processed
+Data-Status: complete
+Job board: LinkedIn
+Company Name: Curate Partners
+Role Name: Scrum Master/Project Manager
+Location: United States
+Type: Remote
+Salary range: Not specified
+Hiring Team: Theresa Sanchez
+Application Instructions: LinkedIn Easy Apply
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4243332989&distance=25&geoId=90000596&keywords=Scrum%20master&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+
+Job Description:
+About the job
+Our client is seeking a Scrum Master with Healthcare experience and Project Management knowledge.
+No C2C please.
+Must be US citizen or Green Card
+Remote contract to hire
+
+Responsible for ensuring the effectiveness of the on-going development of a specific product 
+Monitors scrum processes and sessions 
+Facilitates the delivery team’s work via managing process (Daily Standups, Demos, Retrospectives) 
+Drives efficiency and continuous improvement, motivates the team 
+Defines key performance metrics and progress tracking 
+Ensures milestones are reached and deadlines are met 
+Facilitates partnerships and delivery with external suppliers 
+Facilitates open communication with all business partners including reporting progress and milestones for executives 
+Manages Initiative budget and forecast

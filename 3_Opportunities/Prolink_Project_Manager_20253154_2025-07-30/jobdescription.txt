@@ -1,0 +1,40 @@
+Status: pending
+Data-Status: pending
+Job board: LinkedIn
+Company Name: Prolink
+Role Name: Project Manager (2025-3154)
+Location: United States
+Type: Not specified
+Salary range: Not specified
+Hiring Team: Not identified
+Application Instructions: LinkedIn Easy Apply
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4273334098&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+Job Description:
+About the job
+JOB SUMMARY
+The Project Manager is responsible for overseeing software and IT-related projects from initiation to completion. The role will collaborate with cross-functional teams, including software developers, product managers, and customer success to define project goals, establish timelines, and manage deliverables. This role requires strong technical project management skills, attention to detail, and the ability to navigate a dynamic, fast-paced environment.
+
+RESPONSIBILITIES
+Plan, manage, and execute IT and software development projects from inception to completion
+Define project scope, objectives, and success metrics in collaboration with key stakeholders
+Develop and maintain project timelines, budgets, and risk mitigation plans
+Coordinate internal resources and third parties, clients and vendors for the outstanding execution of multiple projects 
+Work closely with software engineers, product managers, clients and customer success team to ensure alignment and clear communication
+Manage Agile and Scrum processes, including sprint planning, backlog grooming, and retrospectives
+Identify and resolve project risks, blockers, and dependencies
+Ensure projects meet quality standards, security requirements, and compliance guidelines
+Provide regular updates and reports on project status to leadership and stakeholders
+Continuously improve project management processes to enhance efficiency and effectiveness
+
+REQUIREMENTS 
+Bachelor's degree in Computer Science, Information Technology, Business, or a related field (or equivalent experience).
+5+ years of project management experience in IT or software development, preferably in a SaaS or software development environment.
+Experience with Agile, Scrum, or other project management methodologies. PMP, PMI-ACP, or CSM certification.
+Familiarity with software development lifecycles (SDLC), DevOps practices, cloud platforms like AWS, Azure, or Google Cloud, and IT infrastructure.
+Proficiency in project management tools such as Jira, Asana, or other related platforms, strong ability to lead cross-functional teams, drive alignment, and communicate effectively with technical and non-technical stakeholders, ability to navigate challenges, manage competing priorities, and drive results in a fast-paced environment.
+
+PREFERENCES
+Candidates with additional and relevant experience, education, licensing, or certification beyond the role’s requirements and/or specific to the nature of the company's business will be given additional consideration in the candidate selection process. If all minimum requirements are met, candidates with unique and/or diverse qualifications will also be given additional consideration.
+
+We are an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other category protected by federal, state, or local law.

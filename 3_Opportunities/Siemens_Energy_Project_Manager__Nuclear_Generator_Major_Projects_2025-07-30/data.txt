@@ -1,0 +1,55 @@
+# Global Information
+HIRING_MANAGER: Hiring Team
+COMPANY_NAME: Siemens Energy
+JOB_ROLE: Project Manager - Nuclear Generator Major Projects
+APPLICATION_DATE: July 2, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Project Manager - Nuclear Generator Major Projects at Siemens Energy
+CONTENT: Dear Siemens Energy Hiring Team,<br><br>I am writing to express my keen interest in the Project Manager - Nuclear Generator Major Projects position at your Orlando, FL location, as advertised on LinkedIn. With a background in Systems Engineering and over 10 years of experience leading complex, high-value technical projects, I am confident in my ability to manage the entire project lifecycle as described in the job description.<br><br>My career has been focused on the cradle-to-grave execution of multifaceted projects that involve significant engineering, hardware integration, and software development components. I have a strong record of serving as the primary liaison between customers and internal stakeholders, ensuring clear communication, managing project financials, and upholding rigorous quality and risk management standards. My experience leading the deployment of integrated hardware systems for government contracts has prepared me to manage projects with strict technical specifications and compliance requirements.<br><br>I am adept at working with procurement partners, managing contract deliverables, and ensuring all engineering and hardware milestones are met. I am eager to apply my adaptive project management approach and technical leadership skills to contribute to Siemens Energy's mission of developing the energy systems of the future. I am a certified Project Management professional and I am excited by the opportunity to undertake IPMA certification to further align my skills with your standards.<br><br>Thank you for considering my application. I look forward to the possibility of discussing how my experience can benefit your team.<br><br>Sincerely,<br>Andres Perez
+
+# CV Content
+CAREER_SUMMARY: Adaptive Technical Project Manager with 10+ years of experience leading complex, high-value engineering and technology projects from concept to completion. Expert in managing project financials, quality, and risk for large-scale system integrations. Excels in stakeholder communication and leading cross-functional teams to deliver on critical technical and business objectives.
+SKILLS_TITLE_1: Project Lifecycle & Financial Management
+SKILLS_DESC_1: Cradle-to-Grave Execution, Risk & Quality Management, Financial Controls, Change Orders, Contract Management, Stakeholder Reporting.
+SKILLS_TITLE_2: Technical Project Leadership
+SKILLS_DESC_2: Complex System Integration, Hardware/Software Lifecycles, Engineering Deliverables, Technical Specifications, Vendor & Procurement Partnership.
+SKILLS_TITLE_3: Methodologies & Frameworks
+SKILLS_DESC_3: Hybrid Waterfall & Agile (Scrum, Kanban, SAFe), PMP/PMI Practices, Lean Principles, Full SDLC Execution.
+SKILLS_TITLE_4: Tools & Technologies
+SKILLS_DESC_4: Jira, Confluence, MS Teams, Slack, Azure, AWS, GCP, AI-driven Solutions, Data Migration.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT:Project Manager
+COMPANY_SUMMARY_GLOBANT: Global digital consultancy reinventing businesses through innovative technology solutions, specializing in AI-powered software development and large-scale digital transformation for enterprise clients.
+COMPANY_BULLET_1_GLOBANT: Led end-to-end delivery of complex digital programs for clients like Royal Caribbean, managing budgets, scope, and quality across globally distributed teams.
+COMPANY_BULLET_2_GLOBANT: Managed project financials and contract deliverables for fixed-price engagements, orchestrating quarterly planning and ensuring alignment with C-level stakeholder expectations and technical specifications.
+COMPANY_BULLET_3_GLOBANT: Improved e-commerce platform performance by 40% for Dick's Sporting Goods by implementing rigorous quality controls and adaptive project roadmaps to meet business goals.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A specialized software development firm delivering custom cloud-based solutions and data services for media, sports, and healthcare industries across international markets.
+COMPANY_BULLET_1_MANGOSOFT: Directed fixed-price projects for clients like Concacaf, overseeing the full lifecycle from RFP analysis and proposal to final implementation and hyper-care support.
+COMPANY_BULLET_2_MANGOSOFT: Managed stakeholder communications and ensured technical deliverables for a media streaming platform on AWS, integrating multiple data sources for real-time statistics and performance.
+COMPANY_BULLET_3_MANGOSOFT: Delivered complex healthcare data integrations, transferring medical device data (DICOM) to AWS and ensuring compliance with industry standards and system requirements.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI:Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology company developing integrated hardware and software solutions, including IoT devices and management platforms for public safety and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Led cradle-to-grave project management for a bodycam system for law enforcement, overseeing hardware firmware, software development, quality, and full system integration.
+COMPANY_BULLET_2_TIPI: Managed the deployment and operational support for over 3,000 bodycam units, ensuring system reliability and adherence to strict government contract specifications.
+COMPANY_BULLET_3_TIPI: Directed the development and installation of integrated RFID and Bluetooth-based systems in over 10 hospitals, improving asset tracking and operational efficiency.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering comprehensive POS and business management software solutions for over 1,000 small and medium businesses in retail and wellness sectors.
+COMPANY_BULLET_1_ITBIGBOSS: Led the full software development lifecycle for a flagship SaaS product, integrating hardware like biometric scanners, printers, and access control systems.
+COMPANY_BULLET_2_ITBIGBOSS: Managed technical teams and hands-on development, code review, and release processes to ensure high-quality, reliable software for a diverse client base.
+COMPANY_BULLET_3_ITBIGBOSS: Directed operations and customer support workflows, ensuring system uptime and continuous improvement for a platform processing extensive daily transactions and business data.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH:IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading chain of health and fitness centers across Latin America, focused on providing comprehensive wellness services supported by a robust technology infrastructure.
+COMPANY_BULLET_1_BODYTECH: Managed the technology infrastructure lifecycle across 60+ sites, including networking, security, and access control systems to ensure operational continuity and security.
+COMPANY_BULLET_2_BODYTECH: Led the implementation of Microsoft Dynamics CRM & ERP systems, overseeing the project from planning and vendor selection to final deployment and user adoption.
+COMPANY_BULLET_3_BODYTECH: Established and led the IT Service Desk, defining support protocols and managing operations to maintain high levels of system availability and user satisfaction.

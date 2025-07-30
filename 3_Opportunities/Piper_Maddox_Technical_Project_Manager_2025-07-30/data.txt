@@ -1,0 +1,56 @@
+# Global Information
+HIRING_MANAGER: Vanessa Palazzi
+COMPANY_NAME: RNG Developer
+JOB_ROLE: Technical Project Manager
+COMPANY_NAME: Piper Maddox
+APPLICATION_DATE: July 4, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Technical Project Manager at RNG Developer
+CONTENT: Dear Vanessa Palazzi,<br><br>I am writing to express my strong interest in the Technical Project Manager position for the RNG Developer, which I discovered on LinkedIn. The opportunity to contribute to the clean energy future is incredibly compelling, and I am confident that my extensive project management background aligns well with the requirements of this role.<br><br>While my professional experience has not been directly within the Renewable Natural Gas sector, I have a substantial track record of successfully leading complex, full-lifecycle technical projects across highly regulated and demanding industries, including public safety, healthcare, and finance. My ability to rapidly assimilate new industry-specific knowledge—from government contracting protocols to healthcare compliance—and apply core project management principles has been central to my success. I am eager to apply this adaptive skill set to the unique challenges and opportunities in RNG project development.<br><br>My career has been focused on driving projects from initial concept and feasibility analysis through to operational readiness. This includes creating and managing detailed project schedules, budgets, and risk mitigation plans, as well as coordinating diverse internal and third-party stakeholders to ensure strategic alignment. I have consistently delivered key project milestones and financial deliverables for investors, partners, and C-level executives.<br><br>My 10+ years of experience in project and program management, combined with my expertise in both Agile and traditional frameworks, has equipped me with the skills necessary to lead the development of your RNG infrastructure. I am a dedicated and results-oriented leader, passionate about driving projects that have a tangible impact.<br><br>Thank you for your time and consideration. I have attached my CV for your review and welcome the opportunity to discuss how my transferable skills and leadership experience can bring significant value to your team.<br><br>Sincerely,<br><br>[Your Name]
+
+# CV Content
+CAREER_SUMMARY: Adaptive Technical Project Manager with 10+ years of experience leading complex, full-lifecycle technical projects from concept to operational readiness across regulated industries. Expert in managing project schedules, budgets, and risk mitigation plans while navigating intricate compliance landscapes. Skilled in Agile and traditional methodologies, coordinating multi-disciplinary teams and delivering key project milestones for stakeholders, investors, and partners.
+SKILLS_TITLE_1: Project Lifecycle & Development Management
+SKILLS_DESC_1: Full project lifecycle leadership from feasibility, site diligence, and pre-construction planning to financial close and operational readiness.
+SKILLS_TITLE_2: Financial & Performance Management
+SKILLS_DESC_2: Project budgeting, financial reporting for investors/lenders, schedule management (Microsoft Project, Jira), risk mitigation, and KPI/OKR tracking.
+SKILLS_TITLE_3: Regulatory Compliance & Stakeholder Coordination
+SKILLS_DESC_3: Navigating complex compliance in regulated sectors (Public Safety, Healthcare) and coordinating with internal teams, third-party stakeholders, and government entities.
+SKILLS_TITLE_4: Technical Acumen & Methodologies
+SKILLS_DESC_4: Project Management (SAFe, Scrum, Kanban, Waterfall), Cloud Platforms (AWS, GCP), AI Solutions, SDLC, and System Integrations.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT:Technical Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company offering innovative technology solutions. We leverage AI and software development to reinvent industries and deliver profound business transformations for global clients.
+COMPANY_BULLET_1_GLOBANT: Led full project lifecycle for Royal Caribbean's guest apps, from RFP analysis to release, managing budgets, scope, and distributed teams of 15+.
+COMPANY_BULLET_2_GLOBANT: Drove digital transformation programs for retail and banking clients, improving e-commerce platform performance by 40% through adaptive quarterly roadmaps and PI planning.
+COMPANY_BULLET_3_GLOBANT: Directed large-scale team staffing and methodology implementation for 150+ engineers, ensuring alignment with project goals and financial objectives for C-level stakeholders.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development consultancy specializing in cloud services, big data, and custom applications for media, sports, and healthcare industries across the Americas.
+COMPANY_BULLET_1_MANGOSOFT: Managed end-to-end development of AWS cloud-based media and streaming platforms for Concacaf, from proposal to hypercare support, ensuring on-time project delivery.
+COMPANY_BULLET_2_MANGOSOFT: Delivered complex data integration projects for healthcare clients, managing project scope, schedule, and budget to improve clinical data access and system interoperability.
+COMPANY_BULLET_3_MANGOSOFT: Led project teams of 10+ engineers, implementing Scrum methodologies that enhanced delivery predictability and stakeholder satisfaction on fixed-price contracts.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI:Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology firm developing integrated hardware and software solutions, including IoT devices and management platforms for public safety, law enforcement, and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Directed the full product lifecycle for a bodycam system for the Colombian Police, from hardware to software, ensuring on-time delivery under strict government contracts.
+COMPANY_BULLET_2_TIPI: Led project planning, implementation, and support for over 3,000 bodycams, ensuring system reliability and compliance with public safety operational standards and regulations.
+COMPANY_BULLET_3_TIPI: Spearheaded development of healthcare IoT solutions, including nurse call systems, improving patient care response times and asset tracking efficiency in 10+ hospitals.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering comprehensive POS and business management software solutions for over 1,000 small businesses in the retail, fitness, and health industries.
+COMPANY_BULLET_1_ITBIGBOSS: Led the complete SDLC for a flagship SaaS platform, integrating payment processing and CRM, driving market adoption across over 1,000 small businesses.
+COMPANY_BULLET_2_ITBIGBOSS: Managed technical integrations with third-party hardware and software, including biometrics and access controls, which reduced manual data entry and enhanced security for clients.
+COMPANY_BULLET_3_ITBIGBOSS: Directed a 30-person development and operations team, providing hands-on technical leadership that ensured high system uptime and efficient customer support workflows.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH:IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, committed to improving well-being through professional training services and state-of-the-art facilities.
+COMPANY_BULLET_1_BODYTECH: Led the infrastructure and software development lifecycle for a multi-site operation, expanding IT services to over 60 locations across three countries.
+COMPANY_BULLET_2_BODYTECH: Managed the implementation of Dynamics CRM & ERP systems, automating billing and improving member retention through streamlined data management and engagement.
+COMPANY_BULLET_3_BODYTECH: Established the IT Service Desk and implemented access control systems with biometrics, which improved security and increased the ticket resolution rate significantly.

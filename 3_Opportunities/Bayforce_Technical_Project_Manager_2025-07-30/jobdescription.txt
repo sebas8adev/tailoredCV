@@ -1,0 +1,41 @@
+Status: processed
+Data-Status: complete
+Job board: LinkedIn
+Company Name: Bayforce
+Role Name: Technical Project Manager
+Location: Orlando, FL
+Type: On-site
+Salary range: Not specified
+Hiring Team: Glory Grace B.
+Application Instructions: LinkedIn Easy Apply
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4275632751&distance=25&geoId=90000596&keywords=Scrum%20master&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+
+Job Description:
+About the job
+⚠️ FOR LOCAL APPLICANTS ONLY ⚠️
+This position requires candidates to be located in or near Orlando, FL.
+Applications from outside the area will not be considered.
+
+Technical Project Manager – Digital Platforms & Applications
+Location: Onsite – Orlando, FL
+Type: Contract
+
+Job Summary:
+We are seeking a results-driven Technical Project Manager to lead IT initiatives related to digital platforms and modern applications. This role requires strong collaboration with both onshore and offshore technical teams, as well as engagement with internal business stakeholders. The ideal candidate will have hands-on experience managing enterprise-level projects involving cloud platforms and modern development frameworks.
+
+Key Responsibilities:
+Lead and manage end-to-end delivery of IT projects focused on digital applications and platforms.
+Coordinate with cross-functional teams including developers, QA, architects, and product owners across onshore and offshore locations.
+Utilize Azure DevOps for planning, tracking, and managing project progress.
+Facilitate stakeholder communication, ensure alignment on project scope, and manage risks and issues.
+Ensure timely delivery of project milestones within scope, budget, and quality standards.
+Drive collaboration between business and technical teams to meet evolving project demands.
+Required Qualifications:
+5–7 years of experience as an IT Project Manager in enterprise environments.
+Proficient in using Azure DevOps for project planning and tracking.
+Exposure to modern technologies such as Azure Cloud, React, and Node.js.
+Strong communication skills with the ability to manage technical and non-technical stakeholders.
+Adaptable role fit – open to candidates with experience as either a Project Manager or Project Lead based on depth of technical and leadership experience.
+Work Arrangement:
+This is a 100% onsite role based in Orlando, FL and will be hybrid 3days after 3 months
+Candidates with experience in restaurant, retail, or franchise environments are a plus.

@@ -1,0 +1,59 @@
+Status: pending
+Data-Status: pending
+Job board: LinkedIn
+Company Name: HaloMD
+Role Name: Technical Project Manager - Data & Analytics
+Location: United States
+Type: Remote
+Salary range: Not specified
+Hiring Team: Not identified
+Application Instructions: See Job Post URL
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4278364930&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+Job Description:
+About the job
+Technical Project Manager – Data & Analytics
+
+Who We Are
+HaloMD is a leader in Independent Dispute Resolution (IDR) under The No Surprises Act and state regulations, empowering out-of-network healthcare providers with cutting-edge technology and industry expertise to maximize reimbursements.
+
+Job Summary
+We are seeking a Technical Project Manager (TPM) with deep experience in data and analytics within the healthcare industry. This role will lead critical projects that support data-driven decision-making across operations, finance and other domains. You will oversee the execution of complex initiatives involving data integration, analytics, and reporting systems that enable growth and organizational performance.
+
+This position requires a strong foundation in data engineering or analytics, project management, and a working knowledge of healthcare claims processing.
+
+Essential Job Duties and Responsibilities
+Lead end-to-end project delivery of data and analytics initiatives across multiple stakeholders within the organization.
+Coordinate with data engineers, BI developers, analysts, and business stakeholders to define requirements and project plans.
+Manage timelines, risks, scope, and communications for multiple simultaneous projects.
+Translate business and regulatory needs into technical data specifications and actionable deliverables.
+Support the implementation of data platforms, data warehouses/lakes, and reporting dashboards.
+Ensure projects align with data governance policies, HIPAA compliance, and security standards.
+Facilitate Agile/Scrum ceremonies and maintain accurate backlog and sprint boards (JIRA, Azure DevOps, etc.).
+Track KPI's and produce status updates for executives and cross-functional partners.
+
+Qualifications
+Bachelor’s degree in Health Informatics, Computer Science, Information Systems, or related field (Master’s preferred).
+8+ years of technical project management experience with 4+ years in data/analytics projects.
+Familiarity with healthcare data types and systems (claims, EMR/EHR, RCM, etc.).
+Technical literacy with data tools and environments (SQL, ETL, Tableau/Power BI, cloud platforms like Snowflake).
+Proficiency in SQL and Excel
+Proven ability to manage cross-functional technical teams and communicate with both technical and clinical stakeholders.
+Experience with Agile or hybrid project methodologies; PMP, CSM, or equivalent certifications preferred.
+
+Preferred Skills
+Experience in payer, provider, or RCM (revenue cycle management) environments
+Prior technology and development background in data engineering or BI
+Working knowledge of tools such as JIRA, Confluence, MS Project, or similar
+
+Perks & Benefits:
+Remote & Hybrid opportunities – Work from anywhere within the United States with reliable high-speed internet
+Multiple medical plan options
+Health Savings Account with company contributions
+Dental & vision coverage for you and your dependents
+401k with Company match
+Vacation, sick time & Company paid holidays
+Company wellbeing program with health insurance incentives
+
+What’s Next?
+If you’re ready to bring your skills and passion to our growing team, we want to hear from you! Apply today and help us create a future where success is the standard.

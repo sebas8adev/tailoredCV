@@ -1,0 +1,58 @@
+Status: pending
+Data-Status: complete
+Job board: LinkedIn
+Company Name: ConsultNet Technology Services and Solutions
+Role Name: Sr. Salesforce Scrum Master / Agile Coach - REMOTE
+Location: United States
+Type: Remote
+Salary range: Not specified
+Hiring Team: Not identified
+Application Instructions: See Job Post URL
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4278363068&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+Job Description:
+About the job
+Title: Salesforce Scrum Master
+ Location: Remote
+ Target Start Date: 8/25/25
+ Type: Contract-to-hire
+ Pay: $65 – 75/hr
+ 
+ Job Description: 
+ We are seeking an experienced Sr. Scrum Master to lead and facilitate Agile delivery for two cross-functional Scrum teams—one focused on Salesforce CRM and the other on AWS/Java-based application development. The ideal candidate will bring strong Agile leadership, deep experience in the financial services industry, and a passion for continuous improvement. 
+ The Senior Scrum Master will drive the execution of Agile practices, facilitate Scrum ceremonies, provide team coaching, and use JIRA to monitor and report on team metrics including burndown charts, velocity, and other KPIs. This role will also contribute to the refinement of our Agile processes and work closely with Product Owners, Engineering Managers, and stakeholders to ensure effective and transparent delivery. 
+ Responsibilities: 
+ Serve as Scrum Master for two Scrum teams (Salesforce CRM and AWS/Java development). 
+ Facilitate all standard Scrum ceremonies including Daily Standups, Sprint Planning, Backlog Grooming, Sprint Reviews, Retrospectives, and System Demos. 
+ Drive and update Agile best practices and coach team members on Scrum principles and frameworks. 
+ Leverage JIRA to create and maintain Agile metrics, dashboards, burndown charts, sprint reports, and ensure data hygiene. 
+ Collaborate with Product Owners to ensure well-defined product backlogs that are groomed and prioritized for upcoming sprints. 
+ Identify and remove impediments to team progress; foster a collaborative, self-organizing, and accountable team culture. 
+ Partner with stakeholders and leadership to promote Agile practices across the organization. 
+ Conduct retrospectives and work with teams to implement continuous improvement initiatives. 
+ Contribute to the evolution of Agile practices across teams, including templates, playbooks, and coaching tools. 
+ Help manage interdependencies between teams and ensure alignment with product and technology roadmaps. 
+ Champion Agile maturity and continuous learning across all teams. 
+ Required Skills: 
+ 7+ years of experience as a Scrum Master, including supporting multiple Scrum teams concurrently. 
+ Proven experience with Salesforce CRM and AWS / Java-based dev teams 
+ Strong background in the financial services industry—preferably within fintech, banking, or capital markets. 
+ Deep understanding and practical application of Agile principles and Scrum frameworks. 
+ Proficiency in JIRA and Confluence, with experience configuring dashboards and generating Agile reports. 
+ Ability to reinvigorate Agile practices on two development teams 
+ Strong experience with reviewing and updating Agile processes 
+ Strong facilitation, coaching, and communication skills with both technical and business stakeholders. 
+ Demonstrated ability to drive Agile adoption, identify team anti-patterns, and implement improvements. 
+ Familiarity with SAFe, Scrum of Scrums or other scaled Agile frameworks is a plus. 
+ Bonus Skills: 
+ Scrum Master certification (CSM, PSM II or above). 
+ Agile Coach certification or equivalent experience in Agile transformation efforts. 
+ Experience with Agile metrics beyond Jira (e.g., Jira Align, Advanced Roadmaps, or Agile analytics tools). 
+ Experience working in a remote team environment. 
+  
+ Welcome to ConsultNet and the family of companies, Tekne, SaltClick, TechBridge, and OmniMedia. As a premier national provider of technology talent and solutions, our expertise spans across project services, contract-to-hire, direct placement, and managed services both onshore and nearshore.
+ 
+ Celebrating more than 25 years of partnership with a diverse client base, we've crafted rewarding opportunities for our consultants, fostering high-performing teams that deliver impactful results. 
+  Over the last few years thousands of consultants have found their calling with us in roles that have made a meaningful impact on their lives, enhanced their career, challenged them, and propelled them towards achieving their personal and professional goals. At the ConsultNet family of companies, we believe effective communication is crucial in aligning the right job with your unique skills and professional aspirations. To us, it's all about the personal approach we take and the values we uphold. 
+  Our comprehensive service offerings cover a wide range of technology positions across key markets nationwide. Client more at  www.consultnet.com . 
+  We champion equality and inclusivity, proudly supporting an Equal Opportunity Employer policy. We welcome applicants regardless of Race, Color, Religion, Sex, Sexual Orientation, Gender Identity, National Origin, Age, Genetic Information, Disability, Protected Veteran Status, or any other status protected by law.

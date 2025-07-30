@@ -1,0 +1,47 @@
+Status: pending
+Data-Status: error
+Job board: LinkedIn
+Company Name: Bee Talent Solutions
+Role Name: Equipment Qualification and Testing Project Coordinator
+Location: United States
+Type: Not specified
+Salary range: Not specified
+Hiring Team: Not identified
+Application Instructions: LinkedIn Easy Apply
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4271012546&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+Job Description:
+About the job
+Our client is seeking to Contract with a highly motivated Project Coordinator who is focused on the management of testing and qualification engineering activities, coordination of interfaces between project teams, and facilitation of engineering work planning. 
+
+This includes interfacing with multiple engineering teams on a daily/weekly basis to coordinate required activities, develop detailed schedules for technical work execution of testing activities, and support individual teams in forecasting a variety of needs to successfully meet project milestones. 
+
+The successful candidate will coordinate with engineers working on plant level functions, systems, components, and/or engineering analyses to provide comprehensive coverage of project management-related schedule functions.
+
+Responsibilities:
+Manage detailed schedule logic tie interfaces for design control package activities within the Equipment Qualification and Testing group, as well as the external logic links to other engineering team areas. 
+Create and track milestones alignment to task activities. Support project fiscal year schedule, resource, and budget planning efforts.
+Manage modifications to the high-level engineering schedule through interfaces with the project controls organization on behalf of engineering. 
+Initiate and facilitate change process approvals for new and emerging engineering activities consistent with project scheduling standards.
+Support the coordination of technical integration team meetings and status updates.
+Develop, refine, and manage the standard test activity sequences in preparation for schedule development of future tests. 
+Generating detailed versions for specific test activities, implement those sequences in the detailed schedule, and maintain those sequences on a weekly basis.
+Gather status reporting from testing teams and manage updates to project reporting venues. 
+Provide periodic status updates to key engineering leaders and identify pinch points in resource allocations and/or sequence timing.
+Manage cost plan inputs into the high level schedule. Gather and track actual dollars spent and correlate spend to schedule line items. Report on remaining budget available for test activities.
+
+Required Qualifications and Skills:
+B.S. or higher in a relevant Engineering discipline from an accredited university and 4+ years direct experience with project management.
+PMP certification preferred
+Experience with testing preferred
+Demonstrated experience in project management of engineering activities in the nuclear field, or similar energy, infrastructure or aerospace fields.
+Strong understanding of technical schedule management, including project reporting, schedule development, logic sequences, and resource forecasting.
+Experience with Atlassian tools – specifically Confluence and JIRA – is required.
+Experience with Primavera P6, Microsoft Project or additional equivalent project management tools a plus.
+Strong Excel skills is a plus.
+Excellent communication and organization skills.
+Attention to detail and aspiration for excellence.
+Candidate must be a self-starter and possess ability to coordinate and lead cross-functional efforts with minimal direction.
+Ability to handle projects that include many competing objectives and design constraints, with ability to resolve conflicts between priorities.
+The successful candidate will possess a high degree of trust and integrity, communicate openly and display respect, and a desire to foster teamwork.
+Actual position starting level and title will be determined based on assessment of qualifications.

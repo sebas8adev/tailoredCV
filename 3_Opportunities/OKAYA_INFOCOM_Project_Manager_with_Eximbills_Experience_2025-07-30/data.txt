@@ -1,0 +1,55 @@
+# Global Information
+HIRING_MANAGER: Nishant Kumar
+COMPANY_NAME: OKAYA INFOCOM
+JOB_ROLE: Project Manager with Eximbills Experience
+APPLICATION_DATE: July 24, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Project Manager with Eximbills Experience at OKAYA INFOCOM
+CONTENT: Dear Nishant Kumar,<br><br>I am writing to express my keen interest in the Project Manager position for your bank client, as advertised on LinkedIn. While my direct experience is not with Eximbills, my background in managing large-scale, complex system migrations and application development within the banking sector aligns closely with the core requirements of this role.<br><br>For instance, I led a multifaceted project for Banco de Chile that involved migrating their datacenter to GCP and developing new features for their core banking app. This required meticulous planning, risk mitigation, and stakeholder management across teams of over 100 professionals, skills directly transferable to a critical system upgrade like the one from Eximbills CS to EE.<br><br>With over 10 years of project management experience, I have a strong record of delivering long-term, high-stakes technology projects on time and within budget. My adaptive approach, combining formal project management practices with Agile methodologies, ensures both rigorous control and the flexibility needed for complex software implementations.<br><br>My resume provides further detail on my qualifications and achievements. I am confident that my experience in the finance industry and my ability to quickly master and manage projects involving specialized enterprise software make me a strong candidate for this 30-month engagement. Thank you for your time and consideration. I look forward to discussing how I can support your client's successful upgrade.<br><br>Sincerely,<br>Juan Perez
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading complex technology transformations in the banking and finance industry. Expert in managing large-scale system migrations, cloud initiatives, and full SDLC projects. Strengths in financial oversight, risk mitigation, and executive stakeholder reporting for long-term, mission-critical engagements.
+SKILLS_TITLE_1: Project Management & Methodologies
+SKILLS_DESC_1: Agile (SAFe, Scrum, Kanban), Hybrid-Waterfall, Project Planning, Risk Management, Budgeting, Roadmapping, KPI/OKR Tracking.
+SKILLS_TITLE_2: Banking & Financial Systems Project Experience
+SKILLS_DESC_2: Financial App Development, Datacenter Migration (On-Prem to Cloud), Data Ingestion & Warehousing, Full SDLC Management.
+SKILLS_TITLE_3: Technology & Platform Expertise
+SKILLS_DESC_3: System Integration, Cloud Platforms (GCP, AWS), API Utilization, Database Management (SQL, Oracle), Generative AI, Java, React.
+SKILLS_TITLE_4: Leadership & Stakeholder Management
+SKILLS_DESC_4: C-Level Reporting, Cross-functional Team Leadership (100+), Vendor Management, RFP & Proposal Development, Stakeholder Engagement.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company offering innovative technology solutions. Specializes in AI-powered software development and consulting to reinvent industries and create transformative user experiences.
+COMPANY_BULLET_1_GLOBANT: Led a project for Banco de Chile, managing a +100-person team in a datacenter migration and financial app development, ensuring delivery against quarterly KPIs.
+COMPANY_BULLET_2_GLOBANT: Directed the end-to-end project lifecycle for Royal Caribbean, launching an AI-powered chatbot and guest service features, coordinating three global teams to meet deadlines.
+COMPANY_BULLET_3_GLOBANT: Improved Dick's Sporting Goods e-commerce platform performance by 40% through strategic planning and execution, enhancing customer experience and driving online sales growth.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm creating custom solutions leveraging cloud services, big data, and AI for the media, healthcare, and sports industries.
+COMPANY_BULLET_1_MANGOSOFT: Managed the end-to-end development of a media streaming platform for Concacaf, integrating AWS services for live events and delivering on a fixed-price contract.
+COMPANY_BULLET_2_MANGOSOFT: Led development of a voice-to-text application and DICOM imaging integration for multiple hospitals, improving clinical documentation efficiency and data accessibility for physicians.
+COMPANY_BULLET_3_MANGOSOFT: Oversaw project definition, staffing, and scrum methodology implementation for 10+ member teams, successfully improving delivery timelines and overall product quality for clients.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology company delivering integrated hardware and software solutions, including IoT devices and management platforms for public safety and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Directed the full SDLC for a bodycam system for the Colombian Police, successfully deploying over 3,000 devices and a real-time management platform.
+COMPANY_BULLET_2_TIPI: Led a project to develop and implement an RFID asset tracking and nurse call system across 10+ hospitals, improving patient response times.
+COMPANY_BULLET_3_TIPI: Managed project constraints for government contracts, ensuring on-time delivery, quality assurance, and compliance with strict public sector regulations and requirements.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider that developed and scaled a comprehensive POS solution for over 1,000 small businesses in the retail, restaurant, and fitness industries.
+COMPANY_BULLET_1_ITBIGBOSS: Led the entire software development life cycle for a POS SaaS platform, integrating payment processing, inventory management, and CRM features for diverse SMBs.
+COMPANY_BULLET_2_ITBIGBOSS: Directed product implementation and customization for over 1,000 businesses across Latin America, achieving high adoption rates and increasing customer retention through tailored solutions.
+COMPANY_BULLET_3_ITBIGBOSS: Managed a 30-person development team, providing hands-on technical leadership and overseeing operations, support, and release management to ensure system stability and growth.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, operating over 60 locations across Colombia, Peru, and Chile with a focus on wellness.
+COMPANY_BULLET_1_BODYTECH: Led the enterprise-wide implementation of Microsoft Dynamics CRM & ERP systems, streamlining billing and customer management operations across 60+ international sites.
+COMPANY_BULLET_2_BODYTECH: Managed the full life cycle for a custom access control system using biometrics, increasing security and automating member check-in for thousands of users daily.
+COMPANY_BULLET_3_BODYTECH: Directed IT infrastructure and service desk operations, ensuring a 99% system uptime for networking, telephony, and CCTV across all company locations.

@@ -1,0 +1,56 @@
+# Global Information
+HIRING_MANAGER: Hiring Team
+COMPANY_NAME: Tekton Labs
+JOB_ROLE: Scrum Master, Associate
+COMPANY_NAME: Tekton Labs
+APPLICATION_DATE: July 2, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Scrum Master, Associate at Tekton Labs
+CONTENT: Dear Hiring Team,<br><br>I am writing to express my strong interest in the Scrum Master, Associate position at Tekton Labs, as advertised on LinkedIn. With over 10 years of experience leading agile teams and delivering complex projects in regulated industries, I am confident that my skills and background align perfectly with the requirements of this role.<br><br>In my role at Globant, I championed agile practices for a Salesforce CRM implementation for Abastible, an energy sector client, directly mirroring your preferred qualifications. I have extensive experience facilitating Scrum, Kanban, and SAFe ceremonies for multiple cross-functional teams, such as guiding three squads simultaneously for Royal Caribbean to deliver AI-driven mobile features. My work with clients like Banco de Chile has provided me with deep expertise in navigating compliance-heavy environments and acting as a delivery enabler between technical teams and business stakeholders.<br><br>As a certified Scrum Master (A-CSM, CSM) and SAFe Agilist, I am passionate about coaching teams, fostering a mindset of continuous improvement, and resolving impediments to ensure the timely delivery of business value. I am eager to bring my experience in CRM projects and agile leadership to Tekton Labs and contribute to the success of your Salesforce initiatives.<br><br>Thank you for your time and consideration. I look forward to discussing how my background can benefit your team.<br><br>Sincerely,<br>[Your Name]
+
+# CV Content
+CAREER_SUMMARY: Adaptive Scrum Master with 10+ years of experience guiding cross-functional teams and delivering complex digital projects in regulated industries. Expert in Agile (SAFe, Scrum, Kanban) methodologies, with a track record of enabling delivery for CRM and Salesforce-based initiatives. Strengths in impediment resolution, stakeholder collaboration, and fostering continuous improvement.
+SKILLS_TITLE_1: Agile Methodologies & Delivery
+SKILLS_DESC_1: Scrum, Kanban, SAFe, Scrum of Scrums, Sprint Planning, Retrospectives, Backlog Refinement, Impediment Resolution.
+SKILLS_TITLE_2: CRM & Regulated Industries
+SKILLS_DESC_2: Salesforce CRM Implementation, CRM Ecosystems, Finance, Healthcare, Energy/Utilities, Compliance & Documentation.
+SKILLS_TITLE_3: Technical Project Management
+SKILLS_DESC_3: Full SDLC, Cloud Platforms (AWS, GCP), AI Integration, API Development, Release Management, Jira, Confluence.
+SKILLS_TITLE_4: Team Leadership & Stakeholder Engagement
+SKILLS_DESC_4: Cross-Functional Team Coaching, Product Owner & Tech Lead Collaboration, Executive Reporting (KPIs, OKRs), Continuous Improvement.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Technical Project Manager & Scrum Master
+COMPANY_SUMMARY_GLOBANT: A digital-native technology services company focused on reinventing businesses through innovative solutions in AI, software development, and cloud platforms for global enterprises.
+COMPANY_BULLET_1_GLOBANT: Championed Agile practices for a Salesforce CRM implementation at Abastible (energy sector), enhancing sales and marketing operations through streamlined, value-driven delivery cycles.
+COMPANY_BULLET_2_GLOBANT: Guided 3 agile teams for Royal Caribbean, facilitating Scrum events and PI planning to deliver AI chatbot and mobile features, improving guest satisfaction.
+COMPANY_BULLET_3_GLOBANT: Led delivery for Banco de Chile (finance), navigating complex compliance requirements while implementing a Scrum of Scrums model to coordinate over 100 engineers.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development consultancy creating custom solutions for media and healthcare industries, specializing in cloud services, data integration, and mobile application development.
+COMPANY_BULLET_1_MANGOSOFT: Implemented Scrum for multiple healthcare clients, delivering voice-to-text and imaging integrations that improved clinical workflows and physician efficiency.
+COMPANY_BULLET_2_MANGOSOFT: Directed agile delivery for the Concacaf media platform on AWS, enabling live streaming and news updates which increased fan engagement through timely content releases.
+COMPANY_BULLET_3_MANGOSOFT: Staffed and coached agile teams of 10+ engineers, establishing KPI/OKR-based reporting to ensure project alignment with client business goals and value delivery.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology firm developing integrated hardware and software solutions for public safety and healthcare sectors, specializing in IoT, real-time data, and mobile systems.
+COMPANY_BULLET_1_TIPI: Led project delivery for the Colombian Police, deploying 3,000+ bodycams and management software, ensuring on-time delivery under strict government contract regulations.
+COMPANY_BULLET_2_TIPI: Managed the SDLC for a nurse-call system in 10+ hospitals, improving patient response times by integrating Bluetooth and RFID technologies with existing systems.
+COMPANY_BULLET_3_TIPI: Coached development teams using a hybrid Kanban model, enhancing workflow for both hardware firmware and software feature releases, improving cross-functional collaboration.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering comprehensive POS and business management software for over 1,000 small businesses across the retail, fitness, and health sectors.
+COMPANY_BULLET_1_ITBIGBOSS: Oversaw the end-to-end SDLC for a SaaS platform, leading a team of 30+ to develop features that automated billing and improved customer management.
+COMPANY_BULLET_2_ITBIGBOSS: Managed integrations with third-party systems like accounting apps and payment processors, expanding the product’s ecosystem and increasing its market adoption rate.
+COMPANY_BULLET_3_ITBIGBOSS: Established operational support workflows using a Kanban-based system, improving ticket resolution times and boosting customer satisfaction for a large user base.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, transforming member experiences through technology-driven services across more than 60 locations.
+COMPANY_BULLET_1_BODYTECH: Led the technical implementation of Microsoft Dynamics CRM and ERP systems, centralizing customer data and automating billing processes, enhancing operational efficiency.
+COMPANY_BULLET_2_BODYTECH: Managed the complete life cycle for a biometric access control system, improving security and reducing member check-in times across all company locations.
+COMPANY_BULLET_3_BODYTECH: Established and scaled the IT Service Desk, implementing formal support processes that improved system uptime and internal user satisfaction across three countries.

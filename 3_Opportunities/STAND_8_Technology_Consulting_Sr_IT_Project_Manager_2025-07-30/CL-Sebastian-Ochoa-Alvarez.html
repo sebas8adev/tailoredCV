@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cover Letter - Sebastian Ochoa Alvarez</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        /* Basic Reset & Font */
+        body {
+            font-family: 'Open Sans', sans-serif;
+            line-height: 1.4; /* Reduced line height for tighter spacing */
+            color: black;
+            margin: 0;
+            padding: 0;
+            -webkit-print-color-adjust: exact; /* For printing background colors */
+            box-sizing: border-box;
+        }
+
+        /* Page Margins for PDF Output */
+        @page {
+            size: A4; /* Or Letter */
+            margin: 0.85in 0.50in 0.82in 0.50in; /* Top, Right, Bottom, Left */
+        }
+
+        .container {
+            width: 100%;
+            max-width: 8.5in; /* Standard Letter width */
+            margin: 0 auto; /* Center content */
+            padding: 0; /* Page margins handled by @page rule */
+            box-sizing: border-box;
+        }
+
+        /* Utility classes for controlled spacing */
+        .margin-top-10 { margin-top: 10px !important; }
+        .margin-bottom-10 { margin-bottom: 10px !important; }
+        .margin-bottom-5 { margin-bottom: 5px !important; }
+        .no-margin { margin: 0 !important; }
+        .no-padding { padding: 0 !important; }
+
+
+        /* Header Styles */
+        .header {
+            text-align: center;
+            margin-bottom: 0px !important; /* Ensure no margin */
+        }
+        .header h1 {
+            font-size: 10.3pt;
+            font-weight: 600;
+            line-height: 1.4;
+            margin: 0 !important; /* Ensure no margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+        .header p {
+            font-size: 10.3pt;
+            margin: 0 !important; /* Ensure no margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+        .header a {
+            color: black;
+            text-decoration: none;
+        }
+        .header a:hover {
+            text-decoration: underline;
+        }
+
+        /* Section Styles */
+        .section {
+            margin-bottom: 0px !important; /* Ensure no margin */
+            margin-top: 6px !important; /* Ensure no margin */
+            padding: 0 !important; /* Ensure no padding */
+            padding-top: 6px !important; /* Ensure no margin */
+        }   
+        .section-info {
+            font-size: 10.3pt;
+            line-height: 1.4;
+            margin: 0 !important; /* Ensure no margin */
+            padding: 0 !important; /* Ensure no padding */
+            text-align: center;
+        }
+        .section-summary {
+            font-size: 10.3pt;
+            line-height: 1.4;
+            margin: 0 !important; /* Ensure no margin */
+            padding: 0 !important; /* Ensure no padding */
+            text-align: justify;
+        }
+        .section-title {
+            font-size: 10.3pt;
+            line-height: 1.4;
+            font-weight: 600;
+            padding-bottom: 0px !important; /* Reduced padding */
+            margin-bottom: 0px !important; /* Reduced margin */
+            padding-top: 0 !important; /* Ensure no top padding */
+            display: block; /* Ensure it's a block element again */
+            width: 100%; /* Take full width */
+            text-align: left; /* Align title to left */
+            text-decoration: underline; /* Retained underline on text */
+        }
+
+
+        /* Paragraph Styles */
+        p {
+            margin: 0 !important; /* Ensure no default paragraph margin */
+            padding: 0 !important; /* Ensure no default paragraph padding */
+            font-size: 10.3pt;
+            text-align: justify;
+        }
+
+        /* List Styles (Bullet Points) */
+        ul {
+            list-style: none; /* Remove default bullet */
+            padding: 0 !important; /* Remove default padding */
+            margin: 0 !important; /* Remove default margin */
+            /* This ensures the UL starts at the same horizontal position as section titles */
+            margin-left: 0.25in !important; /* Align UL with the page's left content margin */
+        }
+        li {
+            position: relative;
+            /* This ensures the text of the list item starts at the UL's left edge (0.75in from page margin) */
+            text-indent: 0in !important;
+            padding-left: 0in !important; /* Ensure no additional padding pushes text right */
+            margin-bottom: 0px !important; /* Reduced margin */
+            text-align: justify;
+            font-size: 10.3pt;
+            margin-left: 0 !important; /* Reset li's own margin-left */
+            padding-top: 0 !important; /* Ensure no top padding */
+            padding-bottom: 0 !important; /* Ensure no bottom padding */
+            line-height: 1.25;
+        }
+        li::before {
+            content: '•'; /* Custom bullet character */
+            position: absolute;
+            /* This pulls the bullet to the left of the LI's starting position.
+               If LI text starts at 0.75in page margin, then bullet will be at 0.75in - 0.25in = 0.5in. */
+            left: -0.12in; /* Adjusted to place bullet to the left of the text, at 0.5in from page edge */
+            font-size: 10.3pt; /* Adjust bullet size if needed */
+            line-height: inherit; /* Align with text baseline */
+        }
+        
+        /* Experience Section Specifics */
+        .experience-item {
+            margin-bottom: 0px !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+        .experience-title {
+            font-weight: 600;
+            font-size: 10.3pt;
+            line-height: 1.4;
+            margin: 0 !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+        .experience-description {
+            font-size: 10.3pt;
+            margin: 0 !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+            font-style: italic;
+        }
+        .experience-details {
+            font-size: 10.3pt;
+            line-height: 1.4;
+            margin: 0 !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+        .experience-bullets li {
+            margin: 0 !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+
+        /* Skills/Certifications List (similar to experience bullets but might need distinct styling) */
+        .skills-list li, .certifications-list li {
+            margin: 0 !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+        .skills-list strong, .certifications-list strong {
+            font-weight: 600;
+        }
+
+        /* Education */
+        .education-item {
+            margin: 0 !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+            font-size: 10.3pt;
+        }
+        .education-item strong {
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>SEBASTIAN OCHOA ALVAREZ</h1>
+            <p class="section-info">Orlando, FL ∙ (786) 475-0772</p>
+            <p class="section-info margin-bottom-5">sebastian.ochoa.alvarez@gmail.com ∙ <a href="www.linkedin.com/in/sebastianochoaalvarez">www.linkedin.com/in/sebastianochoaalvarez</a></p>
+        </header>
+        
+        <section class="section">
+            <p class="margin-top-10">July 2, 2025</p>
+            <p>STAND 8 Hiring Team</p>
+            <p>STAND 8 Technology Consulting</p>
+        </section>                
+
+        <p class="subject margin-top-10"><strong>SUBJECT:</strong> Application for Sr. IT Project Manager at STAND 8 Technology Consulting</p>
+
+        <section class="section">
+            <p class="content-paragraph">Dear STAND 8 Hiring Team,
+<br><br>
+I am writing to express my keen interest in the Sr. IT Project Manager position I discovered on LinkedIn. With over 10 years of experience managing large-scale software development and financial system implementations, I am confident that my background aligns perfectly with the requirements of this role.
+<br><br>
+My career has been focused on leading complex projects across the Finance, Media, and Retail industries. I have extensive experience overseeing day-to-day project operations, including managing a financial systems program for Banco de Chile and leading the development of a media platform for Concacaf. In these roles, I was responsible for the end-to-end delivery lifecycle, from initial planning and risk mitigation to stakeholder reporting and ensuring alignment between technical and business teams.
+<br><br>
+I am an expert in using JIRA and Confluence to manage timelines, track deliverables, and maintain clear documentation for cross-functional teams and leadership. My adaptive project management approach, combining Agile (SAFe, Scrum) and traditional methodologies, has enabled me to consistently drive accountability and deliver projects on schedule and within scope.
+<br><br>
+I am excited by the opportunity to contribute to a critical financial system project within the media and entertainment space and am eager to bring my skills to your team. Thank you for your time and consideration. I look forward to discussing how my experience can benefit your enterprise partners.
+<br><br>
+Sincerely,
+[Your Name]
+CAREER_SUMMARY: Adaptive Sr. IT Project Manager with 10+ years of experience leading complex financial system and software development projects in Media, Finance, and Retail. Expert in Agile (SAFe, Scrum) and traditional delivery lifecycles, skilled in managing large-scale, cross-functional teams to align technical execution with strategic business goals using JIRA and Confluence.
+SKILLS_TITLE_1: Project & Program Management
+SKILLS_DESC_1: Enterprise Delivery Lifecycles, Financial System Implementation, Risk Mitigation, Stakeholder Management, Status Reporting, Budget & Scope Control.
+SKILLS_TITLE_2: Agile Methodologies & Tools
+SKILLS_DESC_2: SAFe, Scrum of Scrums, Scrum, Kanban, JIRA, Confluence, MS Teams, Slack.
+SKILLS_TITLE_3: Technical & Industry Acumen
+SKILLS_DESC_3: Financial Systems, Media & Entertainment, E-commerce Platforms, Cloud (AWS/GCP), SDLC, AI Solutions, Systems Integration, Royalty Processing Concepts.
+SKILLS_TITLE_4: Leadership & Team Management
+SKILLS_DESC_4: Cross-Functional Team Leadership, Global Team Coordination (Onshore/Offshore), Performance & Velocity Improvement, Staffing & Resource Planning, C-Level Communication.
+JOB_TITLE_GLOBANT: Senior Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company offering innovative technology solutions. Focuses on AI-powered software development and consulting to help organizations reinvent their businesses and industries.
+COMPANY_BULLET_1_GLOBANT: Directed a financial systems program for Banco de Chile, leading 100+ engineers in a successful data center migration and mobile app feature deployment.
+COMPANY_BULLET_2_GLOBANT: Managed the Dick's Sporting Goods e-commerce portfolio, improving platform performance by 40% through adaptive quarterly roadmaps and leading 30+ cross-functional engineers.
+COMPANY_BULLET_3_GLOBANT: Oversaw the Royal Caribbean portfolio, using JIRA and Confluence to manage scope and risk for teams delivering new AI-driven guest application features.
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A technology consulting firm specializing in custom software, cloud services, and AI solutions for the Media, Entertainment, and Healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Led development of Concacaf’s media platform, delivering streaming services and news portals, managing the full project lifecycle from RFP to production support.
+COMPANY_BULLET_2_MANGOSOFT: Implemented AWS-based voice-to-text and medical imaging solutions, integrating complex data systems and improving physician workflow efficiency.
+COMPANY_BULLET_3_MANGOSOFT: Established Scrum methodologies and staffed teams of 10+ engineers, consistently delivering on project KPIs and OKRs for multiple fixed-price client contracts.
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: An innovation company engineering integrated hardware and software solutions, including IoT devices and management platforms for public safety and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Managed the end-to-end SDLC and deployment of over 3,000 bodycam units and a real-time management platform for the Colombian National Police.
+COMPANY_BULLET_2_TIPI: Led technical teams hands-on through coding and release management, ensuring on-time delivery and compliance with strict government contract requirements.
+COMPANY_BULLET_3_TIPI: Deployed SaaS-based nurse call and asset tracking systems across 10+ hospitals, improving patient response times and inter-department communication speed.
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider developing and implementing POS, CRM, and business management software for over 1,000 small businesses in the retail and fitness industries.
+COMPANY_BULLET_1_ITBIGBOSS: Directed the full SDLC for a SaaS-based POS platform, integrating payment processing, inventory control, and CRM features for 1,000+ business clients.
+COMPANY_BULLET_2_ITBIGBOSS: Led a 30-person on-site development team, managing the entire product lifecycle from feature definition and coding to release and operational support.
+COMPANY_BULLET_3_ITBIGBOSS: Grew the customer base by delivering tailored software adaptations, which increased business efficiency and client retention in competitive retail and service markets.
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, operating over 60 locations across Colombia, Peru, and Chile.
+COMPANY_BULLET_1_BODYTECH: Led the technology infrastructure rollout for 60+ new sites, managing networking, security, and IP phoning systems to support rapid business expansion.
+COMPANY_BULLET_2_BODYTECH: Spearheaded the implementation of Microsoft Dynamics CRM & ERP, automating billing and member management, which reduced data entry time and improved financial accuracy.
+COMPANY_BULLET_3_BODYTECH: Established and led the IT Service Desk, implementing support workflows that improved system uptime and the technology service satisfaction score across the organization.</p>
+        </section>
+    </div>
+</body>
+</html>

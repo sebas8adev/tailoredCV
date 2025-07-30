@@ -1,0 +1,55 @@
+# Global Information
+HIRING_MANAGER: Westwood Hiring Team
+COMPANY_NAME: Westwood Professional Services
+JOB_ROLE: Senior Project Manager, Renewables
+APPLICATION_DATE: July 3, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Senior Project Manager, Renewables at Westwood Professional Services
+CONTENT: Dear Westwood Hiring Team,<br><br>I am writing to express my strong interest in the Senior Project Manager, Renewables position at Westwood Professional Services, as advertised on LinkedIn. With over 10 years of experience managing complex, large-scale technical projects and client portfolios, I am confident that my skills in strategic planning, team leadership, and financial oversight align perfectly with the requirements of this role.<br><br>Throughout my career, I have taken full accountability for project success, from initial proposal and contract negotiation to final delivery and support. My experience includes managing portfolios for clients like Royal Caribbean and Dick's Sporting Goods, where I was responsible for strategic alignment, revenue targets, and building strong stakeholder relationships. I have a history of leading cross-functional, global teams of over 100 professionals, fostering collaboration and ensuring project objectives are met on time and within budget.<br><br>My background in managing diverse technical projects—spanning cloud infrastructure, hardware/software integrations, and AI-driven solutions—has honed my ability to quickly adapt to new industries and technologies. I am adept at leading issue resolution, managing risk, and overseeing project financial metrics to ensure profitability and strategic success. My approach is adaptive and innovative, and I am eager to apply my leadership and project management expertise to contribute to Westwood's success in the sustainable energy future.<br><br>Thank you for your time and consideration. I look forward to discussing how my experience can benefit your team.<br><br>Sincerely,<br>Juan F. Gonzalez
+
+# CV Content
+CAREER_SUMMARY: Adaptive Senior Project Manager with 10+ years of experience leading global teams and delivering complex technical projects across diverse industries. Expert in managing portfolios of AI-driven, cloud-based, and systems integration solutions. Skilled in Agile (SAFe, Scrum) and traditional methodologies, with strengths in full lifecycle delivery, from strategic proposal to financial oversight and executive reporting.
+SKILLS_TITLE_1: Project & Program Management
+SKILLS_DESC_1: Full Project Lifecycle, Portfolio Management, Risk Management, Issue Resolution, SDLC, Cloud Infrastructure (AWS, GCP), Hardware/Software Integration, AI-driven Solutions.
+SKILLS_TITLE_2: Client & Strategic Leadership
+SKILLS_DESC_2: Client Relationship Management, Strategic Planning, Proposal Development (RFP), Contract Negotiation, Go/No-Go Analysis, C-Level & Stakeholder Reporting.
+SKILLS_TITLE_3: Financial Acumen & Performance
+SKILLS_DESC_3: Project Financial Metrics, Budget Oversight, T&M & Fixed Price Models, KPI & OKR Tracking, Performance & Cost Optimization, Resource Management.
+SKILLS_TITLE_4: Team Leadership & Methodologies
+SKILLS_DESC_4: Agile (SAFe, Scrum, Kanban), Waterfall & Hybrid Models, Global Team Management (100+), Cross-Functional Coordination, Mentoring, Process Improvement.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Senior Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company reinventing businesses through innovative technology solutions, specializing in AI-powered software development and consulting for global enterprises.
+COMPANY_BULLET_1_GLOBANT: Managed a project portfolio for Royal Caribbean, leading 3 global teams to deliver an AI chatbot and guest app features on time and budget.
+COMPANY_BULLET_2_GLOBANT: Drove a 40% e-commerce performance improvement for Dick's Sporting Goods by leading teams through a Core Web Vitals optimization initiative using Scrum.
+COMPANY_BULLET_3_GLOBANT: Led program strategy for Banco de Chile, staffing over 150 roles and implementing a Scrum of Scrums framework to guide a 100+ person team.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm delivering custom cloud-based solutions, specializing in media streaming, big data, and innovative healthcare applications for North American clients.
+COMPANY_BULLET_1_MANGOSOFT: Led end-to-end development of a media streaming platform for Concacaf, managing AWS cloud services integration to deliver new features for live matches.
+COMPANY_BULLET_2_MANGOSOFT: Directed multiple healthcare projects, delivering a voice-to-text AI solution (AWS Polly) that improved clinical workflow efficiency for several hospitals.
+COMPANY_BULLET_3_MANGOSOFT: Managed the full project lifecycle from RFP and proposal to production, successfully delivering multiple fixed-price projects and building lasting client relationships.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology company specializing in integrated hardware and software solutions, including IoT devices and management platforms for public safety and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Directed the end-to-end development of a bodycam system for law enforcement, successfully deploying over 3,000 devices and a real-time management platform.
+COMPANY_BULLET_2_TIPI: Led technical teams in hands-on development and operations, managing the full SDLC for embedded Android firmware and cloud software under government contract.
+COMPANY_BULLET_3_TIPI: Implemented an RFID asset tracking and nurse call system across 10+ hospitals, improving operational efficiency and patient communication speed.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering POS and business management software, scaling to serve over 1,000 small businesses across the retail and wellness industries.
+COMPANY_BULLET_1_ITBIGBOSS: Led the complete SDLC for a multi-feature POS system, managing hands-on coding, quality assurance, and release management for a large user base.
+COMPANY_BULLET_2_ITBIGBOSS: Directed product implementation and customization for over 1,000 small businesses in Latam, driving high customer adoption and scaling operational support.
+COMPANY_BULLET_3_ITBIGBOSS: Integrated the SaaS platform with payment processors, biometrics, and accounting apps, expanding product functionality and reducing customer data entry time.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in South America, operating over 60 locations across Colombia, Peru, and Chile.
+COMPANY_BULLET_1_BODYTECH: Managed technology infrastructure and operations across 60+ sites, overseeing networking, IT service desk, and security systems to maintain 99% system uptime.
+COMPANY_BULLET_2_BODYTECH: Led the technical implementation of Microsoft Dynamics CRM & ERP, enhancing business processes and centralizing data for the enterprise, improving reporting accuracy.
+COMPANY_BULLET_3_BODYTECH: Directed the lifecycle for a custom access control system, integrating software with turnstiles and biometrics to automate check-in for thousands of members daily.

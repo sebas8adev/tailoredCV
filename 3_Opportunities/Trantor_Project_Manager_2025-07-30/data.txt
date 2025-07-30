@@ -1,0 +1,55 @@
+# Global Information
+HIRING_MANAGER: Vinay Patole
+COMPANY_NAME: Trantor
+JOB_ROLE: Project Manager
+APPLICATION_DATE: July 2, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Project Manager at Trantor
+CONTENT: Dear Vinay Patole,<br><br>I am writing to express my keen interest in the Project Manager position at Trantor, which I discovered on LinkedIn. With over 10 years of experience leading large-scale technology implementations, my background in both the Financial Services and Healthcare sectors aligns perfectly with the core requirements of this role.<br><br>My career has been centered on steering complex technology transformations, from enterprise platform rollouts to core system migrations. I am an expert in adaptive project management, utilizing Agile, Waterfall, and hybrid methodologies to drive outcomes. My experience includes developing comprehensive project plans, managing budgets, mitigating risks, and fostering strong relationships with stakeholders and third-party vendors to ensure strategic alignment and successful delivery.<br><br>At Globant, I led a datacenter migration for Banco de Chile and implemented AI-driven solutions for Royal Caribbean. In my work with healthcare clients, I managed the end-to-end implementation of medical imaging integrations and voice-to-text applications, always focusing on regulatory compliance and improving operational efficiency.<br><br>I am confident that my consulting background and hands-on experience in driving digital transformations make me an excellent candidate to contribute to your team. I am eager to discuss how my skills can benefit Trantor.<br><br>Thank you for your time and consideration.<br><br>Sincerely,<br>Andres Toro
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading large-scale technology implementations for global teams across the Healthcare and Financial Services industries. Expert in Agile, Waterfall, and hybrid methodologies, managing the full project lifecycle from planning to delivery. Skilled in stakeholder management, financial oversight, and driving enterprise platform rollouts and digital transformations.
+SKILLS_TITLE_1: Project & Program Management
+SKILLS_DESC_1: Technology Implementation, Digital Transformation, Stakeholder & Vendor Management, Budgeting & Financial Oversight, Risk Mitigation, Enterprise Platform Rollouts, Executive Reporting.
+SKILLS_TITLE_2: Agile & Delivery Methodologies
+SKILLS_DESC_2: SAFe, Scrum, Kanban, Scrum of Scrums, Waterfall, Hybrid Models, SDLC.
+SKILLS_TITLE_3: Domain Expertise
+SKILLS_DESC_3: Healthcare (HIPAA), Financial Services (SOX), Retail, Travel & Hospitality, Public Safety.
+SKILLS_TITLE_4: Technical & PM Tools
+SKILLS_DESC_4: Jira, Confluence, MS Project, Asana, Clickup, AWS, GCP, Azure, AI/GenAI Solutions.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company offering innovative technology solutions. We leverage AI and software development to create digital transformations for top global brands.
+COMPANY_BULLET_1_GLOBANT: Led a datacenter migration for Banco de Chile from on-prem to GCP, ensuring seamless transition and enhancing operational stability for core banking services.
+COMPANY_BULLET_2_GLOBANT: Directed the implementation of an AI-powered chatbot for Royal Caribbean, improving guest service efficiency and tailoring advertising for increased future cruise sales.
+COMPANY_BULLET_3_GLOBANT: Drove a 40% e-commerce performance improvement for Dick’s Sporting Goods by leading a Core Web Vitals initiative, boosting user experience and online sales.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm specializing in cloud-native solutions, Big Data, and AI applications for the media, sports, and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Managed end-to-end implementation of medical imaging integrations for hospitals, using AWS and DICOM standards to improve diagnostic workflow and physician access.
+COMPANY_BULLET_2_MANGOSOFT: Delivered a voice-to-text application for healthcare professionals, leveraging AWS Polly to reduce documentation time by over 50% and improve patient care.
+COMPANY_BULLET_3_MANGOSOFT: Spearheaded the development of a media asset management platform for Concacaf, enabling live streaming and enhancing fan engagement across multiple championships.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Project Manager
+COMPANY_SUMMARY_TIPI: A technology company delivering integrated hardware and software solutions, specializing in IoT devices and management platforms for public safety and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Led the full SDLC and deployment of 3,000+ bodycam units for the Colombian Police, improving officer accountability and evidence management under government contract.
+COMPANY_BULLET_2_TIPI: Deployed an integrated nurse-call and asset tracking system in 10+ hospitals, using Bluetooth and RFID to improve staff response times and asset utilization.
+COMPANY_BULLET_3_TIPI: Directed development of an Android firmware and web management platform, enabling real-time streaming and facial recognition for enhanced security operations.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering a comprehensive POS solution for SMBs in the restaurant, fitness, and retail industries, managing the full business lifecycle.
+COMPANY_BULLET_1_ITBIGBOSS: Led the software development lifecycle for a POS SaaS platform, successfully deploying to over 1,000 small businesses and increasing market penetration in Latam.
+COMPANY_BULLET_2_ITBIGBOSS: Integrated biometric and payment systems into the POS platform, automating sales and employee management, which reduced fraud and operational overhead for clients.
+COMPANY_BULLET_3_ITBIGBOSS: Managed the hands-on technical team through coding, reviews, and releases, ensuring high-quality software and continuous adaptation to diverse client needs.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, focused on providing wellness services powered by innovative technology platforms and infrastructure.
+COMPANY_BULLET_1_BODYTECH: Directed the technology infrastructure rollout for over 60 new sites, implementing networking, CCTV, and IP phoning to support rapid business expansion.
+COMPANY_BULLET_2_BODYTECH: Led the enterprise implementation of Microsoft Dynamics CRM & ERP, automating billing and member management, resulting in improved data accuracy and member retention.
+COMPANY_BULLET_3_BODYTECH: Established and managed the IT Service Desk from the ground up, defining workflows and support protocols to achieve high system uptime and user satisfaction.

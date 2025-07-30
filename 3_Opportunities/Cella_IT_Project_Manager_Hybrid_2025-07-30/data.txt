@@ -1,0 +1,55 @@
+# Global Information
+HIRING_MANAGER: Sarah Jane Anderson
+COMPANY_NAME: Cella
+JOB_ROLE: IT Project Manager (Hybrid)
+APPLICATION_DATE: July 5, 2025
+
+# Cover Letter Content
+SUBJECT: Application for IT Project Manager (Hybrid) at Cella
+CONTENT: Dear Sarah Jane Anderson,<br><br>I am writing to express my keen interest in the IT Project Manager (Hybrid) role at Cella, which I discovered on LinkedIn. With over 10 years of experience managing complex, enterprise-level technology programs for global leaders in the entertainment and digital sectors, my background aligns perfectly with the requirements for this position and your top entertainment client.<br><br>My career has been focused on leading large, matrixed teams through the entire project lifecycle. I am an expert in JIRA, utilizing its advanced features for roadmap development, dashboard reporting, and meticulous sprint tracking. A core component of my expertise is facilitating SAFe practices, including PI Planning and sprint activities, to ensure programs are delivered on time and aligned with strategic business goals. My experience at Royal Caribbean Group, in particular, involved overseeing multiple digital programs that are directly comparable to the responsibilities outlined in your job description.<br><br>I am highly proficient in providing executive-level communication, translating complex project data into clear progress metrics, and managing risks and dependencies for multi-million-dollar programs. I am confident that my adaptive project management approach and my experience with new product development, process improvement, and large-scale data migrations make me an ideal candidate to contribute to your team's success.<br><br>Thank you for your time and consideration. I have attached my resume for your review and look forward to discussing how my skills and experience can benefit Cella and your client.<br><br>Sincerely,<br>Andres Jimenez
+
+# CV Content
+CAREER_SUMMARY: Adaptive IT Project Manager with 10+ years of experience leading complex, enterprise-level digital and technology programs for global entertainment, retail, and finance clients. Expert in SAFe and advanced JIRA utilization for roadmap execution and executive reporting. Specializes in managing multi-million dollar projects, large-scale system migrations, and AI-driven solutions, consistently delivering on strategic goals.
+SKILLS_TITLE_1: Program & Portfolio Management
+SKILLS_DESC_1: Enterprise Program Leadership, Multi-Project Coordination, Executive Reporting, Risk Management, Budget Oversight, Data & System Migration, Process Improvement.
+SKILLS_TITLE_2: Agile Methodologies & Frameworks
+SKILLS_DESC_2: Scaled Agile Framework (SAFe), PI Planning, Scrum of Scrums, Scrum, Kanban, Story Point Sizing, Hybrid Waterfall/Agile.
+SKILLS_TITLE_3: Project Management Software
+SKILLS_DESC_3: JIRA (Expert-Level: Roadmaps, Dashboards, Advanced Queries), Confluence, MS Teams, Slack, Asana, Azure DevOps.
+SKILLS_TITLE_4: Technology & Industry Domains
+SKILLS_DESC_4: Cloud (AWS, GCP), AI Solutions (Chatbots, GenAI), SDLC, E-commerce, Entertainment, Finance, Healthcare, Retail.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: IT Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company focused on reinventing businesses through innovative technology solutions, specializing in AI, cloud, and end-to-end software development for global enterprises.
+COMPANY_BULLET_1_GLOBANT: Led a digital program for Royal Caribbean, overseeing 3 teams using SAFe and JIRA to launch AI chatbots and guest apps, increasing user engagement.
+COMPANY_BULLET_2_GLOBANT: Drove e-commerce platform enhancements for Dick's Sporting Goods, improving Core Web Vitals performance by 40% through adaptive Scrum of Scrums management.
+COMPANY_BULLET_3_GLOBANT: Directed a 100+ person program for Banco de Chile, establishing a Scrum of Scrums framework and leading 5 scrum masters for a data migration.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: IT Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A custom software development firm creating high-impact digital products, specializing in cloud-native applications, big data solutions, and media streaming services for diverse clients.
+COMPANY_BULLET_1_MANGOSOFT: Delivered media and streaming apps for Concacaf, managing the full project lifecycle on AWS, resulting in a successful launch for major soccer championships.
+COMPANY_BULLET_2_MANGOSOFT: Led development of a voice-to-text application for healthcare clients, integrating AWS AI services to automate clinical documentation and reduce administrative time.
+COMPANY_BULLET_3_MANGOSOFT: Managed a complex data integration project, transferring medical imaging data to AWS cloud, ensuring HL7 and DICOM compliance for multiple hospital systems.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology company providing integrated hardware and software solutions for public safety and healthcare, specializing in IoT devices, real-time data, and management platforms.
+COMPANY_BULLET_1_TIPI: Led the end-to-end development of a bodycam system for the Colombian Police, successfully deploying over 3,000 devices and a central management platform.
+COMPANY_BULLET_2_TIPI: Implemented an RFID-based asset tracking and nurse call system across 10+ hospitals, improving operational efficiency and staff response times through real-time data.
+COMPANY_BULLET_3_TIPI: Directed the full SDLC for embedded Android firmware and a Java/Python-based management backend, leading code reviews and release management for government contracts.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider developing comprehensive POS and business management software for small and medium-sized businesses in the retail, fitness, and restaurant industries.
+COMPANY_BULLET_1_ITBIGBOSS: Owned the entire SDLC for a SaaS POS product, leading development and scaling the platform to support over 1,000 small businesses across LATAM.
+COMPANY_BULLET_2_ITBIGBOSS: Provided hands-on technical leadership, coding in .NET and managing SQL databases, while also leading code reviews to ensure high-quality software releases.
+COMPANY_BULLET_3_ITBIGBOSS: Engineered multiple third-party integrations including payment processors and biometrics, expanding product functionality and increasing its market appeal for retail and fitness clients.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading chain of health and fitness centers in LATAM, dedicated to improving members' well-being through professional services and advanced technology infrastructure.
+COMPANY_BULLET_1_BODYTECH: Managed all IT infrastructure, including networking and security, across 60+ new sites in Colombia, Peru, and Chile, ensuring operational readiness for rapid expansion.
+COMPANY_BULLET_2_BODYTECH: Led the technical implementation of Microsoft Dynamics CRM & ERP systems, centralizing member data and billing, which improved service efficiency and member retention.
+COMPANY_BULLET_3_BODYTECH: Directed the SDLC for a proprietary CRM and access control system and established the IT Service Desk, improving both system uptime and user support.

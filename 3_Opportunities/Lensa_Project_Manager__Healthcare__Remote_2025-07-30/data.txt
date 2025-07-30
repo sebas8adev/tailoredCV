@@ -1,0 +1,55 @@
+# Global Information
+HIRING_MANAGER: Lensa Hiring Team
+COMPANY_NAME: AssistRx
+JOB_ROLE: Project Manager - Healthcare
+APPLICATION_DATE: July 2, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Project Manager - Healthcare at AssistRx
+CONTENT: Dear Lensa Hiring Team,<br><br>I am writing to express my keen interest in the Project Manager - Healthcare role at AssistRx, which I discovered on LinkedIn. With over 10 years of experience managing complex, client-facing software implementation projects, particularly within the healthcare and pharmaceutical-support sectors, I am confident that my skills align perfectly with the requirements of this position.<br><br>My background includes extensive experience leading the full software development lifecycle for SaaS and enterprise applications. I am adept at managing technical integrations, including APIs and secure file transfers, and collaborating closely with cross-functional teams of business analysts, developers, and QA engineers to translate client needs into robust technical solutions. My proficiency in Agile, Scrum, and SAFe methodologies ensures adaptive and efficient project execution, from initial discovery and requirements gathering to final delivery and support.<br><br>Throughout my career, I have focused on building strong client relationships, serving as the primary point of contact and a trusted advisor during implementations. I have a history of delivering projects that not only meet technical specifications but also reduce administrative burdens and improve user workflows, resonating with AssistRx's mission to make a difference in patients' lives. I am excited by the opportunity to bring my technical project management expertise and passion for healthcare innovation to the AssistRx team.<br><br>Thank you for your time and consideration. I have attached my resume for your review and welcome the opportunity to discuss my qualifications further.<br><br>Sincerely,<br><br>Juan Perez
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading complex, client-facing software implementations across the healthcare, finance, and retail industries. Expert in managing the full SDLC for SaaS and integration-heavy projects, delivering solutions that enhance operational efficiency. Skilled in Agile methodologies, leading cross-functional teams to exceed project goals.
+SKILLS_TITLE_1: Project Management Methodologies
+SKILLS_DESC_1: SAFe, Scrum, Kanban, Scrum of Scrums, Hybrid (Agile/Waterfall)
+SKILLS_TITLE_2: Technical & Domain Expertise
+SKILLS_DESC_2: SaaS Implementation, API & System Integration, SDLC Management, Cloud Platforms (AWS, GCP), AI/ML Solutions
+SKILLS_TITLE_3: Tools & Processes
+SKILLS_DESC_3: Jira, Confluence, MS Project, RFP Analysis, Budget & Risk Management, Executive Reporting (KPIs/OKRs), Release Management
+SKILLS_TITLE_4: Industry Acumen
+SKILLS_DESC_4: Healthcare, Pharmaceutical Support Services, Finance & Banking, Retail & E-commerce, Travel & Hospitality
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Technical Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native consulting firm leveraging AI and innovative technologies to help organizations reinvent their business and create a way forward in their industries.
+COMPANY_BULLET_1_GLOBANT: Drove a 40% performance boost for Dick's Sporting Goods' e-commerce platform by leading Core Web Vitals optimizations and adaptive quarterly roadmap execution.
+COMPANY_BULLET_2_GLOBANT: Managed development of an AI-powered chatbot and guest app features for Royal Caribbean, enhancing user engagement and onboard service delivery across three global teams.
+COMPANY_BULLET_3_GLOBANT: Led program delivery for Banco de Chile, orchestrating the staffing of over 150 positions and implementing a Scrum of Scrums to align five Agile teams.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm specializing in custom cloud-based solutions, Big Data analytics, and streaming services for the media, sports, and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Spearheaded SaaS implementations for multiple clinics, delivering voice-to-text and medical imaging solutions that improved physician workflows and reduced administrative burden.
+COMPANY_BULLET_2_MANGOSOFT: Directed the integration of medical device data (DICOM) to AWS cloud services, establishing a secure patient portal for image visualization and physician commentary.
+COMPANY_BULLET_3_MANGOSOFT: Managed end-to-end fixed-price projects for clients like Concacaf, from RFP analysis to production support, ensuring on-time delivery and high client satisfaction.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology provider of integrated hardware and software solutions, including IoT devices and management platforms for public safety and healthcare organizations.
+COMPANY_BULLET_1_TIPI: Deployed SaaS-based nurse call and asset tracking solutions in over 10 hospitals, enhancing patient care speed and improving asset management efficiency.
+COMPANY_BULLET_2_TIPI: Led the full SDLC for a bodycam system for the Colombian Police, deploying 3,000+ devices with integrated management and facial recognition software.
+COMPANY_BULLET_3_TIPI: Directed technical teams hands-on through coding and release management, ensuring high-quality delivery and on-time completion under strict government contract regulations.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering customizable POS, CRM, and business management software for over 1,000 small businesses in the retail and health sectors.
+COMPANY_BULLET_1_ITBIGBOSS: Led the entire SDLC for a flagship SaaS product, growing the user base to over 1,000 businesses by developing features tailored to market needs.
+COMPANY_BULLET_2_ITBIGBOSS: Engineered integrations with biometrics, payment processors, and accounting apps, automating billing processes and reducing client data entry time by over 50%.
+COMPANY_BULLET_3_ITBIGBOSS: Functioned as a co-owner, leading technical development and operations, which directly drove product adoption and achieved high client retention rates.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, providing comprehensive wellness services across Colombia, Peru, and Chile.
+COMPANY_BULLET_1_BODYTECH: Managed the IT infrastructure expansion to over 60 sites, overseeing networking and security implementations to support rapid, multi-national business growth.
+COMPANY_BULLET_2_BODYTECH: Directed the corporate implementation of Microsoft Dynamics CRM & ERP, and established the IT Service Desk, improving ticket resolution rates and system uptime.
+COMPANY_BULLET_3_BODYTECH: Led the full life cycle for a proprietary CRM and billing software, resulting in streamlined member management and increased operational efficiency across all locations.

@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cover Letter - Sebastian Ochoa Alvarez</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        /* Basic Reset & Font */
+        body {
+            font-family: 'Open Sans', sans-serif;
+            line-height: 1.4; /* Reduced line height for tighter spacing */
+            color: black;
+            margin: 0;
+            padding: 0;
+            -webkit-print-color-adjust: exact; /* For printing background colors */
+            box-sizing: border-box;
+        }
+
+        /* Page Margins for PDF Output */
+        @page {
+            size: A4; /* Or Letter */
+            margin: 0.85in 0.50in 0.82in 0.50in; /* Top, Right, Bottom, Left */
+        }
+
+        .container {
+            width: 100%;
+            max-width: 8.5in; /* Standard Letter width */
+            margin: 0 auto; /* Center content */
+            padding: 0; /* Page margins handled by @page rule */
+            box-sizing: border-box;
+        }
+
+        /* Utility classes for controlled spacing */
+        .margin-top-10 { margin-top: 10px !important; }
+        .margin-bottom-10 { margin-bottom: 10px !important; }
+        .margin-bottom-5 { margin-bottom: 5px !important; }
+        .no-margin { margin: 0 !important; }
+        .no-padding { padding: 0 !important; }
+
+
+        /* Header Styles */
+        .header {
+            text-align: center;
+            margin-bottom: 0px !important; /* Ensure no margin */
+        }
+        .header h1 {
+            font-size: 10.3pt;
+            font-weight: 600;
+            line-height: 1.4;
+            margin: 0 !important; /* Ensure no margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+        .header p {
+            font-size: 10.3pt;
+            margin: 0 !important; /* Ensure no margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+        .header a {
+            color: black;
+            text-decoration: none;
+        }
+        .header a:hover {
+            text-decoration: underline;
+        }
+
+        /* Section Styles */
+        .section {
+            margin-bottom: 0px !important; /* Ensure no margin */
+            margin-top: 6px !important; /* Ensure no margin */
+            padding: 0 !important; /* Ensure no padding */
+            padding-top: 6px !important; /* Ensure no margin */
+        }   
+        .section-info {
+            font-size: 10.3pt;
+            line-height: 1.4;
+            margin: 0 !important; /* Ensure no margin */
+            padding: 0 !important; /* Ensure no padding */
+            text-align: center;
+        }
+        .section-summary {
+            font-size: 10.3pt;
+            line-height: 1.4;
+            margin: 0 !important; /* Ensure no margin */
+            padding: 0 !important; /* Ensure no padding */
+            text-align: justify;
+        }
+        .section-title {
+            font-size: 10.3pt;
+            line-height: 1.4;
+            font-weight: 600;
+            padding-bottom: 0px !important; /* Reduced padding */
+            margin-bottom: 0px !important; /* Reduced margin */
+            padding-top: 0 !important; /* Ensure no top padding */
+            display: block; /* Ensure it's a block element again */
+            width: 100%; /* Take full width */
+            text-align: left; /* Align title to left */
+            text-decoration: underline; /* Retained underline on text */
+        }
+
+
+        /* Paragraph Styles */
+        p {
+            margin: 0 !important; /* Ensure no default paragraph margin */
+            padding: 0 !important; /* Ensure no default paragraph padding */
+            font-size: 10.3pt;
+            text-align: justify;
+        }
+
+        /* List Styles (Bullet Points) */
+        ul {
+            list-style: none; /* Remove default bullet */
+            padding: 0 !important; /* Remove default padding */
+            margin: 0 !important; /* Remove default margin */
+            /* This ensures the UL starts at the same horizontal position as section titles */
+            margin-left: 0.25in !important; /* Align UL with the page's left content margin */
+        }
+        li {
+            position: relative;
+            /* This ensures the text of the list item starts at the UL's left edge (0.75in from page margin) */
+            text-indent: 0in !important;
+            padding-left: 0in !important; /* Ensure no additional padding pushes text right */
+            margin-bottom: 0px !important; /* Reduced margin */
+            text-align: justify;
+            font-size: 10.3pt;
+            margin-left: 0 !important; /* Reset li's own margin-left */
+            padding-top: 0 !important; /* Ensure no top padding */
+            padding-bottom: 0 !important; /* Ensure no bottom padding */
+            line-height: 1.25;
+        }
+        li::before {
+            content: '•'; /* Custom bullet character */
+            position: absolute;
+            /* This pulls the bullet to the left of the LI's starting position.
+               If LI text starts at 0.75in page margin, then bullet will be at 0.75in - 0.25in = 0.5in. */
+            left: -0.12in; /* Adjusted to place bullet to the left of the text, at 0.5in from page edge */
+            font-size: 10.3pt; /* Adjust bullet size if needed */
+            line-height: inherit; /* Align with text baseline */
+        }
+        
+        /* Experience Section Specifics */
+        .experience-item {
+            margin-bottom: 0px !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+        .experience-title {
+            font-weight: 600;
+            font-size: 10.3pt;
+            line-height: 1.4;
+            margin: 0 !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+        .experience-description {
+            font-size: 10.3pt;
+            margin: 0 !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+            font-style: italic;
+        }
+        .experience-details {
+            font-size: 10.3pt;
+            line-height: 1.4;
+            margin: 0 !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+        .experience-bullets li {
+            margin: 0 !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+
+        /* Skills/Certifications List (similar to experience bullets but might need distinct styling) */
+        .skills-list li, .certifications-list li {
+            margin: 0 !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+        .skills-list strong, .certifications-list strong {
+            font-weight: 600;
+        }
+
+        /* Education */
+        .education-item {
+            margin: 0 !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+            font-size: 10.3pt;
+        }
+        .education-item strong {
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>SEBASTIAN OCHOA ALVAREZ</h1>
+            <p class="section-info">Orlando, FL ∙ (786) 475-0772</p>
+            <p class="section-info margin-bottom-5">sebastian.ochoa.alvarez@gmail.com ∙ <a href="www.linkedin.com/in/sebastianochoaalvarez">www.linkedin.com/in/sebastianochoaalvarez</a></p>
+        </header>
+        
+        <section class="section">
+            <p class="margin-top-10">July 2, 2025</p>
+            <p>Insight Global Hiring Team</p>
+            <p>Insight Global</p>
+        </section>                
+
+        <p class="subject margin-top-10"><strong>SUBJECT:</strong> Application for Remote Channel Experiences Planning Program Manager at Insight Global</p>
+
+        <section class="section">
+            <p class="content-paragraph">Dear Insight Global Hiring Team,
+<br><br>
+I am writing to express my keen interest in the Remote Channel Experiences Planning Program Manager role. With over 10 years of experience leading complex go-to-channel initiatives and product launches for global brands, my background aligns directly with the key responsibilities and qualifications for this position.
+<br><br>
+My career has focused on bringing process rigor and execution excellence to digital and physical channel experiences across Retail, Travel, and Consumer Electronics. I have a strong record of:
+<br><br>
+- **Driving Go-to-Channel Strategy:** At TIPI, I led the end-to-end go-to-market execution for an integrated hardware/software solution, successfully deploying over 3,000 devices and establishing the supporting channel infrastructure.
+<br><br>
+- **Enhancing Sales Velocity:** For Dick's Sporting Goods, I spearheaded an initiative that boosted e-commerce performance by 40%, directly impacting sales growth by optimizing the digital channel.
+<br><br>
+- **Leading Complex Program Planning:** I have managed the full program lifecycle for multifaceted product suites, like the guest experience apps for Royal Caribbean, ensuring stakeholder alignment, mitigating risks, and delivering on strategic goals in fast-paced, matrixed organizations.
+<br><br>
+I am adept at creating detailed project plans, fostering executive-level communication, and developing scalable best practices. My experience managing integrated hardware and software rollouts makes me confident in my ability to contribute to RL's sales goals.
+<br><br>
+I am eager to discuss how my expertise in channel enablement and program management can bring significant value to your team. Thank you for your time and consideration.
+<br><br>
+Sincerely,
+<br>
+[Your Name]
+CAREER_SUMMARY: Adaptive Program Manager with 10+ years of experience leading complex go-to-channel initiatives for global brands in Retail, Hospitality, and Consumer Electronics. Expert in optimizing channel sales strategy through process rigor and data-driven planning. Skilled in launching integrated hardware/software products and driving sales growth.
+SKILLS_TITLE_1: Go-to-Channel & Program Management
+SKILLS_DESC_1: Go-to-Channel Strategy, Product Launch Planning, Strategic Initiatives, Process Optimization, Risk Management, Stakeholder Alignment, Executive Communications.
+SKILLS_TITLE_2: Sales & Channel Enablement
+SKILLS_DESC_2: Retail & B2B Channel Operations, Sales Enablement, Digital & Physical Merchandising, Consumer Electronics, AR/VR Industry Knowledge.
+SKILLS_TITLE_3: Project Execution & Methodologies
+SKILLS_DESC_3: Agile (SAFe, Scrum, Kanban), Hybrid Models, Project Planning & Execution, Budget & Resource Management, KPI & OKR Tracking, Jira, Confluence.
+SKILLS_TITLE_4: Technical & Platform Acumen
+SKILLS_DESC_4: Cloud Platforms (AWS, GCP), AI & Generative AI Solutions, SaaS & Mobile App Development, Hardware/Software Integration, Systems Integration.
+JOB_TITLE_GLOBANT: Technical Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company offering AI-powered software development and consulting services to help organizations reinvent themselves and unleash their potential.
+COMPANY_BULLET_1_GLOBANT: Directed go-to-channel planning for Royal Caribbean's guest app suite, leading to enhanced onboard sales and improved customer engagement across four key products.
+COMPANY_BULLET_2_GLOBANT: Boosted Dick’s Sporting Goods’ e-commerce performance by 40% by optimizing Core Web Vitals, directly increasing online sales velocity and customer satisfaction.
+COMPANY_BULLET_3_GLOBANT: Led PI planning and roadmap execution for portfolios over 100+ engineers, ensuring alignment between C-level stakeholders and distributed teams on business objectives.
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm specializing in cloud services, big data, and custom AI solutions for media, healthcare, and enterprise clients.
+COMPANY_BULLET_1_MANGOSOFT: Managed the end-to-end product launch for Concacaf’s media and streaming platform, establishing a new digital channel for fan engagement and media consumption.
+COMPANY_BULLET_2_MANGOSOFT: Drove the development of a voice-to-text AI solution for healthcare, streamlining clinical workflows and improving practitioner efficiency by automating documentation.
+COMPANY_BULLET_3_MANGOSOFT: Implemented Scrum methodologies that accelerated product delivery for fixed-price contracts by establishing clear roadmaps and KPI tracking for teams of 10+ engineers.
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology company developing and implementing integrated hardware and software solutions, specializing in IoT for public safety and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Led go-to-market execution for a bodycam hardware/software solution for law enforcement, successfully deploying over 3,000 devices and establishing operational support workflows.
+COMPANY_BULLET_2_TIPI: Managed the full SDLC for integrated hardware solutions, including firmware and management software, ensuring on-time delivery under strict government contract regulations.
+COMPANY_BULLET_3_TIPI: Deployed RFID and Bluetooth-based asset tracking systems in 10+ hospitals, improving communication speed and operational efficiency for patient care.
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A Software-as-a-Service (SaaS) provider delivering point-of-sale (POS) and business management solutions for the restaurant, fitness, and retail industries.
+COMPANY_BULLET_1_ITBIGBOSS: Scaled a SaaS POS platform to over 1,000 small businesses, managing the full product lifecycle to drive user adoption and market penetration.
+COMPANY_BULLET_2_ITBIGBOSS: Directed the integration of payment processing, inventory, and CRM features, providing a channel solution that automated billing and improved client operations.
+COMPANY_BULLET_3_ITBIGBOSS: Led a 30-person development team in a hybrid environment, delivering continuous product enhancements and maintaining high platform uptime for all subscribers.
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading chain of health and fitness centers across Latin America, providing comprehensive wellness services and medical expertise to its members.
+COMPANY_BULLET_1_BODYTECH: Directed technology infrastructure and hardware rollouts across 60+ fitness centers in three countries, including access control, biometrics, and networking systems.
+COMPANY_BULLET_2_BODYTECH: Managed the lifecycle for a custom CRM and billing system, supporting business growth and increasing member retention through improved data management.
+COMPANY_BULLET_3_BODYTECH: Established the IT Service Desk from the ground up, implementing support processes that achieved high system uptime and user satisfaction scores.</p>
+        </section>
+    </div>
+</body>
+</html>

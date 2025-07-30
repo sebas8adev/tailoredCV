@@ -1,0 +1,46 @@
+Status: pending
+Data-Status: pending
+Job board: LinkedIn
+Company Name: TALENT Software Services
+Role Name: IT Project Manager
+Location: United States
+Type: Not specified
+Salary range: Not specified
+Hiring Team: Not identified
+Application Instructions: LinkedIn Easy Apply
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4273334786&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+Job Description:
+About the job
+Job Description:
+
+Responsibilities
+
+ Serve as a project leader with multiple medium sized projects. Contribute to the definition, planning, and delivery of multiple product and technology projects, working with the executive sponsor (Director or higher) and other management as required to ensure achievement of the defined project goals. Influence the successful delivery and implementation of cross-functional activities to achieve the desired results for a defined program and/or strategic initiative. 
+ Maintain the day-to-day operation of projects (including budgetary oversight and staffing) ensuring that all projects are reliably delivered on time, on budget and with a consistently high standard of quality. 
+ Collaborate with all project stakeholders to proactively identify and mitigate project risks with frequent reevaluation and reprioritization of the risk register. Contribute to creation of communication strategies and execute to provide accurate and timely project information. Efficiently summarize and present complex ideas and/or data into a format that can be understood by all levels of the organization. 
+ Cultivate a customer-first attitude by forging relationships with stakeholders to better understand their needs and goals and seek to discern what the customer impact will be for each project decision and/or action taken. 
+ Other duties as assigned or requested. 
+
+Required Qualifications:
+
+ Bachelor's Degree in Business Administration, Management Information Science (MIS) or 6 years of related and progressive experience in lieu of the degree
+ Minimum of 4-5 years of Project Management experience (open to candidates with 10+ years of experience)
+ Must have solid PM experience
+ Excellent communication skills - must have experience communicating with executives
+ Background in IT
+ Must have broad infrastructure experience (looking for a well-rounded candidate)
+ Must have true Project Management experience
+ Must be able to manage the financials of the project
+ Must be able to manage risk
+ Ability to organize
+ Must be able to build relationships across the enterprise
+ Moving applications to the cloud
+ Working with Risk and Security (ISRM)
+ Experience with cybersecurity
+
+Preferred Qualifications:
+
+ Familiarity with application development projects
+ Healthcare experience
+ Cloud or Google Cloud experience

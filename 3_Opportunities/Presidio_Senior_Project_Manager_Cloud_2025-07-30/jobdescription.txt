@@ -1,0 +1,100 @@
+Status: pending
+Data-Status: pending
+Job board: LinkedIn
+Company Name: Presidio
+Role Name: Senior Project Manager, Cloud
+Location: United States
+Type: Not specified
+Salary range: Not specified
+Hiring Team: Not identified
+Application Instructions: Apply by emailing: recruitment@presidio.com, recruitment@presidio.com
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4278359587&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+Job Description:
+About the job
+Presidio, Where Teamwork and Innovation Shape the Future
+
+At Presidio, we’re at the forefront of a global technology revolution, transforming industries through cutting-edge digital solutions and next-generation AI. We empower businesses—and their customers—to achieve more through innovation, automation, and intelligent insights.
+
+The Role
+
+As a Senior Project Manager you will lead all aspects of IT projects including project scope, schedule, resources, quality, costs, and change control. Presidio PMs work directly with the project team, clients and partners to lead and ensure successful project delivery within scope, on time, and within budget, and are expected to be able to communicate effectively across all levels of the organization and project teams.
+
+Travel Requirements
+
+This position does not require any travel.
+
+Job Responsibilities
+
+The Project Manager will be a key piece of the Project Management Office for the Cloud Services division of Presidio. 
+This team manages and drives our Cloud Services most critical, complex, and enterprise-level projects for our clients in the Healthcare, Financial Services, Retail, Technology, and Energy industries. 
+The Project Manager will deliver professional service projects in the Cloud Infrastructure and DevOps spaces, requiring a deep understanding of the Application Stack, Agile processes, technical project delivery, and Cloud (Amazon Web Services, Azure, and GCP). 
+Drive end-to-end accountability for complex cloud initiatives—from initiation through closure—ensuring outcomes are met on time, within budget, and aligned to client business objectives. 
+Serve as a critical liaison between technical teams, client stakeholders, business development, and solutions architecture—helping ensure smooth execution and strategic alignment across all parties. 
+Acts as a consultative leader—translating technical execution into business outcomes, influencing across cross-functional teams without direct authority, and fostering trusted advisor relationships with clients. 
+Serve as a strategic advisor to clients by translating technical delivery into meaningful business outcomes and decision-ready information. 
+Facilitate executive-level client meetings, QBRs, and project status reviews with clarity, credibility, and responsiveness. 
+The Project Manager supports a large Cloud and DevOps team delivering automation, assessments, cloud builds, application migrations, and technical workshops. 
+Identify delivery gaps, propose process improvements, and drive standardization to scale project delivery across multiple engagements. 
+Responsible for proactively identifying risks, dependencies, and process improvements to drive consistent, scalable delivery within dynamic and fast-paced environments. 
+Manage change control and project scope rigorously to prevent scope creep and maintain delivery integrity. 
+Act as a mentor and escalation point for junior PMs or coordinators on the team. 
+Share best practices and lessons learned across the PMO and contribute to the maturity of the practice. 
+
+Required Skills
+
+Demonstrable skills across project management standard methodologies (Project Management Institute defined), Agile, SCRUM, Kanban, Waterfall).
+Ability to manage Agile/Scrum/Kanban/Waterfall (Depending on client environment) processes to effectively deliver new applications and app modernization projects.
+Proficient in Confluence, Jira, and Microsoft Project for project goal and timeline tracking.
+Consultative mindset with a focus on client outcomes—able to align project execution with business goals, influence without authority, and foster trusted partnerships across technical and non-technical stakeholders.
+Familiarity with Azure DevOps, Confluence, Trello, Smartsheet, and similar project management toolsets to manage project tracking, key performance indicators, project budget, resources, and timelines. 
+Experience working with the Microsoft Office suite of tools (Outlook, Excel, Word, PowerPoint, and SharePoint).
+
+Additional Desired Skills
+
+PMP or similar professional certification.
+CSM or similar professional certification.
+AWS Cloud Practitioner or similar certification.
+Azure Fundamentals or similar certification.
+Experience leading projects which leverage AWS and/or Azure technologies.
+Strong time management, analytical, communication, thought leadership, team building, motivational and customer service skills.
+Excellent client-facing communication and relationship building skills.
+Ability to learn quickly, adapt to change and have ownership of staying up-to-date on current and emerging technologies and tools as they relate to our business and project needs.
+Passion, creativity, energy, and enthusiasm towards collaborating on the exciting growth and development of our company.
+A desire to learn new technologies, methodologies, solutions and understand the business needs of our customers.
+Adaptability to our overall vision, goals and dynamic culture and environment.
+Proficient in Confluence, Jira and Microsoft Project for project goal and timeline tracking.
+Familiarity with Azure DevOps, Smartsheet, Trello, Teamwork, Zoho and similar project management toolsets to manage project tracking, key performance indicators, project budget, resources, and timelines.
+
+Education And Experience
+
+Bachelor’s degree or equivalent experience and/or military experience
+7+ years of experience in IT project management and general IT consulting.
+
+Your future at Presidio
+
+Joining Presidio means stepping into a culture of trailblazers—thinkers, builders, and collaborators—who push the boundaries of what’s possible. With our expertise in AI-driven analytics, cloud solutions, cybersecurity, and next-gen infrastructure, we enable businesses to stay ahead in an ever-evolving digital world.
+
+Here, your impact is real. Whether you're harnessing the power of Generative AI, architecting resilient digital ecosystems, or driving data-driven transformation, you’ll be part of a team that is shaping the future.
+
+Ready to innovate? Let’s redefine what’s next—together. 
+
+About Presidio
+
+At Presidio, speed and quality meet technology and innovation. Presidio is a trusted ally for organizations across industries with a decades-long history of building traditional IT foundations and deep expertise in AI and automation, security, networking, digital transformation, and cloud computing. Presidio fills gaps, removes hurdles, optimizes costs, and reduces risk. Presidio’s expert technical team develops custom applications, provides managed services, enables actionable data insights and builds forward-thinking solutions that drive strategic outcomes for clients globally. For more information, visit www.presidio.com.
+
+*****
+
+Applications will be accepted on a rolling basis.
+
+Presidio is an Equal Opportunity / Affirmative Action Employer / VEVRAA Federal Contractor. All qualified candidates will receive consideration for this position regardless of race, color, creed, religion, national origin, age, sex, citizenship, ethnicity, veteran status, marital status, disability, sexual orientation, gender identification or any other characteristic protected by applicable federal, state, and local statutes, regulations, and ordinances.
+
+To read more about discrimination protections under Federal Law, please visit: https://www.dol.gov/ofccp/regs/compliance/posters/pdf/OFCCP_EEO_Supplement_Final_JRF_QA_508c.pdf
+
+If you have any difficulty using our online system and need an accommodation in the job application process due to a disability, please send an email to recruitment@presidio.com for assistance.
+
+Presidio is a VEVRAA Federal Contractor requesting priority referrals of protected veterans for its openings. State Employment Services, please provide priority referrals to recruitment@presidio.com.
+
+Notice to Massachusetts Candidates: It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.
+
+Recruitment Agencies, Please Note: Presidio does not accept unsolicited agency resumes/CVs. Do not forward resumes/CVs to our careers email address, Presidio employees or any other means. Presidio is not responsible for any fees related to unsolicited resumes/CVs.

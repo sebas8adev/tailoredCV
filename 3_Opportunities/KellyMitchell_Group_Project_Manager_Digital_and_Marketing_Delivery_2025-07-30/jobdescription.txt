@@ -1,0 +1,53 @@
+Status: processed
+Data-Status: complete
+Job board: LinkedIn
+Company Name: KellyMitchell Group
+Role Name: Project Manager, Digital and Marketing Delivery
+Location: Orlando, FL
+Type: Not specified
+Salary range: Not specified
+Hiring Team: Not identified
+Application Instructions: See Job Post URL
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4274325450&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+Job Description:
+About the job
+Job Summary
+
+Our client is seeking a Project Manager, Digital and Marketing Delivery to join their team! This position is located in Orlando, Florida.
+
+Duties
+
+Lead the end-to-end delivery of complex software development projects for guest-facing platforms 
+Manage agile ceremonies and drive sprint planning, execution, and retrospectives in partnership with Product and Engineering 
+Work closely with Product Managers to translate business requirements into technical stories and delivery roadmaps 
+Ensure adherence to the Software Development Life Cycle (SDLC) best practices, including code review, QA, deployment, and release management processes 
+Track and manage project scope, timelines, dependencies, budgets ($2M–$5M), and resource allocations 
+Identify and mitigate risks and issues proactively 
+Manage change control processes effectively 
+Collaborate with internal technical teams and third-party vendors across geographies 
+Communicate project status clearly to stakeholders at multiple levels, including executive leadership 
+
+Desired Skills/Experience:
+
+5+ years of experience with Agile/Scrum delivery 
+4+ years of experience managing technology and software development projects, preferably in consumer-facing digital products 
+Scrum Master or PMI-ACP certification is a plus 
+Proven track record in delivering mobile applications (iOS/Android) and web-based platforms from inception through launch 
+Solid understanding of the technical stack, system integrations, APIs, and DevOps workflows 
+Experience working with Product Managers and Engineers in a matrixed, Agile environment 
+Strong organizational and leadership skills with the ability to manage multiple concurrent projects and stakeholder relationships 
+Excellent verbal and written communication skills, including the ability to present to Director and VP-level stakeholders 
+Experience with common PM tools such as Jira, Confluence, MS Project, and reporting dashboards 
+Background in a technology-first or SaaS environment or experience supporting high-scale consumer digital platforms 
+Familiarity with CI/CD pipelines, QA automation, and cloud infrastructure (e.g., AWS, GCP) 
+Experience working with global teams or in consulting/client-service models 
+Passion for building processes and mentoring junior project team members 
+
+Benefits:
+
+Medical, Dental, & Vision Insurance Plans 
+Employee-Owned Profit Sharing (ESOP) 
+401K offered 
+
+The approximate pay range for this position is between $68.00 and $88.00. Please note that the pay range provided is a good faith estimate. Final compensation may vary based on factors including but not limited to background, knowledge, skills, and location. We comply with local wage minimums.

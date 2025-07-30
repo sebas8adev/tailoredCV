@@ -1,0 +1,71 @@
+Global Information
+
+HIRING_MANAGER: Sebastian Ochoa
+COMPANY_NAME: Disney
+JOB_ROLE: IT Project Manager & Technical Program Manager
+APPLICATION_DATE: July 30, 2025
+
+Cover Letter Content
+
+SUBJECT: Application for IT Project Manager & Technical Program Manager at Disney
+CONTENT: Dear Sebastian Ochoa,<br><br>I am writing to express my keen interest in the Project and Program Management opportunities at Disney, as advertised. With over 10 years of experience leading complex technology projects and programs for globally recognized brands, including in the cruise line industry with Royal Caribbean and in AI-driven retail with Dick's Sporting Goods, I am confident that my skills align with the requirements of both the IT Project Manager and the Senior Technical Program Manager roles.<br><br>My background includes managing the full lifecycle of software development for shipboard and shoreside applications, overseeing large-scale AI/ML program plans, and ensuring on-time, on-budget delivery for multifaceted digital initiatives. I am an expert in adaptive project management methodologies, including SAFe and Scrum, and I have a strong record of leading globally distributed teams to success, enhancing product performance, and managing project financials.<br><br>My experience in the maritime industry and with Gen AI technologies, combined with my certifications in SAFe, Scrum, and Google Generative AI, has prepared me to effectively manage the interdependencies of complex projects and drive innovation within Disney's Tech & Digital organization.<br><br>I am eager to bring my adaptive leadership style and my passion for leveraging technology to create exceptional experiences to the Disney team. Thank you for your time and consideration.
+
+CV Content
+
+CAREER_SUMMARY: Adaptive Technical Program Manager with 10+ years of experience leading global teams and delivering complex digital transformations for the travel and retail industries. Expert in AI-driven, cloud-based, and system integration solutions, with a track record of improving performance and managing large-scale team allocation. Specialist in Agile (SAFe, Scrum, Kanban) methodologies, with strengths in end-to-end project delivery, executive reporting, and financial oversight.
+SKILLS_TITLE_1: Program & Project Management
+SKILLS_DESC_1: Agile (SAFe, Scrum, Kanban), Hybrid & Waterfall Methodologies, SDLC, Risk Management, Budget & Financial Forecasting, Resource Planning, Release Management, Stakeholder Engagement.
+SKILLS_TITLE_2: AI & Technical Acumen
+SKILLS_DESC_2: Generative AI, AI/ML Program Delivery, AI Chatbots, Cloud Platforms (AWS, GCP), SQL, System Architecture, Data Processing & Migration, API Integration.
+SKILLS_TITLE_3: Industries & Domains
+SKILLS_DESC_3: Maritime & Cruise Lines, E-commerce & Retail, Media & Entertainment, Healthcare Technology, Financial Services, Public Safety.
+SKILLS_TITLE_4: Tools & Technologies
+SKILLS_DESC_4: Jira, Confluence, MS Teams, Slack, Automic, Java, React, Android/iOS, Salesforce, SAP.
+
+Work Experience - Globant
+
+JOB_TITLE_GLOBANT: Senior Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company focused on reinventing businesses through innovative technology solutions and scaling transformative AI across industries like travel, retail, and finance.
+COMPANY_BULLET_1_GLOBANT: Led program delivery for Royal Caribbean's guest applications, managing 3+ teams to enhance onboard digital experiences, including a Google AI Chatbot and room service features.
+COMPANY_BULLET_2_GLOBANT: Drove a 40% performance improvement for Dick's Sporting Goods' e-commerce platform by leading a +30-person team through a Core Web Vitals enhancement initiative.
+COMPANY_BULLET_3_GLOBANT: Directed PI Planning and quarterly roadmap execution for cruise line and retail clients, consistently meeting KPIs and OKRs for budget, scope, and on-time delivery.
+
+Work Experience - Mango-soft
+
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm creating scalable, data-driven solutions and platforms for the healthcare, sports, and media industries using a modular, block-based ecosystem.
+COMPANY_BULLET_1_MANGOSOFT: Managed the end-to-end delivery of the Concacaf App and media streaming services, leveraging AWS cloud technologies to serve thousands of soccer fans.
+COMPANY_BULLET_2_MANGOSOFT: Led the implementation of an AWS Polly voice-to-text solution for healthcare clients, improving the speed and accuracy of medical procedure documentation.
+COMPANY_BULLET_3_MANGOSOFT: Directed team staffing and implemented Scrum methodologies, improving project predictability and delivering hyper-care support for high-availability media and healthcare products.
+
+Work Experience - TIPI
+
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology company delivering innovative hardware and software solutions, including digital evidence management and smart city integrations, for public safety and government clients.
+COMPANY_BULLET_1_TIPI: Led the full software and hardware lifecycle for a bodycam system, deploying over 3,000 devices for the Colombian Police to enhance operational transparency.
+COMPANY_BULLET_2_TIPI: Managed the development of an integrated RFID asset tracking and nurse-call system, deployed across 10+ hospitals to improve patient care and workflows.
+COMPANY_BULLET_3_TIPI: Directed project execution based on government contract constraints, ensuring on-time delivery, quality, and support for critical public safety solutions.
+
+Work Experience - itBigBoss
+
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A software-as-a-service (SaaS) provider delivering comprehensive POS solutions for small businesses in the restaurant, fitness, beauty, and health sectors across Latin America.
+COMPANY_BULLET_1_ITBIGBOSS: Directed the entire SDLC for a market-leading POS product, successfully implementing the solution for over 1,000 small businesses in the service industry.
+COMPANY_BULLET_2_ITBIGBOSS: Led the technical team hands-on, managing coding, quality assurance, and release processes for integrations with biometrics, payment processors, and accounting apps.
+COMPANY_BULLET_3_ITBIGBOSS: Spearheaded the operations support workflow, ensuring high system uptime and customer satisfaction for a diverse and growing client base.
+
+Work Experience - Bodytech
+
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: The leading health and fitness center chain in the Andean region, operating over 140 clubs in Colombia and Chile, offering holistic wellness programs.
+COMPANY_BULLET_1_BODYTECH: Managed the technology infrastructure lifecycle, including networking and security, for the expansion to over 60 sites across Colombia, Peru, and Chile.
+COMPANY_BULLET_2_BODYTECH: Led the successful implementation of Microsoft Dynamics CRM & ERP systems, centralizing billing and member management for a base of over 270,000 users.
+COMPANY_BULLET_3_BODYTECH: Directed the software development for a proprietary access control system using biometrics, increasing security and streamlining member check-in across all locations.
+
+Google Search Suggestions
+Display of Search Suggestions is required when using Grounding with Google Search. Learn more
+Globant company mission and scale AI focus
+Mango-soft company profile
+TIPI Colombia technology company profile
+Bodytech Colombia company profile
+what does inspyr solutions do

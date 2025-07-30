@@ -1,0 +1,56 @@
+# Global Information
+HIRING_MANAGER: Pace Hiring Team
+COMPANY_NAME: Pace
+JOB_ROLE: Senior Project Manager II / Account Manager
+COMPANY_NAME: Pace
+APPLICATION_DATE: July 2, 2024
+
+# Cover Letter Content
+SUBJECT: Application for Senior Project Manager II / Account Manager at Pace
+CONTENT: Dear Pace Hiring Team,<br><br>I am writing to express my keen interest in the Senior Project Manager II / Account Manager position at Pace, as advertised on LinkedIn. With over 10 years of experience managing complex digital projects and cultivating strong client relationships, I am confident in my ability to deliver the quality assets and exceptional internal collaboration this role requires.<br><br>My background has been centered on leading the end-to-end delivery of diverse digital products, including websites, mobile applications, social media integrations, and AI-driven marketing tools. I am adept at partnering with clients to define project scope, establish clear objectives, and ensure deliverables align with their core business goals. This involves translating client needs into actionable plans for creative, technical, and performance media teams.<br><br>I am an expert in Agile and Scrum methodologies and proficient with project management tools like Jira, and I am a quick learner for new platforms like Workfront. A key strength is managing project constraints—budget, schedule, and scope—while maintaining transparent communication with clients through regular status updates and financial reporting. My experience at Globant involved managing portfolios for clients like Royal Caribbean and Dick's Sporting Goods, where I directly improved platform performance and enhanced customer engagement.<br><br>I am enthusiastic about the opportunity to contribute to Pace's reputation for creating better customer experiences. Thank you for your time and consideration. I look forward to discussing how my skills and experience can benefit your team.
+
+# CV Content
+CAREER_SUMMARY: Adaptive Senior Project Manager with 10+ years of experience delivering complex digital transformations for marketing, retail, and hospitality clients. Expert in Agile methodologies, excelling in end-to-end project delivery, client relationship management, and financial oversight for digital campaigns and applications.
+SKILLS_TITLE_1: Project & Account Management
+SKILLS_DESC_1: Client Relationship Management, Scope Definition & Control, Budget & Financial Management, C-Level & Stakeholder Reporting, Resource Planning, Risk Management.
+SKILLS_TITLE_2: Agile & Project Methodologies
+SKILLS_DESC_2: SAFe, Scrum, Kanban, Scrum of Scrums, Hybrid (Waterfall/Scrum), PI Planning, Sprint Planning & Execution, Retrospectives.
+SKILLS_TITLE_3: Project Management & Collaboration Tools
+SKILLS_DESC_3: Jira, Workfront, Confluence, Asana, MS Office Suite, Slack, MS Teams.
+SKILLS_TITLE_4: Technical & Digital Acumen
+SKILLS_DESC_4: SDLC Management, CMS (AEM, WordPress), Cloud Platforms (AWS, GCP), Mobile & Web App Development, AI & GenAI Solutions, E-commerce Platforms.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Senior Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company focused on reinventing businesses through innovative technology solutions, specializing in AI, software development, and digital transformation for global brands.
+COMPANY_BULLET_1_GLOBANT: Managed a digital portfolio for Royal Caribbean, leading 3 offshore teams to deliver AI chatbots and mobile apps, enhancing guest experience and onboard services.
+COMPANY_BULLET_2_GLOBANT: Drove e-commerce platform enhancement for Dick's Sporting Goods, improving Core Web Vitals by 40% and boosting site performance via adaptive quarterly roadmap execution.
+COMPANY_BULLET_3_GLOBANT: Directed a 100+ person program for Banco de Chile, implementing Scrum of Scrums to launch new mobile banking features and a pioneering metaverse branch.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software consulting firm creating custom digital solutions, focusing on cloud services, big data, and media streaming for sports and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Led the development of a media streaming platform for Concacaf, utilizing AWS to deliver live matches and statistics, significantly increasing fan engagement across platforms.
+COMPANY_BULLET_2_MANGOSOFT: Managed delivery of healthcare imaging integrations using AWS Polly and DICOM, improving data access and implementing voice-to-text assisted procedures for clinicians.
+COMPANY_BULLET_3_MANGOSOFT: Established and staffed high-performing teams, implementing Scrum to deliver multiple fixed-price projects on time and budget, ensuring high client satisfaction and retention.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology company developing integrated hardware and software solutions, including bodycams and IoT devices for public safety and healthcare operational management.
+COMPANY_BULLET_1_TIPI: Led end-to-end development of a bodycam system for the Colombian Police, deploying over 3,000 devices and enhancing officer accountability through new technology.
+COMPANY_BULLET_2_TIPI: Directed the implementation of IoT-based nurse call systems in 10+ hospitals, using Bluetooth/RFID to track assets and reduce patient response times.
+COMPANY_BULLET_3_TIPI: Spearheaded the full SDLC and managed operations, leading teams hands-on to ensure on-time delivery and compliance under strict government contract regulations.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering POS and business management software for restaurants, fitness, and retail, specializing in customized integrations for small business efficiency.
+COMPANY_BULLET_1_ITBIGBOSS: Owned the complete SDLC for a SaaS POS product, scaling the solution to over 1,000 small businesses across LATAM through continuous feature development.
+COMPANY_BULLET_2_ITBIGBOSS: Led technical integrations with biometrics, payment processors, and accounting apps, automating billing and inventory management to reduce clients' manual entry time.
+COMPANY_BULLET_3_ITBIGBOSS: Managed development and operations teams hands-on, providing technical leadership and customer support to maintain high client retention and drive consistent product adoption.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain across LATAM, focused on enhancing member experience through technology-driven services and operational excellence.
+COMPANY_BULLET_1_BODYTECH: Directed IT infrastructure and service desk implementation across 60+ sites in 3 countries, achieving high system uptime and supporting rapid company expansion.
+COMPANY_BULLET_2_BODYTECH: Led the life cycle for a custom CRM and billing software, integrating access control with biometrics to streamline member check-in and automated management.
+COMPANY_BULLET_3_BODYTECH: Acted as technical lead for the Microsoft Dynamics CRM & ERP implementation, unifying business operations and improving data-driven decision-making for corporate leadership.

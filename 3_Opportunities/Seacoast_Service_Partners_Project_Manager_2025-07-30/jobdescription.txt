@@ -1,0 +1,37 @@
+Status: processed
+Data-Status: complete
+Job board: LinkedIn
+Company Name: Seacoast Service Partners
+Role Name: Project Manager
+Location: United States
+Type: Not specified
+Salary range: Not specified
+Hiring Team: Not identified
+Application Instructions: LinkedIn Easy Apply
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4278099319&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+Job Description:
+About the job
+We are seeking an experienced Project Manager with proven expertise in ServiceTitan and a strong background in operations management and process optimization. This role will lead the planning, execution, and delivery of cross-functional initiatives aimed at improving efficiency, standardization, and operational performance across our service businesses.
+ Responsibilities
+· Lead and manage projects including new system implementations, upgrades, and operational improvement initiatives.
+· Oversee company-wide ServiceTitan initiatives: rollouts, module implementation, user training, and platform optimization.
+· Analyze existing business processes and identify areas for improvement, standardization, and automation.
+· Collaborate with department leads in HVAC, plumbing, and electrical to align project goals with business needs.
+· Develop detailed project plans, timelines, and progress reports; ensure projects are delivered on-time and within scope.
+· Act as liaison with outsourced vendors, IT support, and software partners to ensure seamless integration of systems.
+· Provide ongoing support and troubleshooting for ServiceTitan and other operational systems.
+· Track performance metrics post-implementation to assess project success and areas for continued improvement.
+
+Qualifications
+· 5+ years of project management experience in a field service environment (HVAC, plumbing, electrical preferred)
+· 2+ years of hands-on experience with ServiceTitan including implementation, customization, and training
+· Proven track record in business process optimization, operational efficiency, and cross-functional collaboration
+· Proven ability to train, support, and optimize staff use of digital platforms
+· Strong communication, problem-solving, and organizational skills
+· Proficiency in project management tools and software (e.g., Asana, MS Project, Smartsheet)
+· Proficiency with Microsoft Office Suite and cloud-based platforms
+· PMP certification preferred but not required
+· Ability and willingness to travel to various job sites or branch locations as needed. Up to 30% travel.
+
+Benefits: Medical, dental, vision, and 401k retirement benefits.

@@ -1,0 +1,49 @@
+Status: processed
+Data-Status: complete
+Job board: LinkedIn
+Company Name: Jobright.ai
+Role Name: Scrum Master, Associate, (Remote)
+Location: United States
+Type: Not specified
+Salary range: Not specified
+Hiring Team: Not identified
+Application Instructions: See Job Post URL
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4273035605&distance=25&geoId=90000596&keywords=Scrum%20master&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+
+Job Description:
+About the job
+Verified Job On Employer Career Site
+
+Job Summary:
+Tekton Labs is a fast-growing Salesforce consulting firm helping enterprises and nonprofits unlock the full value of their CRM, AI, and cloud platforms. They are seeking a Scrum Master to join a high-performing team, enabling the success of Salesforce-related initiatives by championing agile practices and coaching teams through continuous improvement cycles.
+
+Responsibilities:
+• Guide 2–3 cross-functional teams through agile ceremonies and delivery planning.
+• Facilitate daily stand-ups, sprint planning, retrospectives, and backlog refinement.
+• Identify and resolve impediments to ensure timely delivery of product increments.
+• Support the team’s growth in agile maturity, promoting best practices and adaptive frameworks (Scrum, Kanban, SAFe).
+• Collaborate with Product Owners and Technical Leads to align delivery with business value.
+• Champion a continuous improvement mindset across teams and stakeholders.
+• Help teams navigate compliance-heavy environments where documentation and process rigor are essential.
+• Act as a delivery enabler between stakeholders in regulated and unregulated business segments.
+• Support the flow of work across Salesforce-related CRM initiatives (no specific cloud required).
+
+Qualifications:
+
+Required:
+• 4+ years of experience as a Scrum Master or Agile Delivery Lead in enterprise environments.
+• Hands-on experience facilitating agile ceremonies and managing blockers for multiple squads.
+• Practical knowledge of agile frameworks (Scrum, Kanban); familiarity with SAFe is a plus.
+• Proven ability to lead delivery cycles for CRM or Salesforce-based projects (cloud agnostic).
+• Experience working in regulated industries (e.g., energy, finance, telecom, healthcare).
+• Strong collaboration skills with Product Owners, technical teams, and business units.
+• Fluent or upper-intermediate English for daily team communication and facilitation.
+
+Preferred:
+• Experience supporting product teams managing CRM ecosystems.
+• Background in helping organizations shift from IT-led to business-led agile models.
+• Scrum Master certification (CSM, PSM, or equivalent).
+• Experience in the energy or utilities sector.
+
+Company:
+Tekton is a Technology Consultancy and Software Development company that builds products to improve people’s lives. Founded in 2008, the company is headquartered in Mountain View, California, USA, with a team of 51-200 employees. The company is currently Growth Stage.

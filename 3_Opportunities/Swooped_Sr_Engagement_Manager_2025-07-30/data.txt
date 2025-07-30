@@ -1,0 +1,55 @@
+# Global Information
+HIRING_MANAGER: Swooped Hiring Team
+COMPANY_NAME: Swooped's Client
+JOB_ROLE: Sr. Engagement Manager
+APPLICATION_DATE: July 2, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Sr. Engagement Manager at Swooped's Client
+CONTENT: Dear Swooped Hiring Team,<br><br>I am writing to express my strong interest in the Sr. Engagement Manager position, advertised on LinkedIn. With over 10 years of experience leading strategic customer engagements and delivering complex software projects for enterprise clients, I am confident that my background aligns perfectly with the requirements of this role.<br><br>My career has been focused on the core responsibilities outlined in your description: managing the end-to-end delivery of large-scale projects, overseeing SOWs from initiation to profitable completion, and acting as a trusted advisor to C-suite stakeholders. I have a history of navigating complex client organizations, mitigating risks, and identifying upsell opportunities that drive revenue and deepen partnerships, particularly with sales enablement platforms like Salesforce.<br><br>I excel at building consensus among diverse teams and communicating project progress with clarity and executive presence. My experience spans multiple industries, including retail, finance, and travel, where I have consistently aligned technical solutions with strategic business objectives to ensure exceptional client satisfaction and long-term success.<br><br>My Bachelor's degree in Systems Engineering, combined with advanced certifications in SAFe and Scrum, provides a strong foundation for both the technical and managerial aspects of this role. I am eager to bring my adaptive project management approach and client success focus to your team.<br><br>Thank you for your time and consideration. I look forward to discussing how I can contribute to your client's mission.<br><br>Sincerely,<br>Andres Jimenez
+
+# CV Content
+CAREER_SUMMARY: Adaptive Engagement Manager with 10+ years of experience leading strategic enterprise projects and digital transformations across diverse industries. Expert in full-lifecycle SOW management, building C-level trusted advisor relationships, and driving project profitability. Skilled in Agile (SAFe, Scrum), cloud-native solutions, and AI integration to deliver exceptional client value and identify growth opportunities.
+SKILLS_TITLE_1: Client & Engagement Management
+SKILLS_DESC_1: SOW Lifecycle Management, Strategic Account Planning, Client Relationship Building, Upsell & Growth Identification, Executive Presence.
+SKILLS_TITLE_2: Project & Program Delivery
+SKILLS_DESC_2: Agile (SAFe, Scrum, Kanban), Waterfall/Hybrid, Full SDLC Management, Risk Mitigation, Enterprise Software Implementation.
+SKILLS_TITLE_3: Financial & Operational Oversight
+SKILLS_DESC_3: Budgeting & Forecasting, P&L Management, Billable Utilization, Cost Optimization, Process Improvement.
+SKILLS_TITLE_4: Technology & Industry Acumen
+SKILLS_DESC_4: Cloud Platforms (AWS, GCP), AI & GenAI Solutions, SaaS/PaaS, Sales Enablement Platforms (Salesforce), E-commerce.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Senior Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company focused on reinventing business through innovative technology solutions, specializing in AI-powered software development and large-scale digital transformation for global clients.
+COMPANY_BULLET_1_GLOBANT: Led a portfolio of projects for Royal Caribbean, launching AI chatbot and guest app features that improved user engagement and increased onboard revenue opportunities.
+COMPANY_BULLET_2_GLOBANT: Directed an e-commerce platform overhaul for Dick's Sporting Goods, improving Core Web Vitals by 40% and enhancing online sales and customer experience.
+COMPANY_BULLET_3_GLOBANT: Managed end-to-end project delivery and SOWs for enterprise clients in finance and retail, consistently meeting budget, scope, and timeline targets for profitability.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software consultancy delivering custom cloud-based solutions, specializing in Big Data, AI, and media streaming services for sports and healthcare industries in the Americas.
+COMPANY_BULLET_1_MANGOSOFT: Oversaw development of a media and streaming platform for Concacaf, enabling live match streaming and fan engagement for major championships across the region.
+COMPANY_BULLET_2_MANGOSOFT: Led AWS cloud-based healthcare projects, implementing voice-to-text and imaging solutions that improved diagnostic workflow efficiency and reduced clinician documentation time.
+COMPANY_BULLET_3_MANGOSOFT: Managed fixed-price projects from proposal to production, defining scope, staffing teams, and ensuring on-time delivery to enhance client satisfaction and secure follow-on business.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology firm creating integrated hardware and software solutions for public safety and healthcare, specializing in IoT devices and real-time data management systems.
+COMPANY_BULLET_1_TIPI: Directed the full product lifecycle for a bodycam system for the Colombian Police, deploying over 3,000 units which improved officer safety and evidence collection.
+COMPANY_BULLET_2_TIPI: Led development of a SaaS-based nurse call system for hospitals, integrating RFID for asset tracking, which streamlined staff communication and reduced patient response times.
+COMPANY_BULLET_3_TIPI: Managed government contracts and project constraints, ensuring on-time delivery and operational support for critical public safety infrastructure while achieving full contractual compliance.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider developing point-of-sale (POS) and business management software for small and medium-sized businesses in the retail, fitness, and hospitality industries.
+COMPANY_BULLET_1_ITBIGBOSS: Led the entire SDLC for a flagship POS SaaS product, successfully scaling to support over 1,000 small businesses across LATAM with enhanced operational efficiency.
+COMPANY_BULLET_2_ITBIGBOSS: Engineered integrations with payment processors and biometric systems, automating sales and inventory management, which significantly increased client business intelligence and accuracy.
+COMPANY_BULLET_3_ITBIGBOSS: Functioned as business co-owner, managing development, operations, and client support, which directly contributed to steady business growth and high customer retention rates.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, providing wellness services and leveraging technology to enhance member experience across over 60 locations.
+COMPANY_BULLET_1_BODYTECH: Managed IT infrastructure expansion to over 60 sites across three countries, ensuring robust network security and 99.9% operational uptime for all locations.
+COMPANY_BULLET_2_BODYTECH: Led the implementation of Microsoft Dynamics CRM and ERP systems, centralizing member data and automating billing, which improved operational efficiency and member retention.
+COMPANY_BULLET_3_BODYTECH: Established the IT Service Desk from the ground up, implementing support protocols that improved internal ticket resolution rates by 50% and employee satisfaction.

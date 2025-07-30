@@ -1,0 +1,55 @@
+# Global Information
+HIRING_MANAGER: Hiring Team
+COMPANY_NAME: Halff
+JOB_ROLE: Senior Project Manager - Water and Wastewater Utilities
+APPLICATION_DATE: July 26, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Senior Project Manager - Water and Wastewater Utilities at Halff
+CONTENT: Dear Halff Hiring Team,<br><br>I am writing to express my strong interest in the Senior Project Manager - Water and Wastewater Utilities position at your Orlando office, as advertised on LinkedIn. Halff's 75-year history of improving communities through smart infrastructure solutions is impressive, and I am drawn to your people-focused culture.<br><br>With over 10 years of experience leading complex, large-scale projects for public and private sector clients, I have developed a robust skill set in managing the full project lifecycle. My background includes managing government contracts, overseeing infrastructure deployments, and ensuring projects are delivered within scope, on budget, and to the highest quality standards.<br><br>My experience in project reporting, financial forecasting, client invoicing, and leading technical teams directly aligns with the responsibilities outlined in your description. I have a strong record of managing staff, mentoring team members, and serving as the primary point of contact for clients to ensure clear communication and successful outcomes.<br><br>While my background is in technology-driven infrastructure, my adaptive project management approach is industry-agnostic and focused on fundamental principles of sound engineering and execution. I am confident I can apply my extensive project leadership experience to the water utilities sector and quickly become a valuable asset to your team.<br><br>I am eager to learn more about this opportunity and discuss how my experience in managing complex projects can contribute to Halff's continued success.<br><br>Thank you for your time and consideration.<br><br>Sincerely,
+
+# CV Content
+CAREER_SUMMARY: Adaptive Senior Project Manager with 10+ years of experience leading complex infrastructure and digital transformation projects across public and private sectors. Expert in managing the full project lifecycle, from planning and contract development to execution and financial oversight for large-scale initiatives. Skilled in leading technical teams, managing client relationships, and delivering projects that improve community and operational services.
+SKILLS_TITLE_1: Project & Program Management
+SKILLS_DESC_1: Full Lifecycle Management, Financial Forecasting, Client Invoicing, Contract Management, Risk Mitigation, Resource Planning, Stakeholder Relations.
+SKILLS_TITLE_2: Technical Leadership & Team Management
+SKILLS_DESC_2: Staff Management & Mentoring, Cross-Functional Team Leadership, Technical Project Oversight, Performance Reporting (KPIs/OKRs), RFP Analysis.
+SKILLS_TITLE_3: Infrastructure & Public Sector Projects
+SKILLS_DESC_3: Government Contracts, Datacenter Migration, Hardware/Software System Integration, Large-Scale Deployments, Utility System Modernization.
+SKILLS_TITLE_4: Methodologies & Tools
+SKILLS_DESC_4: Hybrid Waterfall & Agile (Scrum, Kanban), SAFe, Jira, Confluence, Asana, MS Teams, Slack.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT:Senior Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company offering innovative technology solutions. Focus on AI-powered software development and consulting to reinvent industries for global clients.
+COMPANY_BULLET_1_GLOBANT: Directed large-scale digital infrastructure projects for clients like Royal Caribbean, managing distributed teams, budgets, and roadmaps to enhance guest services and operations.
+COMPANY_BULLET_2_GLOBANT: Led program delivery for Banco de Chile, overseeing a datacenter migration from on-premise to GCP and modernizing core applications with a team of +100.
+COMPANY_BULLET_3_GLOBANT: Managed the full project lifecycle, including RFP analysis, proposal creation, and C-level reporting on project status, risks, and financial forecasting.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A technology consulting firm delivering custom software and cloud solutions. Specializes in media, healthcare, and Big Data applications to drive client operational efficiency.
+COMPANY_BULLET_1_MANGOSOFT: Managed end-to-end delivery of a cloud-based (AWS) media streaming and data platform for Concacaf, ensuring robust performance for high-traffic live events.
+COMPANY_BULLET_2_MANGOSOFT: Led healthcare IT integration projects, transferring medical imaging data (DICOM) to AWS, improving patient data access and surgical workflows for multiple clinics.
+COMPANY_BULLET_3_MANGOSOFT: Directed project execution from RFP review to staffing and implementation, consistently delivering projects on time and within fixed-price contract constraints.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI:Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology firm specializing in integrated hardware and software solutions for public safety and healthcare, enhancing operational effectiveness through custom-engineered systems.
+COMPANY_BULLET_1_TIPI: Led the Colombian Police project, delivering an integrated bodycam system with hardware, firmware, and management software for over 3,000 units nationwide.
+COMPANY_BULLET_2_TIPI: Managed project execution under strict government contract regulations, overseeing planning, quality assurance, deployment, and operational support across multiple cities.
+COMPANY_BULLET_3_TIPI: Directed development of IoT solutions for hospitals, including RFID asset tracking and nurse call systems, improving asset management and patient care response times.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: SaaS provider developing POS and business management software for small to medium-sized businesses in retail, fitness, and hospitality industries across LATAM.
+COMPANY_BULLET_1_ITBIGBOSS: Led the full SDLC and product roadmap for a SaaS platform, integrating with hardware like printers, biometrics, and access control turnstiles.
+COMPANY_BULLET_2_ITBIGBOSS: Oversaw platform implementation for over 1,000 small businesses, managing service delivery, support, and client-specific integrations to boost their operational efficiency.
+COMPANY_BULLET_3_ITBIGBOSS: Managed a 30-person team in a hybrid environment, leading technical architecture, hands-on coding, quality control, and release management for the core product.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH:IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, providing wellness services and operating facilities across Colombia, Peru, and Chile.
+COMPANY_BULLET_1_BODYTECH: Managed IT infrastructure lifecycle for over 60 sites, including networking, security (CCTV), and physical access control systems with turnstiles and biometrics.
+COMPANY_BULLET_2_BODYTECH: Led the enterprise-wide implementation of Microsoft Dynamics CRM & ERP systems, overseeing the project from planning to deployment to streamline business operations.
+COMPANY_BULLET_3_BODYTECH: Established and led the IT Service Desk and operations, developing support workflows and ensuring high system uptime and service quality for all locations.

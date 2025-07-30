@@ -1,0 +1,56 @@
+# Global Information
+HIRING_MANAGER: Elizabeth Resmer
+COMPANY_NAME: APEX
+JOB_ROLE: Project Superintendent
+COMPANY_NAME: APEX
+APPLICATION_DATE: July 2nd, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Project Superintendent at APEX
+CONTENT: Dear Elizabeth Resmer,<br><br>I am writing to express my keen interest in the Project Superintendent position at APEX, as advertised on LinkedIn. With over a decade of experience in leading complex projects from inception to completion, I have developed a strong capability for operational oversight and team supervision that aligns with the core responsibilities of this role.<br><br>Throughout my career, I have been responsible for coordinating diverse, cross-functional teams to ensure projects are delivered on time, within scope, and on budget. My strengths lie in meticulous planning, resource management, progress tracking, and enforcing quality standards. I am adept at serving as the central point of contact for all stakeholders, managing expectations, and driving resolutions to field-related challenges to maintain project momentum.<br><br>My adaptive approach to project management has allowed me to successfully oversee multifaceted initiatives across various industries. I am confident that my leadership abilities and commitment to operational excellence would make me a valuable asset to your team at APEX.<br><br>Thank you for considering my application. I have attached my CV for your review and welcome the opportunity to discuss how my project management expertise can contribute to your construction projects.<br><br>Sincerely,<br>Juan Gonzalez
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Management professional with 10+ years of experience leading complex, end-to-end project execution across diverse industries. Expert in supervising large, cross-functional teams to deliver on time and within budget. Strengths in operational oversight, resource coordination, risk management, and ensuring quality standards from project inception through completion.
+SKILLS_TITLE_1: Project Leadership & Site Management
+SKILLS_DESC_1: Team Supervision, Resource & Vendor Coordination, Progress Tracking & Reporting, On-site Implementation, Stakeholder Communication
+SKILLS_TITLE_2: Project Planning & Execution
+SKILLS_DESC_2: Project Scheduling, Scope & Budget Control, Quality Assurance & Control, Risk Management, Change Order Management
+SKILLS_TITLE_3: Methodologies & Frameworks
+SKILLS_DESC_3: Agile (Scrum, Kanban, SAFe), Waterfall, Hybrid Models
+SKILLS_TITLE_4: Project Management & Collaboration Tools
+SKILLS_DESC_4: Project Management Software (Jira, Confluence, Asana, MS Project), Stakeholder Reporting, Technical Documentation
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native consulting company that reimagines businesses through innovative technology solutions, focusing on AI-driven software development and large-scale digital transformation.
+COMPANY_BULLET_1_GLOBANT: Led project execution for Royal Caribbean, coordinating 3 cross-functional teams of 15+ members to deliver guest-facing applications on schedule and within budget.
+COMPANY_BULLET_2_GLOBANT: Drove a 40% performance improvement for Dick's Sporting Goods' e-commerce platform by managing quarterly roadmaps and optimizing resource allocation across 30+ personnel.
+COMPANY_BULLET_3_GLOBANT: Directed staffing and onboarding for 150+ personnel for a major banking client, implementing a Scrum of Scrums model to streamline multi-team project coordination.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm creating custom technology solutions for media, healthcare, and sports industries, specializing in cloud services and data-intensive applications.
+COMPANY_BULLET_1_MANGOSOFT: Managed end-to-end delivery of media and streaming platforms for Concacaf, overseeing the project lifecycle from initial proposal and staffing to production launch.
+COMPANY_BULLET_2_MANGOSOFT: Coordinated development of AWS-based healthcare solutions for multiple clinics, ensuring timely delivery and effective post-launch support which improved patient data access.
+COMPANY_BULLET_3_MANGOSOFT: Established and tracked project KPIs, delivering weekly and monthly progress reports to ensure strict alignment with timelines, budgets, and business goals.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology company developing integrated hardware and software solutions, including IoT devices and management platforms for public safety and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Oversaw the full lifecycle of a bodycam system for law enforcement, from hardware firmware development to software deployment for over 3,000 units.
+COMPANY_BULLET_2_TIPI: Led project execution based on government contract specifications, ensuring strict adherence to planning, quality, implementation, and support requirements for all deliverables.
+COMPANY_BULLET_3_TIPI: Directed on-site implementation and operations for patient flow systems across 10+ hospitals, improving communication speed and reducing patient wait times.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering Point-of-Sale (POS) and business management software for over 1,000 small businesses in the retail and wellness industries.
+COMPANY_BULLET_1_ITBIGBOSS: Directed the complete software development life cycle for a flagship SaaS product, overseeing all phases from coding and quality assurance to release and deployment.
+COMPANY_BULLET_2_ITBIGBOSS: Managed product implementation for 1,000+ businesses, coordinating integrations with third-party hardware like printers and payment devices, increasing operational efficiency for clients.
+COMPANY_BULLET_3_ITBIGBOSS: Led operations and customer support workflows, ensuring high system uptime and efficient issue resolution for a large, active user base across Latin America.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain operating over 60 sites in South America, focused on member wellness and technology-driven operational excellence.
+COMPANY_BULLET_1_BODYTECH: Managed the technology infrastructure expansion to over 60 sites across three countries, overseeing networking, security systems, and telecommunications for all new locations.
+COMPANY_BULLET_2_BODYTECH: Led the implementation of a company-wide Dynamics CRM & ERP system, coordinating vendors and internal teams to streamline billing and automate member management.
+COMPANY_BULLET_3_BODYTECH: Directed the IT Service Desk and operational support, establishing processes that improved ticket resolution rates and maintained high system uptime for business-critical applications.

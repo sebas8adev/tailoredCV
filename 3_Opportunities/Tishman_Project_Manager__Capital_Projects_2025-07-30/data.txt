@@ -1,0 +1,55 @@
+# Global Information
+HIRING_MANAGER: Not identified
+COMPANY_NAME: Tishman
+JOB_ROLE: Project Manager – Capital Projects
+APPLICATION_DATE: July 3, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Project Manager – Capital Projects at Tishman
+CONTENT: Dear Tishman Hiring Team,<br><br>I am writing to express my keen interest in the Project Manager – Capital Projects role at the WDW Swan, Dolphin, and Reserve Complex, as advertised on LinkedIn. With over 10 years of progressive experience managing the full lifecycle of complex projects for hospitality leaders like Royal Caribbean, I am confident I possess the execution skills and adaptive approach required for this position.<br><br>My background is centered on driving projects from concept through completion, consistently delivering on time and within budget. I am adept at leading all phases of project execution, including:<br><br>- Strategic planning, capital budgeting, and detailed scheduling.<br>- Drafting scopes, managing RFPs, and negotiating contracts with vendors and consultants.<br>- Overseeing diverse project teams and liaising with stakeholders to ensure work aligns with design specifications and business objectives.<br>- Managing procurement, quality control, and project closeout.<br><br>While my experience is rooted in technology and systems infrastructure, the core responsibilities of managing large-scale renovations, vendor coordination, and budget oversight are directly transferable. My Bachelor's degree in Engineering has provided me with a strong foundation in problem-solving and technical analysis.<br><br>I am a self-directed professional who thrives in fast-paced, team-oriented environments and excels at managing multiple priorities. I am eager to bring my project management expertise to Tishman and contribute to your continuous pipeline of high-visibility capital projects.<br><br>Thank you for your time and consideration. I look forward to discussing my qualifications further.<br><br>Sincerely,<br><br>[Your Name]
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading complex, full-lifecycle projects across hospitality, retail, and healthcare. Expert in managing capital and technology infrastructure initiatives, vendor negotiations, and multi-million dollar budgets. Skilled in driving projects from concept through closeout, ensuring on-time, on-budget delivery in fast-paced commercial environments.
+SKILLS_TITLE_1: Project Lifecycle & Capital Management
+SKILLS_DESC_1: Full-Cycle Execution, Capital Budgeting & Scheduling, Scope & RFP Development, Contract Negotiation, Vendor & Consultant Management, Project Closeout.
+SKILLS_TITLE_2: Design & Construction Coordination
+SKILLS_DESC_2: Design Plan Review, Value Engineering Analysis, Systems & Infrastructure Integration, Quality Assurance & Punch Lists, On-Site Work Liaison.
+SKILLS_TITLE_3: Project Management Methodologies & Tools
+SKILLS_DESC_3: Hybrid (Waterfall/Agile), Scrum, Kanban, MS Office Suite (Project, Excel, Word), Jira, Confluence, Video Conferencing Tools.
+SKILLS_TITLE_4: Stakeholder & Industry Expertise
+SKILLS_DESC_4: Hospitality & Commercial Environments, C-Level & Cross-Functional Communication, Risk Management, Contract Administration, Independent Problem-Solving.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Project Manager
+COMPANY_SUMMARY_GLOBANT: A consulting company focused on reinventing businesses through innovative technology and AI solutions, delivering software and managing large-scale digital projects globally.
+COMPANY_BULLET_1_GLOBANT: Led full-cycle project execution for Royal Caribbean, overseeing budget, schedule, and vendor coordination to enhance guest-facing digital infrastructure and onboard services.
+COMPANY_BULLET_2_GLOBANT: Drove a 40% performance improvement for Dick's Sporting Goods' e-commerce platform by managing renovations to core web vitals and backend systems.
+COMPANY_BULLET_3_GLOBANT: Managed RFP analysis, contract scoping, and consultant selection for diverse portfolios, ensuring project alignment with strategic goals and financial constraints.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm delivering custom cloud-based solutions and big data services for the media, sports, and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Directed end-to-end delivery of AWS cloud infrastructure projects for healthcare clients, managing all phases from planning and procurement to commissioning and support.
+COMPANY_BULLET_2_MANGOSOFT: Oversaw system integration projects for multiple healthcare clinics, coordinating with engineering teams to deliver medical imaging solutions, improving patient data access.
+COMPANY_BULLET_3_MANGOSOFT: Led project planning and staffed teams for over 10 positions, ensuring successful execution of fixed-price contracts within budget and scope for media clients.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology provider specializing in integrated hardware and software solutions, including IoT devices and management platforms for public safety and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Managed the full lifecycle of a bodycam system for law enforcement, including hardware procurement, firmware development, and software platform deployment.
+COMPANY_BULLET_2_TIPI: Led deployment for integrated systems across 10+ hospitals, overseeing installation and commissioning, which improved nurse call response times and asset tracking.
+COMPANY_BULLET_3_TIPI: Directed project execution for government contracts, ensuring strict compliance with regulations through meticulous planning, quality control, and on-site implementation support.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering POS and business management software for over 1,000 small businesses in the restaurant, fitness, and retail industries.
+COMPANY_BULLET_1_ITBIGBOSS: Led the full product lifecycle for a core SaaS platform, managing infrastructure upgrades and feature renovations for a diverse client base of 1,000+ businesses.
+COMPANY_BULLET_2_ITBIGBOSS: Coordinated hardware and software integrations for POS systems, including payment terminals, printers, and access control, ensuring seamless operational functionality for clients.
+COMPANY_BULLET_3_ITBIGBOSS: Directed operations and support for all clients, improving customer retention and system uptime through continuous enhancements and proactive maintenance schedules.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading chain of health and fitness centers across Latin America, providing comprehensive wellness services to a large member base in multiple countries.
+COMPANY_BULLET_1_BODYTECH: Managed the infrastructure lifecycle for 60+ new site builds and renovations, including networking, security systems, and access control installations.
+COMPANY_BULLET_2_BODYTECH: Led the implementation of Dynamics CRM & ERP systems, coordinating with vendors and stakeholders to upgrade core business operations and automated billing platforms.
+COMPANY_BULLET_3_BODYTECH: Established and directed the IT Service Desk across all locations, improving system uptime and achieving a 95% satisfaction score for technical support.

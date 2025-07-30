@@ -1,0 +1,55 @@
+# Global Information
+HIRING_MANAGER: Sumit Rawat
+COMPANY_NAME: Rangam
+JOB_ROLE: Clinical Operations Project Manager
+APPLICATION_DATE: July 23, 2024
+
+# Cover Letter Content
+SUBJECT: Application for Clinical Operations Project Manager
+CONTENT: Dear Sumit Rawat,<br><br>I am writing to express my strong interest in the Clinical Operations Project Manager role, as advertised on LinkedIn. With over 10 years of experience in managing complex technology projects, including significant work within the healthcare and medical device sectors, I am confident that my skills align with the requirements for this position.<br><br>My background includes leading end-to-end projects for healthcare clients, where I managed the implementation of medical imaging integration systems (DICOM), patient data portals, and IoT medical devices across multiple hospital and clinic sites. This experience has provided me with a deep understanding of managing technology within regulated environments and a sharp focus on operational excellence and quality.<br><br>I excel at overseeing large, cross-functional teams and driving projects to meet critical deliverables, ensuring alignment with scope, budget, and timelines. My adaptive approach to project management has been instrumental in navigating complex deployments and delivering solutions that enhance operational efficiency and patient care.<br><br>I am eager to bring my project leadership and healthcare technology experience to your client's team and contribute to the success of their clinical trials. Thank you for your time and consideration. I look forward to discussing my qualifications further.<br><br>Sincerely,<br><br>Andres Toro
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading complex technology programs, including medical device and healthcare system implementations. Expert in managing large, multi-site project lifecycles in regulated environments. Skilled in overseeing cross-functional teams to meet aggressive timelines and operational goals.
+SKILLS_TITLE_1: Project & Operations Management
+SKILLS_DESC_1: Large-Scale Project Execution, Multi-Site Deployments, Risk Management, Budget & Resource Planning, Agile & Waterfall Methodologies, KPI/OKR Tracking, Stakeholder Reporting
+SKILLS_TITLE_2: Medical Device & Healthcare Technology
+SKILLS_DESC_2: Medical Device Integration (DICOM, HL7), Patient Portals, Imaging Systems, IoT Devices (RFID/Bluetooth), Healthcare IT Infrastructure, AWS Cloud Services
+SKILLS_TITLE_3: Team Leadership & Delivery
+SKILLS_DESC_3: Cross-Functional Team Leadership (+100), Offshore/Onsite Team Coordination, C-Level Communication, Vendor Management, Staffing & Performance Management, Driving Deliverables
+SKILLS_TITLE_4: Regulatory & Quality Assurance
+SKILLS_DESC_4: SDLC Compliance, Government Contract Adherence, Quality Management Systems, Production Support & Hypercare, Release Management, System Integration Testing
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Technical Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native consulting company using AI and innovative technologies to reinvent business. Specializing in end-to-end software development for global clients.
+COMPANY_BULLET_1_GLOBANT: Drove program performance for clients like Royal Caribbean and Dick's Sporting Goods, achieving a 40% boost in digital platform efficiency via adaptive roadmaps.
+COMPANY_BULLET_2_GLOBANT: Led globally distributed teams of over 100 engineers through complex software development lifecycles, ensuring on-time delivery of enterprise-scale retail and travel applications.
+COMPANY_BULLET_3_GLOBANT: Managed full project lifecycle from RFP analysis to release, overseeing PI planning, budget, and risk to align execution with C-level stakeholder goals.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm creating custom technology solutions for the media and healthcare industries, specializing in cloud services and mobile applications.
+COMPANY_BULLET_1_MANGOSOFT: Managed development of healthcare IT solutions for multiple clinics, including medical imaging integration (DICOM) and patient portals, improving diagnostic access and speed.
+COMPANY_BULLET_2_MANGOSOFT: Led multi-site deployments of surgery management systems, enhancing operational efficiency and accuracy for clinical staff and reducing patient wait times.
+COMPANY_BULLET_3_MANGOSOFT: Directed projects from RFP to production support, overseeing teams of 10+ engineers to deliver AWS-based healthcare applications on schedule and within budget.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology company delivering integrated hardware and software solutions for public safety and healthcare, focusing on IoT, mobile, and real-time data management.
+COMPANY_BULLET_1_TIPI: Led development and multi-city deployment of an Android-based bodycam system for law enforcement, successfully supporting over 3,000 devices under strict government regulations.
+COMPANY_BULLET_2_TIPI: Directed the implementation of IoT medical devices (Bluetooth call systems, RFID tracking) in over 10 clinics, improving nurse response times and asset management.
+COMPANY_BULLET_3_TIPI: Oversaw project execution within stringent contract constraints, managing all technical and operational aspects from planning and coding to deployment and support.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering POS and business management software for over 1,000 small businesses in the retail, fitness, and health sectors.
+COMPANY_BULLET_1_ITBIGBOSS: Led the full SDLC for a SaaS platform, automating billing and inventory for 1,000+ businesses and increasing their operational efficiency.
+COMPANY_BULLET_2_ITBIGBOSS: Directed a 30+ person team in a hybrid Waterfall/Kanban environment, delivering product enhancements that increased member retention and reduced data entry time.
+COMPANY_BULLET_3_ITBIGBOSS: Managed technical and support operations through hands-on leadership in coding, QA, and release, ensuring high system uptime and customer satisfaction.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain operating across more than 60 locations in Latin America, providing comprehensive wellness and medical sport services.
+COMPANY_BULLET_1_BODYTECH: Managed IT infrastructure and operations across 60+ sites in three countries, achieving high system uptime for all critical business and member-facing platforms.
+COMPANY_BULLET_2_BODYTECH: Led the implementation of a custom CRM and billing software with biometric access control, improving member security and streamlining billing operations.
+COMPANY_BULLET_3_BODYTECH: Directed the company-wide implementation of Microsoft Dynamics CRM & ERP, centralizing business operations and creating a unified platform for sales, service, and finance.

@@ -1,0 +1,55 @@
+# Global Information
+HIRING_MANAGER: Not identified
+COMPANY_NAME: General Dynamics Information Technology
+JOB_ROLE: Solution Delivery Manager
+APPLICATION_DATE: July 2, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Solution Delivery Manager at General Dynamics Information Technology
+CONTENT: Dear Hiring Team,<br><br>I am writing to express my strong interest in the Solution Delivery Manager position with General Dynamics Information Technology, as advertised on LinkedIn. I am deeply impressed by GDIT's commitment to supporting the Department of Veterans Affairs and its mission to transform claims processing for our nation's Veterans. My career has been driven by leading complex, mission-critical projects, and I am eager to apply my expertise to such a meaningful cause.<br><br>With over 10 years of experience managing the end-to-end software development lifecycle for large-scale digital solutions, I have a comprehensive background in leading multiple cross-functional engineering teams. My leadership is rooted in Lean-Agile principles, including SAFe and Scrum, to decompose program roadmaps into actionable Program Increments, ensuring alignment with strategic objectives and delivering measurable value.<br><br>In my role at Globant, I provided strategic oversight for portfolios across regulated industries like finance and healthcare, managing globally distributed teams of over 100 engineers. I successfully drove program performance by championing continuous improvement, mitigating program-level risks, and delivering clear, metric-driven progress reports (KPIs/OKRs) to C-level stakeholders. This experience is directly transferable to managing the workstreams and stakeholder engagement required to achieve the VBA’s goals.<br><br>I am confident that my adaptive approach to project management and my experience in delivering complex software solutions in high-compliance environments would allow me to make a significant impact at GDIT. I am keen to contribute to building a future of fast, transparent claims for Veterans. Thank you for your time and consideration. I look forward to discussing my qualifications further.<br><br>Sincerely,<br><br>Your Name
+
+# CV Content
+CAREER_SUMMARY: Adaptive Solution Delivery Manager with 10+ years of experience leading global engineering teams and delivering complex software solutions in regulated industries. Expert in Lean-Agile program management (SAFe, Scrum), overseeing full SDLC for AI, cloud, and system integration projects. Excels in translating strategic roadmaps into executable plans, managing program-level risks, and delivering metric-driven results to executive stakeholders.
+SKILLS_TITLE_1: Agile & Program Management
+SKILLS_DESC_1: SAFe, Scrum of Scrums, Lean-Agile Practices, PI Planning, Program Roadmap Execution, Risk Mitigation, KPI & OKR Tracking, Budget & Resource Management.
+SKILLS_TITLE_2: Leadership & Stakeholder Engagement
+SKILLS_DESC_2: Cross-Functional Team Leadership (100+), Executive Reporting, Mentoring & Coaching, Performance Management, Strategic Planning, Impediment Resolution, Vendor Relations.
+SKILLS_TITLE_3: Software Development Lifecycle (SDLC)
+SKILLS_DESC_3: Full SDLC Oversight, Release & Deployment Management, System Integration, CI/CD, Quality Assurance, Production Support & Hypercare, Requirements Decomposition.
+SKILLS_TITLE_4: Technologies & Platforms
+SKILLS_DESC_4: Cloud (AWS, GCP), AI (Generative AI, Chatbots), Microservices Architecture, Java, React, SQL/NoSQL, Jira, Confluence.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Technical Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native consulting company that helps organizations reinvent themselves with AI and software solutions to create a way forward in their industries.
+COMPANY_BULLET_1_GLOBANT: Led program delivery for Royal Caribbean, managing 3 offshore teams to launch an AI chatbot and guest app features, improving user engagement metrics.
+COMPANY_BULLET_2_GLOBANT: Directed a +30 person team for Dick's Sporting Goods, boosting e-commerce performance by 40% through adaptive quarterly roadmaps and Core Web Vitals implementation.
+COMPANY_BULLET_3_GLOBANT: Oversaw a 100+ member team for Banco de Chile, implementing Scrum of Scrums to manage data center migration and new mobile banking features.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm specializing in cloud-native applications, Big Data, and AI-powered solutions for media, sports, and healthcare clients across the Americas.
+COMPANY_BULLET_1_MANGOSOFT: Managed end-to-end delivery of a cloud-based media platform for Concacaf, integrating AWS services for streaming and data, increasing fan access to content.
+COMPANY_BULLET_2_MANGOSOFT: Led development of a voice-to-text application for healthcare clinics, using AWS Polly to automate medical transcriptions, reducing physician documentation time significantly.
+COMPANY_BULLET_3_MANGOSOFT: Directed the integration of medical imaging systems with AWS cloud storage for multiple hospitals, enabling secure, on-demand access to patient DICOM files.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: An engineering company creating integrated hardware and software solutions, specializing in IoT, real-time data processing, and enterprise systems for public safety and healthcare.
+COMPANY_BULLET_1_TIPI: Led the full SDLC for a bodycam system for the Colombian Police, deploying over 3,000 devices with integrated management software for improved officer accountability.
+COMPANY_BULLET_2_TIPI: Managed the development and deployment of an RFID asset tracking system in 10+ hospitals, improving equipment availability and reducing patient wait times.
+COMPANY_BULLET_3_TIPI: Directed the project from concept to launch for a real-time nurse call system, enhancing communication speed and response times in clinical environments.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A software-as-a-service (SaaS) provider developing point-of-sale (POS) and business management solutions for over 1,000 small businesses in the LATAM market.
+COMPANY_BULLET_1_ITBIGBOSS: Owned the entire product SDLC for a market-leading POS system, leading a 30-person team to develop features for inventory, billing, and CRM.
+COMPANY_BULLET_2_ITBIGBOSS: Engineered and deployed integrations with payment processors, biometric devices, and accounting software, automating billing and increasing operational efficiency for clients.
+COMPANY_BULLET_3_ITBIGBOSS: Led the technical and operations teams, establishing workflows that provided continuous support and release management for a diverse B2B customer base.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, operating over 60 locations across Colombia, Peru, and Chile with a focus on technology-driven member services.
+COMPANY_BULLET_1_BODYTECH: Directed the IT infrastructure rollout across 60+ new sites, including networking, CCTV, and IP phoning, ensuring operational readiness for business expansion.
+COMPANY_BULLET_2_BODYTECH: Led the technical implementation of Microsoft Dynamics CRM & ERP, automating billing processes and increasing member retention through improved customer data management.
+COMPANY_BULLET_3_BODYTECH: Established the company's first IT Service Desk, developing support protocols and workflows that improved system uptime and internal ticket resolution rates.

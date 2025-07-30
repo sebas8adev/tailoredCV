@@ -1,0 +1,56 @@
+# Global Information
+HIRING_MANAGER: Glory Grace Binuya
+COMPANY_NAME: Bayforce
+JOB_ROLE: Technical Project Manager
+COMPANY_NAME: Bayforce
+APPLICATION_DATE: July 26, 2024
+
+# Cover Letter Content
+SUBJECT: Application for Technical Project Manager at Bayforce
+CONTENT: Dear Glory Grace Binuya,<br><br>I am writing to express my strong interest in the Technical Project Manager position I discovered on LinkedIn. As a results-driven project manager located in Orlando, FL, with over 10 years of experience leading complex IT initiatives, I am confident that my skills and background align perfectly with the requirements of this role.<br><br>My career has been focused on the end-to-end delivery of digital platforms and modern applications, leading cross-functional, globally distributed (onshore/offshore) teams for enterprise clients in retail, travel, and finance. I am an expert in adaptive and Agile (SAFe, Scrum) methodologies, consistently delivering projects within scope, budget, and quality standards while fostering strong collaboration between business and technical stakeholders.<br><br>The required technical exposure to Azure Cloud, React, and Node.js mirrors the environments I have successfully managed. I am highly proficient in using project management tools, including Azure DevOps and Jira, to plan, track, and report on project progress, ensuring complete transparency and alignment.<br><br>Furthermore, my extensive project experience in restaurant, retail (Dick's Sporting Goods), and franchise (Bodytech) environments has provided me with valuable industry-specific insights that I am eager to bring to your team. I excel at translating complex requirements into actionable plans and driving projects to successful completion.<br><br>Thank you for considering my application. My resume is attached for your review, and I look forward to discussing how my experience can benefit your client.<br><br>Sincerely,<br><br>Andres Jimenez
+
+# CV Content
+CAREER_SUMMARY: Adaptive Technical Project Manager with 10+ years of experience leading enterprise digital transformations across retail, travel, and finance. Expert in managing global teams to deliver cloud (Azure) and modern application (React, Node.js) solutions. Master of Agile (SAFe, Scrum) methodologies, excelling in end-to-end delivery, stakeholder engagement, and financial oversight.
+SKILLS_TITLE_1: Project & Delivery Management
+SKILLS_DESC_1: Agile (SAFe, Scrum, Kanban), Waterfall, Hybrid; End-to-End SDLC; Risk & Budget Management; KPI & OKR Reporting; Release Management.
+SKILLS_TITLE_2: Technical & Platform Expertise
+SKILLS_DESC_2: Azure DevOps, Jira, Confluence; Cloud Platforms (Azure, AWS, GCP); Modern Frameworks (React, Node.js); AI & GenAI Integration; CI/CD Pipelines.
+SKILLS_TITLE_3: Leadership & Stakeholder Engagement
+SKILLS_DESC_3: Cross-Functional Team Leadership (Onshore/Offshore); C-Level & Technical/Business Stakeholder Communication; Portfolio & Program Management; Vendor & RFP Management.
+SKILLS_TITLE_4: Industry & Domain Acumen
+SKILLS_DESC_4: Retail, E-commerce, Restaurant & Franchise Environments; Travel & Hospitality; Finance & Banking; Healthcare Technology.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Technical Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native consulting company using AI and innovative technologies to reinvent businesses through custom software development and digital transformation at scale.
+COMPANY_BULLET_1_GLOBANT: Drove program performance for retail client Dick's Sporting Goods, improving e-commerce platform efficiency by 40% through adaptive quarterly roadmaps and PI Planning.
+COMPANY_BULLET_2_GLOBANT: Led three cross-functional offshore teams for Royal Caribbean, delivering a Google AI chatbot and guest app features on time, enhancing user engagement.
+COMPANY_BULLET_3_GLOBANT: Directed end-to-end delivery for a banking client's data migration to GCP, leading over 100 engineers and five scrum masters, ensuring project milestones.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm specializing in cloud-native solutions, Big Data, and AI applications for clients in the media, sports, and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Managed development of a media streaming platform on AWS for Concacaf, launching new championship features and increasing viewer access across multiple regions.
+COMPANY_BULLET_2_MANGOSOFT: Implemented a voice-to-text AI application (AWS Polly) for healthcare clients, reducing physician documentation time and improving clinical data accuracy for 10+ clinics.
+COMPANY_BULLET_3_MANGOSOFT: Led the full SDLC for a medical imaging data transfer solution to AWS, improving data accessibility for clinicians and supporting diagnostic workflows.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology company delivering integrated hardware and software solutions, including IoT devices and management platforms for public safety and healthcare organizations in Colombia.
+COMPANY_BULLET_1_TIPI: Directed the end-to-end development of a bodycam system for law enforcement, deploying over 3,000 devices and a real-time monitoring web application.
+COMPANY_BULLET_2_TIPI: Led hands-on development and project management for an Android-based firmware and Java backend, ensuring on-time delivery under strict government contract regulations.
+COMPANY_BULLET_3_TIPI: Deployed an RFID asset tracking system across 10+ hospitals, improving equipment management and reducing patient wait times through streamlined nurse-call integrations.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering scalable POS and business management software for small to medium-sized businesses in the retail, restaurant, and fitness industries.
+COMPANY_BULLET_1_ITBIGBOSS: Led the full SDLC for a SaaS POS platform, growing the user base to over 1,000 small businesses by integrating custom payment solutions.
+COMPANY_BULLET_2_ITBIGBOSS: Managed technical integration of biometrics, Android devices, and accounting apps, automating billing and reducing data entry time for restaurant clients by 30%.
+COMPANY_BULLET_3_ITBIGBOSS: Directed a team of 30+ engineers in developing and supporting the platform, achieving 99.9% system uptime and high customer satisfaction across the client base.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, providing comprehensive wellness services to a large membership base across multiple countries.
+COMPANY_BULLET_1_BODYTECH: Managed the IT infrastructure expansion to over 60 franchise sites, ensuring seamless network, security, and communication operations for all locations.
+COMPANY_BULLET_2_BODYTECH: Led the implementation of Microsoft Dynamics CRM & ERP, centralizing member data and improving billing accuracy, which boosted member retention rates by 15%.
+COMPANY_BULLET_3_BODYTECH: Established and led the IT Service Desk, developing workflows that improved the internal ticket resolution rate by 40% for all corporate users.

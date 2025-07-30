@@ -1,0 +1,38 @@
+Status: processed
+Data-Status: complete
+Job board: LinkedIn
+Company Name: Piper Maddox
+Role Name: Technical Project Manager
+Location: United States
+Type: Remote
+Salary range: $120k - $160k
+Hiring Team: Vanessa Palazzi
+Application Instructions: LinkedIn Easy Apply
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4274323062&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+Job Description:
+About the job
+Exclusively supporting an RNG Developer that is looking for a Technical Project Manager with RNG experience to lead the charge from project concept to construction-ready status! 
+
+As the Technical Project Manager, you’ll own and drive the full lifecycle of RNG projects, from early feasibility and site diligence through permitting, budgeting, and pre-construction.
+
+Your core responsibilities will include:
+Leading the development of RNG projects from site selection through financial close
+Creating and managing project schedules, budgets, and risk mitigation plans
+Navigating permitting processes at local, state, and federal levels
+Coordinating with internal teams and third-party stakeholders to keep development on track
+Supporting the finance team by providing key deliverables to investors, lenders, and partners
+
+What You Bring:
+4+ years of experience in RNG project development is a must! 
+A Bachelor's degree in Engineering, Environmental Science, Business, or a related field
+A deep understanding of permitting, regulatory compliance, and project finance
+Strong command of project management tools (e.g., Microsoft Project, Procore, Airtable)
+
+Salary & Location
+$120k - $160k base + discretionary bonus
+Remote anywhere in the U.S. + up to 50% travel to project sites and stakeholder meetings
+
+Ready to lead the next generation of RNG infrastructure? Apply now and help shape the clean energy future!
+
+**At this time, we are only reviewing profiles that include prior experience in Renewable Natural Gas (RNG)**

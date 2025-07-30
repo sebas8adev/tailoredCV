@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cover Letter - Sebastian Ochoa Alvarez</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        /* Basic Reset & Font */
+        body {
+            font-family: 'Open Sans', sans-serif;
+            line-height: 1.4; /* Reduced line height for tighter spacing */
+            color: black;
+            margin: 0;
+            padding: 0;
+            -webkit-print-color-adjust: exact; /* For printing background colors */
+            box-sizing: border-box;
+        }
+
+        /* Page Margins for PDF Output */
+        @page {
+            size: A4; /* Or Letter */
+            margin: 0.85in 0.50in 0.82in 0.50in; /* Top, Right, Bottom, Left */
+        }
+
+        .container {
+            width: 100%;
+            max-width: 8.5in; /* Standard Letter width */
+            margin: 0 auto; /* Center content */
+            padding: 0; /* Page margins handled by @page rule */
+            box-sizing: border-box;
+        }
+
+        /* Utility classes for controlled spacing */
+        .margin-top-10 { margin-top: 10px !important; }
+        .margin-bottom-10 { margin-bottom: 10px !important; }
+        .margin-bottom-5 { margin-bottom: 5px !important; }
+        .no-margin { margin: 0 !important; }
+        .no-padding { padding: 0 !important; }
+
+
+        /* Header Styles */
+        .header {
+            text-align: center;
+            margin-bottom: 0px !important; /* Ensure no margin */
+        }
+        .header h1 {
+            font-size: 10.3pt;
+            font-weight: 600;
+            line-height: 1.4;
+            margin: 0 !important; /* Ensure no margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+        .header p {
+            font-size: 10.3pt;
+            margin: 0 !important; /* Ensure no margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+        .header a {
+            color: black;
+            text-decoration: none;
+        }
+        .header a:hover {
+            text-decoration: underline;
+        }
+
+        /* Section Styles */
+        .section {
+            margin-bottom: 0px !important; /* Ensure no margin */
+            margin-top: 6px !important; /* Ensure no margin */
+            padding: 0 !important; /* Ensure no padding */
+            padding-top: 6px !important; /* Ensure no margin */
+        }   
+        .section-info {
+            font-size: 10.3pt;
+            line-height: 1.4;
+            margin: 0 !important; /* Ensure no margin */
+            padding: 0 !important; /* Ensure no padding */
+            text-align: center;
+        }
+        .section-summary {
+            font-size: 10.3pt;
+            line-height: 1.4;
+            margin: 0 !important; /* Ensure no margin */
+            padding: 0 !important; /* Ensure no padding */
+            text-align: justify;
+        }
+        .section-title {
+            font-size: 10.3pt;
+            line-height: 1.4;
+            font-weight: 600;
+            padding-bottom: 0px !important; /* Reduced padding */
+            margin-bottom: 0px !important; /* Reduced margin */
+            padding-top: 0 !important; /* Ensure no top padding */
+            display: block; /* Ensure it's a block element again */
+            width: 100%; /* Take full width */
+            text-align: left; /* Align title to left */
+            text-decoration: underline; /* Retained underline on text */
+        }
+
+
+        /* Paragraph Styles */
+        p {
+            margin: 0 !important; /* Ensure no default paragraph margin */
+            padding: 0 !important; /* Ensure no default paragraph padding */
+            font-size: 10.3pt;
+            text-align: justify;
+        }
+
+        /* List Styles (Bullet Points) */
+        ul {
+            list-style: none; /* Remove default bullet */
+            padding: 0 !important; /* Remove default padding */
+            margin: 0 !important; /* Remove default margin */
+            /* This ensures the UL starts at the same horizontal position as section titles */
+            margin-left: 0.25in !important; /* Align UL with the page's left content margin */
+        }
+        li {
+            position: relative;
+            /* This ensures the text of the list item starts at the UL's left edge (0.75in from page margin) */
+            text-indent: 0in !important;
+            padding-left: 0in !important; /* Ensure no additional padding pushes text right */
+            margin-bottom: 0px !important; /* Reduced margin */
+            text-align: justify;
+            font-size: 10.3pt;
+            margin-left: 0 !important; /* Reset li's own margin-left */
+            padding-top: 0 !important; /* Ensure no top padding */
+            padding-bottom: 0 !important; /* Ensure no bottom padding */
+            line-height: 1.25;
+        }
+        li::before {
+            content: '•'; /* Custom bullet character */
+            position: absolute;
+            /* This pulls the bullet to the left of the LI's starting position.
+               If LI text starts at 0.75in page margin, then bullet will be at 0.75in - 0.25in = 0.5in. */
+            left: -0.12in; /* Adjusted to place bullet to the left of the text, at 0.5in from page edge */
+            font-size: 10.3pt; /* Adjust bullet size if needed */
+            line-height: inherit; /* Align with text baseline */
+        }
+        
+        /* Experience Section Specifics */
+        .experience-item {
+            margin-bottom: 0px !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+        .experience-title {
+            font-weight: 600;
+            font-size: 10.3pt;
+            line-height: 1.4;
+            margin: 0 !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+        .experience-description {
+            font-size: 10.3pt;
+            margin: 0 !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+            font-style: italic;
+        }
+        .experience-details {
+            font-size: 10.3pt;
+            line-height: 1.4;
+            margin: 0 !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+        .experience-bullets li {
+            margin: 0 !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+
+        /* Skills/Certifications List (similar to experience bullets but might need distinct styling) */
+        .skills-list li, .certifications-list li {
+            margin: 0 !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+        .skills-list strong, .certifications-list strong {
+            font-weight: 600;
+        }
+
+        /* Education */
+        .education-item {
+            margin: 0 !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+            font-size: 10.3pt;
+        }
+        .education-item strong {
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>SEBASTIAN OCHOA ALVAREZ</h1>
+            <p class="section-info">Orlando, FL ∙ (786) 475-0772</p>
+            <p class="section-info margin-bottom-5">sebastian.ochoa.alvarez@gmail.com ∙ <a href="www.linkedin.com/in/sebastianochoaalvarez">www.linkedin.com/in/sebastianochoaalvarez</a></p>
+        </header>
+        
+        <section class="section">
+            <p class="margin-top-10">July 22, 2024</p>
+            <p>Daylyn "Day" Perez</p>
+            <p>Pape-Dawson</p>
+        </section>                
+
+        <p class="subject margin-top-10"><strong>SUBJECT:</strong> Application for Senior Project Manager - Land Development at Pape-Dawson</p>
+
+        <section class="section">
+            <p class="content-paragraph">Dear Daylyn "Day" Perez,
+I am writing to express my keen interest in the Senior Project Manager - Land Development position at Pape-Dawson, which I discovered on LinkedIn. With over a decade of comprehensive project management experience, I have a strong background in leading complex, multi-faceted projects from conception through to successful completion.
+<br><br>
+My career has been focused on managing project scopes, schedules, and budgets while supervising diverse, cross-functional teams to achieve strategic goals. I am adept at engaging with clients, managing stakeholder expectations, and coordinating with various agencies to ensure seamless project progression and compliance. My approach is centered on developing new opportunities and solving challenging problems through meticulous planning and execution.
+<br><br>
+I am confident that my extensive experience in project leadership, resource management, and client relations aligns with the core responsibilities of this role. I am eager to apply my adaptive project management skills to contribute to your team's success in developing solutions for policy and design challenges.
+<br><br>
+Thank you for considering my application. I have attached my resume for your review and look forward to discussing how my background can benefit Pape-Dawson.
+Sincerely,
+[Your Name]
+CAREER_SUMMARY: Adaptive Senior Project Manager with 10+ years of experience leading cross-functional teams and delivering complex projects across diverse sectors. Expert in managing project scopes, schedules, and budgets from initiation to completion. Skilled in client relations, regulatory agency coordination, and developing new project opportunities through strategic leadership and meticulous execution.
+SKILLS_TITLE_1: Project & Program Management
+SKILLS_DESC_1: Scope, Schedule & Budget Management; Risk Mitigation; Stakeholder Engagement; Regulatory Coordination; RFP & Proposal Management.
+SKILLS_TITLE_2: Leadership & Team Management
+SKILLS_DESC_2: Cross-Functional Team Supervision; Client Relationship Management; New Business Development; Performance Metrics (KPIs & OKRs); Resource Staffing.
+SKILLS_TITLE_3: Project Methodologies
+SKILLS_DESC_3: Agile (SAFe, Scrum, Kanban); Waterfall; Hybrid Approaches; End-to-End Project Lifecycle.
+SKILLS_TITLE_4: Industry Acumen
+SKILLS_DESC_4: Finance; Healthcare; Retail; Travel & Hospitality; Media; Public Safety; AI-Driven Solutions; Cloud Platforms (AWS, GCP).
+JOB_TITLE_GLOBANT: Senior Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native consulting firm leveraging AI and innovative technologies to help organizations reinvent themselves and unleash their potential through transformative software solutions.
+COMPANY_BULLET_1_GLOBANT: Managed multiple large-scale project portfolios for clients like Royal Caribbean, ensuring strict alignment with scope, schedule, and multimillion-dollar budget constraints.
+COMPANY_BULLET_2_GLOBANT: Led globally distributed teams of up to 100 members, supervising project lifecycles and facilitating communication between clients, teams, and executive stakeholders.
+COMPANY_BULLET_3_GLOBANT: Drove project discovery and planning for clients like Dick's Sporting Goods, developing strategic roadmaps and translating complex requirements into actionable, time-bound deliverables.
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A specialized software development company delivering custom solutions in cloud services, big data, and media streaming for clients in the US market.
+COMPANY_BULLET_1_MANGOSOFT: Managed end-to-end project delivery for clients in media and healthcare, including scope definition, resource planning, and final implementation and production support.
+COMPANY_BULLET_2_MANGOSOFT: Established project management methodologies and KPIs, improving team performance and ensuring consistent, on-time delivery across all project engagements for clients like Concacaf.
+COMPANY_BULLET_3_MANGOSOFT: Directed client-facing activities, from initial proposal development to regular progress meetings, successfully managing expectations and securing all defined project objectives.
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology firm specializing in the design and manufacturing of integrated hardware and software solutions for public safety, security, and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Led project execution for complex hardware-software solutions for government clients like the Colombian Police, ensuring compliance with strict contractual and regulatory requirements.
+COMPANY_BULLET_2_TIPI: Managed the complete project lifecycle for over 3,000 deployed bodycam devices, overseeing planning, implementation, quality assurance, and operational support workflows.
+COMPANY_BULLET_3_TIPI: Directed technical and operational teams, providing hands-on leadership to solve design challenges, ensuring successful product deployment and high client satisfaction.
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A software-as-a-service (SaaS) provider developing point-of-sale, CRM, and management solutions for small and medium-sized businesses in the retail and wellness industries.
+COMPANY_BULLET_1_ITBIGBOSS: Directed the full product lifecycle for a SaaS platform, leading implementation and customization for over 1,000 small businesses across Latin America.
+COMPANY_BULLET_2_ITBIGBOSS: Led a team of 30+ through all development, quality, and release cycles, delivering a scalable solution that automated billing and improved operations.
+COMPANY_BULLET_3_ITBIGBOSS: Oversaw all operational support and client workflows, ensuring high levels of customer satisfaction and retention for a subscription-based service model.
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading chain of health and fitness centers in Latin America, providing comprehensive wellness services and medical expertise to its members.
+COMPANY_BULLET_1_BODYTECH: Led IT infrastructure and service desk operations across 60+ sites in three countries, managing networking, security, and enterprise systems implementation.
+COMPANY_BULLET_2_BODYTECH: Directed the full software development lifecycle for the company's internal CRM and billing systems, increasing member retention and improving operational efficiency.
+COMPANY_BULLET_3_BODYTECH: Managed large-scale technology projects, including a multi-national Dynamics CRM & ERP deployment and the implementation of biometric access control systems.</p>
+        </section>
+    </div>
+</body>
+</html>

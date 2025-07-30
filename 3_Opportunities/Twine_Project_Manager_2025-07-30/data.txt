@@ -1,0 +1,55 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: Vilnius-based Financial Technology Company
+JOB_ROLE: Project Manager
+APPLICATION_DATE: July 2, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Project Manager at Vilnius-based Financial Technology Company (via Twine)
+CONTENT: Dear Hiring Manager,<br><br>I am writing to express my keen interest in the part-time Project Manager position I found on LinkedIn, posted by Twine. My experience in leading the end-to-end development of web and digital applications with complex backend functionalities aligns perfectly with the requirements for your stock screening website project.<br><br>With over 10 years of experience managing remote, cross-functional teams of developers and designers, I have a strong record of delivering projects on time and within budget. I am an expert in a range of project management tools, including Jira, Asana, and Slack, which are essential for effective remote collaboration. In a previous role, I led the revamp of the Dick's Sporting Goods e-commerce platform, which resulted in a 40% performance improvement by focusing on Core Web Vitals and efficient team coordination.<br><br>My adaptive approach to project management combines the best of Agile and traditional methodologies to fit the project's specific needs. I excel at working independently, managing timelines and milestones, and providing clear, regular progress reports to stakeholders. I am confident I have the organizational skills and communication abilities to successfully guide your project from concept to delivery over the seven-month cycle.<br><br>I am excited about the opportunity to contribute to your company's success and am available to discuss my qualifications further at your convenience.<br><br>Thank you for your time and consideration.<br><br>Sincerely,
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading remote, cross-functional teams in delivering complex web and digital projects. Expert in Agile and traditional methodologies, with a focus on full-cycle project delivery, stakeholder communication, and budget management.
+SKILLS_TITLE_1: Project Management Methodologies
+SKILLS_DESC_1: Agile (Scrum, Kanban, SAFe), Hybrid, Waterfall, SDLC
+SKILLS_TITLE_2: Project Management Tools & Platforms
+SKILLS_DESC_2: Jira, Confluence, Asana, ClickUp, MS Teams, Slack, Azure DevOps
+SKILLS_TITLE_3: Technical & Domain Expertise
+SKILLS_DESC_3: Web & App Development, E-commerce, Backend Systems, API Integration, Cloud (AWS, GCP), AI Solutions
+SKILLS_TITLE_4: Core Competencies
+SKILLS_DESC_4: End-to-End Project Delivery, Budget & Timeline Management, Stakeholder Reporting, Remote Team Coordination, Risk Management
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native consulting company using AI and innovative software development to help organizations reinvent themselves and unleash their potential.
+COMPANY_BULLET_1_GLOBANT: Led development of the Royal Caribbean guest app, coordinating remote teams to deliver features like reservations and notifications, enhancing customer digital experience.
+COMPANY_BULLET_2_GLOBANT: Managed the Dick's Sporting Goods e-commerce platform revamp, improving Core Web Vitals performance by 40% through agile execution and cross-functional team collaboration.
+COMPANY_BULLET_3_GLOBANT: Directed end-to-end project lifecycle for a new AI chatbot, managing scope, budget, and timeline to ensure successful delivery and stakeholder satisfaction.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm specializing in cloud services, big data, and custom digital solutions for media, sports, and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Oversaw development of the Concacaf web/app media center, delivering live streaming and news features by managing remote development and AWS infrastructure.
+COMPANY_BULLET_2_MANGOSOFT: Managed the creation of a voice-to-text application for healthcare, coordinating development and ensuring seamless integration with AWS services for high availability.
+COMPANY_BULLET_3_MANGOSOFT: Led a project to build a patient portal for medical imaging, enabling user access to records and improving communication between patients and providers.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology company delivering integrated hardware and software solutions, including IoT devices and management platforms for public safety and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Headed development of a web-based management platform for police bodycams, enabling real-time video streaming and geolocalization for 3,000+ devices.
+COMPANY_BULLET_2_TIPI: Directed the software development lifecycle for a patient flow tracking board, improving operational efficiency and reducing wait times in over 10 clinics.
+COMPANY_BULLET_3_TIPI: Managed a project to create an RFID asset tracking system, coordinating firmware and software development to deliver a complete solution for hospitals.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering point-of-sale (POS) and business management software for over 1,000 small businesses in the retail and wellness industries.
+COMPANY_BULLET_1_ITBIGBOSS: Led the full software development lifecycle for a SaaS POS system, incorporating features like payment processing and inventory for over 1,000 businesses.
+COMPANY_BULLET_2_ITBIGBOSS: Managed integrations with third-party accounting apps and payment gateways, expanding product functionality and improving the end-user experience.
+COMPANY_BULLET_3_ITBIGBOSS: Directed the development of an Android companion app for order management, coordinating the project from concept to its successful launch on the market.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, focused on enhancing member wellness through technology-driven services across 60+ locations.
+COMPANY_BULLET_1_BODYTECH: Managed the SDLC for the company's CRM and billing software, automating processes and increasing member retention through improved data management.
+COMPANY_BULLET_2_BODYTECH: Led the IT Service Desk implementation, establishing support protocols and improving system uptime and ticket resolution rates across all company locations.
+COMPANY_BULLET_3_BODYTECH: Directed technology infrastructure expansion for 60+ new sites, overseeing networking and system deployments to support rapid business growth in three countries.

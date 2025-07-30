@@ -1,0 +1,55 @@
+# Global Information
+HIRING_MANAGER: Hiring Team
+COMPANY_NAME: Stryker
+JOB_ROLE: Project Manager, ASC (Remote)
+APPLICATION_DATE: July 24, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Project Manager, ASC (Remote) at Stryker
+CONTENT: Dear Stryker Hiring Team,<br><br>I am writing to express my keen interest in the Project Manager, ASC (Remote) position, which I discovered on LinkedIn. With over 10 years of project management experience, particularly in the healthcare and medical device sectors, I am confident that my skills in managing complex implementations and coordinating cross-functional teams align perfectly with the requirements of this role.<br><br>In my previous roles, I have successfully managed the end-to-end implementation of solutions for numerous hospitals and clinics. This includes coordinating the deployment of medical imaging systems, integrating data from medical devices (DICOM, HL7), and developing patient portals. I am adept at working with both internal teams, like supply chain and engineering, and external customers to ensure a seamless implementation experience, a key responsibility outlined in your job description.<br><br>My background includes leading projects that require significant logistical coordination and stakeholder education, similar to the needs of supporting ASC Regional Managers. I excel at leading without direct authority, articulating clear roles and responsibilities, and ensuring projects adhere to established processes. I am passionate about leveraging my experience to contribute to Stryker's mission of improving patient and healthcare outcomes.<br><br>I am eager to discuss how my adaptive project management approach and customer-facing experience can benefit Stryker. Thank you for your time and consideration.<br><br>Sincerely,<br>Juan Garcia
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience delivering complex projects across the healthcare, medical device, and technology sectors. Expert in managing the full implementation lifecycle, from coordinating supply chain logistics to ensuring a seamless customer experience. Skilled in leading cross-functional teams and communicating effectively with internal sales teams and external customers to achieve strategic goals.
+SKILLS_TITLE_1: Project & Implementation Management
+SKILLS_DESC_1: Cross-Functional Team Leadership, Full Project Lifecycle, Customer Implementation, Supply Chain Coordination, Stakeholder Engagement, Process Optimization, Risk Management, Budget Oversight.
+SKILLS_TITLE_2: Healthcare & Medical Device
+SKILLS_DESC_2: Medical Device Implementation, Hospital & Clinical Systems, ASC Environment Acumen, Patient Portals, Healthcare IT (DICOM, HL7), HIPAA Compliance.
+SKILLS_TITLE_3: Methodologies & Tools
+SKILLS_DESC_3: Agile (Scrum, Kanban), SAFe, Hybrid (Waterfall/Scrum), Jira, Confluence, Asana, MS Teams.
+SKILLS_TITLE_4: Business & Technical Acumen
+SKILLS_DESC_4: Customer-Facing Engagement, Salesforce (CRM), Microsoft Dynamics (ERP), Cloud Platforms (AWS, GCP), RFP Analysis, Vendor & Resource Management.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native consulting company using AI and innovative technologies to reinvent businesses and deliver scalable software solutions for global enterprise clients.
+COMPANY_BULLET_1_GLOBANT: Drove program performance and cost efficiency across client portfolios, including Dick's Sporting Goods, achieving a 40% boost in digital platform efficiency via adaptive roadmaps.
+COMPANY_BULLET_2_GLOBANT: Led implementation of an AI-powered chatbot and other digital features for Royal Caribbean, enhancing guest experience and increasing ancillary onboard service utilization.
+COMPANY_BULLET_3_GLOBANT: Managed teams of up to 100+ to deliver complex banking solutions for Banco de Chile, including a successful data center migration to GCP.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm specializing in delivering custom cloud-based solutions, Big Data analytics, and media streaming services for sports and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Managed the end-to-end implementation of medical imaging and voice-to-text solutions for multiple hospitals, improving diagnostic workflow efficiency for clinical staff.
+COMPANY_BULLET_2_MANGOSOFT: Coordinated data transfer from medical devices to AWS using DICOM and integrated a 3D visualizer, enhancing physicians' access to critical patient data.
+COMPANY_BULLET_3_MANGOSOFT: Led the implementation of a surgery tracking board integrated with hospital systems, improving communication speed and reducing patient wait times during surgical procedures.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Project Manager
+COMPANY_SUMMARY_TIPI: A technology company developing integrated hardware and software solutions for public safety and healthcare, specializing in real-time data and IoT management systems.
+COMPANY_BULLET_1_TIPI: Directed the deployment and operational support for over 3,000 bodycam devices for the Colombian Police, ensuring on-time delivery and system reliability under government contract regulations.
+COMPANY_BULLET_2_TIPI: Managed the implementation of a Bluetooth/RFID nurse-call system in 10+ hospitals, improving asset tracking and reducing patient response times for better care.
+COMPANY_BULLET_3_TIPI: Led the full SDLC for a SaaS-based patient flow tracking board, integrating with hospital systems to streamline operations and enhance the patient journey.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering comprehensive POS and business management software solutions for over 1,000 small businesses across the retail, fitness, and health sectors.
+COMPANY_BULLET_1_ITBIGBOSS: Directed the SDLC for a POS system with integrated hardware, successfully deploying the solution to over 1,000 small businesses and increasing their operational efficiency.
+COMPANY_BULLET_2_ITBIGBOSS: Led product implementation for clients in health and fitness, automating billing and member management, which resulted in higher customer retention and reduced data entry.
+COMPANY_BULLET_3_ITBIGBOSS: Managed a team of 30+ to deliver a feature-rich SaaS platform with inventory management and payment processing, driving business growth for all clients.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, providing comprehensive wellness services and medical sports programs across multiple countries.
+COMPANY_BULLET_1_BODYTECH: Managed technology infrastructure rollout across 60+ new sites, coordinating vendors for networking and security systems to support rapid, large-scale company expansion.
+COMPANY_BULLET_2_BODYTECH: Led the successful implementation of Microsoft Dynamics CRM & ERP, streamlining member management and billing, which improved data accuracy and operational efficiency company-wide.
+COMPANY_BULLET_3_BODYTECH: Established and led the IT Service Desk, implementing support workflows that achieved a 95% system uptime and improved user satisfaction for thousands of employees.
