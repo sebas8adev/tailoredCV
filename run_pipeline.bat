@@ -58,7 +58,7 @@ echo.
 :: --- PHASE 3: GENERATE FINAL DOCUMENTS ---
 echo [PHASE 3] Running the Final Document Generator...
 :: Now that venv is active, we just use 'python'
-python3 "2_Generator\generate_documents.py"
+python "2_Generator\generate_documents.py"
 
 if %errorlevel% neq 0 (
     echo [ERROR] The Document Generator script failed. Aborting the pipeline.

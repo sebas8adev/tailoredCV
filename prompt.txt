@@ -1,6 +1,6 @@
 Before starting, if you have any previous interactions related to this same topic, please don't use them just as a reference, this new prompt has been refined and improved to get the most of our team work.
-First, this is my career experience:
 
+First, this is my career experience:
 1. Studies:
 1.1. Bachelor's degree in Systems Engineering.
 1.2. Graduate Certificate in Technology Management.
@@ -10,12 +10,13 @@ First, this is my career experience:
 2.3. Certified ScrumMaster (CSM).
 2.4. Certified Scrum Product Owner (CSPO).
 2.5. Management 3.0.
-2.6. Google Project Management Certificate.
-2.7. Career Essentials in Project Management by Microsoft and LinkedIn.
-2.8. Lean Startup.
-2.9. Career Essentials in Generative AI by Microsoft and LinkedIn.
-2.10. Cloud Digital Leader Certification by Google Cloud.
-2.11. AWS Cloud Technical Essentials.
+2.6. Google Generative AI Leader Certificate.
+2.7. Google Project Management Certificate.
+2.8. Career Essentials in Project Management by Microsoft and LinkedIn.
+2.9. Lean Startup.
+2.10. Career Essentials in Generative AI by Microsoft and LinkedIn.
+2.11. Cloud Digital Leader Certification by Google Cloud.
+2.12. AWS Cloud Technical Essentials.
 3. Work Experience:
 3.1. Company: Globant
 3.1.1. Role: Senior Project Manager
@@ -23,22 +24,24 @@ First, this is my career experience:
 3.1.3. Projects:
 3.1.3.1. Client: Royal Caribbean Group.
 - Role: Technical Project Manager & Scrum Master.
-- Products: Guest App, Room Service.
-- Features: Google AI Chatbot, Digital Concierge, Onboard Wifi, Tickets and reservations, Room Service.
-- Teams: +30 people offshore in India, Mexico, Colombia, USA, Argentina, Peru, Ecuador.
+- Products: Guest App, Room Service, Future Cruise, Digital Concierge.
+- Features: Google AI Chatbot, Onboard Wifi, Tickets and reservations, Room Service, Notifications, Tailored advertising.
+- Teams: 3 different teams composed between 6 and 15 people offshore in India, Mexico, Colombia, USA, Argentina, Peru, Ecuador, and, Uruguay.
 - Type of engagement: Fixed Price.
-- Methodology: SAFe.
+- Methodology: SAFe, Scrum, Kanban.
 - Tools: Jira, Confluence, MS Teams, Slack.
 - Technologies: Google AI Chat, React, React Native, Android, iOS, Java 11 & Springboot, MySql Server, Kafka, Firebase, SonarQube, github.
 - Achievements: 
-:Features discovery, plan and execution on time and capacity, working along with Product Owners and Technical leaders to groom the Backlog, refine it and prioritize it by PI/quarter and sprint.
+:RFP analysis, estimations and proposals for the different projects.
+:Features discovery, plan and execution on time and capacity, working along with Product Owners and Technical leaders to groom the Backlog, refine it and prioritize it by PI/quarter and every 2-week sprint.
 :PI Planning preparation, presentation and execution.
 :Quarterly roadmap execution and adaptability according to the plan, with KPI and OKR.
 :Improvement of the performance and cost of the work done based on the capacity and velocity.
 :Scrum events/ceremonies implementation, coach and facilitation.
-:Plan, execution and control of the project constraints such as people, budget, quality and scope.
+:Plan, execution and control of the project constraints such as people, time, budget, quality and scope.
 :Implementation of the hyper care and production support for the released products.
-:Release management, defining the scope based on the commited backlog and capacity planned during the release dates.
+:Release management, defining the scope based on the commited backlog and capacity planned during the release dates, and working along with the operations teams to get the features ready to be released without risks.
+:Effective communication across the products, helping to: Give status reports according to the KPI/OKRs, translate team goals and execution into RAG (Red, Ambar, Green) indicators to present to the C-level stakeholders; status report with the internal management to analyze project execution, risks, opportunites and make sure to be on track, communication with the teams, starting with team buildings, one-on-one conversations, career paths, coaching and evertything related to have high-performance teams.
 3.1.3.2. Client: Dick's Sporting Goods.
 - Role: Technical Project Manager & Scrum Master.
 - Products: Ecommerce, MangifAI (AI for test automation).
@@ -56,7 +59,8 @@ First, this is my career experience:
 :Plan, execution and control of the project constraints such as people, budget, quality and scope.
 :Features discovery, plan and execution on time and capacity, working along with Product Owners and Technical leaders to groom the Backlog, refine it and prioritize it by PI/quarter and sprint.
 :Release management, defining the scope based on the commited backlog and capacity planned during the release dates.
-3.1.3.3. Client: Banco de Chile (From ).
+:Effective communication across the products, helping to: Give status reports according to the KPI/OKRs, translate team goals and execution into RAG (Red, Ambar, Green) indicators to present to the C-level stakeholders; status report with the internal management to analyze project execution, risks, opportunites and make sure to be on track, communication with the teams, starting with team buildings, one-on-one conversations, career paths, coaching and evertything related to have high-performance teams.
+3.1.3.3. Client: Banco de Chile.
 - Role: Chief Scrum Master & Project Manager.
 - Products: Metaverse, Mi Banco App, Data Ingestion, Datawarehouse, Power BI, Genexus AI (Low code).
 - Features: Metaverse Branch, Customer balance in the app, transactions in the app, datacenter migration from prem to gcp, datawarehouse, datalake, power bi.
@@ -88,6 +92,21 @@ First, this is my career experience:
 :Implement the Scrum methodology.
 :Scrum events/ceremonies implementation, coach and facilitation.
 :Deliver the KPI and OKR defined on a weekly, bi-weeky, monthly and Quarterly basis. 
+3.1.3.5. Client: Brithish Airlines.
+- Role: Scrum Master.
+- Products: Mobile App.
+- Features: Revamp sales process.
+- Teams: 3 teams composed by a tech leader and 3 AI agents each. I.E. Team 1: Frontend Development, with a Sr Frontend Developer and 3 AI Agents; Team 2: Backend Development, with a Sr Backend Developer and 3 AI Agents; Team 3: Quality Assurance, with a Sr Quality Assurance Engineer and 3 AI Agents.
+- Type of engagement: Time & Materials.
+- Methodology: Scrum.
+- Tools: Jira, Confluence, MS Teams.
+- Technologies: Next.js, Node.js, SAP.
+- Achievements: 
+:RFP and proposal for the implementation of the new AI Agents-model.
+:Initial estimation and project roadmap.
+:Implementation of the hybrid software development team along with the new AI Agents model.
+:Kick off of the project, and the discovery phase, creating the product backlog for the next 10 sprints.
+:Definition of the metrics, KPIs and OKRs for product, engineering and delivery.
 3.1.4. Reason for leaving: I started working in Colombia and now I've moved to the US, but the relocation process and change of payroll has not been approved, so I need to find a job in the US to start having local benefits and create a better future here.
 3.2. Company: Mango-Soft
 3.2.1. Role: Technical Project Manager
@@ -226,8 +245,8 @@ NOTE 4: Just include the relevant skills directly related to the Job Description
 These categories are likely easier to scan and identify your top skills, the following is just an example, don't do it exactly, generate them according to the job description and my job experience:
 
 > For the Globant work experience:
-> Generate a Job Title choosing one of the following, according to the most direct job title defined in the Job Description. The options are: Senior Project Manager, Project Manager, Senior Scrum Master, Scrum Master, Technical Project Manager, Technical Scrum Master.
-NOTE: If the job description states "Senior Project Manager", please include the "Senior" part. If not, please avoid it.
+> Generate a Job Title choosing one of the following, according to the most direct job title defined in the Job Description. The options are: Senior Project Manager, Project Manager, Senior Scrum Master, Scrum Master, Technical Project Manager, Technical Scrum Master, IT Project Manager, IT Scrum Master.
+NOTE: If the job description states "Senior Project Manager" or "Sr Project Manager", please include the "Senior" or "Sr" part. If not, please avoid it.
 > Generate one description of the company under 26 words (check www.globant.com), showing the industry, mission, and scale, in the same words or communication style as the job description. Focus on AI, consulting company, and software development.
 > Generate a bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
 > Generate a second bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
@@ -235,7 +254,7 @@ NOTE: If the job description states "Senior Project Manager", please include the
 NOTE 1: Focus the experience on program and portfolio-based projects, cruise lines, banking, e-commerce, and retail.
 
 - For the Mango-soft work experience:
-> Generate a Job Title choosing one of the following, according to the most direct job title defined in the Job Description. The options are: Senior Project Manager, Project Manager, Senior Scrum Master, Scrum Master, Technical Project Manager, Technical Scrum Master.
+> Generate a Job Title choosing one of the following, according to the most direct job title defined in the Job Description. The options are: Senior Project Manager, Project Manager, Senior Scrum Master, Scrum Master, Technical Project Manager, Technical Scrum Master, IT Project Manager, IT Scrum Master.
 NOTE: If the job description states "Senior Project Manager", please include the "Senior" part. If not, please avoid it.
 > Generate one description of the company under 26 words (check www.mango-soft.com), showing the industry, mission, and scale, in the same words or communication style as the job description
 > Generate a bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
@@ -244,7 +263,7 @@ NOTE: If the job description states "Senior Project Manager", please include the
 NOTE: Focus the experience on Big Data, cloud services, media, and healthcare.
 
 - For the Tipi work experience:
-> Generate a Job Title choosing one of the following, according to the most direct job title defined in the Job Description. The options are: Senior Project Manager, Project Manager, Senior Scrum Master, Scrum Master, Technical Project Manager, Technical Scrum Master.
+> Generate a Job Title choosing one of the following, according to the most direct job title defined in the Job Description. The options are: Senior Project Manager, Project Manager, Senior Scrum Master, Scrum Master, Technical Project Manager, Technical Scrum Master, IT Project Manager, IT Scrum Master.
 NOTE: If the job description states "Senior Project Manager", please include the "Senior" part. If not, please avoid it.
 > Generate one description of the company under 26 words (check www.mango-soft.com), showing the industry, mission, and scale, in the same words or communication style as the job description.
 > Generate a bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
@@ -253,7 +272,7 @@ NOTE: If the job description states "Senior Project Manager", please include the
 NOTE: Focus the experience on Hardware+Software solutions, law enforcement, and healthcare.
 
 - For the IT Big Boss Software House work experience:
-> Generate a Job Title choosing one of the following, according to the most direct job title defined in the Job Description. The options are: Senior Project Manager, Project Manager, Senior Scrum Master, Scrum Master, Technical Project Manager, Technical Scrum Master.
+> Generate a Job Title choosing one of the following, according to the most direct job title defined in the Job Description. The options are: Senior Project Manager, Project Manager, Senior Scrum Master, Scrum Master, Technical Project Manager, Technical Scrum Master, IT Project Manager, IT Scrum Master.
 NOTE: If the job description states "Senior Project Manager", please include the "Senior" part. If not, please avoid it.
 > Generate one description of the company under 26 words (check https://www.youtube.com/watch?v=UveLGnjz78E), showing the industry, mission, and scale, in the same words or communication style as the job description.
 > Generate a bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
@@ -271,6 +290,10 @@ NOTE: If the job description states "Senior Project Manager", please include the
 NOTE: Focus the experience on Health and Fitness Centers, ERP & CRM implementations, Technology Infrastucture, Operations, Support, Security, Platform.
 
 ADDITIONAL NOTES:
+- I've seem that in previous outputs you have used "versatile...". I don't like that word, nor seasoned or proven. I'd prefer to use "adaptative" or something more agile or modern project management terms.
+- Sometimes the job description can use "jargon" or business words, so, try to keep a general language and identify when they are usign terms metaphorically or are real skills specifications.
+- Shore, shoreside regularly means: Development team working along locally or in the office.
+- Offshore regularly means: Development team working remotely abroad.
 - Be sure to make it optimal for ATS.
 - Be focused on results, achievements, and improvements. Just like any modern hiring manager would like it.
 - Include AI in everything that can make sense.

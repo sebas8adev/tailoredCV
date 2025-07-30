@@ -1,0 +1,55 @@
+# Global Information
+HIRING_MANAGER: Claudette Graham
+COMPANY_NAME: Inspyr Solutions
+JOB_ROLE: IT Project Manager
+APPLICATION_DATE: July 2, 2025
+
+# Cover Letter Content
+SUBJECT: Application for IT Project Manager role in the maritime/travel industry
+CONTENT: Dear Claudette Graham,<br><br>Thank you for reaching out regarding the long-term IT Project Manager opportunity in Orlando. I am very interested in this hybrid role with your top-tier client in the maritime/travel industry.<br><br>My background includes over 10 years of IT project management, with direct experience leading the delivery of both shipboard and shoreside applications for Royal Caribbean Group. I managed the development of their guest app, which involved coordinating complex deployments, system integrations, and data loading for a seamless onboard experience—experience that aligns directly with the needs of your client's crew applications team.<br><br>I am an expert in adaptive project delivery, utilizing Agile (SAFe, Scrum) and full SDLC methodologies to navigate fast-moving and sometimes ambiguous environments. My focus is always on clear communication, risk mitigation, and successful deployment from pre-production through to go-live.<br><br>My resume is attached for your review. I am confident that my skills and hands-on experience in the travel industry make me an excellent candidate for this position. I look forward to discussing how I can contribute to your client's success.<br><br>Best regards,
+
+# CV Content
+CAREER_SUMMARY: Adaptive IT Project Manager with 10+ years of experience leading global teams and delivering complex digital transformations in the maritime/travel and retail industries. Expert in Agile (SAFe, Scrum), SDLC, and delivering cloud, AI, and system integration solutions from planning to production deployment. Excels in C-level reporting and managing project constraints.
+SKILLS_TITLE_1: Project Management & Methodologies
+SKILLS_DESC_1: Agile (Scrum, SAFe, Kanban), SDLC, Hybrid Models, End-to-End Project Execution, Risk Management, Budget Oversight, Executive & Stakeholder Reporting.
+SKILLS_TITLE_2: Technical & Domain Expertise
+SKILLS_DESC_2: Shipboard & Shoreside Solutions, Application Deployment, System & Data Integration, Cloud Platforms (AWS, GCP), AI & GenAI Implementation, Release Coordination & Triage.
+SKILLS_TITLE_3: Project Management Tools
+SKILLS_DESC_3: Jira, Confluence, MS Project, Slack, GitHub, SonarQube, Automic Job Scheduling Concepts.
+SKILLS_TITLE_4: Industry Verticals
+SKILLS_DESC_4: Maritime & Travel, Retail & E-Commerce, Banking & Finance, Healthcare, Public Safety.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: IT Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native consulting firm leveraging AI and innovative technologies to reinvent businesses through custom software development and end-to-end digital transformation solutions.
+COMPANY_BULLET_1_GLOBANT: Led delivery of guest and crew applications for Royal Caribbean, managing 3 offshore teams and coordinating shipboard/shoreside deployments for enhanced onboard experience.
+COMPANY_BULLET_2_GLOBANT: Drove a 40% e-commerce performance improvement for Dick’s Sporting Goods by leading Core Web Vitals initiatives and optimizing the SDLC for +30 engineers.
+COMPANY_BULLET_3_GLOBANT: Orchestrated PI Planning and execution for quarterly roadmaps across portfolios, translating team performance into C-level RAG status reports to ensure alignment and visibility.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development company specializing in custom solutions for media, sports, and healthcare industries, with a focus on cloud and big data technologies.
+COMPANY_BULLET_1_MANGOSOFT: Directed end-to-end development of a media streaming platform for Concacaf, integrating AWS services and delivering real-time match statistics to thousands of users.
+COMPANY_BULLET_2_MANGOSOFT: Managed the creation of a voice-to-text application for healthcare clients, improving clinical documentation efficiency and reducing physician data entry time by over 30%.
+COMPANY_BULLET_3_MANGOSOFT: Led project lifecycle from RFP to production for a DICOM imaging integration, enabling secure AWS data transfer and visualization for multiple Colombian hospitals.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology firm developing integrated hardware and software solutions for public safety and healthcare sectors, specializing in IoT and real-time data systems.
+COMPANY_BULLET_1_TIPI: Led the full SDLC for a bodycam system for the Colombian Police, deploying over 3,000 devices with real-time streaming and facial recognition capabilities.
+COMPANY_BULLET_2_TIPI: Deployed a SaaS-based nurse call system across 10+ hospitals, integrating RFID for asset tracking and improving patient care communication speed and efficiency.
+COMPANY_BULLET_3_TIPI: Oversaw project delivery under strict government contract regulations, ensuring on-time implementation, quality assurance, and operational support for critical public safety infrastructure.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A software-as-a-service (SaaS) provider that developed and scaled a comprehensive POS and business management platform for small and medium-sized businesses in LATAM.
+COMPANY_BULLET_1_ITBIGBOSS: Spearheaded the software development life cycle for a SaaS POS platform, growing the user base to over 1,000 businesses across retail and hospitality.
+COMPANY_BULLET_2_ITBIGBOSS: Managed integrations with payment processors, biometric devices, and government tax APIs, enhancing product value and increasing customer retention rates by 25%.
+COMPANY_BULLET_3_ITBIGBOSS: Led a team of +30 developers hands-on, contributing to code reviews and release management to ensure product stability and continuous feature deployment.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, focused on providing comprehensive wellness services powered by innovative technology and infrastructure solutions.
+COMPANY_BULLET_1_BODYTECH: Directed the implementation of a custom CRM and billing system, automating membership management and reducing manual data entry for over 60 international locations.
+COMPANY_BULLET_2_BODYTECH: Led technology infrastructure rollout for 60+ new sites across 3 countries, managing networking, security, and service desk operations to support rapid business growth.
+COMPANY_BULLET_3_BODYTECH: Championed deployment of a biometric access control system, increasing security and streamlining member check-in, which improved overall system uptime and member satisfaction.
