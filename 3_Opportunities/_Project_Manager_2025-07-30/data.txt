@@ -1,0 +1,55 @@
+# Global Information
+HIRING_MANAGER: Hiring Team
+COMPANY_NAME: Emerging Clinical-Stage Biotechnology Company
+JOB_ROLE: Program Manager – Clinical Development
+APPLICATION_DATE: July 2, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Program Manager – Clinical Development at Emerging Clinical-Stage Biotechnology Company
+CONTENT: Dear Hiring Team,<br><br>I am writing to express my enthusiastic interest in the Program Manager – Clinical Development position. I am drawn to your company's mission-driven focus on developing innovative therapies and thrive in the type of dynamic, entrepreneurial environment you describe.<br><br>With over 10 years of experience managing complex, cross-functional projects, I have a strong record of delivering results. While my background is rooted in technology program management, I have successfully led high-impact initiatives within the regulated healthcare sector. My work with clients like San Rafael Hospital and Antioquia Clinic involved managing the integration of clinical systems, patient data (HL7), and medical imaging (DICOM), requiring rigorous coordination and a focus on operational efficiency.<br><br>My expertise directly aligns with your key requirements. I excel at developing and maintaining comprehensive program plans, including timelines, budgets, and risk registers, using tools like Jira and Confluence. A core strength is coordinating between internal teams and external partners—a skill directly transferable to managing relationships with CROs, vendors, and academic collaborators to keep strategic programs on track.<br><br>I am an adaptive, self-starting leader passionate about translating strategic goals into executable plans and driving projects that have a meaningful impact. I am confident that my skills in program management and my experience in the healthcare space would allow me to contribute significantly to advancing your pipeline. Thank you for your time and consideration.
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project and Program Manager with 10+ years of experience delivering complex transformations across healthcare, finance, retail, and travel. Expert in cross-functional program planning, budget and timeline management, and vendor collaboration to advance strategic initiatives from concept to completion.
+SKILLS_TITLE_1: Program & Project Management
+SKILLS_DESC_1: Cross-Functional Program Planning, Timeline & Milestone Management, Budget & Financial Oversight, Risk Assessment & Mitigation, Gantt Charts, Smartsheet, Jira, Confluence.
+SKILLS_TITLE_2: Stakeholder & Vendor Management
+SKILLS_DESC_2: C-Level & Leadership Reporting, Vendor & Partner Coordination, Strategic Planning Support, Stakeholder Engagement, RFP & Proposal Management, PI Planning.
+SKILLS_TITLE_3: Methodologies & Lifecycle
+SKILLS_DESC_3: Agile (SAFe, Scrum, Kanban), Waterfall & Hybrid Models, Full SDLC Execution, Release Management, Hypercare & Production Support.
+SKILLS_TITLE_4: Industry & Technical Acumen
+SKILLS_DESC_4: Healthcare & Clinical Systems (DICOM, HL7), Cloud Platforms (AWS, GCP), AI & Data Solutions, System & Data Migrations, E-commerce & Mobile Apps.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native consulting company helping organizations reinvent themselves with AI-powered solutions, providing scalable software development and strategic guidance for global enterprises.
+COMPANY_BULLET_1_GLOBANT: Managed a portfolio for Royal Caribbean, leading teams to deliver an AI chatbot that improved guest service efficiency and increased ancillary onboard sales.
+COMPANY_BULLET_2_GLOBANT: Drove a 40% e-commerce performance boost for Dick's Sporting Goods by leading Core Web Vitals initiatives, enhancing customer experience and conversion rates.
+COMPANY_BULLET_3_GLOBANT: Orchestrated a 150-person program for Banco de Chile, managing a critical datacenter migration to GCP and launching a new mobile banking app.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A custom software development firm specializing in cloud-based solutions, AI integrations, and data services for the media, sports, and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Led end-to-end development of a media platform for Concacaf, integrating AWS streaming and data services to deliver real-time content to fans.
+COMPANY_BULLET_2_MANGOSOFT: Directed projects for multiple clinics, delivering an AWS Polly voice-to-text solution that reduced physician documentation time and improved clinical workflow efficiency.
+COMPANY_BULLET_3_MANGOSOFT: Managed the integration of medical imaging (DICOM) and patient data (HL7) systems, ensuring secure, compliant data transfer to AWS for improved diagnostic access.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology firm delivering integrated hardware and software solutions, including IoT devices and management platforms for public safety and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Led the full lifecycle of a bodycam solution for the Colombian Police, successfully deploying over 3,000 devices and a real-time management platform.
+COMPANY_BULLET_2_TIPI: Managed development of a nurse call system for 10+ hospitals, integrating Bluetooth and RFID technology to improve patient response times and asset tracking.
+COMPANY_BULLET_3_TIPI: Oversaw creation of a patient flow tracking board that integrated with hospital systems to reduce wait times and optimize clinical resource allocation.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering comprehensive POS and business management software for over 1,000 small businesses in the retail and wellness sectors.
+COMPANY_BULLET_1_ITBIGBOSS: Directed the full SDLC for a SaaS POS platform, integrating payments, inventory, and CRM to increase operational efficiency for 1,000+ business clients.
+COMPANY_BULLET_2_ITBIGBOSS: Led development of biometric access control and automated billing features, increasing member retention and reducing manual data entry for fitness center clients.
+COMPANY_BULLET_3_ITBIGBOSS: Managed product adaptation and implementation across LATAM, ensuring compliance with local tax regulations and successfully expanding the software’s market penetration.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, operating over 60 locations across Colombia, Peru, and Chile with a focus on wellness.
+COMPANY_BULLET_1_BODYTECH: Directed the implementation of a new Dynamics CRM and ERP system, successfully streamlining billing and customer management operations across three countries.
+COMPANY_BULLET_2_BODYTECH: Managed the technology infrastructure rollout for 60+ new sites, including networking, security, and VoIP, ensuring 99% system uptime and operational stability.
+COMPANY_BULLET_3_BODYTECH: Established the company's IT service desk, implementing support protocols that improved ticket resolution rates and enhanced overall employee technology experience.

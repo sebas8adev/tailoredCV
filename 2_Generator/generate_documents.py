@@ -11,8 +11,7 @@ from weasyprint import HTML
 SCRIPT_DIR = os.path.dirname(os.path.realpath(__file__))
 PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
 OPPORTUNITIES_BASE_DIR = os.path.join(PROJECT_ROOT, '3_Opportunities')
-TODO_FILE_PATH = os.path.join(PROJECT_ROOT, 'todo.txt') # Path for the new to-do file
-# Template paths are relative to this script's location
+TODO_FILE_PATH = os.path.join(PROJECT_ROOT, 'todo.txt')
 CV_TEMPLATE_HTML_PATH = os.path.join(SCRIPT_DIR, 'cv_template.html')
 CL_TEMPLATE_HTML_PATH = os.path.join(SCRIPT_DIR, 'cl_template.html')
 
@@ -48,26 +47,18 @@ def log_to_todo_file(opportunity_path, job_data):
         url = job_data.get('Job post URL', 'URL not found')
         company = job_data.get('Company Name', 'Unknown Company')
         role = job_data.get('Role Name', 'Unknown Role')
-        
         timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-
         log_entry = (
             f"---------------------------------------------------\n"
             f"Generated on: {timestamp}\n"
             f"Company: {company}\n"
-            f"Role: {role}\n"
-            f"\n"
-            f"  > Application URL:\n"
-            f"    {url}\n"
-            f"\n"
-            f"  > Generated Documents Path:\n"
-            f"    {os.path.abspath(opportunity_path)}\n"
+            f"Role: {role}\n\n"
+            f"  > Application URL:\n    {url}\n\n"
+            f"  > Generated Documents Path:\n    {os.path.abspath(opportunity_path)}\n"
             f"---------------------------------------------------\n\n"
         )
-
         with open(TODO_FILE_PATH, 'a', encoding='utf-8') as f:
             f.write(log_entry)
-        
         print(f"  > Successfully logged to '{os.path.basename(TODO_FILE_PATH)}'.")
         return True
     except Exception as e:
@@ -82,17 +73,17 @@ def process_opportunity_folder(folder_path):
     job_desc_path = os.path.join(folder_path, 'jobdescription.txt')
 
     if not os.path.exists(data_file_path):
-        print(f"  > ERROR: data.txt not found in this folder. Skipping."); return False, None
+        print(f"  > ERROR: data.txt not found. Please run the AI Tailor script first. Skipping."); return False, None
 
-    # We need data from both files for logging and generation
-    ai_generated_data = read_data_from_file(data_file_path)
+    # --- THIS IS THE FIX ---
+    # We now use data.txt as the single source of truth for the templates.
+    document_data = read_data_from_file(data_file_path)
+    # We still read jobdescription.txt, but only to get the URL for the final log.
     job_description_data = read_data_from_file(job_desc_path)
     
-    if not ai_generated_data or not job_description_data:
+    if not document_data or not job_description_data:
         print("  > ERROR: Failed to load data from required files. Aborting."); return False, None
     
-    # Combine all data for the templates
-    document_data = {**ai_generated_data, **job_description_data}
     fixed_output_name = "Sebastian-Ochoa-Alvarez"
 
     print("\n--- Processing CV ---")
@@ -115,7 +106,7 @@ def process_opportunity_folder(folder_path):
         if not convert_html_to_pdf(cl_html_content, output_pdf): return False, None
     else: return False, None
     
-    return True, job_description_data # Return success and the data needed for logging
+    return True, job_description_data # Return job_desc_data for logging purposes
 
 def main():
     """Main function to find and process all pending opportunities."""
@@ -143,9 +134,7 @@ def main():
                 
                 if success:
                     print(f"--- Successfully processed {folder_name} ---")
-                    # Log to the to-do file first
                     log_to_todo_file(opportunity_path, job_data_for_log)
-                    # Then update the status
                     update_specific_status(job_desc_path, "Status", "processed")
                 else:
                     print(f"--- FAILED to process {folder_name}. Leaving status as 'pending' for review. ---")
@@ -157,14 +146,12 @@ def main():
 
 def read_data_from_file(file_path):
     data = {}
-    current_key = None
-    current_value_lines = []
+    current_key = None; current_value_lines = []
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
             for line in f:
                 line = line.strip()
                 if not line or line.startswith('#'): continue
-                # Skip status lines, but read other data
                 if any(line.lower().strip().startswith(s) for s in ["status:", "data-status:"]) and current_key is None: continue
                 
                 if '---END_SECTION---' in line:
@@ -187,11 +174,17 @@ def read_data_from_file(file_path):
 def generate_html_content(template_path, data, doc_type):
     try:
         with open(template_path, 'r', encoding='utf-8') as f: html_content = f.read()
+        
+        # The main replacement loop using only data from data.txt
         for key, value in data.items():
             html_content = html_content.replace(f"{{{{{key}}}}}", str(value))
+
+        # Special handling for Cover Letter subject line
         if doc_type == "CL":
-            subject = data.get("SUBJECT", "").replace("{{JOB_ROLE}}", data.get("Role Name", "")).replace("{{COMPANY_NAME}}", data.get("Company Name", ""))
+            # Use keys that the AI is prompted to generate (JOB_ROLE, COMPANY_NAME)
+            subject = data.get("SUBJECT", "").replace("{{JOB_ROLE}}", data.get("JOB_ROLE", "")).replace("{{COMPANY_NAME}}", data.get("COMPANY_NAME", ""))
             html_content = html_content.replace("{{SUBJECT}}", subject)
+            
         return html_content
     except Exception as e:
         print(f"Error generating HTML: {e}"); return None
@@ -206,4 +199,9 @@ def convert_html_to_pdf(html_content, output_pdf_path):
         print(f"  > Error during PDF conversion: {e}"); return False
 
 if __name__ == '__main__':
-    main()
+    try:
+        main()
+        sys.exit(0)
+    except Exception as e:
+        print(f"\n[FATAL] An unhandled exception occurred in generate_documents.py: {e}")
+        sys.exit(1)

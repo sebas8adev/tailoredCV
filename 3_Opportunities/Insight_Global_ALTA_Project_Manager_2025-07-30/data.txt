@@ -1,0 +1,66 @@
+# Global Information
+HIRING_MANAGER: Hiring Team
+COMPANY_NAME: Insight Global's Client
+JOB_ROLE: ALTA Project Manager
+APPLICATION_DATE: July 2, 2025
+
+# Cover Letter Content
+SUBJECT: Application for ALTA Project Manager role
+CONTENT: Dear Hiring Team,
+<br><br>
+I am writing to express my keen interest in the ALTA Project Manager position, as advertised on LinkedIn. With over 10 years of experience managing complex, multi-faceted projects from inception to completion, I have developed a robust skill set in project coordination, client relations, and quality assurance that aligns with the core responsibilities of this role.
+<br><br>
+Throughout my career, I have successfully served as the central point of contact for key clients, including Royal Caribbean and Dick's Sporting Goods, ensuring project deliverables meet stringent industry standards and client expectations. My experience includes directing the planning and resourcing of multiple concurrent projects, maintaining strict adherence to budgets and schedules, and leading cross-functional teams to drive program execution.
+<br><br>
+I am adept at conducting technical reviews, managing compliance with complex requirements, and mentoring junior staff to foster team growth and program success. My adaptive approach to project management and commitment to delivering excellence would allow me to be a valuable asset to your team.
+<br><br>
+Thank you for your time and consideration. I am eager to discuss how my background in leading large-scale projects can contribute to your organization.
+<br><br>
+Sincerely,
+[Your Name]
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading cross-functional teams and delivering complex technical projects across diverse, regulated industries. Expert in full-lifecycle project delivery, from scope and budget management to ensuring compliance with rigorous industry standards. A skilled client liaison with a history of managing multi-project portfolios and driving program performance.
+SKILLS_TITLE_1: Project & Program Management
+SKILLS_DESC_1: Full Project Lifecycle, Budget & Schedule Control, Risk Management, Resource Planning, Multi-Project Coordination, Stakeholder Reporting.
+SKILLS_TITLE_2: Client Relations & Onboarding
+SKILLS_DESC_2: Client Liaison, Relationship Management, Scope & Service Strategy, Program Onboarding, C-Level Communication, RFP & Proposal Development.
+SKILLS_TITLE_3: Quality & Compliance Oversight
+SKILLS_DESC_3: Technical Review, Quality Assurance, Industry Standards Adherence (SAFe, Scrum, PMI), Performance Metrics (KPIs/OKRs), Release Management.
+SKILLS_TITLE_4: Team Leadership & Mentoring
+SKILLS_DESC_4: Cross-functional Team Direction, Staff Mentoring & Development, Performance Improvement, Agile Coaching, Staffing & Resource Allocation.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native consulting company that helps organizations reinvent themselves with AI and software solutions to create a way forward in their industry.
+COMPANY_BULLET_1_GLOBANT: Served as the primary client liaison for Royal Caribbean, directing multiple concurrent projects and cross-functional teams to ensure timely, high-quality product delivery.
+COMPANY_BULLET_2_GLOBANT: Managed program budgets and schedules for Dick's Sporting Goods, improving e-commerce platform performance by 40% through strict adherence to KPIs and quarterly roadmaps.
+COMPANY_BULLET_3_GLOBANT: Led and mentored a team of 5 scrum masters and over 100 engineers for Banco de Chile, establishing program frameworks and driving execution excellence.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm delivering custom cloud-based solutions, big data analytics, and media streaming services for sports and healthcare clients.
+COMPANY_BULLET_1_MANGOSOFT: Partnered with clients like Concacaf to define project scopes, develop proposals, and lead full product implementation from inception through production support.
+COMPANY_BULLET_2_MANGOSOFT: Delivered complex integration solutions for healthcare clients, ensuring compliance with industry data standards (HL7, DICOM) and improving inter-system data flow.
+COMPANY_BULLET_3_MANGOSOFT: Directed cross-functional teams of 10+ engineers to deliver custom applications, implementing agile methodologies to improve delivery timelines and product quality.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Project Manager
+COMPANY_SUMMARY_TIPI: A technology company that developed integrated hardware and software solutions, including bodycams and IoT devices for public safety and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Managed end-to-end delivery of hardware/software solutions for the Colombian Police, ensuring strict compliance with government contract requirements and technical specifications.
+COMPANY_BULLET_2_TIPI: Led deployment and operations for over 3,000 bodycam units across multiple cities, overseeing the entire software and hardware lifecycle to improve public safety.
+COMPANY_BULLET_3_TIPI: Provided technical leadership to a team of 10+ engineers, defining project constraints and driving the successful release of complex integrated systems on schedule.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider that developed and scaled a comprehensive POS software solution for over 1,000 small businesses in the retail and service industries.
+COMPANY_BULLET_1_ITBIGBOSS: Directed the complete software development lifecycle for a market-leading SaaS POS product, driving feature development, integration, and continuous improvement.
+COMPANY_BULLET_2_ITBIGBOSS: Led the implementation and adaptation of the POS solution for over 1,000 small businesses, significantly expanding market penetration across Latin America.
+COMPANY_BULLET_3_ITBIGBOSS: Led technical and operations teams of 30+ people, managing hands-on coding and quality reviews to customer support workflows, improving client retention.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain operating over 60 sites across Colombia, Peru, and Chile with a focus on technology-driven member services.
+COMPANY_BULLET_1_BODYTECH: Managed multi-site infrastructure implementation across 60+ locations in three countries, overseeing networking, security, and CCTV systems from planning to operation.
+COMPANY_BULLET_2_BODYTECH: Led the technical implementation of Microsoft Dynamics CRM & ERP systems, managing the full project lifecycle to centralize operations and enhance data management.
+COMPANY_BULLET_3_BODYTECH: Established and led the IT Service Desk, developing support protocols that improved system uptime and increased user satisfaction for critical business applications.

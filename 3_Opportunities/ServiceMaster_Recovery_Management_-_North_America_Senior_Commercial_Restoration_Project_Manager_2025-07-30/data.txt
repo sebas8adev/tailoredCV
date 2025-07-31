@@ -1,0 +1,55 @@
+# Global Information
+HIRING_MANAGER: Hiring Team
+COMPANY_NAME: ServiceMaster Recovery Management - North America
+JOB_ROLE: Senior Commercial Restoration Project Manager
+APPLICATION_DATE: July 15, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Senior Commercial Restoration Project Manager at ServiceMaster Recovery Management - North America
+CONTENT: Dear ServiceMaster Hiring Team,<br><br>I am writing to express my strong interest in the Senior Commercial Restoration Project Manager position. Your "Play to Win" culture and focus on achieving big goals resonate deeply with my professional drive to lead high-impact projects and build lasting value.<br><br>With over 10 years of experience managing the full lifecycle of complex, multi-million dollar projects, I have a strong record of delivering results. My background has equipped me with an expert ability to develop a clear scope of loss, create detailed project plans, and manage budgets, schedules, and resources to meet client needs and business objectives. I excel at leading and mentoring large, cross-functional teams of over 100 individuals and managing all third-party vendors and subcontractors to ensure quality and accountability.<br><br>My expertise includes:<br>- End-to-end management of projects exceeding $1M, from initial proposal and contract negotiation to final delivery.<br>- Developing and implementing critical path plans and managing change orders to keep projects on track and within budget.<br>- Serving as the primary point of contact for clients, C-level executives, and external stakeholders, ensuring clear communication and alignment.<br>- Leading and training project teams to foster a culture of high performance and continuous improvement.<br><br>I am a builder who thrives on taking on ambitious challenges and seeing a plan through to successful execution. I am confident that my adaptive project management skills and leadership experience align perfectly with your goal to dominate the market. I am eager to discuss how I can contribute to the ServiceMaster team.<br><br>Thank you for your time and consideration.<br><br>Sincerely,<br>[Your Name]
+
+# CV Content
+CAREER_SUMMARY: Adaptive Senior Project Manager with 10+ years of experience leading global teams and delivering complex, multi-million dollar projects across diverse industries. Expert in full-cycle project management, from initial scope and proposal to budget control, risk mitigation, and final delivery. A builder focused on leading large-scale initiatives and achieving ambitious corporate goals.
+SKILLS_TITLE_1: Project & Program Management
+SKILLS_DESC_1: End-to-End Project Lifecycle, Critical Path Management, Scope & Change Order Control, Budget & Financial Oversight, Risk Assessment, Subcontractor & Vendor Management.
+SKILLS_TITLE_2: Leadership & Team Building
+SKILLS_DESC_2: Large-Scale Team Direction (+100 members), Executive-Level Reporting (RAG Status), Mentorship & Training, Resource Allocation, Performance Management (KPIs & OKRs).
+SKILLS_TITLE_3: Methodologies & Contracts
+SKILLS_DESC_3: Agile (SAFe, Scrum, Kanban), Waterfall & Hybrid Approaches, T&M and Fixed Price Contracts, Jira, Confluence, MS Teams.
+SKILLS_TITLE_4: Client & Stakeholder Relations
+SKILLS_DESC_4: RFP Analysis & Proposals, Contract Negotiation, C-Level Communication, Needs Assessment & Solutioning, On-Site Client Engagement.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Senior Project Manager
+COMPANY_SUMMARY_GLOBANT: A technology consulting firm creating digital and cognitive transformations for top brands, focused on delivering impactful AI-powered software solutions and innovations globally.
+COMPANY_BULLET_1_GLOBANT: Led multi-million dollar digital transformation programs for clients like Royal Caribbean, managing project scope, budget, and schedules for on-time, high-impact feature delivery.
+COMPANY_BULLET_2_GLOBANT: Directed global teams of over 100 engineers in executing quarterly roadmaps for banking and retail clients, improving performance and managing project financials.
+COMPANY_BULLET_3_GLOBANT: Drove program performance and cost efficiency for Dick's Sporting Goods, achieving a 40% boost in platform efficiency via adaptive planning and execution.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A custom software development company delivering innovative solutions in media, healthcare, and big data, specializing in cloud services and complex system integrations.
+COMPANY_BULLET_1_MANGOSOFT: Managed end-to-end project delivery for Concacaf, including RFP analysis, team staffing, and implementation of new media streaming and data platforms under budget.
+COMPANY_BULLET_2_MANGOSOFT: Oversaw fixed-price contracts for healthcare clients, delivering critical system integrations that improved clinical workflows, data management, and inter-departmental communication speed.
+COMPANY_BULLET_3_MANGOSOFT: Led teams in the complete project lifecycle, from initial definition and proposal to production support, ensuring client satisfaction and timely project completion.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology provider developing integrated hardware and software solutions for public safety, law enforcement, and healthcare sectors, focusing on IoT and data management.
+COMPANY_BULLET_1_TIPI: Led the project lifecycle for a law enforcement bodycam solution, managing development, deployment, and support for over 3,000 devices, ensuring operational readiness.
+COMPANY_BULLET_2_TIPI: Directed teams in developing and implementing integrated hardware/software systems for hospitals, enhancing operational efficiency and improving patient-staff communication through new technology.
+COMPANY_BULLET_3_TIPI: Managed government contracts, defining project constraints and ensuring on-time delivery, quality, and full compliance with rigorous public sector regulations and requirements.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: An entrepreneurial SaaS company that developed, sold, and supported a Point-of-Sale platform for over 1,000 small businesses in the retail and wellness industries.
+COMPANY_BULLET_1_ITBIGBOSS: Led the full software development life cycle for a SaaS POS product, including feature design, coding, quality assurance, and release management.
+COMPANY_BULLET_2_ITBIGBOSS: Managed product implementation and adaptation for over 1,000 small businesses, driving customer adoption by 95% and tailoring solutions to diverse market needs.
+COMPANY_BULLET_3_ITBIGBOSS: Directed technical and operations teams, providing hands-on leadership in development, customer support workflows, and critical system integrations to ensure 99.9% platform uptime.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, focused on delivering exceptional member experiences through technology-driven services and operational excellence.
+COMPANY_BULLET_1_BODYTECH: Managed technology infrastructure and operations across 60+ sites, overseeing networking, security, and service desk functions, improving ticket resolution rate by 30%.
+COMPANY_BULLET_2_BODYTECH: Led the implementation of enterprise-wide Dynamics CRM & ERP systems, managing the full project lifecycle to centralize operations and improve business intelligence reporting.
+COMPANY_BULLET_3_BODYTECH: Directed the development and rollout of a custom access control and billing system, which automated member check-in and reduced manual data entry time.

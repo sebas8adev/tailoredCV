@@ -1,0 +1,63 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: Insight Global
+JOB_ROLE: Marketing Project Manager
+COMPANY_NAME: Insight Global
+APPLICATION_DATE: July 30, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Marketing Project Manager at Insight Global
+CONTENT: <p>Dear Hiring Manager,</p><br>
+<p>I am writing to express my keen interest in the Marketing Project Manager position at Insight Global, as advertised on LinkedIn.  My 10+ years of experience in project management, encompassing Agile (SAFe, Scrum, Kanban) and traditional methodologies, align perfectly with the requirements outlined in the job description. </p><br>
+<p>Throughout my career, I have consistently delivered complex digital transformations across diverse sectors, including finance, healthcare, retail, travel/hospitality, and media. My expertise extends to managing large-scale, globally distributed teams,  leading to significant improvements in project performance and cost efficiency.  I am adept at leveraging AI-driven solutions, managing cloud infrastructure initiatives, and orchestrating intricate system integrations.</p><br>
+<p>My experience with clients such as Royal Caribbean Group, Dick's Sporting Goods, and Banco de Chile demonstrates my ability to navigate the complexities of program and portfolio-based projects within demanding environments.  I have a proven track record of delivering projects on time and within budget, while exceeding expectations and fostering high-performing teams.</p><br>
+<p>My proficiency in Workfront further enhances my suitability for this role. I am confident in my ability to quickly integrate into your team and make an immediate and valuable contribution. I am eager to learn more about this opportunity and discuss how my skills and experience can benefit Insight Global.</p><br>
+<p>Thank you for your time and consideration.</p><br>
+
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Management professional with 10+ years of experience leading global teams and delivering complex digital transformations across diverse industries. Expert in AI-driven solutions, cloud-based technologies, and system integrations, with a proven track record of improving performance and managing large-scale projects.
+SKILLS_TITLE_1: Project Management Methodologies
+SKILLS_DESC_1: SAFe, Scrum, Kanban, Waterfall
+SKILLS_TITLE_2: Technology & Platforms
+SKILLS_DESC_2: Workfront, AWS, GCP, Azure, AI solutions, various programming languages and databases
+SKILLS_TITLE_3: Project Delivery & Management
+SKILLS_DESC_3: Program/portfolio management, risk management, budget management, stakeholder communication,  on-time and within-budget delivery
+SKILLS_TITLE_4: Industries & Markets
+SKILLS_DESC_4: Finance, Healthcare, Retail, Travel/Hospitality, Media, Public Safety
+
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Senior Project Manager
+COMPANY_SUMMARY_GLOBANT: A global IT consulting and software development company focused on AI and digital transformation solutions, serving clients worldwide.
+COMPANY_BULLET_1_GLOBANT: Led technical project management and scrum for Royal Caribbean Group's Guest App, achieving on-time delivery of new features including a Google AI chatbot.
+COMPANY_BULLET_2_GLOBANT: Drove a 40% improvement in eCommerce performance for Dick's Sporting Goods by optimizing Core Web Vitals through agile methodologies and cross-functional team collaboration.
+COMPANY_BULLET_3_GLOBANT: Managed a 100+ person team across multiple countries for Banco de Chile's Metaverse and banking application projects, delivering key features on schedule and within budget.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT:  A technology firm specializing in big data, cloud services, and healthcare solutions, supporting clients across multiple industries.
+COMPANY_BULLET_1_MANGOSOFT:  Successfully delivered Concacaf's app and media center, utilizing AWS cloud services, integrating live streaming capabilities, and meeting aggressive deadlines.
+COMPANY_BULLET_2_MANGOSOFT: Implemented cloud-based imaging integration for multiple hospitals in Colombia resulting in streamlined workflows and improved patient care.
+COMPANY_BULLET_3_MANGOSOFT: Managed the full software development lifecycle of a voice-to-text application for healthcare professionals, optimizing transcription accuracy and enhancing efficiency.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology solutions provider focused on hardware and software integration.
+COMPANY_BULLET_1_TIPI:  Successfully led the development and deployment of 3000+ bodycams for the Colombian Police, integrating advanced features such as geolocation and real-time video streaming.
+COMPANY_BULLET_2_TIPI: Implemented a nurse-call system and asset tracking solution across 10+ Colombian clinics and hospitals, improving response times and asset management.
+COMPANY_BULLET_3_TIPI: Managed the end-to-end project lifecycle for a patient flow tracking board, integrating it with existing hospital systems to improve workflow efficiency.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A software house developing POS systems for various industries.
+COMPANY_BULLET_1_ITBIGBOSS: Developed and deployed a POS system for over 1000 small businesses in LATAM, incorporating features such as payment processing and inventory management.
+COMPANY_BULLET_2_ITBIGBOSS: Led the full SDLC for a POS system, optimizing functionality and improving user experience across diverse platforms.
+COMPANY_BULLET_3_ITBIGBOSS:  Implemented key integrations for the POS system, including biometric authentication, barcode scanners, and payment gateways.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading fitness center chain in Latin America, known for its innovative technology and focus on customer experience.
+COMPANY_BULLET_1_BODYTECH:  Managed the implementation of a new access control system across 60+ locations, incorporating biometric authentication and improved security measures.
+COMPANY_BULLET_2_BODYTECH: Led the development and implementation of a CRM and billing software, optimizing operations and improving customer service.
+COMPANY_BULLET_3_BODYTECH: Successfully implemented and managed IT infrastructure including networking, IP telephony, and printing services for multiple fitness locations, significantly enhancing operational efficiency.

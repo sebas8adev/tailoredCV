@@ -1,0 +1,118 @@
+Status: processed
+Data-Status: complete
+Job board: LinkedIn
+Company Name: WayUp
+Role Name: Maximus, Strategic AI Project Manager - Application via WayUp
+Location: United States
+Type: Remote
+Salary range: Not specified
+Hiring Team: Not identified
+Application Instructions: See Job Post URL
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4278360771&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+Job Description:
+About the job
+This role is with Maximus. WayUp is partnering with Maximus to hire top talent.
+
+ Description & Requirements 
+
+Maximus is seeking a Strategic AI Project Manager. In this role, you will be a strategic and results-driven IT Project Manager to lead the delivery of strategic AI initiatives that drive enterprise transformation. This role is critical in ensuring timely, value-driven execution of AI-enabled solutions that align with business goals, regulatory standards, and innovation strategies. The ideal candidate will have a strong background in AI governance and regulatory compliance supporting federal and state clients and possess the ability to bridge innovation and oversight.
+This is a remote position . Candidates that are within commutable distance to Tyson’s, VA preferred, but not required.
+
+Essential Duties and Responsibilities:
+
+\- Serve as the point of contact and client interface for project technology related issues.
+
+\- Manage project expectations, evaluate project needs, and communicate with stakeholders to ensure that program needs are met with respect to urgency and priority.
+
+\- Review all project deliverables to ensure quality and accuracy meet project, stakeholder, and contractual standards.
+
+\- Execute all project management functions; including work breakdown, monitoring and tracking of technical progress against the defined timetables, budgets, staff assignments and developments.
+
+\- Lead and direct the successful delivery of services while ensuring that assigned projects adhere to the approved life cycle work patterns, standards, and procedures for solution delivery.
+
+\- Provide detailed direction during various stages of the lifecycle to include requirements analysis, testing and potentially programming support.
+
+\- Identify, track, manage, and communicate risks and issues with stakeholders and upper management.
+
+\- Assure the project is in compliance with company standards and procedures.
+
+Job Specific Essential Duties and Responsibilities :
+
+\- Support enterprise growth by delivering AI initiatives that improve operational efficiency, customer experience, and data-driven decision-making.
+
+\- Partner with business leaders to prioritize and sequence initiatives based on strategic value and readiness.
+
+\- Drive end-to-end delivery of AI initiatives from concept through deployment, ensuring alignment with enterprise transformation goals.
+
+\- Translate strategic objectives into executable project plans with clear milestones, KPIs, and success metrics.
+
+\- Lead cross-functional teams to deliver high-impact AI solutions on time and within budget.
+
+\- Continuously assess initiative health and proactively remove delivery roadblocks.
+
+\- Track and monitor technical evaluations of new solutions and tools that are rooted in AI or feature an AI component. Raise risks regarding ethical or compliant usage where applicable.
+
+\- Integrate AI initiatives into the broader Maximus strategic roadmap.
+
+\- Develop project charters, business cases, and ROI analyses for AI investments.
+
+\- Partner with trusted AI partners, OCDIO leadership, and internal stakeholders to ensure alignment and transparency.
+
+\- Collaborate with change management, Learning Organization and Development, and Corporate Communication to support adoption of AI tools.
+
+\- Ensure all AI implementations obtain Software Governance Board (SGB) approval and follow the appropriate Maximus policies and procedures for future integrations, enhancements, or add-ons.
+
+\- Manage AI governance through policy creation and iterative revisions in partnership with Legal, ISO, and Global Ethics and Compliance (GEC).
+
+Minimum Requirements
+
+\- Bachelor's degree in related field.
+
+\- 5-7 years of relevant professional experience required.
+
+Job Specific Minimum Requirements :
+
+\- Bachelor’s degree in Information Technology, Data Science, or related field. Additional years of relevant experience will be considered in lieu of degree.
+
+\- 5-7 years of experience delivering complex, cross-functional technology initiatives, including at least 2 years leading AI/ML or automation projects in enterprise environments.
+
+\- Proficiency with project management tools (e.g., Jira, Smartsheet, MS Project, and ServiceNow).
+
+\- Experience developing transformative roadmaps.
+
+\- Excellent verbal communication skills.
+
+Preferred Skills and Qualifications :
+
+\- Experience in healthcare IT or government regulated environments preferred
+
+\- PMP, PMI-ACP, or equivalent certification preferred.
+
+\- Working knowledge of Agile/SAFe, OKRs, Lean Portfolio Management methodologies.
+
+\- Experience using tools like Azure, AWS, Jira, and Productboard and Smartsheet for portfolio-level dashboards.
+
+\#techjobs
+
+\
+
+EEO Statement
+
+Maximus is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, age, national origin, disability, veteran status, genetic information and other legally protected characteristics.
+
+Pay Transparency
+
+Maximus compensation is based on various factors including but not limited to job location, a candidate's education, training, experience, expected quality and quantity of work, required travel (if any), external market and internal value analysis including seniority and merit systems, as well as internal pay alignment. Annual salary is just one component of Maximus's total compensation package. Other rewards may include short- and long-term incentives as well as program-specific awards. Additionally, Maximus provides a variety of benefits to employees, including health insurance coverage, life and disability insurance, a retirement savings plan, paid holidays and paid time off. Compensation ranges may differ based on contract value but will be commensurate with job duties and relevant work experience. An applicant's salary history will not be used in determining compensation. Maximus will comply with regulatory minimum wage rates and exempt salary thresholds in all instances.
+
+Minimum Salary
+
+$
+
+90,000.00
+
+Maximum Salary
+
+$
+
+120,000.00

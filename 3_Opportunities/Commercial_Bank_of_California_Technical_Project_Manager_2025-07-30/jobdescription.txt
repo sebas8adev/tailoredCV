@@ -1,0 +1,97 @@
+Status: processed
+Data-Status: complete
+Job board: LinkedIn
+Company Name: Commercial Bank of California
+Role Name: Technical Project Manager
+Location: United States
+Type: Not specified
+Salary range: Not specified
+Hiring Team: Not identified
+Application Instructions: LinkedIn Easy Apply
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4275005261&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+Job Description:
+About the job
+SUMMARY
+
+The Technical Project Manager (TPM) plays a pivotal role in driving strategic technology initiatives across our community bank and its fintech payments subsidiary. This role acts as a critical liaison between traditional banking operations and cutting-edge digital payment solutions, ensuring seamless project execution that aligns with regulatory compliance, cybersecurity standards, and customer-first innovation.
+
+
+ESSENTIAL DUTIES
+
+Lead end-to-end project lifecycle management for complex technical initiatives, from ideation through deployment and post-launch optimization.
+Collaborate with stakeholders across banking and fintech domains to define project scope, KPIs, timelines, and success metrics.
+Coordinate cross-functional teams including IT, InfoSec, compliance, operations, QA, and third-party vendors to ensure alignment and accountability.
+Monitors individual team member progress, proactively identifies blockers, and enforces accountability for meeting project deadlines through structured follow-ups, performance tracking tools, and milestone-based reporting.
+Ensure all projects meet or exceed regulatory, cybersecurity, and data privacy standards.
+Manages vendor relationships and third-party risk, including SLAs, and compliance audits,
+Facilitate and participate in Agile ceremonies (daily standups, sprint planning, retrospectives) and champion Scrum best practices.
+Oversee integration of core banking systems with digital platforms including APIs, mobile apps, cloud-native services, and third-party SaaS solutions.
+Drive continuous improvement through retrospectives, process automation, and adoption of project management tools (e.g., Jira, Confluence).
+Develop and maintain detailed project plans, Gantt charts, resource forecasts, and RAID logs.
+Proactively identify and mitigate risks, resolve blockers, and ensure timely delivery of milestones.
+Monitor and report on project performance using dashboards, OKRs, and real-time analytics.
+Communicate project status, risks, and dependencies to executive leadership and key stakeholders with clarity and transparency.
+Ensure technical feasibility and architectural alignment with enterprise IT strategy and digital transformation goals.
+Foster a culture of innovation, accountability, and operational excellence.
+Support internal and external audits, preparing documentation and ensuring controls are audit ready.
+Provide backup support for departmental functions during staff absences or peak workloads.
+Demonstrate ethical leadership, integrity, and commitment to organizational values.
+Promote diversity, equity, and inclusion in team collaboration and hiring practices.
+Ensure full compliance with all internal policies and applicable federal/state banking regulations, including BSA/AML.
+Maintain a safe and compliant work environment in accordance with OSHA and workplace safety standards.
+
+SECONDARY DUTIES
+
+The position of Technical Project Manager performs duties specific to the position and other functions as assigned.
+
+SUPERVISORY RESPONSIBILITY
+
+While this position does not have direct supervisory authority, the Technical Project Manager is responsible for driving accountability across cross-functional teams by tracking individual progress, identifying blockers, and ensuring timely delivery of project milestones. TPM influences without authority by fostering ownership, providing structured follow-ups, and escalating risks when necessary.
+
+
+RISK ASSESSMENT
+
+The Technical Project Manager is not currently considered a sensitive position and is not currently subject to a mandatory 10 consecutive days out of the office requirement.
+
+ENVIRONMENT AND PHYSICAL ACTIVITY
+
+The incumbent is in a non-confined office type setting in which he or she is free to move about at will. The position includes driving a Bank or personal owned vehicle approximately 0-10% (to attend offsite trainings, meetings, client calls, etc. as necessary) of the time which includes exposure to the outside weather elements and moving mechanical parts. It may include some minor annoyances such as noise, odors, drafts, etc.
+
+The incumbent in the course of performing this position spends time writing, typing, speaking, listening, lifting (up to 20 pounds), driving, carrying, seeing (such as close, color and peripheral vision, depth perception and adjusted focus), sitting, pulling, walking, standing, squatting, kneeling and reaching.
+
+The incumbent for this position may operate any or all of the following: telephone, smart phone, copy and fax machines, adding machine (calculator), check protector, scanner and image systems, scanning equipment, encoder, money counter, credit card terminal, computer terminal, laptop computer, personal computer, tablet, printers, or other equipment as directed.
+
+The work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job.
+
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job.
+
+Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+
+
+MENTAL DEMANDS
+
+The incumbent in this position must be able to accommodate reading documents or instruments, detailed work, problem solving, customer contact, reasoning, math, language, presentations, verbal and written communication, analytical reasoning, stress, training, multiple concurrent tasks, and constant interruptions.
+
+
+MINIMUM REQUIREMENTS
+
+These specifications are general guidelines based on the minimum experience normally considered essential to the satisfactory performance of this position. The requirements listed below are representative of the knowledge, skill and/or ability required to perform the position in a satisfactory manner. Individual abilities may result in some deviation from these guidelines.
+
+Bachelor’s degree in computer science, or a related field a plus.
+4+ years of experience in technical project management, preferably in banking, fintech, or financial services.
+PMP, CSM, or equivalent certification is a plus.
+Strong understanding of software development life cycles (SDLC), Agile, and Scrum methodologies.
+Strong understanding of cloud platforms (Azure, AWS), API management, and microservices architecture.
+Familiarity with CI/CD pipelines, DevSecOps practices, and infrastructure-as-code (IaC).
+PMP, CSM, or SAFe certification preferred.
+Excellent communication, stakeholder management, and conflict resolution skills.
+Experience with project management tools (e.g., Jira, Asana, Trello, MS Project).
+Strong understanding of banking operations, digital banking platforms, and fintech ecosystems.
+Familiarity with regulatory frameworks such as FFIEC, GLBA, and PCI-DSS.
+Excellent problem-solving, organizational, and analytical skills.
+Strong interpersonal and communication skills, both written and verbal.
+Ability to work in a fast-paced, high-volume environment.
+Excellent communication skills and the ability to present complex topics clearly and concisely.
+Intermediate skills in computer terminal and personal computer operation; host computer system; word processing and spreadsheet software programs.
+Ability to work with minimal supervision while performing duties.

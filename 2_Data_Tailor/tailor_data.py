@@ -18,6 +18,7 @@ def get_specific_status(file_path, status_key):
         with open(file_path, 'r', encoding='utf-8') as f:
             for line in f:
                 if line.lower().strip().startswith(status_key.lower() + ":"):
+                    # --- THIS IS THE CORRECTED LINE ---
                     return line.split(":", 1)[1].strip().lower()
     except FileNotFoundError:
         return "not_found"

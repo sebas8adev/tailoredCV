@@ -1,0 +1,55 @@
+# Global Information
+HIRING_MANAGER: Not identified
+COMPANY_NAME: Trojan Trading
+JOB_ROLE: Technical Project Manager
+APPLICATION_DATE: July 2, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Technical Project Manager at Trojan Trading
+CONTENT: Dear Trojan Trading Hiring Team,<br><br>I am writing to express my strong interest in the Technical Project Manager position at Trojan Trading, as advertised on LinkedIn. With over 10 years of experience leading engineering teams in fast-paced, high-volume transactional environments, I am confident in my ability to drive project delivery and contribute to your mission of revolutionizing the crypto trading landscape.<br><br>Throughout my career, I have specialized in bridging technical expertise with project leadership. My background includes managing the full software development lifecycle for complex platforms in finance and e-commerce, such as launching mobile banking features for Banco de Chile and enhancing high-traffic retail sites for Dick's Sporting Goods. These experiences have honed my ability to manage ambitious deadlines, resolve technical blockers, and ensure smooth collaboration between engineering and leadership teams.<br><br>I am an expert in implementing and optimizing Agile frameworks, including Scrum and Kanban, to boost team velocity and ensure clear, achievable priorities. My technical foundation allows me to effectively scope tasks and validate the feasibility of project plans, ensuring efficient workflows and successful outcomes.<br><br>The opportunity to apply my skills to a cutting-edge DeFi product like Trojan is incredibly exciting. I am a proactive problem-solver with a genuine interest in trading technology and am eager to contribute to a lean, innovative team that is setting new standards in the market.<br><br>Thank you for your time and consideration. I look forward to discussing how my experience can help Trojan Trading continue its impressive growth.<br><br>Sincerely,<br>Juan Garcia
+
+# CV Content
+CAREER_SUMMARY: Adaptive Technical Project Manager with 10+ years of experience leading global engineering teams to deliver complex software solutions across finance, e-commerce, and travel. Expert in Agile methodologies (Scrum, Kanban), driving project completion in fast-paced, high-volume environments. Skilled in managing the full SDLC, from technical scoping to release, with a focus on optimizing workflows and fostering collaboration between technical and leadership teams.
+SKILLS_TITLE_1: Agile & Delivery Management
+SKILLS_DESC_1: Scrum, Kanban, SAFe, Sprint Planning, Stand-ups, Retrospectives, Backlog Grooming, Velocity & Capacity Planning, CI/CD, JIRA, Confluence
+SKILLS_TITLE_2: Technical Leadership & SDLC
+SKILLS_DESC_2: Technical Scoping & Validation, Workflow Optimization, SDLC Management, Risk Mitigation, Release Management, Quality Assurance, System Integration
+SKILLS_TITLE_3: Team Leadership & Collaboration
+SKILLS_DESC_3: Cross-Functional Team Leadership, Stakeholder Communications, Executive Reporting (RAG, KPIs, OKRs), Resource Planning, Blocker Resolution
+SKILLS_TITLE_4: Technical Environments & Platforms
+SKILLS_DESC_4: Cloud (AWS, GCP), AI & GenAI Solutions, API Development, High-Volume Transactional Systems (Finance, E-commerce), Java, Python, SQL
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Technical Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company offering innovative technology solutions. A global leader in AI-powered software development, helping organizations reinvent their businesses and industries.
+COMPANY_BULLET_1_GLOBANT: Led the digital platform overhaul for Dick's Sporting Goods, improving e-commerce performance by 40% through adaptive Agile practices and Core Web Vitals optimization.
+COMPANY_BULLET_2_GLOBANT: Directed a 100+ person team for Banco de Chile, managing datacenter migration to GCP and launching new mobile app features for high-volume transactional banking.
+COMPANY_BULLET_3_GLOBANT: Orchestrated the development of a Google AI-powered chatbot for Royal Caribbean, coordinating 3 offshore teams to enhance guest services and tailored advertising delivery.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm specializing in custom solutions for media, sports, and healthcare, leveraging cloud technologies to build high-performance digital products.
+COMPANY_BULLET_1_MANGOSOFT: Managed the end-to-end development of Concacaf's media platform, delivering live streaming and statistics services using AWS, enhancing fan engagement across championships.
+COMPANY_BULLET_2_MANGOSOFT: Spearheaded the integration of medical imaging systems for multiple clinics, utilizing AWS and voice-to-text to streamline surgical workflows and improve physician access.
+COMPANY_BULLET_3_MANGOSOFT: Built and led a 10+ person engineering team, implementing Scrum methodologies to deliver multiple fixed-price projects on time, from RFP to production support.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology company providing integrated hardware and software solutions for public safety and healthcare sectors, focusing on IoT and custom applications.
+COMPANY_BULLET_1_TIPI: Led the full SDLC for a bodycam system for the Colombian Police, deploying over 3,000 devices with integrated management and real-time streaming software.
+COMPANY_BULLET_2_TIPI: Provided hands-on technical leadership, including coding and code reviews, to develop firmware and web applications, ensuring on-time delivery under government contract regulations.
+COMPANY_BULLET_3_TIPI: Directed the implementation of a SaaS-based nurse call and asset tracking system for 10+ hospitals, improving inter-team communication and operational efficiency.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider developing and managing POS, CRM, and billing software for over 1,000 small businesses in the fitness, retail, and restaurant industries.
+COMPANY_BULLET_1_ITBIGBOSS: Owned the complete SDLC for a SaaS POS product, leading a 30-person team to deliver features like payment processing, inventory, and CRM.
+COMPANY_BULLET_2_ITBIGBOSS: Drove product adoption by implementing custom integrations for over 1,000 SMBs, including biometrics and accounting apps, which increased customer retention and market penetration.
+COMPANY_BULLET_3_ITBIGBOSS: Functioned as a hands-on technical leader, directly contributing to coding (.Net, SQL) and release management, reducing time-to-market for new system features.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain operating over 60 sites across Latin America with a focus on technology-driven member services.
+COMPANY_BULLET_1_BODYTECH: Managed the technology infrastructure and IT operations across 60+ locations, ensuring high system uptime for CRM, billing, and access control for all members.
+COMPANY_BULLET_2_BODYTECH: Led the implementation of Microsoft Dynamics CRM & ERP systems, automating billing and member management, which reduced manual data entry and improved data accuracy.
+COMPANY_BULLET_3_BODYTECH: Established and led the IT Service Desk, implementing support workflows that improved ticket resolution rates and overall satisfaction with IT services.

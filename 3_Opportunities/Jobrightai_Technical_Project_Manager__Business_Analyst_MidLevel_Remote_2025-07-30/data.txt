@@ -1,0 +1,66 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: Jobright.ai
+JOB_ROLE: Technical Project Manager – Business Analyst
+COMPANY_NAME: ABBYY
+APPLICATION_DATE: July 30, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Technical Project Manager – Business Analyst at ABBYY
+CONTENT: <p>Dear Hiring Manager,</p><br>
+<p>I am writing to express my keen interest in the Technical Project Manager – Business Analyst position at ABBYY, as advertised on LinkedIn.  My 10+ years of experience leading complex IT and information security projects, coupled with a strong background in business analysis, aligns perfectly with the requirements outlined in the job description. </p><br>
+<p>Throughout my career at companies like Globant and Mango-Soft, I've successfully delivered impactful solutions across diverse sectors, including finance, healthcare, retail, and media. My expertise spans Agile (SAFe, Scrum, Kanban) and traditional methodologies, enabling me to adapt to various project needs. I am adept at gathering and analyzing business requirements, translating them into actionable plans, and utilizing tools such as Jira and Azure DevOps.  </p><br>
+<p>My experience includes developing comprehensive business cases, tracking key performance indicators (KPIs) and Objectives and Key Results (OKRs), and creating data dashboards to monitor project health and compliance.  I have a proven track record of delivering projects on time and within budget, while consistently exceeding stakeholder expectations. I possess a deep understanding of IT operations, cybersecurity frameworks (NIST, CIS Controls, ISO 27001), and enterprise technology ecosystems.  My certifications in SAFe, Scrum, and Google Cloud further demonstrate my commitment to excellence in project management. </p><br>
+<p>I am confident that my skills and experience will be a valuable asset to ABBYY.  My adaptive approach, combined with my passion for driving innovation and efficiency, make me a strong candidate for this role. I am eager to learn more about this opportunity and discuss how I can contribute to ABBYY's continued success.</p><br>
+
+
+# CV Content
+CAREER_SUMMARY: Adaptive Technical Project Manager with 10+ years of experience leading global teams and delivering complex digital transformations across diverse industries. Expert in AI-driven, cloud-based, and system integration solutions, with a proven track record of improving performance and managing large-scale team allocation.  Expert in Agile (SAFe, Scrum, Kanban) and traditional methodologies.
+SKILLS_TITLE_1: Project Management
+SKILLS_DESC_1: Agile (SAFe, Scrum, Kanban), Waterfall, Project Planning, Risk Management, Budget Management, Stakeholder Management, OKR/KPI Definition & Tracking
+SKILLS_TITLE_2: Business Analysis
+SKILLS_DESC_2: Requirements Gathering, Impact Analysis, Business Case Development, Data Analysis, Dashboard Creation, ROI Projection,  Compliance (NIST, CIS, ISO 27001)
+SKILLS_TITLE_3: Technology & Platforms
+SKILLS_DESC_3: Cloud (AWS, GCP, Azure),  AI Integration, Data Migration,  Jira, Azure DevOps,  Software Development Lifecycle (SDLC)
+SKILLS_TITLE_4: Industry Expertise
+SKILLS_DESC_4: Finance, Healthcare, Retail, Travel/Hospitality, Media, Public Safety
+
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Senior Project Manager
+COMPANY_SUMMARY_GLOBANT:  A leading global IT consulting and software development company specializing in AI-driven solutions, serving a diverse range of enterprise clients.
+COMPANY_BULLET_1_GLOBANT: Led program performance and cost efficiency across client portfolios (Royal Caribbean, Dick's Sporting Goods), achieving a 40% boost in digital platform efficiency.
+COMPANY_BULLET_2_GLOBANT:  Successfully managed diverse global teams (30-100+ engineers) across multiple projects, delivering solutions on-time and within budget for various clients.
+COMPANY_BULLET_3_GLOBANT: Implemented adaptive quarterly roadmaps and PI Planning across multiple projects, ensuring alignment with business objectives and client needs for Royal Caribbean.
+
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A technology firm specializing in cloud services, big data, and healthcare solutions; delivering custom applications to clients.
+COMPANY_BULLET_1_MANGOSOFT:  Delivered on-time and under budget, cloud-based solutions for healthcare clients, improving operational efficiency and patient care.
+COMPANY_BULLET_2_MANGOSOFT:  Successfully implemented and supported multiple AWS-based systems (Polly, Livestreaming, DynamoDB, Athena) enhancing client data management capabilities.
+COMPANY_BULLET_3_MANGOSOFT: Led the development of a voice-to-text application for healthcare professionals, improving patient record accuracy and reducing administrative costs.
+
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI:  A technology company delivering hardware and software solutions to various industries.
+COMPANY_BULLET_1_TIPI: Defined and led project constraints for government contracts with the Colombian Police, ensuring on-time delivery of bodycam systems and software.
+COMPANY_BULLET_2_TIPI:  Successfully managed the development and deployment of more than 3,000 bodycams to law enforcement agencies, enhancing public safety.
+COMPANY_BULLET_3_TIPI: Led software development lifecycle for bodycam devices and management software, improving operational efficiency and data management for clients.
+
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS:  A software house creating custom POS systems for restaurants and various businesses in LatAm.
+COMPANY_BULLET_1_ITBIGBOSS: Developed and implemented a POS system for over 1,000 small businesses across Latin America, improving sales processing and inventory management.
+COMPANY_BULLET_2_ITBIGBOSS: Successfully managed the software development lifecycle for the POS system, resulting in improved efficiency and increased client satisfaction.
+COMPANY_BULLET_3_ITBIGBOSS: Led the operations team providing support and maintenance for the POS system, resulting in high system uptime and minimal client disruption.
+
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH:  A large fitness center chain in Colombia, Peru, and Chile with a focus on health and wellness.
+COMPANY_BULLET_1_BODYTECH:  Led the implementation of a new access control system across 60+ sites, improving security and operational efficiency.
+COMPANY_BULLET_2_BODYTECH:  Managed the development and implementation of a CRM and billing system, improving customer relations and revenue management.
+COMPANY_BULLET_3_BODYTECH:  Successfully managed the IT service desk, providing support and maintenance for the company's technology infrastructure.

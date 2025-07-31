@@ -1,0 +1,64 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: AdventHealth Central Florida
+JOB_ROLE: Project Manager II
+COMPANY_NAME: AdventHealth Central Florida
+APPLICATION_DATE: July 30, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Project Manager II at AdventHealth Central Florida
+CONTENT: <p>Dear Hiring Manager,</p><br>
+<p>I am writing to express my keen interest in the Project Manager II position at AdventHealth Central Florida, as advertised on LinkedIn.  With 10+ years of experience leading complex, large-scale projects across diverse industries including healthcare, I am confident my adaptive approach and proven results align perfectly with your needs.</p><br>
+<p>My expertise encompasses Agile methodologies (SAFe, Scrum, Kanban) and traditional project management practices. I have a strong track record of successfully managing projects involving cloud infrastructure, system integrations, and AI-driven solutions, consistently delivering on time and within budget.  My experience with clients such as Royal Caribbean and Banco de Chile demonstrates my ability to manage projects of significant scope and complexity, while effectively communicating with stakeholders at all levels.</p><br>
+<p>I am particularly adept at translating client needs into actionable plans and driving efficiency improvements. For example, at Globant, I spearheaded a project for Dick’s Sporting Goods that resulted in a 40% improvement in eCommerce performance by focusing on Core Web Vitals.  My experience at Mango-Soft involved the successful delivery of several healthcare projects utilizing cloud-based services and big data technologies. </p><br>
+<p>My certifications in SAFe, Scrum, Google Cloud, and Generative AI, coupled with my strong technical foundation, further underscore my qualifications for this role. I am eager to contribute my skills and experience to AdventHealth's mission of extending the healing ministry of Christ.</p><br>
+<p>Thank you for your time and consideration. I have attached my resume for your review and welcome the opportunity to discuss my qualifications further.</p><br>
+
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading global teams and delivering complex digital transformations across healthcare, finance, retail, and travel.  Expert in AI-driven solutions and large-scale staffing.
+SKILLS_TITLE_1: Project Management Methodologies
+SKILLS_DESC_1: SAFe, Scrum, Kanban, Waterfall
+SKILLS_TITLE_2: Technical Skills
+SKILLS_DESC_2: Cloud (AWS, GCP, Azure), AI Integration, System Integrations, SDLC
+SKILLS_TITLE_3: Business Acumen
+SKILLS_DESC_3: Healthcare, Finance, Retail, Travel/Hospitality
+SKILLS_TITLE_4: Tools & Technologies
+SKILLS_DESC_4: Jira, Confluence, MS Teams, Slack, Salesforce, Angular, Java, SQL Server, Python
+
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Senior Project Manager
+COMPANY_SUMMARY_GLOBANT: A global IT consulting and software development company specializing in AI solutions, serving diverse clients worldwide.
+COMPANY_BULLET_1_GLOBANT: Led project for Royal Caribbean, delivering features including an AI chatbot, resulting in on-time and within-budget delivery of key functionalities.
+COMPANY_BULLET_2_GLOBANT: Improved Dick's Sporting Goods eCommerce performance by 40% by optimizing Core Web Vitals through adaptive roadmaps and PI Planning.
+COMPANY_BULLET_3_GLOBANT: Managed Banco de Chile's Metaverse project, successfully implementing Scrum of Scrums methodology across 100+ team members.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT:  A technology firm delivering innovative software solutions for healthcare and media, leveraging big data and cloud services.
+COMPANY_BULLET_1_MANGOSOFT: Delivered a voice-to-text application for healthcare, improving medical documentation efficiency and reducing physician workload.
+COMPANY_BULLET_2_MANGOSOFT: Migrated medical imaging data to AWS, enhancing data security and accessibility for multiple clinics.
+COMPANY_BULLET_3_MANGOSOFT:  Implemented a patient portal, improving patient engagement and satisfaction with healthcare services.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology firm delivering innovative software solutions for healthcare and media, leveraging big data and cloud services.
+COMPANY_BULLET_1_TIPI:  Delivered a bodycam system for the Colombian Police, including a management software with face-recognition capabilities for 3000+ devices.
+COMPANY_BULLET_2_TIPI:  Implemented a nurse-call system for hospitals and clinics, improving response times and patient care.
+COMPANY_BULLET_3_TIPI: Developed a patient flow tracking board, enhancing hospital efficiency and reducing wait times.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS:  A software house creating POS systems for various businesses, focusing on SaaS solutions and scalability.
+COMPANY_BULLET_1_ITBIGBOSS: Developed and deployed a POS system for over 1000 small businesses, resulting in streamlined operations and improved sales tracking.
+COMPANY_BULLET_2_ITBIGBOSS: Integrated various payment processing systems into the POS, ensuring smooth and secure transactions for customers.
+COMPANY_BULLET_3_ITBIGBOSS: Managed the software development lifecycle, delivering a robust and adaptable POS system that met market demands.
+
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A large-scale health and fitness center chain in Latin America providing a comprehensive fitness experience.
+COMPANY_BULLET_1_BODYTECH: Implemented and managed an access control system across multiple sites, enhancing security and operational efficiency.
+COMPANY_BULLET_2_BODYTECH: Led the implementation of Dynamics CRM and ERP systems improving business processes, client management and operational reporting.
+COMPANY_BULLET_3_BODYTECH: Managed IT infrastructure across 60+ sites across Colombia, Peru and Chile, ensuring high availability and stability of IT operations.

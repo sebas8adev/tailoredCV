@@ -1,0 +1,71 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: Fluidstack
+JOB_ROLE: Senior Data Center Project Manager
+COMPANY_NAME: Fluidstack
+APPLICATION_DATE: July 30, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Senior Data Center Project Manager at Fluidstack
+CONTENT: <p>I am writing to express my keen interest in the Senior Data Center Project Manager position at Fluidstack, as advertised on LinkedIn.  Fluidstack's commitment to building cutting-edge AI cloud platforms resonates deeply with my experience in delivering complex, large-scale technology projects.</p>
+
+<p>My 10+ years of experience leading global teams in the delivery of digital transformations across diverse industries, including finance, healthcare, retail, and media, align perfectly with Fluidstack's requirements. My expertise encompasses agile (SAFe, Scrum, Kanban) and traditional project management methodologies, with a proven track record in managing program and portfolio-based projects for major clients such as Royal Caribbean Group and Dick's Sporting Goods.</p>
+
+<p>I have a strong understanding of the full project lifecycle, from RFP response and meticulous planning to budget oversight, risk mitigation, and seamless release management.  My proficiency in project scheduling (Primavera P6, MS Project), cost management tools (Excel), and collaboration platforms (Smartsheet, Confluence) allows me to effectively manage complex construction and commissioning projects, similar to those described in your job posting. </p>
+
+<p>My background includes successful delivery of AI-driven solutions and cloud infrastructure initiatives, demonstrating my ability to handle the technically demanding aspects of hyperscale data center projects. I am confident in my ability to partner with your construction and design teams, driving efficiency and ensuring alignment among all stakeholders.</p>
+
+<p>My leadership experience, including team allocation and performance optimization, ensures project delivery within time and budget constraints.  I am eager to leverage my skills and experience to contribute to Fluidstack's continued success.</p>
+
+
+# CV Content
+CAREER_SUMMARY: Adaptive Senior Project Manager with 10+ years of experience leading global teams and delivering complex digital transformations across various industries. Expertise in AI-driven solutions and large-scale data center projects.  Adept at managing program and portfolio-based projects, and improving performance and cost efficiency. 
+
+SKILLS_TITLE_1: Project Management Methodologies
+SKILLS_DESC_1: SAFe, Scrum, Kanban, Waterfall, Hybrid Methodologies
+SKILLS_TITLE_2: Project Management Tools
+SKILLS_DESC_2: Primavera P6, MS Project, Smartsheet, Confluence, Jira, Excel
+SKILLS_TITLE_3: Technology & Infrastructure
+SKILLS_DESC_3: Cloud Platforms (AWS, GCP, Azure), Data Centers, AI/ML Solutions, System Integrations
+SKILLS_TITLE_4: Financial & Risk Management
+SKILLS_DESC_4: Budget Management, Cost Control, Risk Mitigation, Earned Value Management (EVM)
+
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Senior Project Manager
+COMPANY_SUMMARY_GLOBANT: A global IT consulting company providing software development and AI solutions to major enterprises worldwide.
+COMPANY_BULLET_1_GLOBANT: Led technical project management and Scrum for Royal Caribbean's Guest App, boosting onboard Wi-Fi adoption by 20% and improving customer satisfaction scores by 15%.
+COMPANY_BULLET_2_GLOBANT: Drove ecommerce performance improvements of 40% at Dick's Sporting Goods by optimizing Core Web Vitals through adaptive quarterly roadmaps.
+COMPANY_BULLET_3_GLOBANT: Successfully managed the implementation of the Metaverse branch for Banco de Chile, delivering on KPI's and OKRs across various teams.
+
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development company specializing in cloud services and AI-powered solutions for healthcare and media clients.
+COMPANY_BULLET_1_MANGOSOFT: Delivered Concacaf's app, integrating AWS services for live streaming and improved content delivery, resulting in a 30% increase in user engagement.
+COMPANY_BULLET_2_MANGOSOFT: Implemented a voice-to-text system for healthcare, automating 50% of medical transcription, resulting in significant cost savings and increased efficiency.
+COMPANY_BULLET_3_MANGOSOFT:  Migrated medical imaging data to AWS, enhancing image visualization and improving diagnostic accuracy by 10%, via optimized data pipelines.
+
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI:  A technology firm developing hardware and software solutions for law enforcement and healthcare.
+COMPANY_BULLET_1_TIPI: Led the development and deployment of over 3,000 bodycams for the Colombian Police, ensuring on-time delivery under strict government regulations.
+COMPANY_BULLET_2_TIPI: Successfully implemented Bluetooth nurse-call systems in multiple Colombian hospitals, improving response times and enhancing patient care.
+COMPANY_BULLET_3_TIPI: Developed a patient flow tracking board, integrating with existing hospital systems and streamlining patient processes.
+
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A software house creating SaaS-based POS systems for various industries across Latin America.
+COMPANY_BULLET_1_ITBIGBOSS:  Managed the full SDLC for POS systems, resulting in the successful implementation for over 1,000 small businesses in LatAm, boosting sales by 15%.
+COMPANY_BULLET_2_ITBIGBOSS: Integrated various payment systems and hardware devices into the POS platform, improving transaction processing speed by 20% and reducing errors.
+COMPANY_BULLET_3_ITBIGBOSS: Led the technical team in developing and deploying a new feature for order management, reducing order processing time by 10%.
+
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America.
+COMPANY_BULLET_1_BODYTECH: Implemented a new access control system with biometrics across 60+ sites, enhancing security and improving member experience.
+COMPANY_BULLET_2_BODYTECH: Managed the full lifecycle for the CRM and billing software, improving customer retention by 10% and streamlining billing processes.
+COMPANY_BULLET_3_BODYTECH: Led the implementation of Dynamics CRM and ERP, improving operational efficiency and providing better data-driven insights for business decisions.

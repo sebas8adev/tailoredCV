@@ -1,0 +1,47 @@
+Status: processed
+Data-Status: complete
+Job board: LinkedIn
+Company Name: Saltbox Mgmt
+Role Name: Salesforce Project Manager
+Location: United States
+Type: Not specified
+Salary range: Not specified
+Hiring Team: Not identified
+Application Instructions: LinkedIn Easy Apply
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4274350361&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+Job Description:
+About the job
+Saltbox Mgmt is seeking a motivated Salesforce Project Manager to join our team. Saltbox is a salesforce service integrator focused on helping B2B organizations use salesforce to improve the buying experiences of their customers. Saltbox is a registered partner with Salesforce with expertise in B2B Commerce, Order Management, Experience Cloud, and core CRM applications (Sales and Service cloud).
+
+Position Description: 
+The Project Manager plays a critical role in the Saltbox delivery model, working closely with the project team and client stakeholders in the design, implementation and launch of a salesforce application.. Successful individuals will be able to effectively operate in a fast-paced environment, have strong time management, communication and critical thinking skills in combination with a deep salesforce platform expertise to drive the success of their projects from beginning to end.
+
+Role Responsibilities:
+Serve as day-to-day client point-of-contact during project engagements, maintain trusted relationships with key client stakeholders, and act as customers’ product owner proxy
+Diligently manage engagement scope, schedule, budget and resources to within defined targets in coordination with Saltbox project team
+Establish project plans/structures, with input and buy-in from customer stakeholders, that define engagement phases/milestones, activities/tasks, dates/duration, resources, etc. based on Saltbox’s delivery methodology.
+Lead and organize the cross-functional teams assigned to your engagements in order to execute engagement work plans and deliver high-quality deliverables
+Produce and maintain project management documentation, such as project plans/timelines, project requirements and acceptance criteria (typically in JIRA), meeting materials and presentations, status reports, budget reports, resource utilization reports, and other project documentation
+Regularly communicate project status with external and internal stakeholders, including key accomplishments, next steps, issues/risks/items for management attention, and project financials.
+Effectively identify and mitigate/manage engagement risks and issues.
+Manage resource forecasting, utilization analysis, and expense management and tracking
+
+Required Technical and Professional Expertise:
+6+ years of Project Management experience delivering digital solutions on the Salesforce platform using both waterfall and agile methodologies.
+Experience coaching and educating project teams to strengthen team members’ capabilities and skill sets
+Experience with agile development tools such as JIRA.
+Experience with Salesforce Sales Cloud, Service Cloud, CPQ, Experience Cloud, B2B Commerce, or Marketing Cloud.
+Proficient in Google G-Suite or Microsoft Office
+Strong written, verbal and presentation communication skills.
+Certified Salesforce Administrator level, ideally with additional certifications in the following clouds: Sales Cloud, Service Cloud, Experience Cloud, CPQ, B2B Commerce, and Marketing Cloud.
+
+ What we offer:
+Competitive salary, 100% company paid health benefits & 401k
+An opportunity to be on the ‘ground floor’ of an emerging salesforce partner
+Strong, family-friendly, work culture
+The chance to work in a fast-paced environment with experienced industry leaders
+A learning environment where you can dive deep into the latest technologies and make an impact
+
+No 3rd party recruiters
+Sponsorship not available

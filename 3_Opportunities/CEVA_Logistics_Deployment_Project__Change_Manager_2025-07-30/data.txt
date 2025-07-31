@@ -1,0 +1,56 @@
+# Global Information
+HIRING_MANAGER: CEVA Logistics Hiring Team
+COMPANY_NAME: CEVA Logistics
+JOB_ROLE: Deployment Project & Change Manager
+COMPANY_NAME: CEVA Logistics
+APPLICATION_DATE: July 26, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Deployment Project & Change Manager at CEVA Logistics
+CONTENT: Dear CEVA Logistics Hiring Team,<br><br>I am writing to express my keen interest in the Deployment Project & Change Manager position at CEVA Logistics, which I discovered on LinkedIn. With over 10 years of experience leading large-scale technology deployments and driving organizational change, I am confident that my background aligns perfectly with the requirements of this role.<br><br>My career has been focused on managing the end-to-end lifecycle of complex technical projects across diverse industries, including those with significant logistics and supply chain components. I am an expert in adaptive project management, utilizing both Agile and traditional methodologies to guide cross-functional teams—spanning IT, Operations, and customer stakeholders—toward successful implementation. I excel at developing and executing detailed project plans, managing risks, and ensuring adherence to governance and reporting standards.<br><br>A core component of my expertise is owning the change management strategy to ensure smooth transitions and high user adoption. I have a strong record of driving stakeholder engagement, conducting readiness assessments, and creating communication plans that resonate from on-site teams to senior leadership. My goal is always to minimize disruption and maximize the value of new technology deployments by ensuring teams are prepared, trained, and supported throughout the process.<br><br>I am particularly drawn to CEVA Logistics' role as a global leader in the supply chain industry and am eager to apply my skills in project and change management to support the deployment of your Manhattan IT stack. I am a proactive problem-solver, passionate about leveraging technology to enhance operational efficiency.<br><br>Thank you for considering my application. I have attached my CV for your review and look forward to discussing how my experience can contribute to your team's success.<br><br>Sincerely,<br><br>Andres Prada
+
+# CV Content
+CAREER_SUMMARY: Adaptive Technical Project Manager with 10+ years of experience leading large-scale technology deployments and digital transformations across logistics, retail, and finance. Expert in Agile (SAFe, Scrum) and traditional methodologies, with a focus on end-to-end delivery, change management, and executive stakeholder engagement.
+SKILLS_TITLE_1: Project & Deployment Management
+SKILLS_DESC_1: Agile (Scrum, SAFe, Kanban), Waterfall, Project Planning, Risk Management, Resource Allocation, Budget Oversight, Stakeholder Engagement, Release Management.
+SKILLS_TITLE_2: Change Management & User Adoption
+SKILLS_DESC_2: Change Readiness Assessment, Stakeholder Communication, User Training & Onboarding, Process Improvement, Adoption Metrics & KPIs, Lessons Learned Facilitation.
+SKILLS_TITLE_3: Technology & Systems Expertise
+SKILLS_DESC_3: Enterprise System Deployment (CRM, ERP), Cloud Platforms (AWS, GCP), SDLC, Data Migration, API Integration, AI-driven Solutions, JIRA, Confluence.
+SKILLS_TITLE_4: Industry & Business Acumen
+SKILLS_DESC_4: Logistics & Supply Chain, Retail & E-commerce, Finance, Healthcare, Travel & Hospitality, Media, Public Safety.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native consulting firm leveraging AI and innovative technologies to reinvent businesses and deliver large-scale software solutions for global enterprise clients.
+COMPANY_BULLET_1_GLOBANT: Led deployment of an AI-driven chatbot for Royal Caribbean, coordinating 3 global teams to enhance guest service and achieve seamless feature adoption.
+COMPANY_BULLET_2_GLOBANT: Drove a 40% performance improvement for Dick's Sporting Goods' e-commerce platform by leading Core Web Vitals optimization, directly boosting user experience.
+COMPANY_BULLET_3_GLOBANT: Managed end-to-end project lifecycle for finance and retail clients, from RFP analysis to release, ensuring on-time delivery and alignment with quarterly OKRs.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development company specializing in cloud-native solutions, Big Data, and streaming services for the media, sports, and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Directed the end-to-end deployment of a media streaming platform for Concacaf, managing cloud infrastructure and ensuring high-availability during live matches for thousands of users.
+COMPANY_BULLET_2_MANGOSOFT: Implemented a new AWS voice-to-text application for healthcare clients, improving clinical documentation efficiency and driving user adoption across multiple hospital systems.
+COMPANY_BULLET_3_MANGOSOFT: Led cross-functional teams to deliver a medical imaging integration solution, facilitating a critical transition from legacy systems to a unified cloud platform.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology firm delivering integrated hardware and software solutions, specializing in asset tracking, IoT devices, and security systems for public safety and healthcare.
+COMPANY_BULLET_1_TIPI: Led the full lifecycle for a bodycam system for the Colombian Police, deploying over 3,000 devices and managing the backend asset tracking software.
+COMPANY_BULLET_2_TIPI: Deployed an RFID-based asset tracking system in 10+ hospitals, improving equipment visibility and operational efficiency through a seamless technology transition for users.
+COMPANY_BULLET_3_TIPI: Managed the implementation of an integrated nurse call system, enhancing communication speed and reducing patient wait times through new platform adoption.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering a comprehensive POS and business management platform for over 1,000 small businesses in the retail and service industries.
+COMPANY_BULLET_1_ITBIGBOSS: Spearheaded the SDLC for a POS system with inventory management features, increasing operational efficiency and adoption for over 1,000 small businesses.
+COMPANY_BULLET_2_ITBIGBOSS: Managed integrations with barcode scanners and printers, ensuring seamless hardware/software compatibility and a smooth user transition during on-site implementations.
+COMPANY_BULLET_3_ITBIGBOSS: Directed the operations support workflow for a SaaS platform, improving system uptime and customer satisfaction through proactive issue resolution and structured releases.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, operating over 60 locations focused on member experience and operational excellence.
+COMPANY_BULLET_1_BODYTECH: Led the technology infrastructure rollout for 60+ new sites, managing networking and security systems to ensure standardized operational readiness and on-time opening.
+COMPANY_BULLET_2_BODYTECH: Directed the company-wide implementation of Microsoft Dynamics CRM & ERP, automating billing and improving member data management, which enhanced retention rates.
+COMPANY_BULLET_3_BODYTECH: Established the company's IT service desk, implementing support protocols that improved ticket resolution rates and maintained high system uptime across the organization.

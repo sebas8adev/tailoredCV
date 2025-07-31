@@ -1,0 +1,67 @@
+# Global Information
+HIRING_MANAGER: Girish S
+COMPANY_NAME: Jaitra Technologies
+JOB_ROLE: LIMS Project Manager
+COMPANY_NAME: Jaitra Technologies
+APPLICATION_DATE: July 2, 2025
+
+# Cover Letter Content
+SUBJECT: Application for LIMS Project Manager at Jaitra Technologies
+CONTENT: Dear Girish S,
+</br>
+I am writing to express my strong interest in the LIMS Project Manager position at Jaitra Technologies, as advertised on LinkedIn. With over 10 years of experience managing complex, full-lifecycle technical projects in highly regulated environments, I am confident in my ability to deliver exceptional results for your federal clients, including the Department of Homeland Security.
+</br>
+While my background is not in LIMS specifically, I have a substantial record of leading projects with analogous complexities in the healthcare and public safety sectors. I have managed the implementation of systems handling sensitive medical data (DICOM, HL7 V2) and led a large-scale project for a government entity, the Colombian Police, which required strict adherence to contractual and operational compliance. This experience has equipped me with a deep understanding of data integrity, security protocols, and the nuances of working within government-regulated frameworks.
+</br>
+My expertise includes owning project plans, managing financial tracking, mitigating risks, and translating complex technical details for executive and non-technical stakeholders. I am proficient in Agile and Kanban methodologies and am adept at coordinating cross-functional teams to ensure projects are delivered on time and within budget, from initial requirements gathering through to go-live and support.
+</br>
+I am eager to apply my adaptive project management skills and regulated industry experience to support Jaitra Technologies' mission-critical work. Thank you for your time and consideration. I look forward to discussing how I can contribute to your team's success.
+</br>
+Sincerely,
+[Your Name]
+
+# CV Content
+CAREER_SUMMARY: Adaptive Technical Project Manager with 10+ years of experience leading complex, full-lifecycle IT projects for regulated sectors including healthcare, public safety, and finance. Expert in Agile and hybrid methodologies, adept at managing cross-functional teams, project financials, and risk to deliver mission-critical solutions. Skilled in translating technical requirements for government and executive stakeholders, ensuring strict compliance and data integrity.
+SKILLS_TITLE_1: Project & Program Management
+SKILLS_DESC_1: Agile (Kanban, Scrum, SAFe), Hybrid Methodologies, Full SDLC Management, Risk & Financial Management, Stakeholder & Executive Reporting, RFP & Proposal Development.
+SKILLS_TITLE_2: Regulated Environments & Compliance
+SKILLS_DESC_2: Public Sector & Government Contracts, Healthcare IT (HL7, DICOM), Data Integrity & Security, Compliance & Governance Documentation, Validation Process Oversight.
+SKILLS_TITLE_3: Technical Acumen
+SKILLS_DESC_3: Cloud Platforms (AWS, GCP), System Integration & APIs, Data Migration, SaaS & Enterprise Software (CRM/ERP), AI-Driven Solutions, Lab Informatics Principles.
+SKILLS_TITLE_4: Project Management Tools
+SKILLS_DESC_4: Jira, Confluence, MS Teams, Asana, Slack, Clickup, Azure DevOps.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Technical Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company offering AI-powered technology and software development, helping organizations reinvent businesses and industries through innovative consulting and engineering.
+COMPANY_BULLET_1_GLOBANT: Directed a complex banking data center migration to GCP, leading a +100-person team and ensuring seamless operations and data integrity for Banco de Chile.
+COMPANY_BULLET_2_GLOBANT: Managed digital transformation programs for Royal Caribbean, improving guest experience and driving revenue through delivery of AI-chatbot and mobile application features.
+COMPANY_BULLET_3_GLOBANT: Improved e-commerce platform performance by 40% for Dick's Sporting Goods by implementing Agile methodologies, enhancing customer engagement and core web vitals.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A custom software development firm specializing in cloud solutions, Big Data, and AI applications for the media, sports, and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Led the development of a voice-to-text application for clinicians, integrating AWS services to improve documentation efficiency and accuracy for multiple hospital clients.
+COMPANY_BULLET_2_MANGOSOFT: Managed the integration of medical imaging systems (DICOM) and patient data platforms (HL7 V2), ensuring secure data transfer and visualization for clinical teams.
+COMPANY_BULLET_3_MANGOSOFT: Oversaw end-to-end product delivery for healthcare and media clients, from RFP to production support, consistently meeting project deadlines and budget constraints.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology provider of integrated hardware and software solutions, specializing in IoT and management platforms for the public safety and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Led a public safety project for the Colombian Police, delivering 3,000+ bodycams and a central management system, improving officer accountability and evidence collection.
+COMPANY_BULLET_2_TIPI: Managed project execution based on strict government contract requirements, overseeing the full SDLC, quality assurance, deployment, and operational support.
+COMPANY_BULLET_3_TIPI: Deployed RFID asset tracking and nurse call systems across 10+ hospitals, improving patient response times by 30% and optimizing medical staff workflows.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS company that developed and supported a comprehensive POS and business management software solution for over 1,000 small businesses in the LATAM market.
+COMPANY_BULLET_1_ITBIGBOSS: Directed the full SDLC for a SaaS POS platform, integrating biometrics and electronic signatures to enhance security and transactional integrity for users.
+COMPANY_BULLET_2_ITBIGBOSS: Led a +30-person team in the implementation and adaptation of the SaaS solution for over 1,000 businesses across retail and health sectors.
+COMPANY_BULLET_3_ITBIGBOSS: Established and managed the operations support workflow, ensuring high system uptime and customer satisfaction for a diverse, international client base.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, operating over 60 locations across Colombia, Peru, and Chile with a focus on wellness.
+COMPANY_BULLET_1_BODYTECH: Managed IT infrastructure and security across 60+ sites, implementing access control with biometrics and leading a major Microsoft Dynamics CRM & ERP deployment.
+COMPANY_BULLET_2_BODYTECH: Established and led the IT Service Desk, improving ticket resolution times by 40% and supporting thousands of members and staff across the organization.
+COMPANY_BULLET_3_BODYTECH: Oversaw the development lifecycle for custom CRM and billing software, automating processes which reduced manual data entry time by over 50%.

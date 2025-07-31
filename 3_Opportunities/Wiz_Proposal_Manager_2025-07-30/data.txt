@@ -1,0 +1,63 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: Wiz
+JOB_ROLE: Proposal Manager
+COMPANY_NAME: Wiz
+APPLICATION_DATE: July 30, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Proposal Manager at Wiz
+CONTENT: <p>Dear Hiring Manager,</p><br>
+<p>I am writing to express my keen interest in the Proposal Manager position at Wiz, as advertised on LinkedIn.  With 10+ years of experience leading complex, multi-stakeholder projects in demanding environments, I am confident my skills and experience align perfectly with your requirements. </p><br>
+<p>My background encompasses end-to-end proposal management, from initial RFP intake to final submission and follow-up, across diverse sectors including finance, healthcare, retail, and technology.  I have a proven track record of success in crafting compelling proposals that highlight complex technical capabilities in clear, concise language, resulting in winning competitive bids. My experience includes collaborating extensively with legal, sales, engineering, and product teams to gather information and ensure proposal accuracy and compliance.  </p><br>
+<p>My expertise extends to working within and alongside legal teams on contract negotiations, managing multiple concurrent proposals, improving proposal processes, and maintaining comprehensive knowledge bases of product capabilities, security controls, and compliance certifications.  I’m adept at translating technical and legal jargon into easily digestible materials for diverse audiences, consistently exceeding customer expectations.</p><br>
+<p>Specific achievements include successfully securing new business through strategic proposal submissions, driving improvements in proposal response times, and implementing process optimizations resulting in higher win rates. My proficiency in various project management methodologies, including Agile (SAFe, Scrum, Kanban), coupled with my deep understanding of cybersecurity concepts, makes me an ideal candidate to drive success in your dynamic organization.</p><br>
+<p> I am eager to learn more about this opportunity and discuss how my skills and experience can benefit Wiz. Thank you for your time and consideration.</p><br>
+
+
+# CV Content
+CAREER_SUMMARY: Adaptive Proposal Manager with 10+ years of experience leading complex, multi-stakeholder projects in B2B SaaS, technology, and cybersecurity.  Expert in crafting winning proposals and driving business growth.
+SKILLS_TITLE_1: Proposal Management
+SKILLS_DESC_1: RFP Response, Proposal Development, Content Creation, Stakeholder Coordination, Win/Loss Analysis
+SKILLS_TITLE_2: Project Management
+SKILLS_DESC_2: Agile (SAFe, Scrum, Kanban), Project Planning, Execution, Risk Management, Budget Management
+SKILLS_TITLE_3: Technical & Legal Expertise
+SKILLS_DESC_3: Cybersecurity Concepts, Compliance Frameworks (SOC 2, ISO 27001), Contract Negotiation, Legal Terminology
+SKILLS_TITLE_4: Software & Tools
+SKILLS_DESC_4: RFPIO/Loopio (or similar), Salesforce, Microsoft Office Suite/Google Workspace
+
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Senior Project Manager
+COMPANY_SUMMARY_GLOBANT: A global IT consulting company offering AI-driven software development solutions at scale.
+COMPANY_BULLET_1_GLOBANT: Led technical project management and Scrum for Royal Caribbean, delivering features for multiple apps (Guest App, Room Service, etc.) on time and within budget, resulting in improved user experience and increased adoption.
+COMPANY_BULLET_2_GLOBANT: Drove a 40% performance improvement for Dick's Sporting Goods' ecommerce platform by optimizing Core Web Vitals, enhancing user experience and driving sales growth.
+COMPANY_BULLET_3_GLOBANT:  Managed over 100+ person teams in the development of Banco de Chile's Metaverse Branch and mobile app, achieving on-time delivery and key performance indicator success.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A technology firm specializing in cloud-based solutions for media and healthcare.
+COMPANY_BULLET_1_MANGOSOFT: Delivered Concacaf and MLS app featuring live streaming and data analytics resulting in increased user engagement and improved media consumption.
+COMPANY_BULLET_2_MANGOSOFT: Implemented AWS-based solutions for healthcare clients (San Rafael Hospital, etc.), improving data management, patient care, and overall operational efficiency.
+COMPANY_BULLET_3_MANGOSOFT: Designed and implemented a voice-to-text solution, accelerating medical processes by 20%, and minimizing administrative delays.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A software house developing hardware and software solutions for the public and private sectors.
+COMPANY_BULLET_1_TIPI: Managed the development and deployment of 3,000+ bodycams for the Colombian Police, enhancing safety and operational capabilities.
+COMPANY_BULLET_2_TIPI:  Delivered a Bluetooth nurse call system to numerous clinics and hospitals, improving response times and patient care.
+COMPANY_BULLET_3_TIPI: Developed a real-time tracking board to improve workflow and operational processes, resulting in a 15% reduction in patient wait times.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A software house developing SaaS-based POS systems for small businesses.
+COMPANY_BULLET_1_ITBIGBOSS: Developed and implemented a POS system for over 1000 businesses, improving operational efficiency and sales processing.
+COMPANY_BULLET_2_ITBIGBOSS: Integrated multiple systems into the POS, streamlining operations and minimizing errors.
+COMPANY_BULLET_3_ITBIGBOSS: Successfully led the software development life cycle of the POS system, resulting in on-time delivery and high customer satisfaction.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A large fitness center chain in Latin America, known for its innovation.
+COMPANY_BULLET_1_BODYTECH: Implemented an access control system across 60+ locations, improving security and operational efficiency.
+COMPANY_BULLET_2_BODYTECH: Led the implementation of a CRM system for the company, enhancing business efficiency and customer relationship management.
+COMPANY_BULLET_3_BODYTECH: Managed and enhanced IT infrastructure across multiple locations, improving service and user satisfaction.

@@ -1,0 +1,55 @@
+# Global Information
+HIRING_MANAGER: Prolink Hiring Team
+COMPANY_NAME: Prolink
+JOB_ROLE: Project Manager (2025-3154)
+APPLICATION_DATE: July 26, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Project Manager (2025-3154) at Prolink
+CONTENT: Dear Prolink Hiring Team,<br><br>I am writing to express my strong interest in the Project Manager (2025-3154) position, as advertised on LinkedIn. With over 10 years of experience managing complex IT and software development projects from initiation to completion, my background aligns perfectly with the responsibilities and requirements of this role.<br><br>Throughout my career, I have successfully led cross-functional, globally distributed teams in fast-paced environments. My expertise includes defining project scope, managing budgets, mitigating risks, and ensuring the on-time delivery of high-quality solutions. I am an expert in Agile and Scrum methodologies, holding A-CSM, CSM, and SAFe certifications, and am proficient with project management tools like Jira and Confluence.<br><br>I have a deep understanding of the full software development lifecycle (SDLC), DevOps practices, and cloud platforms, including AWS and GCP, which has been instrumental in my work on SaaS products, AI solutions, and system integrations for clients in retail, finance, and healthcare. I am confident that my adaptive approach and commitment to continuous process improvement would make me a valuable asset to your team.<br><br>Thank you for your time and consideration. I have attached my CV for your review and look forward to discussing how my skills and experience can contribute to Prolink's success.<br><br>Sincerely,<br><br>[Your Name]
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading global teams and delivering complex software and IT projects across diverse industries. Expert in Agile (Scrum, SAFe), SDLC, and cloud-based solutions (AWS, GCP, Azure), driving project success in fast-paced environments.
+SKILLS_TITLE_1: Project Management & Methodologies
+SKILLS_DESC_1: SAFe, Scrum, Kanban, Scrum of Scrums, Waterfall, Hybrid, Risk Mitigation, Budgeting
+SKILLS_TITLE_2: Technical & Platform Expertise
+SKILLS_DESC_2: SDLC, Cloud Platforms (AWS, GCP, Azure), AI & Generative AI, Jira, Confluence
+SKILLS_TITLE_3: Project Lifecycle & Delivery
+SKILLS_DESC_3: Scope Definition, PI Planning, Release Management, C-Level Reporting, Quality Assurance
+SKILLS_TITLE_4: Leadership & Stakeholder Relations
+SKILLS_DESC_4: Cross-Functional Team Leadership, Vendor Management, Resource Planning, Stakeholder Communication
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native consulting company using AI and innovative software development to help organizations reinvent their businesses and industries on a global scale.
+COMPANY_BULLET_1_GLOBANT: Led cross-functional teams in delivering AI and mobile app features for Royal Caribbean, managing project scope, schedule, and budget for on-time releases.
+COMPANY_BULLET_2_GLOBANT: Drove a 40% e-commerce performance improvement for Dick's Sporting Goods by managing the full SDLC and implementing Core Web Vitals with Agile teams.
+COMPANY_BULLET_3_GLOBANT: Orchestrated PI Planning and execution for banking clients, translating business goals into actionable backlogs and delivering quarterly roadmaps with clear KPIs.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm specializing in delivering custom cloud-based solutions, Big Data analytics, and digital products for media and healthcare clients.
+COMPANY_BULLET_1_MANGOSOFT: Managed end-to-end delivery of a media streaming application on AWS for Concacaf, overseeing development from initial RFP analysis to production support.
+COMPANY_BULLET_2_MANGOSOFT: Implemented Scrum methodologies for healthcare projects, improving team velocity and delivering critical voice-to-text and medical imaging integrations on schedule.
+COMPANY_BULLET_3_MANGOSOFT: Defined project scope and staffed teams for 10+ positions, ensuring successful execution of fixed-price contracts and exceeding client expectations for quality.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology company creating integrated hardware and software solutions, including IoT devices and management platforms for public safety and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Led the full lifecycle for a bodycam solution for the Colombian Police, managing firmware, software development, and deployment for over 3,000 devices.
+COMPANY_BULLET_2_TIPI: Defined and controlled project constraints for government contracts, ensuring on-time delivery and compliance with strict regulations and quality standards.
+COMPANY_BULLET_3_TIPI: Directed software and operations teams to deliver an RFID asset tracking system for 10+ hospitals, improving asset management and staff communication speed.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A Software-as-a-Service (SaaS) provider delivering comprehensive POS and business management solutions for small and medium-sized businesses in the LATAM market.
+COMPANY_BULLET_1_ITBIGBOSS: Directed the complete SDLC for a SaaS POS product, leading to successful implementation and adoption by over 1,000 businesses across LATAM.
+COMPANY_BULLET_2_ITBIGBOSS: Led a 30-person team, providing hands-on technical guidance in coding, code review, and release management to enhance product features and stability.
+COMPANY_BULLET_3_ITBIGBOSS: Managed operations and support workflows for the SaaS platform, integrating with biometrics and payment processors to expand market reach and usability.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, focused on providing comprehensive wellness services supported by robust technology and infrastructure.
+COMPANY_BULLET_1_BODYTECH: Managed IT infrastructure and operations across 60+ sites, implementing networking and security solutions that improved system uptime and support resolution rates.
+COMPANY_BULLET_2_BODYTECH: Led the technical implementation of Microsoft Dynamics CRM & ERP, centralizing member data and automating billing, which improved overall operational efficiency.
+COMPANY_BULLET_3_BODYTECH: Directed the development of a custom access control system using biometrics, enhancing security and streamlining member check-in by reducing wait times.

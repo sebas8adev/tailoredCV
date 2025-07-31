@@ -1,0 +1,56 @@
+# Global Information
+HIRING_MANAGER: HaloMD Hiring Team
+COMPANY_NAME: HaloMD
+JOB_ROLE: Technical Project Manager - Data & Analytics
+COMPANY_NAME: HaloMD
+APPLICATION_DATE: July 4, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Technical Project Manager - Data & Analytics at HaloMD
+CONTENT: Dear HaloMD Hiring Team,<br><br>I am writing to express my strong interest in the Technical Project Manager - Data & Analytics position at HaloMD, as advertised on LinkedIn. With over 10 years of experience leading complex data-centric projects, particularly within the healthcare sector, my background aligns perfectly with the requirements of this role.<br><br>My career has been focused on managing the end-to-end delivery of data integration, analytics, and business intelligence initiatives. I have extensive experience translating business and regulatory needs—including those related to healthcare claims, EMR/EHR, and RCM—into technical specifications for data engineering and BI teams. I am proficient with the essential tools for this role, including SQL, ETL processes, and BI platforms like Power BI and Tableau, and have managed projects on cloud platforms like AWS and GCP.<br><br>I am an expert in facilitating Agile/Scrum ceremonies and managing project backlogs in JIRA and Confluence to ensure transparent communication and timely delivery. My experience includes leading cross-functional technical teams, tracking KPIs for executive reporting, and ensuring all projects adhere strictly to data governance and HIPAA compliance standards. I am confident that my technical project management skills and deep understanding of the healthcare data landscape will allow me to contribute significantly to HaloMD's mission.<br><br>Thank you for your time and consideration. I am eager to discuss how my experience can help drive data-driven decision-making and support HaloMD's continued growth.<br><br>Sincerely,<br>Juan Garcia
+
+# CV Content
+CAREER_SUMMARY: Adaptive Technical Project Manager with 10+ years of experience driving complex data, analytics, and digital transformation projects in healthcare, finance, and retail. Expert in Agile (Scrum) and hybrid methodologies, translating business needs into technical specifications for data platforms, BI dashboards, and system integrations. Skilled in leading cross-functional teams, ensuring HIPAA compliance, and delivering data-driven solutions that enhance organizational performance.
+SKILLS_TITLE_1: Data & Analytics Project Leadership
+SKILLS_DESC_1: Data Warehousing/Lakes, BI & Reporting (Power BI/Tableau), ETL Processes, Data Integration, SQL, Data Governance & HIPAA Compliance.
+SKILLS_TITLE_2: Project Management Methodologies
+SKILLS_DESC_2: Agile (Scrum, Kanban, SAFe), Hybrid-Waterfall, End-to-End Project Lifecycle, Risk & Scope Management, Backlog Grooming, KPI & OKR Tracking.
+SKILLS_TITLE_3: Technical & Platform Proficiency
+SKILLS_DESC_3: Cloud Platforms (AWS, GCP), JIRA, Confluence, Azure DevOps, MS Project, SDLC, API Integration, Generative AI Implementation.
+SKILLS_TITLE_4: Industry & Stakeholder Management
+SKILLS_DESC_4: Healthcare (RCM, EMR/EHR, Claims), Finance, Retail, C-Level Reporting, Cross-functional Team Coordination, RFP Analysis & Proposal Development.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Technical Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native consulting company using AI and innovative software development to help organizations reinvent their businesses and industries across the globe.
+COMPANY_BULLET_1_GLOBANT: Managed a portfolio for Royal Caribbean, leading data-driven feature development for guest apps, which increased user engagement and ancillary onboard revenue.
+COMPANY_BULLET_2_GLOBANT: Drove a 40% e-commerce performance improvement for Dick's Sporting Goods by leading Core Web Vitals initiatives and optimizing the data pipeline.
+COMPANY_BULLET_3_GLOBANT: Led a data center migration to GCP for Banco de Chile, managing data ingestion, warehousing, and Power BI reporting for over 100 engineers.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm specializing in cloud services, big data, and custom applications for the media, sports, and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Directed the end-to-end development of a healthcare data platform, integrating voice-to-text (AWS Polly) and DICOM imaging, improving diagnostic workflow efficiency.
+COMPANY_BULLET_2_MANGOSOFT: Launched a media streaming service for Concacaf, utilizing AWS data services to manage and deliver real-time match statistics to thousands of users.
+COMPANY_BULLET_3_MANGOSOFT: Implemented a patient data integration solution for multiple clinics using HL7 V2 standards, centralizing records and reducing manual entry by over 30%.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology company delivering integrated hardware and software solutions, specializing in public safety, IoT devices, and healthcare management systems.
+COMPANY_BULLET_1_TIPI: Led the full SDLC for a law enforcement bodycam solution, integrating video streaming, facial recognition, and data management for over 3,000 devices.
+COMPANY_BULLET_2_TIPI: Deployed an RFID-based asset tracking system across 10+ hospitals, improving equipment visibility and reducing search times for critical medical devices.
+COMPANY_BULLET_3_TIPI: Engineered a patient flow tracking board for clinics, integrating with EMR systems to reduce patient wait times and improve operational communication speed.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering POS, CRM, and business management software for over 1,000 small businesses in the retail and wellness sectors.
+COMPANY_BULLET_1_ITBIGBOSS: Directed the SDLC for a POS system, integrating analytics and reporting features that helped business owners optimize inventory and sales strategies.
+COMPANY_BULLET_2_ITBIGBOSS: Managed development and integration of biometric and payment processing systems, enhancing transaction security and speed for thousands of daily users.
+COMPANY_BULLET_3_ITBIGBOSS: Led a 30-person team in building a comprehensive CRM with analytics, which increased customer retention for clients by an average of 15%.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, transforming wellness through technology-driven member experiences across more than 60 locations.
+COMPANY_BULLET_1_BODYTECH: Managed the implementation of a Dynamics CRM & ERP, centralizing member data and billing, which improved data accuracy and operational efficiency.
+COMPANY_BULLET_2_BODYTECH: Directed the IT infrastructure build-out for 60+ sites, managing networking, security, and service desk operations to achieve 99% system uptime.
+COMPANY_BULLET_3_BODYTECH: Led the development of an access control and billing platform, automating payments and reducing member check-in time by 50% across all locations.

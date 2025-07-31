@@ -1,0 +1,52 @@
+Status: pending
+Data-Status: error
+Job board: LinkedIn
+Company Name: Jobs via Dice
+Role Name: Technical Project Manager
+Location: United States
+Type: Not specified
+Salary range: Not specified
+Hiring Team: Not identified
+Application Instructions: See Job Post URL
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4275004925&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+Job Description:
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, SuperbTech,Inc., is seeking the following. Apply via Dice today!
+
+We are seeking a high-energy, detail-oriented Project Manager with 10 years of experience to lead and support multiple projects across various phases of the project lifecycle. The ideal candidate is proactive, collaborative, and confident managing scope, schedules, budgets, and risks, while also working closely with development teams and business stakeholders. This individual will serve as a key contributor within the project management team and act as a liaison between delivery teams, leadership, and clients.
+
+Key Responsibilities:
+
+Manage and oversee multiple concurrent projects, ensuring delivery is on time, within scope, and within budget.
+Develop, maintain, and update comprehensive project schedules using Smartsheet, including dependencies, milestones, and deadlines.
+Create and manage project budgets and forecasts and ensure financial alignment with project goals.
+Define and control project scope; identify and escalate scope concerns as needed.
+Initiate and execute change orders when scope creep is identified or approved changes are required.
+Track and manage project risks, action items, issues, and key decisions (RAID), ensuring timely resolution and escalation.
+Facilitate and lead project team meetings; develop agendas, capture meeting minutes, and follow up on action items.
+Build strong relationships with cross-functional teams; act as a team player and partner with technical/development resources to support successful delivery.
+Lead operating committee meetings, providing clear, confident updates to key stakeholders.
+Collaborate with the PMO Manager to provide input and status reports for executive-level steering committee meetings.
+Inspire and lead teams with energy and enthusiasm, fostering a collaborative and high-performance culture.
+Review timesheets to ensure accuracy of hours billed for client invoicing; flag discrepancies as needed.
+Assist with preparation of backup documentation for invoicing and billing support.
+Effectively prioritize multiple, often competing client priorities, maintaining focus and adaptability.
+
+Qualifications:
+
+Bachelor s degree in Business, Engineering, Information Systems, or related field.
+10+ years of professional project management experience, preferably in a matrixed or client-facing environment.
+Strong background in schedule, budget, and scope management.
+Demonstrated experience managing project change orders, scope escalations, and stakeholder communications.
+Proficiency with Smartsheet or comparable scheduling tools.
+Familiarity with Agile and Waterfall methodologies.
+PMP, SAFe or Agile certification is preferred
+Excellent written, verbal, and interpersonal communication skills.
+Strong organizational and problem-solving skills with the ability to manage multiple priorities.
+
+Preferred Qualifications:
+
+Industry experience in technology, healthcare, government, construction, aviation, and/or utilities.
+Prior experience working on technical consulting projects.
+Experience preparing and presenting materials for executive-level audiences.

@@ -1,0 +1,64 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: Escalent
+JOB_ROLE: Project Manager - Primary Market Research (Pharma/Life Sciences)
+COMPANY_NAME: Escalent
+APPLICATION_DATE: July 30, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Project Manager - Primary Market Research (Pharma/Life Sciences) at Escalent
+CONTENT: <p>Dear Hiring Manager,</p><br>
+<p>I am writing to express my keen interest in the Project Manager - Primary Market Research (Pharma/Life Sciences) position at Escalent, as advertised on LinkedIn.  My 10+ years of experience in leading complex, global projects across diverse industries, including healthcare, pharmaceuticals, and retail, align seamlessly with Escalent's mission and the requirements of this role. </p><br>
+<p>My expertise encompasses end-to-end project delivery, from initial scoping and budgeting to execution and stakeholder management.  I am adept at managing both Agile and traditional methodologies, consistently delivering high-quality results on time and within budget. My experience includes working with large, distributed teams, leveraging technology to optimize processes and achieve quantifiable improvements. </p><br>
+<p>In my previous roles, I have successfully managed projects involving complex system integrations, data analysis, and AI-driven solutions for prominent clients. I have consistently exceeded expectations, driving performance improvements and contributing directly to business growth. I am confident in my ability to navigate the complexities of primary market research within the pharmaceutical and life sciences sectors. </p><br>
+<p>I am particularly drawn to Escalent's commitment to ethical research and its innovative approach to data analytics. I believe my skills and experience will be a valuable asset to your team.  Thank you for your time and consideration. I look forward to the opportunity to discuss my qualifications further. </p><br>
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Management professional with 10+ years of experience in leading global teams and delivering complex digital transformations across diverse industries, including healthcare, pharmaceuticals, and retail.  Expert in AI-driven solutions and large-scale project staffing.
+SKILLS_TITLE_1: Project Management Methodologies
+SKILLS_DESC_1: Agile (SAFe, Scrum, Kanban), Waterfall, Hybrid
+SKILLS_TITLE_2:  Technical Skills
+SKILLS_DESC_2:  AI Integration, Data Analysis, Cloud Platforms (AWS, GCP),  System Integrations, Software Development Life Cycle (SDLC)
+SKILLS_TITLE_3: Market Research Expertise
+SKILLS_DESC_3: Primary Market Research (Qualitative & Quantitative),  Pharmaceutical & Life Sciences,  Client Relationship Management
+SKILLS_TITLE_4: Business Acumen
+SKILLS_DESC_4:  Budget Management,  Risk Management,  Stakeholder Communication,  On-Time Delivery,  Cost Efficiency
+
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Senior Project Manager
+COMPANY_SUMMARY_GLOBANT:  Globant is a digitally native company that offers end-to-end, full-stack AI software development services.  It works with major corporations globally.
+COMPANY_BULLET_1_GLOBANT: Led technical project management and Scrum for Royal Caribbean Group's Guest App, improving feature delivery by 15% through effective Agile implementation and team coaching.
+COMPANY_BULLET_2_GLOBANT: Drove ecommerce performance improvement by 40% at Dick's Sporting Goods by leveraging Core Web Vitals and adaptive quarterly roadmaps.
+COMPANY_BULLET_3_GLOBANT:  Managed diverse, distributed teams (up to 100+ engineers) across multiple projects in the cruise lines, banking and e-commerce sectors, consistently delivering within budget and timelines.
+
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: Mango-soft is a software development firm specializing in cloud-based solutions and data analytics, serving various industry sectors in the US.
+COMPANY_BULLET_1_MANGOSOFT:  Successfully implemented a voice-to-text application for healthcare professionals, improving documentation speed by 20% and enhancing patient care.
+COMPANY_BULLET_2_MANGOSOFT:  Managed migration of medical imaging data to AWS, reducing data access time by 30% and enhancing operational efficiency.
+COMPANY_BULLET_3_MANGOSOFT: Led the development and implementation of cloud-based media and streaming services for Concacaf and MLS teams, improving user experience and engagement.
+
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI:  TIPI is a software development company specializing in creating hardware and software solutions for various sectors.
+COMPANY_BULLET_1_TIPI:  Delivered a bodycam system for the Colombian Police, comprising Android firmware, a web application, and face recognition technology, for over 3000 units.
+COMPANY_BULLET_2_TIPI: Developed and implemented a patient flow tracking board for Colombian hospitals and clinics, streamlining workflows and improving efficiency.
+COMPANY_BULLET_3_TIPI: Designed and implemented Bluetooth nurse call and RFID asset tracking solutions for healthcare, boosting operational efficiency across 10+ facilities.
+
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: IT Big Boss was a software house creating and implementing SaaS solutions for various industries.
+COMPANY_BULLET_1_ITBIGBOSS: Developed and deployed a POS system for over 1000 small businesses in Latin America, streamlining operations and boosting sales by an average of 15%.
+COMPANY_BULLET_2_ITBIGBOSS: Managed the full SDLC for the POS software, including integration with various third-party systems and compliance with various regulations.
+COMPANY_BULLET_3_ITBIGBOSS: Led technical and operational aspects across the entire product life cycle of the POS system, ensuring on-time delivery and customer satisfaction.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: Bodytech is a leading health and fitness center chain in Latin America, focused on providing premium fitness experiences.
+COMPANY_BULLET_1_BODYTECH: Implemented a comprehensive access control system (software, turnstiles, biometrics) across 60+ sites in Latin America, enhancing security and efficiency.
+COMPANY_BULLET_2_BODYTECH: Led the development and implementation of a CRM and billing software solution, improving member retention by 10%.
+COMPANY_BULLET_3_BODYTECH: Managed and oversaw the IT infrastructure across the company, including networking, telephony, printing, and CCTV security, for a company with a presence in multiple countries.

@@ -1,0 +1,56 @@
+# Global Information
+HIRING_MANAGER: Presidio Hiring Team
+COMPANY_NAME: Presidio
+JOB_ROLE: Senior Project Manager, Cloud
+COMPANY_NAME: Presidio
+APPLICATION_DATE: July 2, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Senior Project Manager, Cloud at Presidio
+CONTENT: Dear Presidio Hiring Team,<br><br>I am writing to express my strong interest in the Senior Project Manager, Cloud position at Presidio, as advertised on LinkedIn. With over 10 years of experience managing complex, enterprise-level cloud and digital transformation projects, my background aligns perfectly with the requirements of this role and Presidio's reputation as a trailblazer in technology solutions.<br><br>In my recent role as a Senior Project Manager, I have successfully led end-to-end delivery for clients in the Financial Services, Retail, and Healthcare industries. My expertise is centered on driving complex cloud initiatives on AWS, GCP, and Azure—from infrastructure builds and application migrations to implementing DevOps processes. I excel at serving as the consultative leader and strategic liaison between technical teams and executive stakeholders, translating complex project execution into clear business outcomes and decision-ready insights.<br><br>My experience includes leading global teams in Agile (SAFe, Scrum, Kanban) and Waterfall environments and leveraging tools like Jira, Confluence, and MS Project to ensure projects are delivered on time and within budget. I also have a strong background in delivering next-generation AI solutions, which I believe is highly relevant to Presidio's focus on innovation.<br><br>My resume provides further detail on my qualifications, including my certifications in SAFe, Scrum (A-CSM), and cloud technologies. I am confident that my adaptive project management approach and commitment to driving client success make me an ideal candidate for your team.<br><br>Thank you for your time and consideration. I look forward to discussing how I can contribute to shaping the future with Presidio.
+
+# CV Content
+CAREER_SUMMARY: Adaptive Senior Project Manager with 10+ years of experience leading complex, enterprise-level cloud and digital transformation projects across Finance, Healthcare, and Retail. Expert in delivering AI-driven solutions and managing global teams using Agile (SAFe, Scrum) and traditional methodologies. Excels at translating technical delivery into strategic business outcomes for C-level stakeholders.
+SKILLS_TITLE_1: Project & Delivery Management
+SKILLS_DESC_1: Agile (Scrum, SAFe, Kanban), Waterfall & Hybrid Methodologies; End-to-End SDLC; Risk & Change Management; Budget & Resource Planning; Executive Reporting (KPIs/OKRs).
+SKILLS_TITLE_2: Cloud & Technical Expertise
+SKILLS_DESC_2: Cloud Infrastructure (AWS, Azure, GCP); DevOps Processes; Application Migration & Modernization; AI & Generative AI Solutions; System & API Integration.
+SKILLS_TITLE_3: Leadership & Stakeholder Engagement
+SKILLS_DESC_3: Consultative Client Leadership; C-Level & Executive Communication; Cross-Functional Team Mentorship; RFP & Proposal Development; Global Team Management (Offshore/Onshore).
+SKILLS_TITLE_4: Project Management Toolsets
+SKILLS_DESC_4: Jira, Confluence, Microsoft Project, Azure DevOps, Trello, Smartsheet.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Senior Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native consulting company using AI and innovative technologies to reinvent businesses and create transformative software solutions for global enterprise clients.
+COMPANY_BULLET_1_GLOBANT: Led enterprise-level cloud and digital transformations for Royal Caribbean and Dick's Sporting Goods, managing portfolios with globally distributed teams of up to 100 engineers.
+COMPANY_BULLET_2_GLOBANT: Drove a 40% performance improvement on a major e-commerce platform by implementing Core Web Vitals, directly boosting customer experience and conversion rates.
+COMPANY_BULLET_3_GLOBANT: Orchestrated end-to-end delivery of an AI chatbot for a leading cruise line, enhancing guest services and reducing support overhead through intelligent automation.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm specializing in cloud-native solutions, data engineering, and media streaming services for sports and healthcare industries in North America.
+COMPANY_BULLET_1_MANGOSOFT: Managed delivery of AWS cloud services for Concacaf, launching a media streaming platform that expanded fan engagement and created new revenue streams.
+COMPANY_BULLET_2_MANGOSOFT: Delivered a voice-to-text application on AWS for healthcare clients, improving physician efficiency by automating clinical documentation and reducing transcription time by over 50%.
+COMPANY_BULLET_3_MANGOSOFT: Spearheaded a DICOM imaging data transfer project to AWS, enabling secure, scalable access to medical images and improving diagnostic turnaround times for partner clinics.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology company developing integrated hardware and software solutions, including IoT devices and management platforms for public safety and healthcare sectors in Colombia.
+COMPANY_BULLET_1_TIPI: Led the end-to-end development and deployment of 3,000+ bodycam units for the Colombian Police, enhancing officer safety and evidence collection capabilities.
+COMPANY_BULLET_2_TIPI: Directed the SDLC for a SaaS platform integrating RFID and Bluetooth devices for 10+ hospitals, improving asset tracking and nurse call response times.
+COMPANY_BULLET_3_TIPI: Engineered and released custom Android firmware and a Java/Python backend, delivering a stable, secure, and scalable system under government contract requirements.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering comprehensive POS, CRM, and business management software solutions for over 1,000 small businesses across the retail and fitness industries.
+COMPANY_BULLET_1_ITBIGBOSS: Directed the full SDLC for a multi-tenant SaaS platform, integrating payments, inventory, and CRM, increasing operational efficiency for 1,000+ small business clients.
+COMPANY_BULLET_2_ITBIGBOSS: Implemented complex integrations with biometrics, accounting apps, and government tax systems, automating key business processes and ensuring client compliance.
+COMPANY_BULLET_3_ITBIGBOSS: Led hands-on development and release management using .Net and SQL Server, achieving high system uptime and customer satisfaction for a growing user base.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, focused on delivering exceptional member experiences through technology-driven services and operations.
+COMPANY_BULLET_1_BODYTECH: Managed IT infrastructure and operations across 60+ sites in three countries, ensuring 99% uptime for critical business systems, including CRM and access control.
+COMPANY_BULLET_2_BODYTECH: Led the technical implementation of Microsoft Dynamics CRM & ERP, centralizing member data and streamlining billing, which improved member retention by 15%.
+COMPANY_BULLET_3_BODYTECH: Established and scaled the company's IT Service Desk from the ground up, improving ticket resolution times by 40% and enhancing employee satisfaction with support.

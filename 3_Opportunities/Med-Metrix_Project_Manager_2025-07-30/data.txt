@@ -1,0 +1,55 @@
+# Global Information
+HIRING_MANAGER: Lauren Muttel
+COMPANY_NAME: Med-Metrix
+JOB_ROLE: Project Manager
+APPLICATION_DATE: July 2, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Project Manager at Med-Metrix
+CONTENT: Dear Lauren Muttel,<br><br>I am writing to express my strong interest in the Project Manager position at Med-Metrix, which I discovered on LinkedIn. With over 10 years of experience managing the end-to-end implementation of complex software solutions, particularly within the healthcare sector, my background aligns perfectly with the requirements of this role.<br><br>My career includes directly managing projects for hospitals and clinics, where I led the implementation of medical imaging integrations (DICOM), voice-to-text solutions for physicians, and patient data systems compliant with HL7 standards. I am experienced in overseeing the full project lifecycle for proprietary software, similar to your Med-Metrix Revenue Cycle Tech Stack, ensuring a seamless transition for clients from planning and discovery through to go-live and support.<br><br>In my previous roles, I have consistently demonstrated the ability to lead customer-facing meetings with stakeholders at all levels, including C-suite executives, and to collaborate effectively with cross-functional teams of subject matter experts, developers, and sales professionals. I excel at translating customer needs into actionable project plans, managing dependencies, mitigating risks, and ensuring projects meet revenue and delivery targets.<br><br>My approach is adaptive and results-oriented, with a strong emphasis on detailed documentation, clear communication, and fostering trusted partnerships with clients. I am confident that my skills in project management, combined with my direct experience in healthcare technology and HIPAA compliance, make me an excellent candidate to contribute to your team's success.<br><br>Thank you for your time and consideration. I have attached my CV for your review and welcome the opportunity to discuss my qualifications further.<br><br>Sincerely,<br><br>Andres Suarez
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading complex software implementations, with a specialization in the healthcare technology sector. Expert in managing the full project lifecycle for proprietary solutions, from discovery to go-live, ensuring seamless client adoption and achieving revenue targets. Skilled in fostering C-suite stakeholder relationships and guiding cross-functional teams to deliver projects on time, ensuring compliance with HIPAA standards.
+SKILLS_TITLE_1: Healthcare Project Management
+SKILLS_DESC_1: Revenue Cycle Solutions, Client Implementation, HIPAA Compliance, Go-Live Forecasting, Stakeholder Engagement (C-Suite), Change Management, PHI.
+SKILLS_TITLE_2: Project Management & Methodologies
+SKILLS_DESC_2: Full Project Lifecycle, Risk Mitigation, Dependency Mapping, Resource Management, SAFe, Scrum, Kanban, Waterfall/Hybrid.
+SKILLS_TITLE_3: Technical & Platform Acumen
+SKILLS_DESC_3: Proprietary Software Implementation, SDLC, Systems Integration, Data Migration, Cloud Services (AWS, GCP), CRM/ERP Systems, AI-Driven Solutions.
+SKILLS_TITLE_4: Tools & Software
+SKILLS_DESC_4: Jira, Confluence, Microsoft Office Suite, Slack, Asana, MS Teams.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company reinventing businesses through AI and software development. Offers innovative technology solutions to leading global brands and industries.
+COMPANY_BULLET_1_GLOBANT: Led program delivery for Royal Caribbean's guest experience apps, managing PI planning for distributed teams to ensure on-time feature releases and enhance customer satisfaction.
+COMPANY_BULLET_2_GLOBANT: Drove a 40% performance improvement for Dick's Sporting Goods' e-commerce platform by managing Core Web Vitals initiatives within adaptive quarterly roadmaps.
+COMPANY_BULLET_3_GLOBANT: Directed C-level stakeholder reporting across client portfolios, translating complex project data into RAG status indicators to ensure strategic alignment and manage expectations.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm specializing in custom solutions for media, sports, and healthcare, focused on cloud services and innovative technology stacks.
+COMPANY_BULLET_1_MANGOSOFT: Directed end-to-end implementation of medical imaging and voice-to-text solutions for hospitals, integrating with systems like DICOM and HL7 to improve diagnostics.
+COMPANY_BULLET_2_MANGOSOFT: Managed the development of a patient portal and surgery tracking board, improving communication and reducing patient wait times through streamlined data access.
+COMPANY_BULLET_3_MANGOSOFT: Led client-facing project discovery and implementation for Concacaf, defining scope and delivering a media streaming platform on-time and within a fixed budget.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology company developing integrated hardware and software solutions, including IoT devices and management platforms for public safety and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Led full SDLC for a bodycam system for law enforcement, delivering over 3,000 devices and a central management platform under strict government contracts.
+COMPANY_BULLET_2_TIPI: Deployed nurse call and asset tracking systems across 10+ hospitals, improving operational efficiency and staff response times through RFID technology integration.
+COMPANY_BULLET_3_TIPI: Managed the implementation of a patient flow tracking board, integrating with existing hospital systems to provide real-time visibility and improve care coordination.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering specialized POS and business management software for small to medium-sized businesses in retail, fitness, and health sectors.
+COMPANY_BULLET_1_ITBIGBOSS: Led the software development lifecycle for a SaaS POS product, successfully deploying it to over 1,000 small businesses and growing market share.
+COMPANY_BULLET_2_ITBIGBOSS: Directed product implementation for numerous health and fitness centers, automating billing and member management which led to increased customer retention.
+COMPANY_BULLET_3_ITBIGBOSS: Managed integrations with biometrics, accounting apps, and payment processors, expanding product functionality and delivering enhanced value to end-users.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading chain of health and fitness centers providing comprehensive wellness services and solutions across multiple countries in Latin America.
+COMPANY_BULLET_1_BODYTECH: Managed the implementation of Microsoft Dynamics CRM & ERP, streamlining billing and customer management operations across more than 60 corporate sites.
+COMPANY_BULLET_2_BODYTECH: Led the full lifecycle for a new access control system using biometrics, enhancing security and automating member check-in which improved facility throughput.
+COMPANY_BULLET_3_BODYTECH: Established and led the IT Service Desk, managing infrastructure and support protocols to achieve 99% system uptime and high user satisfaction scores.

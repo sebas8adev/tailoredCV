@@ -1,0 +1,133 @@
+Status: processed
+Data-Status: complete
+Job board: LinkedIn
+Company Name: Wiz
+Role Name: Proposal Manager
+Location: United States
+Type: Not specified
+Salary range: Not specified
+Hiring Team: Not identified
+Application Instructions: See Job Post URL
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4273357991&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+Job Description:
+About the job
+Come join the company that is reinventing cloud security and empowering businesses to thrive in the cloud. As the fastest-growing startup ever, Wiz is on a mission to help organizations secure cloud environments that will accelerate their businesses. Trusted by security teams all over the world, we have a proven track record of success and a culture that values world-class talent.
+
+Our Wizards from over 13 countries work together to protect the infrastructure of our hundreds of customers, including over 45% of the Fortune 100, who trust us to scan and secure over 230 billion files daily. We’re the leading player in a massive and growing market, but it’s still early enough for you to make a significant impact. At Wiz, you’ll have the freedom to think creatively, dream big, and use your full range of skills to contribute to our record growth. Come join our team and help us create secure cloud environments that allow the best companies to move faster.
+
+Summary
+
+We are seeking an experienced Proposal Manager to join our Legal team and lead our response efforts to customer RFPs, RFIs, and security questionnaires. This role is critical in showcasing our cybersecurity capabilities, compliance posture, and contractual commitments to prospective and existing enterprise customers. The ideal candidate will combine strong project management skills with the ability to translate complex legal, technical, and security concepts into compelling, customer-focused proposals.
+
+What You'll Do
+
+Proposal Management & Coordination
+
+Own the end-to-end RFP response process, from initial intake through submission and follow-up
+Maintain and manage the RFP calendar, tracking deadlines and coordinating resources across multiple concurrent proposals
+Conduct go/no-go analysis for incoming RFPs, assessing strategic fit and win probability
+Develop and maintain proposal templates, boilerplate content library, and response databases
+Coordinate with Sales, Legal, Product, Engineering, Security, and Compliance teams to gather accurate, comprehensive responses
+
+Content Development & Quality Assurance
+
+Write, edit, and refine proposal content to ensure clarity, accuracy, and alignment with customer requirements
+Translate technical cybersecurity capabilities and legal terms into clear, persuasive language
+Ensure all proposals maintain consistent messaging, branding, and compliance with company standards
+Review and update standard security questionnaire responses, NDAs, and other routine documentation
+Conduct quality reviews of all proposals before submission
+
+Legal & Compliance Focus
+
+Partner closely with Legal team members to ensure accurate representation of contractual terms, SLAs, and liability provisions
+Maintain up-to-date knowledge of relevant compliance frameworks (SOC 2, ISO 27001, GDPR, CCPA, etc.)
+Coordinate responses to security assessments and compliance questionnaires
+Support contract negotiations by providing proposal-related documentation and clarifications
+
+Process Improvement & Knowledge Management
+
+Continuously improve RFP response processes, tools, and timelines
+Maintain a comprehensive knowledge base of product capabilities, security controls, and compliance certifications
+Conduct win/loss analysis and implement lessons learned
+Train team members on RFP best practices and tools
+Track and report on RFP metrics, including volume, win rates, and response times
+
+Experience
+
+What You'll Bring
+
+5+ years of experience in proposal management, preferably in B2B SaaS, technology, or cybersecurity industries
+Proven track record of managing complex, multi-stakeholder RFP responses
+Experience working with or within legal departments on commercial contracts and agreements
+Demonstrated success in winning competitive enterprise deals through excellent proposal submissions
+
+Skills & Knowledge
+
+Exceptional written and verbal communication skills with the ability to synthesize complex information
+Strong project management skills with the ability to manage multiple deadlines simultaneously
+Understanding of cybersecurity concepts, compliance frameworks, and enterprise software procurement processes
+Proficiency with proposal management tools (RFPIO, Loopio, or similar) and CRM systems (Salesforce preferred)
+Advanced skills in Microsoft Office Suite and/or Google Workspace
+
+Education
+
+Bachelor's degree required; advanced degree in Business, Law, Communications, or related field preferred
+Professional certifications in proposal management (APMP) are a plus
+
+Preferred Qualifications
+
+Experience in cybersecurity or enterprise software companies
+Knowledge of common security frameworks and certifications (SOC 2, ISO 27001, FedRAMP, NIST)
+Understanding of SaaS business models and metrics
+Experience with legal contract terminology and standard commercial terms
+Familiarity with public sector procurement processes
+Technical writing background or certification
+
+Key Competencies
+
+Attention to Detail: Meticulous approach to ensure accuracy in all proposal content and compliance with requirements
+Collaboration: Ability to work effectively with diverse teams including legal, sales, technical, and executive stakeholders
+Time Management: Excellence in prioritizing tasks and meeting tight deadlines without compromising quality
+Strategic Thinking: Ability to understand customer needs and position our solutions effectively
+Adaptability: Comfort working in a fast-paced environment with changing priorities
+Customer Focus: Strong commitment to understanding and addressing customer concerns and requirements
+
+Benefits
+
+Wiz offers a competitive package of benefits and programs to support you and your family. Below provides a description of our current benefits for employees in the US. Specific benefits may vary by location.
+
+Health & Welfare Benefits
+
+Medical, dental and vision insurance 
+Home Office Setup reimbursement 
+Flexible Spending Accounts 
+Monthly Connectivity reimbursement 
+Employee Assistance Program (EAP) 
+
+Financial Benefits
+
+Short- and Long-term Disability Insurance 
+Life & Accident Insurance 
+401(k) Retirement Savings Plan (with employer match) 
+
+Time Off
+
+Flexible paid time off + 11 paid holidays 
+Paid leave programs, including parental, pregnancy health, medical and bereavement leave 
+
+Compensation
+
+Starting compensation will be determined based on various factors, including but not limited to, the candidate's job-related experience, skills and geographic location. Your Talent Partner can share more about the specific salary range during the hiring process.
+
+This role is eligible to participate in Wiz’s equity plan and may also include incentive compensation.
+
+The annual base salary range for this full-time position is listed below.
+
+US Base Pay Range
+
+$132,000—$182,000 USD
+
+Wiz is an equal opportunity employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics.
+
+By submitting your application, you acknowledge that Wiz will process your personal data in accordance with Wiz's Privacy Policy.

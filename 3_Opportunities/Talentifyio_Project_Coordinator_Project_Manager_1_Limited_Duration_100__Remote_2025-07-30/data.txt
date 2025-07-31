@@ -1,0 +1,62 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: Talentify.io
+JOB_ROLE: Project Coordinator (Project Manager 1)
+COMPANY_NAME: Talentify.io
+APPLICATION_DATE: July 30, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Project Coordinator (Project Manager 1) at Talentify.io
+CONTENT: <p>Dear Hiring Manager,</p><br><p>I am writing to express my keen interest in the Project Coordinator (Project Manager 1) position at Talentify.io, as advertised on LinkedIn.  My 10+ years of experience in leading complex technology projects across diverse sectors, including healthcare, aligns perfectly with the requirements outlined in the job description.</p><br><p>My background encompasses extensive experience in Agile methodologies (SAFe, Scrum, Kanban) and traditional project management frameworks.  I have a proven track record of successfully managing projects from initiation to completion, consistently delivering exceptional results. My expertise extends to managing project artifacts, facilitating stakeholder communication, and ensuring projects adhere to strict deadlines and budgets.  I am proficient in using Microsoft Project and the entire Microsoft Suite.</p><br><p>Throughout my career, I have consistently exceeded expectations in project delivery, achieving quantifiable results in various industries.  For instance, at Globant, I improved the performance of an e-commerce platform by 40% for Dick's Sporting Goods. At Mango-Soft, I successfully delivered several cloud-based healthcare solutions for major clinics, optimizing operational efficiency.  I am confident my skills and experience make me a strong candidate for this role.</p><br><p>My adaptability and ability to thrive in dynamic environments make me particularly suited to the demands of a fast-paced, remote position.  I am eager to contribute my expertise to Talentify.io and look forward to the opportunity to discuss my qualifications further.</p>
+
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Management professional with 10+ years of experience leading global teams and delivering complex digital transformations across industries.  Expert in AI-driven, cloud-based solutions, and system integrations.
+SKILLS_TITLE_1: Project Management Methodologies
+SKILLS_DESC_1: SAFe, Scrum, Kanban, Waterfall
+SKILLS_TITLE_2: Technology & Platforms
+SKILLS_DESC_2: Microsoft Project, Microsoft Suite, AWS, GCP, Azure, AI integration
+SKILLS_TITLE_3: Project Delivery
+SKILLS_DESC_3:  Project planning, execution, risk management, budget control, stakeholder management, compliance reporting
+SKILLS_TITLE_4: Industries
+SKILLS_DESC_4: Healthcare, Retail, E-commerce, Finance, Media
+
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Senior Project Manager
+COMPANY_SUMMARY_GLOBANT: A global IT consulting and software development firm specializing in AI and digital transformation solutions.
+COMPANY_BULLET_1_GLOBANT: Led cross-functional teams (30+ engineers) across multiple locations in delivering the Royal Caribbean Group Guest App, boosting onboard user engagement by 15%.
+COMPANY_BULLET_2_GLOBANT: Drove program performance and cost efficiency across client portfolios, including Dick's Sporting Goods, achieving a 40% boost in digital platform efficiency.
+COMPANY_BULLET_3_GLOBANT: Managed all aspects of the Banco de Chile Metaverse project, coordinating 100+ personnel, ensuring on-time delivery within budget, and meeting all regulatory compliance requirements.
+
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT:  A technology firm specializing in cloud-based solutions and data analytics for various sectors, including healthcare.
+COMPANY_BULLET_1_MANGOSOFT:  Delivered a voice-to-text solution for healthcare professionals in multiple clinics, reducing documentation time by 20% and improving patient care.
+COMPANY_BULLET_2_MANGOSOFT: Successfully migrated medical imaging systems to AWS for several hospitals, improving image access and reducing storage costs by 30%.
+COMPANY_BULLET_3_MANGOSOFT:  Led the development of a patient portal, improving patient engagement and enhancing communication with healthcare providers.
+
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology company providing innovative hardware and software solutions to various industries.
+COMPANY_BULLET_1_TIPI:  Managed the end-to-end development and deployment of 3,000 bodycams for the Colombian Police, improving public safety and crime prevention.
+COMPANY_BULLET_2_TIPI:  Successfully implemented a nurse call system in several clinics and hospitals, streamlining workflow and improving response times.
+COMPANY_BULLET_3_TIPI: Developed a patient flow tracking system, integrating with existing systems, improving operational efficiency within healthcare facilities.
+
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A software house specializing in POS systems for various businesses.
+COMPANY_BULLET_1_ITBIGBOSS: Led the development and deployment of a POS system for over 1,000 small businesses, increasing sales efficiency by 10%.
+COMPANY_BULLET_2_ITBIGBOSS: Successfully integrated various payment gateways and third-party applications, improving transaction processing and reducing errors.
+COMPANY_BULLET_3_ITBIGBOSS: Managed the complete SDLC for the POS system, ensuring timely releases and high-quality software.
+
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain with multiple locations across several countries.
+COMPANY_BULLET_1_BODYTECH: Implemented a new access control system across 60+ sites, enhancing security and improving operational efficiency.
+COMPANY_BULLET_2_BODYTECH: Led the development and implementation of a new CRM and billing system, improving customer satisfaction and streamlining billing processes.
+COMPANY_BULLET_3_BODYTECH: Managed the IT infrastructure, including networking, telephony, and security systems, ensuring high availability and reliability.

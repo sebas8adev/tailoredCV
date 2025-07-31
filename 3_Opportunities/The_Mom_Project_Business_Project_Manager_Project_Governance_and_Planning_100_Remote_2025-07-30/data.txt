@@ -1,0 +1,55 @@
+# Global Information
+HIRING_MANAGER: The Mom Project Hiring Team
+COMPANY_NAME: The Mom Project
+JOB_ROLE: Business Project Manager, Project Governance and Planning
+APPLICATION_DATE: July 3, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Business Project Manager, Project Governance and Planning
+CONTENT: Dear The Mom Project Hiring Team,<br><br>I am writing to express my strong interest in the Business Project Manager, Project Governance and Planning role advertised on LinkedIn. My extensive background in establishing robust project governance frameworks and leading strategic planning for complex, cross-functional initiatives aligns perfectly with the requirements for your client in the insurance sector.<br><br>With over 10 years of project management experience in demanding industries like finance and healthcare, I have a deep understanding of creating and implementing governance structures from the ground up. In previous roles, I have successfully designed tailored governance models, defined clear roles and escalation paths, and established KPI-driven reporting mechanisms to ensure full alignment with executive sponsors and organizational goals.<br><br>My expertise includes facilitating stakeholder workshops to define scope, developing end-to-end project plans with detailed timelines and resource allocations, and proactively managing risks. I am highly proficient with Jira and Agile methodologies, holding multiple certifications including SAFe Agilist and Advanced Certified ScrumMaster (A-CSM), which I have used to guide teams toward successful project execution and adherence to governance.<br><br>I am confident that my adaptive approach and experience in business operations can help drive the success of the Wellness and Claim Strategy initiatives. I am eager to discuss how my skills in project governance and strategic planning can bring value to your client.<br><br>Thank you for your time and consideration.<br><br>Sincerely,
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience delivering complex digital transformations for global companies in the finance, healthcare, and retail industries. Expert in designing and implementing project governance frameworks and strategic plans for large-scale initiatives. Strengths in Agile methodologies (SAFe, Scrum), executive reporting, and leading cross-functional teams to exceed business objectives.
+SKILLS_TITLE_1: Project & Governance Frameworks
+SKILLS_DESC_1: SAFe, Scrum, Kanban, Waterfall-Hybrid, Risk Management, Governance Modeling, Decision-Making Processes, Escalation Path Definition, Compliance Management.
+SKILLS_TITLE_2: Strategic & Operational Planning
+SKILLS_DESC_2: End-to-End Project Planning, Scope & Schedule Management, Budget & Resource Planning, KPI & OKR Definition, Quarterly Roadmapping, Business Operations.
+SKILLS_TITLE_3: Stakeholder & Team Leadership
+SKILLS_DESC_3: Executive Reporting (RAG), Stakeholder Engagement, Workshop Facilitation, Cross-Functional Team Leadership, Communication Planning, Vendor & Offshore Team Management.
+SKILLS_TITLE_4: Tools & Technologies
+SKILLS_DESC_4: Jira, Confluence, MS Teams, Slack, AWS, Google Cloud, AI Implementations (Chatbots, GenAI), SDLC, CI/CD, AEM, Salesforce.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native consulting firm leveraging AI and software development to help organizations reinvent their business and industry through innovative technology solutions.
+COMPANY_BULLET_1_GLOBANT: Led governance and planning for Royal Caribbean, defining KPIs and PI roadmaps, ensuring on-time delivery of features for guest-facing mobile applications.
+COMPANY_BULLET_2_GLOBANT: Drove a 40% performance improvement for Dick's Sporting Goods' e-commerce platform by leading the implementation of Core Web Vitals and agile ceremonies.
+COMPANY_BULLET_3_GLOBANT: Directed large-scale team staffing and implemented Scrum of Scrums for Banco de Chile, managing +100 engineers to deliver complex financial technology solutions.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm specializing in cloud services, big data, and custom applications for the media, sports, and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Managed end-to-end development of Concacaf’s media and streaming platform, defining project scope and delivering products from conception to production support.
+COMPANY_BULLET_2_MANGOSOFT: Implemented Scrum and project controls for healthcare clients, delivering critical integrations for medical imaging, improving clinical workflow efficiency and data access.
+COMPANY_BULLET_3_MANGOSOFT: Led proposal creation and team staffing for 10+ positions, securing new projects and establishing operational frameworks for successful delivery and client satisfaction.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology company creating integrated hardware and software solutions for public safety, law enforcement, and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Directed the full SDLC for a bodycam system for the Colombian Police, ensuring compliance with government contracts and deployment of 3,000+ units.
+COMPANY_BULLET_2_TIPI: Led project planning and implementation for a nurse call system across 10+ hospitals, improving patient care response times and communication speed.
+COMPANY_BULLET_3_TIPI: Managed both software development and operations support workflows, creating a robust framework for product releases, customer support, and system deployments.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering POS and business management software solutions tailored for restaurants, fitness, beauty, and health centers throughout Latin America.
+COMPANY_BULLET_1_ITBIGBOSS: Spearheaded the end-to-end SDLC for a SaaS POS product, leading to successful implementation and adoption by over 1,000 small businesses.
+COMPANY_BULLET_2_ITBIGBOSS: Managed technical integrations with biometrics and payment processors, expanding product functionality which increased market competitiveness for client businesses.
+COMPANY_BULLET_3_ITBIGBOSS: Led technical teams hands-on through coding and release cycles, establishing operational support workflows that improved system stability and customer satisfaction.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading chain of health and fitness centers in Latin America, focused on providing comprehensive wellness services and medical fitness training.
+COMPANY_BULLET_1_BODYTECH: Directed technology infrastructure expansion to over 60 sites across Colombia, Peru, and Chile, establishing a scalable platform for business growth.
+COMPANY_BULLET_2_BODYTECH: Led the implementation of Dynamics CRM and ERP systems, centralizing customer data and automating billing, which reduced data entry time.
+COMPANY_BULLET_3_BODYTECH: Established and managed the IT Service Desk, implementing support protocols that enhanced system uptime and improved the internal satisfaction score.

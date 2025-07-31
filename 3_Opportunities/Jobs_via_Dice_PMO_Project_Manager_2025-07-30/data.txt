@@ -1,0 +1,55 @@
+# Global Information
+HIRING_MANAGER: Sitek Hiring Team
+COMPANY_NAME: Sitek
+JOB_ROLE: PMO Project Manager
+APPLICATION_DATE: July 11, 2025
+
+# Cover Letter Content
+SUBJECT: Application for PMO Project Manager role at Cabinet of Health and Family Service
+CONTENT: Dear Sitek Hiring Team,<br><br>I am writing to express my keen interest in the PMO Project Manager position for the Cabinet of Health and Family Service, as advertised on LinkedIn. With over 10 years of experience in establishing project management methodologies, mentoring teams, and driving governance across complex programs, my background aligns perfectly with the requirements of this role.<br><br>In my role as Chief Scrum Master at Globant for Banco de Chile, I was directly responsible for creating a Scrum of Scrums framework, mentoring a team of five Scrum Masters, and defining the KPIs and reporting dashboards for a program involving over 100 engineers. This experience is directly transferable to establishing and enforcing the CHFS OATS methodology, training project managers, and ensuring program standards are met.<br><br>Furthermore, my experience at TIPI involved leading projects for the Colombian Police, where I managed the entire lifecycle under strict government contract regulations. This has equipped me with a deep understanding of compliance, auditing, and delivering results within a public sector context.<br><br>My expertise lies in blending Agile and traditional methodologies to fit organizational needs, enhancing PMO maturity, and using data analytics to drive continuous process improvement. I am confident that my skills in leadership, process definition, and executive communication will allow me to make a significant contribution to your team.<br><br>Thank you for your time and consideration. I have attached my CV for your review and welcome the opportunity to discuss my qualifications further.<br><br>Sincerely,<br><br>[Your Name]
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Management leader with 10+ years of experience defining PMO methodologies and delivering complex transformations across government, healthcare, and finance. Expert in mentoring project managers, establishing governance frameworks, and driving performance with data-driven KPIs. Skilled in Agile (SAFe, Scrum) and traditional methods, translating strategy into execution for large-scale programs.
+SKILLS_TITLE_1: PMO & Governance
+SKILLS_DESC_1: Methodology Development, Project Auditing, KPI Definition & Tracking, Process Improvement, Executive Dashboards, Stakeholder Management.
+SKILLS_TITLE_2: Project Management Methodologies
+SKILLS_DESC_2: SAFe, Scrum, Kanban, Scrum of Scrums, Waterfall, Hybrid Models.
+SKILLS_TITLE_3: Leadership & Mentoring
+SKILLS_DESC_3: Team Leadership (+100), Project Manager Coaching, Talent Development, Performance Management, Staffing & Onboarding.
+SKILLS_TITLE_4: Technical & Domain Acumen
+SKILLS_DESC_4: SDLC, Cloud (AWS, GCP), AI Integration, Data Analytics, Application Architecture, Healthcare, Finance, Government Contracts.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Technical Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company offering innovative technology solutions. Specializes in AI-powered software development and consulting to help organizations reinvent their businesses.
+COMPANY_BULLET_1_GLOBANT: Established a Scrum of Scrums framework for Banco de Chile, mentoring 5 Scrum Masters and leading +100 engineers to improve delivery predictability and governance.
+COMPANY_BULLET_2_GLOBANT: Drove a 40% performance improvement for Dick's Sporting Goods' e-commerce platform by implementing and tracking Core Web Vitals as key project KPIs.
+COMPANY_BULLET_3_GLOBANT: Led PI Planning and defined quarterly roadmaps for Royal Caribbean, translating C-level goals into actionable backlogs and ensuring alignment across three global teams.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development company building custom solutions with a focus on cloud services, big data, and media streaming for North American clients.
+COMPANY_BULLET_1_MANGOSOFT: Implemented Scrum methodologies for Concacaf, defining KPIs and processes that accelerated media delivery and improved stakeholder visibility into project progress and milestones.
+COMPANY_BULLET_2_MANGOSOFT: Directed the development of a voice-to-text application for healthcare clients, reducing documentation time for physicians by 60% through AWS AI services.
+COMPANY_BULLET_3_MANGOSOFT: Managed the full lifecycle of a healthcare imaging platform, enabling HL7 V2 integration and improving patient data access for multiple Colombian clinics.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology firm developing integrated hardware and software solutions, specializing in public safety bodycam systems and healthcare IoT devices for government and enterprises.
+COMPANY_BULLET_1_TIPI: Led the project lifecycle for the Colombian Police bodycam system, ensuring 100% compliance with strict government contract standards for over 3,000 deployed devices.
+COMPANY_BULLET_2_TIPI: Defined and managed the SDLC and operational workflows for a real-time hospital asset tracking solution, improving communication speed and equipment availability.
+COMPANY_BULLET_3_TIPI: Directed development of an Android-based firmware and management platform, establishing quality controls and release processes that ensured high system uptime and reliability.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering Point-of-Sale (POS) and business management software for over 1,000 small businesses across the retail and wellness industries in Latam.
+COMPANY_BULLET_1_ITBIGBOSS: Led the complete SDLC for a multi-tenant SaaS POS platform, introducing feature release cycles that increased customer retention by 25% year-over-year.
+COMPANY_BULLET_2_ITBIGBOSS: Established a standardized process for third-party system integrations, including payment processors and accounting apps, which reduced new client onboarding time by 50%.
+COMPANY_BULLET_3_ITBIGBOSS: Architected and oversaw the technical support workflow, improving the first-call resolution rate by 30% and maintaining high customer satisfaction scores.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading chain of health and fitness centers in Latin America, providing comprehensive wellness services to members across Colombia, Peru, and Chile.
+COMPANY_BULLET_1_BODYTECH: Directed technology operations and infrastructure deployment for 60+ new sites, establishing standardized processes for networking, security, and support services.
+COMPANY_BULLET_2_BODYTECH: Led the Microsoft Dynamics CRM implementation, defining business workflows that automated billing processes and improved member data management across the organization.
+COMPANY_BULLET_3_BODYTECH: Established the company's first IT Service Desk, implementing a ticketing system and support protocols that improved system uptime and ticket resolution rates.

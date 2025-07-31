@@ -1,0 +1,54 @@
+Status: processed
+Data-Status: complete
+Job board: LinkedIn
+Company Name: Fluidstack
+Role Name: Senior Data Center Project Manager
+Location: United States
+Type: Remote
+Salary range: Not specified
+Hiring Team: Not identified
+Application Instructions: See Job Post URL
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4278392672&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+Job Description:
+About the job
+About FluidStack
+
+Fluidstack is the AI Cloud Platform. We build GPU supercomputers for top AI labs, governments, and enterprises. Our customers include Mistral, Poolside, Black Forest Labs, Meta, and more.
+
+Our team is small, highly motivated, and focused on providing a world class supercomputing experience. We put our customers first in everything we do, working hard to not just win the sale, but to win repeated business and customer referrals.
+
+We hold ourselves and each other to high standards. We expect you to care deeply about the work you do, the products you build, and the experience our customers have in every interaction with us.
+
+You must work hard, take ownership from inception to delivery, and approach every problem with an open mind and a positive attitude. We value effectiveness, competence, and a growth mindset.
+
+About The Role
+
+The Senior Project Manager will drive the planning, budgeting and risk-management engine behind Fluidstack’s global data centers. Partnering with the Construction and Design teams, you will turn ambitious capacity targets into executable project plans and ensure every stakeholder stays aligned from kick-off to customer handover.
+
+Focus
+
+Build integrated schedules (Primavera P6, MS Project) covering design, procurement, construction and commissioning. 
+Own project budgets, cash-flow forecasts and change-order governance; report earned-value KPIs weekly. 
+Facilitate phase-gate and 30/60/90% design reviews; maintain RACI matrices and action logs. 
+Manage contract lifecycles - RFP, bid analysis, award, PCO tracking, close-out documentation. 
+Identify critical-path and long-lead risks (transformers, chillers, switchgear) and drive mitigation plans. 
+Act as a single source of truth for internal leadership and external partners; publish clear, concise status reports. 
+
+About You
+
+B.S/B.E/B.A degree in engineering discipline with preferred construction management qualification. 
+7+ years project-management experience in hyperscale data center, large industrial or infrastructure builds. 
+PMI-PMP, PRINCE2 or equivalent certification desirable. 
+Strong understanding of CSA and MEP construction phases, procurement workflows and cost controls. 
+Expert user of scheduling (P6/Project), cost (Procore, Ares, Excel) and collaboration (Smartsheet, Confluence) tools. 
+Excellent written and verbal communication; comfortable presenting to executives and trades alike. 
+Based at site location of data center construction from start to completion of the project. 
+
+Benefits
+
+Competitive total compensation package (salary + equity). 
+Retirement or pension plan, in line with local norms. 
+Health, dental, and vision insurance. 
+Generous PTO policy, in line with local norms. 
+Fluidstack is remote first, but has offices in key hubs. For all other locations, we provide access to WeWork.

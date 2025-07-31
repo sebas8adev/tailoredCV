@@ -1,0 +1,67 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: TekSynap
+JOB_ROLE: Technical Project Coordinator
+COMPANY_NAME: TekSynap
+APPLICATION_DATE: July 30, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Technical Project Coordinator at TekSynap
+CONTENT: <p>Dear Hiring Manager,</p><br>
+<p>I am writing to express my keen interest in the Technical Project Coordinator position at TekSynap, as advertised on LinkedIn.  With 10+ years of experience leading and delivering complex technology projects across diverse sectors including finance, healthcare, retail, and the public sector, I am confident I possess the adaptive skills and technical expertise to excel in this role and contribute significantly to your team's success.</p><br>
+<p>My background encompasses a blend of technical project management and hands-on engineering experience, aligning perfectly with the hybrid nature of this opportunity. I have a proven track record of successfully managing multiple concurrent projects, coordinating cross-functional teams, and consistently delivering projects on time and within budget. My experience spans various project management methodologies, including Agile (SAFe, Scrum, Kanban) and traditional approaches, allowing me to leverage the most effective methods for each project's unique needs.</p><br>
+<p>My expertise in network infrastructure, specifically LAN/WLAN deployments, coupled with my proficiency in project management software and tools like Microsoft Project and Jira, makes me an ideal candidate. I am also highly adept at managing stakeholder expectations and ensuring compliance with contract requirements.  My experience in managing projects for clients like Royal Caribbean Group and Dick's Sporting Goods has instilled in me a strong ability to navigate complex technical and logistical challenges with an eye towards exceeding client expectations.</p><br>
+<p>My technical skills include expertise in Cisco and Meraki equipment, experience with troubleshooting network connectivity issues, and a deep understanding of project management principles.  I am also adept at managing and coordinating field technicians, ensuring adherence to quality standards and timely completion of projects.</p><br>
+<p>I am eager to learn more about this exciting opportunity and discuss how my skills and experience can benefit TekSynap. Thank you for your time and consideration.</p><br>
+
+
+# CV Content
+CAREER_SUMMARY: Adaptive Technical Project Manager with 10+ years of experience leading global teams and delivering complex digital transformations across multiple industries. Expert in AI-driven solutions, cloud-based technologies, and system integrations, with a proven track record of improving performance and managing large-scale team allocation.  Proficient in Agile (SAFe, Scrum, Kanban) and traditional methodologies.
+SKILLS_TITLE_1: Project Management
+SKILLS_DESC_1: Agile (SAFe, Scrum, Kanban), Waterfall, Project Planning, Risk Management, Budget Management, Stakeholder Management,  Microsoft Project, Jira, Confluence
+SKILLS_TITLE_2: Network Engineering
+SKILLS_DESC_2: LAN/WLAN, Cisco, Meraki, Network Troubleshooting, Circuit Test & Turn-up (TTU), RF Surveys
+SKILLS_TITLE_3: Technology & Platforms
+SKILLS_DESC_3: AWS, GCP, Azure, AI Integration,  Data Migration,  Software Development (Java, .NET, Python, Angular, React),  Database Management (SQL Server, MySQL, MongoDB, PostgreSQL)
+SKILLS_TITLE_4:  Leadership & Communication
+SKILLS_DESC_4: Team Leadership, Cross-functional Collaboration, Technical Documentation,  Executive Reporting,  Client Communication
+
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Senior Project Manager
+COMPANY_SUMMARY_GLOBANT:  Globant is a large-scale, digitally native company that offers AI-driven software development and consulting services globally.
+COMPANY_BULLET_1_GLOBANT: Led technical project management and Scrum for Royal Caribbean Group's Guest App, achieving on-time delivery of features including an AI chatbot, improving guest experience.
+COMPANY_BULLET_2_GLOBANT: Drove a 40% improvement in eCommerce performance for Dick's Sporting Goods by optimizing Core Web Vitals using adaptive quarterly roadmaps and PI Planning.
+COMPANY_BULLET_3_GLOBANT:  Managed diverse teams (30-100+ engineers) across multiple projects for Banco de Chile, delivering a new Metaverse branch and enhancing mobile banking features.
+
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: Mango-Soft is a technology company specializing in software solutions.
+COMPANY_BULLET_1_MANGOSOFT:  Delivered Concacaf's app and media center using AWS cloud services, streamlining media management and improving user engagement.
+COMPANY_BULLET_2_MANGOSOFT: Implemented voice-to-text for healthcare professionals, improving efficiency and data accuracy across three major clinics.
+COMPANY_BULLET_3_MANGOSOFT: Integrated medical imaging data with AWS, resulting in a secure and efficient patient data visualization portal.
+
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: TIPI is a technology company.
+COMPANY_BULLET_1_TIPI: Led development and deployment of 3,000+ bodycams for the Colombian Police, implementing real-time video streaming and face recognition.
+COMPANY_BULLET_2_TIPI: Designed and deployed a Bluetooth nurse-call system across multiple clinics and hospitals in Colombia, improving patient care response times.
+COMPANY_BULLET_3_TIPI: Developed a patient flow tracking board, integrating with hospital systems and optimizing resource allocation.
+
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: IT Big Boss is a software house developing and delivering SaaS solutions for businesses.
+COMPANY_BULLET_1_ITBIGBOSS: Developed and deployed a POS system for over 1000 small businesses, improving sales transactions and inventory management.
+COMPANY_BULLET_2_ITBIGBOSS: Integrated various payment processing systems into the POS, streamlining operations and reducing transaction errors.
+COMPANY_BULLET_3_ITBIGBOSS:  Managed the full SDLC for the POS system, ensuring timely and efficient deployment.
+
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: Bodytech is a large fitness center chain in Latin America.
+COMPANY_BULLET_1_BODYTECH: Implemented a comprehensive access control system across 60+ sites, improving security and member management.
+COMPANY_BULLET_2_BODYTECH: Led the implementation and management of a CRM and billing system, improving customer retention and operational efficiency.
+COMPANY_BULLET_3_BODYTECH: Managed and optimized IT infrastructure across multiple locations, ensuring high system uptime and stability.

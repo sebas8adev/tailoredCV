@@ -1,0 +1,66 @@
+# Global Information
+HIRING_MANAGER: Ikechi Okonya
+COMPANY_NAME: Revolution Technologies
+JOB_ROLE: Business Project Manager – Project Governance & Planning
+COMPANY_NAME: Revolution Technologies
+APPLICATION_DATE: July 30, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Business Project Manager – Project Governance & Planning at Revolution Technologies
+CONTENT: <p>Dear Ikechi Okonya,</p><br>
+<p>I am writing to express my keen interest in the Business Project Manager – Project Governance & Planning position at Revolution Technologies, as advertised on LinkedIn.  My 10+ years of experience leading complex, global projects across diverse industries, including insurance, aligns perfectly with the requirements outlined in the job description.</p><br>
+<p>Throughout my career, I have consistently demonstrated the ability to design and implement robust project governance frameworks, develop comprehensive project plans, and effectively manage stakeholders at all levels. My expertise in Agile (SAFe, Scrum, Kanban) and traditional methodologies, coupled with my certifications (SAFe 6 Agilist, A-CSM, CSPO, Google Cloud Digital Leader), ensures adaptive and efficient project delivery.  I have a proven track record of successfully delivering projects within budget and on schedule, consistently exceeding client expectations.</p><br>
+<p>My experience with large-scale projects at Globant, including work with Royal Caribbean Group on their Guest App and Dick’s Sporting Goods on their ecommerce platform, showcases my ability to navigate complex, cross-functional teams and deliver impactful results.  My work at Mango-Soft in the healthcare sector further strengthens my qualifications, highlighting my experience in managing large data projects and implementing cloud-based solutions.  These experiences provided opportunities to build project governance frameworks and consistently deliver exceptional results, even under pressure and stringent timelines.</p><br>
+<p>I am confident in my ability to leverage my skills and experience to significantly contribute to Revolution Technologies' success. I am particularly adept at using data-driven insights to optimize project plans and achieve strategic objectives. My strong communication and stakeholder management skills allow me to create seamless collaborations and deliver transparent and effective reporting to executive stakeholders.  I am eager to learn more about this opportunity and discuss how my expertise can benefit your organization.</p><br>
+
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Management professional with 10+ years of experience leading global teams and delivering complex digital transformations across diverse industries, including insurance.  Expert in AI-driven solutions and large-scale staffing.
+SKILLS_TITLE_1: Project Governance & Planning
+SKILLS_DESC_1: Framework Design, Risk Management, Stakeholder Management, KPI Definition, Reporting Mechanisms.
+SKILLS_TITLE_2: Project Management Methodologies
+SKILLS_DESC_2: Agile (SAFe, Scrum, Kanban), Waterfall, PMP principles.
+SKILLS_TITLE_3: Technology & Platforms
+SKILLS_DESC_3: Cloud (AWS, GCP, Azure), AI Integration, Data Migration, Software Development (Full SDLC).
+SKILLS_TITLE_4: Business Acumen
+SKILLS_DESC_4:  Insurance, Finance, Healthcare, Retail, Travel/Hospitality, Media, Public Safety.
+
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Senior Project Manager
+COMPANY_SUMMARY_GLOBANT: A leading global technology services company providing AI-powered software development and consulting.
+COMPANY_BULLET_1_GLOBANT: Led development of Royal Caribbean's Guest App, delivering new features (AI Chatbot, onboard Wifi) on time and within budget.
+COMPANY_BULLET_2_GLOBANT: Improved Dick's Sporting Goods ecommerce performance by 40% through Core Web Vitals optimization and adaptive roadmaps.
+COMPANY_BULLET_3_GLOBANT: Managed program for Banco de Chile, successfully migrating their data center to GCP.
+
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A technology company specializing in Big Data, cloud services, and healthcare solutions.
+COMPANY_BULLET_1_MANGOSOFT: Delivered Concacaf app, integrating AWS services for live streaming and media management, resulting in improved user engagement.
+COMPANY_BULLET_2_MANGOSOFT: Implemented voice-to-text system for multiple healthcare clients, streamlining medical procedures and improving data entry efficiency.
+COMPANY_BULLET_3_MANGOSOFT:  Successfully migrated medical imaging data to AWS, leveraging DICOM standards and improving access and visualization for healthcare providers.
+
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology company specializing in hardware and software solutions for law enforcement and healthcare.
+COMPANY_BULLET_1_TIPI: Led development and deployment of bodycam system for Colombian Police, managing 3000+ devices across multiple cities.
+COMPANY_BULLET_2_TIPI: Designed and implemented a nurse/doctor call system across multiple Colombian clinics, improving response times and patient care.
+COMPANY_BULLET_3_TIPI:  Managed the end-to-end project delivery for a patient flow tracking board, integrated with existing hospital systems.
+
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A software house providing SaaS solutions and POS systems to small and medium businesses.
+COMPANY_BULLET_1_ITBIGBOSS: Developed and implemented a POS system for over 1000 clients in Latin America, improving sales and inventory management.
+COMPANY_BULLET_2_ITBIGBOSS: Led the development and implementation of integrations to support several external systems like barcodes, printers, and accounting apps.
+COMPANY_BULLET_3_ITBIGBOSS:  Successfully managed the software development lifecycle, resulting in improved product quality and reduced support issues.
+
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A large fitness center chain in Colombia, Peru and Chile.
+COMPANY_BULLET_1_BODYTECH: Implemented access control systems across 60+ locations, improving security and operational efficiency.
+COMPANY_BULLET_2_BODYTECH: Led the implementation of Dynamics CRM & ERP, streamlining business processes and improving data management.
+COMPANY_BULLET_3_BODYTECH: Managed the IT service desk, improving ticket resolution time and customer satisfaction.

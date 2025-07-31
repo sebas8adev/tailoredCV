@@ -290,6 +290,13 @@ NOTE: If the job description states "Senior Project Manager", please include the
 NOTE: Focus the experience on Health and Fitness Centers, ERP & CRM implementations, Technology Infrastucture, Operations, Support, Security, Platform.
 
 ADDITIONAL NOTES:
+- The HIRING_MANAGER field should be "Hiring Manager" when Not identified or if it's identified, the name of the Hiring Manager, without the name of the company.
+- The APPLICATION_DATE field should be "cardinal", example: July 30th, 2025.
+- The cover letter content does not include the final greetings nor the name, because that will be included via hard code on the template: 
+"Sincerely,
+<br>
+[Your Name]"
+- The cover letter 
 - I've seem that in previous outputs you have used "versatile...". I don't like that word, nor seasoned or proven. I'd prefer to use "adaptative" or something more agile or modern project management terms.
 - Sometimes the job description can use "jargon" or business words, so, try to keep a general language and identify when they are usign terms metaphorically or are real skills specifications.
 - Shore, shoreside regularly means: Development team working along locally or in the office.

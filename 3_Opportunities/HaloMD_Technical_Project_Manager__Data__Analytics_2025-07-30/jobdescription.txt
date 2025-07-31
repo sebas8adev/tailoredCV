@@ -1,5 +1,5 @@
-Status: pending
-Data-Status: pending
+Status: processed
+Data-Status: complete
 Job board: LinkedIn
 Company Name: HaloMD
 Role Name: Technical Project Manager - Data & Analytics

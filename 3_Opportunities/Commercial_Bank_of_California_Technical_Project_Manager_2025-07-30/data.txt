@@ -1,0 +1,67 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: Commercial Bank of California
+JOB_ROLE: Technical Project Manager
+COMPANY_NAME: Commercial Bank of California
+APPLICATION_DATE: July 30, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Technical Project Manager at Commercial Bank of California
+CONTENT: <p>Dear Hiring Manager,</p><br>
+<p>I am writing to express my keen interest in the Technical Project Manager position at Commercial Bank of California, as advertised on LinkedIn.  My 10+ years of experience leading complex technical projects across diverse sectors, including finance, healthcare, and retail, align perfectly with the requirements outlined in the job description.</p><br>
+<p>Throughout my career, I have consistently delivered successful projects within budget and on time, leveraging my expertise in Agile (SAFe, Scrum, Kanban) and traditional methodologies.  My experience encompasses the full project lifecycle, from initial concept and RFP response through deployment and post-launch optimization. I am highly proficient in managing cross-functional teams, integrating core banking systems with digital platforms (APIs, mobile apps, cloud-native services), and ensuring compliance with regulatory frameworks (FFIEC, GLBA, PCI-DSS).</p><br>
+<p>My background includes significant work with cloud platforms (AWS, GCP, Azure), API integration, microservices architecture, and CI/CD pipelines.  I have a proven track record of successfully managing large-scale projects, including those involving AI-driven solutions and substantial team allocation.  My experience with clients such as Royal Caribbean Group, Dick's Sporting Goods, and Banco de Chile demonstrates my ability to deliver impactful results within demanding environments.</p><br>
+<p>I am confident in my ability to seamlessly transition into this role and contribute significantly to Commercial Bank of California's continued success. My certifications in SAFe, Scrum, and Google Cloud, along with my strong technical foundation, position me as a highly adaptable and results-oriented Technical Project Manager.  I am eager to learn more about this opportunity and discuss how my skills and experience can benefit your organization.</p><br>
+<p>Thank you for your time and consideration.</p>
+
+
+# CV Content
+CAREER_SUMMARY: Adaptive Technical Project Manager with 10+ years of experience leading global teams and delivering complex digital transformations across diverse industries, including finance and retail.  Expert in AI-driven solutions, cloud technologies, and system integration, with a proven track record of improving performance and managing large-scale projects.
+SKILLS_TITLE_1: Agile Methodologies
+SKILLS_DESC_1: SAFe, Scrum, Kanban, Scrum of Scrums
+SKILLS_TITLE_2: Cloud & Integration
+SKILLS_DESC_2: AWS, GCP, Azure, APIs, Microservices, CI/CD, IaC
+SKILLS_TITLE_3: Project Management
+SKILLS_DESC_3:  Project Planning, Risk Management, Stakeholder Management, Budget Oversight,  OKRs, KPI Tracking, Resource Allocation
+SKILLS_TITLE_4: Technology Expertise
+SKILLS_DESC_4:  Software Development Lifecycle (SDLC),  Data Migration, AI Integration,  Regulatory Compliance (FFIEC, GLBA, PCI-DSS)
+
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Senior Project Manager
+COMPANY_SUMMARY_GLOBANT: A global IT consulting and software development company specializing in AI and digital transformation.
+COMPANY_BULLET_1_GLOBANT: Led technical project management and Scrum for Royal Caribbean Group's Guest App, boosting onboard wifi adoption by 20% and improving user satisfaction scores by 15%.
+COMPANY_BULLET_2_GLOBANT: Drove a 40% improvement in ecommerce performance for Dick's Sporting Goods through Core Web Vitals optimization and adaptive quarterly roadmaps.
+COMPANY_BULLET_3_GLOBANT: Managed over 100 engineers across multiple projects for Banco de Chile's Metaverse and app initiatives, delivering key features on time and under budget.
+
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT:  A mid-sized software development firm specializing in cloud services, Big Data and AI solutions for healthcare.
+COMPANY_BULLET_1_MANGOSOFT:  Successfully implemented AWS-based solutions for Concacaf's streaming services, resulting in a 30% increase in viewership and improved customer engagement.
+COMPANY_BULLET_2_MANGOSOFT:  Delivered a voice-to-text assisted surgery application for multiple clinics, improving procedural efficiency by 15% and reducing transcription errors.
+COMPANY_BULLET_3_MANGOSOFT: Managed the transfer of medical imaging data to AWS for several healthcare providers, enhancing data security and accessibility.
+
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology firm creating hardware and software solutions for various industries.
+COMPANY_BULLET_1_TIPI:  Led the development and deployment of over 3,000 bodycams for the Colombian Police, improving operational efficiency and enhancing evidence collection.
+COMPANY_BULLET_2_TIPI:  Successfully implemented a nurse-call system across multiple Colombian healthcare facilities, reducing response times by 20% and improving patient care.
+COMPANY_BULLET_3_TIPI: Managed the development and integration of tracking boards for patient flow in hospitals, streamlining operations and reducing delays.
+
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS:  A software house specializing in custom SaaS solutions for small businesses in Latin America.
+COMPANY_BULLET_1_ITBIGBOSS: Developed and deployed a POS system for over 1,000 businesses, improving sales tracking and inventory management capabilities.
+COMPANY_BULLET_2_ITBIGBOSS:  Successfully integrated multiple payment processing systems into the POS software, enhancing customer convenience and reducing transaction errors.
+COMPANY_BULLET_3_ITBIGBOSS: Streamlined software development lifecycles, resulting in faster time to market and reduced development costs.
+
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America.
+COMPANY_BULLET_1_BODYTECH: Implemented a new access control system across 60+ locations, improving security and member management.
+COMPANY_BULLET_2_BODYTECH: Led the implementation of a Dynamics CRM and ERP system, enhancing operational efficiency and customer relationship management.
+COMPANY_BULLET_3_BODYTECH: Managed and supported IT infrastructure, including networking, telephony, and security across multiple sites.

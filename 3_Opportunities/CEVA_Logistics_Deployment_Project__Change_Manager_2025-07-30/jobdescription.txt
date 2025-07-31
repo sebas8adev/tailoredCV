@@ -1,0 +1,41 @@
+Status: processed
+Data-Status: complete
+Job board: LinkedIn
+Company Name: CEVA Logistics
+Role Name: Deployment Project & Change Manager
+Location: United States
+Type: On-site
+Salary range: Not specified
+Hiring Team: Not identified
+Application Instructions: LinkedIn Easy Apply
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4273340647&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+Job Description:
+About the job
+YOUR ROLE
+As a Deployment Project & Change Manager, you will oversee and coordinate regional or configuration-based deployments of the Manhattan IT stack. You will manage execution timelines, ensure stakeholder engagement, and facilitate smooth transitions across all impacted operations.
+ WHAT ARE YOU GOING TO DO?
+Project Management & Execution
+Lead regional or configuration-type deployments of WMS/OMS systems across warehouse sites.
+Develop and execute project plans including scope, milestones, risk assessments, and resource allocation.
+Ensure adherence to deployment governance, documentation standards, and reporting structures.
+Maintain close alignment with overall Program Director to ensure consistency and integration.
+Change Management
+Own the change management strategy for assigned regions or site groups.
+Drive stakeholder engagement, change readiness assessments, and user adoption plans.
+Serve as the primary point of contact for on-site teams during implementation phases.
+Coordinate cross-functional change activities between Operations, IT, and Customer teams.
+Communication & Coordination
+Ensure consistent communication across all constituencies, including warehouse teams, IT, customer stakeholders, and senior leadership.
+Resolve issues and escalations, capturing lessons learned to enhance future deployments.
+Partner with Super User Team Managers and Implementation Engineers to support seamless execution.
+ WHAT WE ARE LOOKING FOR
+Education & Experience
+Bachelor’s degree in Supply Chain, Business, IT, or related field.
+7+ years of experience managing large-scale logistics technology deployments.
+Proven track record in deploying Manhattan WMS and OMS products in 3PL or enterprise environments.
+Skills & Competencies
+Strong knowledge of project management methodologies and tools (e.g., PMP, Agile, MS Project).
+Experience in change management frameworks (e.g., ADKAR, Prosci).
+Excellent communication and presentation skills, with the ability to engage across all organizational levels.
+Strong problem-solving abilities and a proactive mindset.

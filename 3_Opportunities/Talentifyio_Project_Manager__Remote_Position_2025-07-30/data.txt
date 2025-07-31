@@ -1,0 +1,62 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: Talentify.io
+JOB_ROLE: Project Manager - Remote Position
+COMPANY_NAME: Talentify.io
+APPLICATION_DATE: July 30, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Project Manager - Remote Position at Talentify.io
+CONTENT: <p>Dear Hiring Manager,</p><br>
+<p>I am writing to express my keen interest in the Project Manager - Remote Position advertised on LinkedIn.  With 10+ years of experience leading complex projects across diverse industries, including manufacturing-adjacent sectors like retail, e-commerce, and finance, I am confident my skills and experience align perfectly with Talentify.io's needs. </p><br>
+<p>My background includes successfully managing large-scale, globally distributed teams, utilizing both Agile (SAFe, Scrum, Kanban) and traditional project management methodologies.  I possess a proven ability to navigate complex technical landscapes, mitigate risks, and deliver projects on time and within budget.  My expertise extends to financial planning, reporting, and stakeholder management, ensuring alignment with business objectives.  I'm adept at leveraging AI-driven solutions to optimize project efficiency and outcomes. </p><br>
+<p>My experience with clients like Royal Caribbean, Dick's Sporting Goods, and Banco de Chile demonstrates my ability to manage projects of significant scale and complexity across various business functions. I have consistently delivered quantifiable results, including improvements in efficiency, performance, and cost-effectiveness.  I am particularly adept at navigating the challenges of managing large, geographically dispersed teams. My certifications, including SAFe Agilist, A-CSM, and Google Cloud Digital Leader, further demonstrate my commitment to excellence in project management.</p><br>
+<p>Relocated to the US and seeking a remote role, I am eager to leverage my adaptive project management expertise to contribute to Talentify.io's success.</p><br>
+<p>Thank you for your time and consideration. I have attached my resume for your review and welcome the opportunity to discuss my qualifications further.</p><br>
+
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading global teams and delivering complex digital transformations across diverse industries.  Expert in AI-driven solutions and large-scale staffing.  Proficient in Agile and traditional methodologies.
+SKILLS_TITLE_1: Project Management Methodologies
+SKILLS_DESC_1: SAFe, Scrum, Kanban, Waterfall
+SKILLS_TITLE_2: Technical Skills
+SKILLS_DESC_2: AI integration, Cloud (AWS, GCP, Azure), System Integrations, SDLC
+SKILLS_TITLE_3: Business Acumen
+SKILLS_DESC_3:  Cruise lines, Banking, E-commerce, Retail
+SKILLS_TITLE_4: Leadership & Management
+SKILLS_DESC_4:  Global team leadership, Risk management, Budget control, Stakeholder communication
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Senior Project Manager
+COMPANY_SUMMARY_GLOBANT: A leading global IT consulting and software development company specializing in AI and digital transformation solutions.
+COMPANY_BULLET_1_GLOBANT: Led program performance and cost efficiency for Royal Caribbean, achieving on-time delivery of features, including a Google AI chatbot, across multiple offshore teams.
+COMPANY_BULLET_2_GLOBANT: Drove a 40% performance improvement for Dick's Sporting Goods' ecommerce platform through adaptive quarterly roadmaps and PI Planning, exceeding Core Web Vitals targets.
+COMPANY_BULLET_3_GLOBANT: Managed the successful implementation of hybrid Scrum/Waterfall methodologies for Banco de Chile's Metaverse project, delivering key features on time and budget.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A technology solutions provider specializing in cloud services, Big Data, and healthcare applications.
+COMPANY_BULLET_1_MANGOSOFT: Implemented a voice-to-text solution for healthcare professionals, improving patient documentation efficiency by 25%.
+COMPANY_BULLET_2_MANGOSOFT:  Successfully migrated medical imaging data to AWS, optimizing data storage and retrieval for multiple clinics.
+COMPANY_BULLET_3_MANGOSOFT: Delivered a patient portal for image viewing and doctor's comments, improving patient access to information.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology company providing hardware and software solutions to law enforcement and healthcare clients.
+COMPANY_BULLET_1_TIPI: Led the development and deployment of over 3,000 bodycams for the Colombian Police, ensuring on-time delivery and compliance with government regulations.
+COMPANY_BULLET_2_TIPI:  Successfully implemented Bluetooth nurse-call systems in multiple hospitals and clinics, streamlining communications and improving response times.
+COMPANY_BULLET_3_TIPI: Designed and deployed a patient flow tracking board, enhancing workflow efficiency and reducing wait times.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A software house specializing in SaaS solutions for retail and hospitality businesses.
+COMPANY_BULLET_1_ITBIGBOSS: Developed and deployed a POS system for over 1,000 small businesses in Latin America, increasing sales efficiency and customer satisfaction.
+COMPANY_BULLET_2_ITBIGBOSS: Integrated various third-party systems into the POS platform, including biometric authentication and payment processing.
+COMPANY_BULLET_3_ITBIGBOSS: Managed the entire SDLC process for the POS software, ensuring high-quality and timely releases.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A large-scale fitness center chain in Colombia, Peru, and Chile.
+COMPANY_BULLET_1_BODYTECH:  Implemented and managed the IT infrastructure across 60+ locations, improving system uptime and operational efficiency.
+COMPANY_BULLET_2_BODYTECH: Led the implementation of a Dynamics CRM and ERP system, streamlining business processes and improving data management.
+COMPANY_BULLET_3_BODYTECH:  Successfully managed the IT service desk, enhancing support and resolving issues promptly.

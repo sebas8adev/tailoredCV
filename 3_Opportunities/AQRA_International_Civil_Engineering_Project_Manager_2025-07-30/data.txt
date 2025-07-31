@@ -1,0 +1,63 @@
+# Global Information
+HIRING_MANAGER: Jacob Marshall-Naef
+COMPANY_NAME: AQRA International
+JOB_ROLE: Civil Engineering Project Manager
+APPLICATION_DATE: July 26, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Project Manager roles in Florida
+CONTENT: Dear Jacob Marshall-Naef,
+<br><br>
+I am writing to express my strong interest in the Project Manager opportunities with top-tier firms in Florida, as posted by AQRA International on LinkedIn. While my background is in leading large-scale technology and digital transformation projects, the core competencies of leadership, coordination, and delivery described in your post align directly with my professional experience.
+<br><br>
+I am an adaptive Project Management professional with over 15 years of experience leading complex, large-scale digital and technology infrastructure projects across diverse industries including Finance, Healthcare, Retail, and Travel. My expertise lies in steering globally distributed teams of over 100 engineers, managing multi-million dollar budgets, and ensuring the on-time delivery of critical projects from conception to completion.
+<br><br>
+My strengths in strategic planning, risk management, C-level reporting, and agile execution have consistently resulted in improved performance, cost efficiency, and the successful achievement of business objectives. I am adept at managing the entire project lifecycle, from RFP analysis to hyper-care support.
+<br><br>
+I am confident that my extensive project management skills are highly transferable and would bring significant value to delivering critical infrastructure projects. I am eager to discuss how my leadership and execution capabilities can benefit your clients. Thank you for your time and consideration.
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Management professional with 15+ years of experience leading complex, large-scale digital and technology infrastructure projects. Expert in guiding global teams (+100) and delivering solutions across finance, retail, and healthcare, managing full project lifecycles, budgets, and executive reporting.
+SKILLS_TITLE_1: Project & Program Leadership
+SKILLS_DESC_1: End-to-end delivery of complex projects, leading distributed teams (+100), and managing multi-million dollar budgets and timelines.
+SKILLS_TITLE_2: Strategic Planning & Execution
+SKILLS_DESC_2: RFP analysis, quarterly/PI planning, roadmap execution, risk management, and C-level stakeholder reporting (OKRs, KPIs).
+SKILLS_TITLE_3: Methodologies & Frameworks
+SKILLS_DESC_3: Expert in Agile (SAFe, Scrum, Kanban), Waterfall, and hybrid models to optimize project flow and delivery.
+SKILLS_TITLE_4: Technical & Operational Acumen
+SKILLS_DESC_4: Management of full SDLC, cloud infrastructure (AWS/GCP), AI solutions, system integrations, and production support lifecycles.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Technical Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company offering innovative technology solutions. Focuses on AI-powered transformations and software development for global enterprise clients.
+COMPANY_BULLET_1_GLOBANT: Led program delivery for Royal Caribbean, launching AI chatbots and mobile apps, coordinating 3 cross-functional teams under fixed-price contracts.
+COMPANY_BULLET_2_GLOBANT: Drove a 40% performance boost for Dick's Sporting Goods' e-commerce platform by leading Core Web Vitals optimization and adaptive quarterly planning.
+COMPANY_BULLET_3_GLOBANT: Directed project lifecycle for Banco de Chile, from RFP to staffing 150+ engineers and implementing Scrum of Scrums for digital transformation.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A technology consulting firm delivering custom software solutions. Specializes in cloud services, big data, and media applications for the US market.
+COMPANY_BULLET_1_MANGOSOFT: Managed end-to-end delivery for Concacaf, launching streaming and media apps on AWS, improving fan engagement and media management capabilities.
+COMPANY_BULLET_2_MANGOSOFT: Delivered critical healthcare IT solutions, including voice-to-text and medical imaging integrations, improving clinical workflows for multiple hospitals.
+COMPANY_BULLET_3_MANGOSOFT: Directed project lifecycle from RFP and proposal creation to staffing, execution, and hyper-care support for all fixed-price contracts.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology company developing integrated hardware and software solutions for public safety, law enforcement, and healthcare sectors in Colombia.
+COMPANY_BULLET_1_TIPI: Led the development and deployment of an integrated bodycam solution for the Colombian Police, delivering over 3,000 devices with supporting software.
+COMPANY_BULLET_2_TIPI: Directed the end-to-end SDLC for hardware and software, managing project constraints and government contracts to ensure on-time, compliant delivery.
+COMPANY_BULLET_3_TIPI: Managed SaaS product implementation for 10+ hospitals, improving patient flow and nurse call systems through integrated technology solutions.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering POS and business management software. Supported over 1,000 small businesses in the retail and fitness industries across Latam.
+COMPANY_BULLET_1_ITBIGBOSS: Directed the full SDLC for a SaaS POS product, scaling the solution to support over 1,000 small businesses in Latam.
+COMPANY_BULLET_2_ITBIGBOSS: Led technical teams hands-on through coding and releases, managing integrations with biometrics, payment systems, and accounting software.
+COMPANY_BULLET_3_ITBIGBOSS: Established and managed operational support workflows, achieving high customer satisfaction and retention for a diverse small business client base.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, operating over 60 sites across Colombia, Peru, and Chile.
+COMPANY_BULLET_1_BODYTECH: Managed IT infrastructure and operations across 60+ sites in three countries, overseeing networking, service desk, and security implementations.
+COMPANY_BULLET_2_BODYTECH: Led the software development lifecycle for a custom CRM and billing system, directly improving member management and retention rates.
+COMPANY_BULLET_3_BODYTECH: Directed the corporate implementation of Microsoft Dynamics CRM & ERP, modernizing the company's core business management and operational platforms.

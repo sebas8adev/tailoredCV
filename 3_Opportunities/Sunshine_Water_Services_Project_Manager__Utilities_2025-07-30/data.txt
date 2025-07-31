@@ -1,0 +1,63 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: Sunshine Water Services
+JOB_ROLE: Project Manager - Utilities
+COMPANY_NAME: Sunshine Water Services
+APPLICATION_DATE: July 30, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Project Manager - Utilities at Sunshine Water Services
+CONTENT: <p>Dear Hiring Manager,</p><br>
+<p>I am writing to express my keen interest in the Project Manager - Utilities position at Sunshine Water Services, as advertised on LinkedIn.  With 10+ years of experience leading complex projects across diverse industries, including  Finance, Healthcare, Retail, Travel/Hospitality, Media, and Public Safety, I am confident I possess the adaptive project management skills and technical expertise to excel in this role and contribute significantly to your team's success.</p><br>
+<p>My background encompasses a broad range of project methodologies, including Agile (SAFe, Scrum, Kanban) and traditional approaches. I have consistently delivered projects on time and within budget, while fostering strong stakeholder relationships and exceeding client expectations. My experience with large-scale programs and portfolios, coupled with my deep understanding of project financial management, aligns perfectly with the requirements outlined in the job description.  Specific experience in managing projects for clients like Royal Caribbean Group and Dick's Sporting Goods demonstrates my ability to handle complex, large-scale endeavors in demanding environments.</p><br>
+<p>My technical proficiency extends to various technologies relevant to utility projects, including cloud platforms (AWS, GCP), data management, and AI integration.  I am adept at translating complex technical requirements into actionable plans, developing detailed project documentation, and ensuring seamless communication across all stakeholders. My certifications in SAFe, Scrum, and Google Cloud further solidify my capabilities. </p><br>
+<p>I am particularly drawn to Sunshine Water Services' commitment to delivering vital, safe, and reliable water and wastewater services. My adaptive approach to project management, combined with my proven ability to manage budgets, schedules, and resources effectively, will be invaluable in overseeing your construction projects from initiation to completion. I am eager to leverage my experience and skills to contribute to the continued success of Sunshine Water Services.</p><br>
+<p>Thank you for your time and consideration. I look forward to hearing from you soon.</p>
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading global teams and delivering complex digital transformations across various sectors.  Expert in AI-driven, cloud-based, and system integration solutions, with a proven track record of improving performance and managing large-scale team allocation.
+SKILLS_TITLE_1: Project Management Methodologies
+SKILLS_DESC_1: SAFe, Scrum, Kanban, Waterfall, Hybrid
+SKILLS_TITLE_2: Technology & Platforms
+SKILLS_DESC_2: AWS, GCP, Azure, Jira, Confluence, MS Project, AI Integration
+SKILLS_TITLE_3: Financial & Budget Management
+SKILLS_DESC_3: Forecasting, Budgeting, Cost Control, Resource Allocation
+SKILLS_TITLE_4: Stakeholder Management & Communication
+SKILLS_DESC_4: Reporting, Presentations, Conflict Resolution, Cross-functional Collaboration
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Senior Project Manager
+COMPANY_SUMMARY_GLOBANT: A leading global IT consulting and software development company leveraging AI for innovative solutions at scale.
+COMPANY_BULLET_1_GLOBANT: Led technical project management and Scrum for Royal Caribbean Group's Guest App, boosting onboard WiFi adoption by 20% and improving customer satisfaction scores.
+COMPANY_BULLET_2_GLOBANT:  Managed Dick's Sporting Goods' ecommerce platform project, resulting in a 40% increase in Core Web Vitals performance and improved conversion rates.
+COMPANY_BULLET_3_GLOBANT: Oversaw Banco de Chile's Metaverse branch project, successfully migrating their datacenter to GCP and streamlining internal processes.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A technology firm specializing in Big Data, cloud services, media, and healthcare solutions, delivering projects at a mid-market scale.
+COMPANY_BULLET_1_MANGOSOFT: Successfully implemented AWS-based cloud services for Concacaf and MLS teams' streaming applications, reducing latency issues by 15% and improving user experience.
+COMPANY_BULLET_2_MANGOSOFT:  Led the design and implementation of an AI-powered voice-to-text application for healthcare professionals, resulting in a 25% increase in documentation efficiency.
+COMPANY_BULLET_3_MANGOSOFT:  Managed the migration of medical images to AWS using DICOM, ensuring data integrity and improving access for healthcare providers.
+
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology firm specializing in custom software development with a focus on hardware + software solutions for the public and private sectors.
+COMPANY_BULLET_1_TIPI: Successfully managed the full SDLC for bodycam software for Colombian Police, deploying over 3,000 units and achieving 98% uptime for critical operations.
+COMPANY_BULLET_2_TIPI: Led the implementation of Bluetooth nurse-call systems across multiple Colombian hospitals, improving response times by an average of 10 minutes.
+COMPANY_BULLET_3_TIPI:  Developed and deployed a patient flow tracking system, improving efficiency and reducing patient wait times by 15%.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A software house providing SaaS solutions for diverse sectors including retail and hospitality, serving a mid-market client base.
+COMPANY_BULLET_1_ITBIGBOSS: Led development and deployment of a POS system for over 1000 clients across Latin America, increasing sales processing speed by 20%.
+COMPANY_BULLET_2_ITBIGBOSS:  Improved the scalability and reliability of the POS system via system architecture upgrades, reducing support tickets by 30%.
+COMPANY_BULLET_3_ITBIGBOSS: Managed the integration of various third-party payment processors into the POS system, improving sales and reducing transaction processing times.
+
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America focused on providing exceptional member experiences and high-quality services.
+COMPANY_BULLET_1_BODYTECH: Successfully implemented a new CRM system, improving member retention by 10% and streamlining operational workflows.
+COMPANY_BULLET_2_BODYTECH: Managed IT infrastructure across 60+ locations in three countries, ensuring high system uptime and secure data protection.
+COMPANY_BULLET_3_BODYTECH: Led the implementation of a new access control system utilizing biometrics, improving security and facility management.

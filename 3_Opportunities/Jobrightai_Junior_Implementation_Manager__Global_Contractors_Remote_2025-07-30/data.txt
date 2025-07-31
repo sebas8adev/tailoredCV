@@ -1,0 +1,55 @@
+# Global Information
+HIRING_MANAGER: Rippling Hiring Team
+COMPANY_NAME: Rippling
+JOB_ROLE: Junior Implementation Manager – Global Contractors
+APPLICATION_DATE: July 2, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Junior Implementation Manager – Global Contractors at Rippling
+CONTENT: Dear Rippling Hiring Team,<br><br>I am writing to express my keen interest in the Junior Implementation Manager – Global Contractors role, as advertised on LinkedIn. With a strong background in managing the end-to-end implementation of SaaS and software solutions, I am confident that my skills in project management, client partnership, and cross-functional collaboration align perfectly with the requirements of this position.<br><br>Throughout my 10+ years of experience, I have successfully partnered with clients across various industries to develop custom project plans, manage implementation processes, and drive the adoption of new technology platforms. My approach involves working closely with stakeholders to define clear objectives and ensure each milestone delivers tangible value, a practice that resonates with Rippling's commitment to customer success.<br><br>My experience includes:<br>- Leading end-to-end SaaS implementations, from initial planning and scoping to go-live and support.<br>- Collaborating with Product and Engineering teams to provide customer feedback and advocate for platform enhancements.<br>- Developing processes and best practices to improve operational efficiency and ensure seamless project hand-offs.<br><br>I am highly proficient in managing multiple projects simultaneously in fast-paced environments and am dedicated to fostering exceptional client relationships. I am eager to bring my adaptive project management skills and passion for technology to the Rippling team and contribute to your mission of unifying workforce management.<br><br>Thank you for considering my application. I look forward to the possibility of discussing how I can contribute to your team's success.<br><br>Sincerely,<br>
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading cross-functional teams in delivering complex software and SaaS implementations across diverse industries. Expert in full-cycle project management, from custom planning to driving user adoption, ensuring exceptional client experience and successful business outcomes. Skilled in Agile methodologies and collaborating with Sales, Product, and Engineering to enhance platform capabilities and streamline processes.
+SKILLS_TITLE_1: Implementation & Project Management
+SKILLS_DESC_1: Client Onboarding, Custom Implementation Planning, Project Scoping & Execution, End-to-End Project Lifecycles, Risk Management, KPI & OKR Tracking.
+SKILLS_TITLE_2: Client & Stakeholder Management
+SKILLS_DESC_2: Customer Experience (CX), C-Level Reporting, Cross-Functional Collaboration (Sales, Product, Engineering), User Adoption Strategy, Relationship Building.
+SKILLS_TITLE_3: Methodologies & Frameworks
+SKILLS_DESC_3: Agile, Scrum, Kanban, SAFe, Hybrid Waterfall, Project Management Professional (PMP) Practices.
+SKILLS_TITLE_4: Technical & Platform Acumen
+SKILLS_DESC_4: SaaS Implementation, HR & IT Systems (CRM, ERP), Cloud Platforms (AWS, GCP), Generative AI Solutions, API Integration, Data Migration.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company offering innovative technology solutions. Globant leverages AI and software development to help organizations reinvent themselves and unleash their potential.
+COMPANY_BULLET_1_GLOBANT: Partnered with Royal Caribbean to implement a new AI chatbot, managing the end-to-end project lifecycle and driving guest adoption for enhanced digital concierge services.
+COMPANY_BULLET_2_GLOBANT: Led portfolio programs for Dick's Sporting Goods, improving e-commerce platform performance by 40% through adaptive quarterly roadmaps and agile execution, boosting customer satisfaction.
+COMPANY_BULLET_3_GLOBANT: Developed and scaled delivery teams for Banco de Chile, staffing over 150 positions and implementing Scrum of Scrums to manage a 100+ person program.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm specializing in custom solutions for media and healthcare. Delivers cloud-based applications and big data services to drive client innovation.
+COMPANY_BULLET_1_MANGOSOFT: Managed the full implementation of a new media platform for Concacaf, from RFP to production support, increasing fan engagement through live streaming services.
+COMPANY_BULLET_2_MANGOSOFT: Directed the implementation of a voice-to-text SaaS product for healthcare clinics, seamlessly integrating with AWS to improve physician workflow and documentation accuracy.
+COMPANY_BULLET_3_MANGOSOFT: Orchestrated the development and rollout of an imaging integration solution, transferring medical data to AWS and improving patient data access for multiple clinics.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology provider of integrated hardware and software solutions for public safety and healthcare, focusing on IoT devices and data management platforms.
+COMPANY_BULLET_1_TIPI: Led the end-to-end implementation of a bodycam system for the Colombian Police, deploying over 3,000 devices and a SaaS management platform on-time.
+COMPANY_BULLET_2_TIPI: Drove the software development lifecycle for a custom SaaS platform, incorporating facial recognition and real-time streaming to enhance public safety operational capabilities.
+COMPANY_BULLET_3_TIPI: Implemented a SaaS patient-flow tracking system across 10+ hospitals, integrating with existing systems to reduce patient wait times and improve communication speed.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS company providing POS and management software for small businesses in the retail, fitness, and health sectors, serving over 1,000 clients.
+COMPANY_BULLET_1_ITBIGBOSS: Spearheaded the full software development lifecycle for a multi-tenant SaaS POS platform, growing the user base to over 1,000 small businesses across LATAM.
+COMPANY_BULLET_2_ITBIGBOSS: Managed product implementation for diverse clients, integrating with systems like biometrics and payment processors to automate billing and reduce data entry time.
+COMPANY_BULLET_3_ITBIGBOSS: Led technical and operations teams, establishing support workflows that improved customer satisfaction and retention rates for the company's core SaaS product line.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading chain of health and fitness centers in Latin America, committed to improving well-being through technology-driven services and corporate medical centers.
+COMPANY_BULLET_1_BODYTECH: Directed the implementation of Microsoft Dynamics CRM & ERP systems, streamlining billing and customer management to support expansion across 60+ locations in 3 countries.
+COMPANY_BULLET_2_BODYTECH: Managed the complete technology infrastructure lifecycle, including networking and security, ensuring 99.9% system uptime to support all fitness center operations.
+COMPANY_BULLET_3_BODYTECH: Established the IT Service Desk from the ground up, implementing support protocols that improved internal ticket resolution rates by 30% and employee satisfaction.

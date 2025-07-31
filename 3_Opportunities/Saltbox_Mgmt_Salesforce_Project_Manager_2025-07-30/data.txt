@@ -1,0 +1,56 @@
+# Global Information
+HIRING_MANAGER: Saltbox Mgmt Hiring Team
+COMPANY_NAME: Saltbox Mgmt
+JOB_ROLE: Salesforce Project Manager
+COMPANY_NAME: Saltbox Mgmt
+APPLICATION_DATE: May 22, 2024
+
+# Cover Letter Content
+SUBJECT: Application for Salesforce Project Manager at Saltbox Mgmt
+CONTENT: Dear Saltbox Mgmt Hiring Team,<br><br>I am writing to express my keen interest in the Salesforce Project Manager position at Saltbox Mgmt, which I discovered on LinkedIn. Your company's focus on integrating Salesforce to enhance B2B customer buying experiences aligns perfectly with my professional expertise and career goals.<br><br>In my role at Globant, I led an end-to-end implementation of Salesforce for a major client, Abastible, focusing on Sales Cloud, Commerce Cloud, and Marketing Cloud. This project involved managing a cross-functional team of over 20 professionals to streamline their sales processes and partner distribution channels, which directly reflects the core responsibilities of this role.<br><br>With over 10 years of project management experience, I have a strong command of both Agile and Waterfall methodologies. I am an expert in using tools like Jira to manage project scope, schedule, and budget meticulously. My background includes leading teams to deliver complex digital solutions for clients in retail, travel, and finance, always ensuring transparent communication and strong relationships with client stakeholders.<br><br>I am confident that my adaptive approach to project management, combined with my direct experience delivering Salesforce solutions and leading high-performing teams, makes me an excellent candidate for this role. I am excited by the opportunity to contribute to an emerging Salesforce partner and help drive the success of your clients.<br><br>Thank you for your time and consideration. I look forward to discussing how my skills and experience can benefit Saltbox Mgmt.<br><br>Sincerely,<br><br>Andres Jimenez
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading complex Salesforce and digital solution delivery for B2B clients. Expert in managing the full project lifecycle using Agile and Waterfall methodologies, from initial design and planning in Jira to final launch. Skilled in client stakeholder management, risk mitigation, and ensuring projects meet scope, schedule, and budget targets.
+SKILLS_TITLE_1: Salesforce Platforms & CRM
+SKILLS_DESC_1: Salesforce Implementation (Sales, Commerce, Marketing Cloud), CRM Strategy, B2B Commerce, CPQ Concepts, End-to-End Project Delivery.
+SKILLS_TITLE_2: Project Management & Methodologies
+SKILLS_DESC_2: Agile (SAFe, Scrum, Kanban), Waterfall, Hybrid Models, Scope, Budget & Schedule Management, Risk Mitigation, Resource Forecasting.
+SKILLS_TITLE_3: Tools & Technical Acumen
+SKILLS_DESC_3: Jira, Confluence, MS Office Suite, G-Suite, Cloud Platforms (AWS, GCP), SDLC, API Integration, AI-driven Solutions.
+SKILLS_TITLE_4: Leadership & Client Management
+SKILLS_DESC_4: Stakeholder Relations, Executive Reporting (RAG), Team Leadership & Coaching, RFP & Proposal Development, Cross-Functional Team Organization.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company leveraging AI and innovative technologies to reinvent businesses and deliver profound software solutions for global enterprise clients.
+COMPANY_BULLET_1_GLOBANT: Led end-to-end Salesforce implementation (Sales, Commerce, Marketing Cloud) for Abastible, managing a 20+ person team to streamline sales and partner operations.
+COMPANY_BULLET_2_GLOBANT: Drove program performance and cost efficiency across client portfolios, including Dick's Sporting Goods, achieving a 40% boost in digital platform efficiency.
+COMPANY_BULLET_3_GLOBANT: Managed delivery for a Royal Caribbean AI chatbot, improving guest service response times and enabling tailored in-app advertising for millions of users.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm specializing in cloud-based solutions, media services, and big data applications for clients in sports and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Directed a fixed-price project for Concacaf, launching media and streaming services on AWS that delivered live match data to a global audience.
+COMPANY_BULLET_2_MANGOSOFT: Managed the development of a voice-to-text application for healthcare clients, improving physician efficiency by automating procedure notes with AWS Polly.
+COMPANY_BULLET_3_MANGOSOFT: Oversaw a project integrating medical imaging devices with AWS cloud, ensuring secure DICOM data transfer and enabling remote visualization for clinical teams.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: An engineering company developing integrated hardware and software solutions, including IoT devices and management platforms for public safety and healthcare organizations.
+COMPANY_BULLET_1_TIPI: Led the full SDLC for a bodycam system for the Colombian Police, deploying over 3,000 devices and improving officer accountability and evidence collection.
+COMPANY_BULLET_2_TIPI: Delivered a SaaS-based nurse call system to 10+ hospitals, integrating Bluetooth and RFID devices to reduce patient wait times and improve communication speed.
+COMPANY_BULLET_3_TIPI: Defined project constraints and led operations for government contracts, ensuring on-time delivery and support for critical public safety technology under strict regulation.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager & Co-founder
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS company providing POS and business management software for over 1,000 small businesses in the retail, fitness, and health sectors.
+COMPANY_BULLET_1_ITBIGBOSS: Engineered and managed the SDLC for a flagship SaaS POS product, driving adoption by over 1,000 SMBs across Latam through targeted features.
+COMPANY_BULLET_2_ITBIGBOSS: Led integrations with biometrics, payment processors, and accounting apps, automating billing and sales processes which reduced clients' manual data entry time.
+COMPANY_BULLET_3_ITBIGBOSS: Directed technical and operational teams, providing hands-on coding, release management, and customer support to ensure high system uptime and client retention.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading chain of health and fitness centers across Latin America, providing comprehensive wellness services to a large member base in multiple countries.
+COMPANY_BULLET_1_BODYTECH: Managed the implementation of Microsoft Dynamics CRM & ERP systems across 60+ sites, unifying member data and streamlining billing operations for thousands of members.
+COMPANY_BULLET_2_BODYTECH: Led the IT service desk implementation, establishing support protocols that improved system uptime and enhanced technology satisfaction scores for staff and members.
+COMPANY_BULLET_3_BODYTECH: Directed infrastructure expansion into new regions, managing networking, security, and IP telephony, enabling the company to scale operations into Peru and Chile.

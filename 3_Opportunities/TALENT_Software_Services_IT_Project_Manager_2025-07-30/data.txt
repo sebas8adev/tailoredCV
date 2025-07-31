@@ -1,0 +1,55 @@
+# Global Information
+HIRING_MANAGER: Hiring Team
+COMPANY_NAME: TALENT Software Services
+JOB_ROLE: IT Project Manager
+APPLICATION_DATE: July 2, 2025
+
+# Cover Letter Content
+SUBJECT: Application for IT Project Manager at TALENT Software Services
+CONTENT: Dear TALENT Software Services Hiring Team,<br><br>I am writing to express my strong interest in the IT Project Manager position advertised on LinkedIn. With over 10 years of experience directing a wide range of IT projects, including broad infrastructure initiatives, cloud migrations, and application development, my background aligns perfectly with the qualifications you are seeking.<br><br>Throughout my career, I have successfully led multiple medium-sized projects simultaneously, overseeing the full lifecycle from definition and planning to on-time, on-budget delivery. My experience includes direct management of project financials, comprehensive risk mitigation using risk registers, and building strong relationships with enterprise stakeholders, including regular communication and presentations to executive leadership.<br><br>Key highlights of my qualifications include:<br><br>- **Broad IT & Infrastructure Experience:** I have managed projects involving datacenter migrations to the cloud (GCP, AWS), network and security implementations for 60+ sites, and the deployment of integrated hardware/software solutions.<br><br>- **Cloud & Application Projects:** I have led teams in moving applications to the cloud and managed the SDLC for various SaaS, mobile, and web applications, including projects in the healthcare sector.<br><br>- **Financial & Risk Management:** I am adept at budgetary oversight, resource planning, and proactively identifying and mitigating project risks in collaboration with security and compliance teams (ISRM).<br><br>My adaptive approach to project management allows me to tailor methodologies to fit project needs, ensuring high-quality outcomes and a customer-first focus. I am confident that my skills in project leadership, executive communication, and technical oversight would make me a valuable asset to your client.<br><br>Thank you for your time and consideration. I have attached my resume for your review and look forward to discussing this opportunity further.<br><br>Sincerely,<br>Andres Jimenez
+
+# CV Content
+CAREER_SUMMARY: Adaptive IT Project Manager with 10+ years of experience leading complex infrastructure, cloud migration, and application development projects across industries including Healthcare. Expert in financial oversight, risk mitigation, and enterprise-wide stakeholder engagement. Skilled in hybrid methodologies to deliver projects on time and within budget, with a focus on security and operational excellence.
+SKILLS_TITLE_1: Project & Financial Management
+SKILLS_DESC_1: Project Lifecycle Management, Budgetary Oversight, Financial Reporting, Resource Planning, Staffing, Vendor Management, PMP/PMI Practices.
+SKILLS_TITLE_2: IT Infrastructure & Cloud Technologies
+SKILLS_DESC_2: Cloud Migration (AWS, GCP), Datacenter Operations, Application Development (SDLC), Cybersecurity, SaaS, IaaS, PaaS, System Integration.
+SKILLS_TITLE_3: Risk & Stakeholder Management
+SKILLS_DESC_3: Executive Reporting (C-Level), Risk Mitigation & Register Management, Stakeholder Engagement, Cross-Functional Leadership, Strategic Communications.
+SKILLS_TITLE_4: Agile & Traditional Methodologies
+SKILLS_DESC_4: SAFe, Scrum, Kanban, Scrum of Scrums, Waterfall, Hybrid Models, Jira, Confluence, Asana, MS Teams.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT:IT Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native consulting company focused on reinventing businesses through innovative technology solutions, specializing in AI-driven software development and large-scale digital transformation.
+COMPANY_BULLET_1_GLOBANT: Led a portfolio of technology projects for Royal Caribbean, including an AI chatbot and cloud-based guest apps, ensuring on-time delivery for cross-functional teams.
+COMPANY_BULLET_2_GLOBANT: Managed project financials and mitigated risks for Dick's Sporting Goods' e-commerce platform, improving web performance by 40% through adaptive quarterly roadmaps.
+COMPANY_BULLET_3_GLOBANT: Directed a major datacenter migration to GCP for Banco de Chile, overseeing a team of 100+ and ensuring secure, compliant delivery of data platforms.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm delivering custom technology solutions for media, sports, and healthcare sectors, specializing in cloud services, big data, and mobile applications.
+COMPANY_BULLET_1_MANGOSOFT: Managed delivery of AWS cloud-based streaming services for Concacaf, integrating multiple data sources and ensuring high availability for live global media events.
+COMPANY_BULLET_2_MANGOSOFT: Oversaw the full project lifecycle for healthcare clients, implementing AWS-based voice-to-text and medical imaging solutions, improving physician workflow and data accessibility.
+COMPANY_BULLET_3_MANGOSOFT: Led project planning, budgeting, and resource staffing for 10+ person teams, consistently delivering fixed-price projects on time and establishing long-term support protocols.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI:Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology company developing integrated hardware and software solutions, including IoT devices and management platforms for public safety, law enforcement, and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Led the end-to-end SDLC for a bodycam solution for the Colombian Police, including firmware, cloud management software, and secure data handling protocols.
+COMPANY_BULLET_2_TIPI: Managed deployment and operations for over 3,000 bodycams, establishing infrastructure and workflows that ensured 99% system uptime and data integrity under strict regulation.
+COMPANY_BULLET_3_TIPI: Delivered a SaaS nurse call system for multiple hospitals, integrating RFID/Bluetooth hardware to improve asset tracking and cut patient response times by 30%.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider developing comprehensive POS and business management software for small to medium-sized businesses in the restaurant, fitness, and retail industries.
+COMPANY_BULLET_1_ITBIGBOSS: Directed the full SDLC for a SaaS POS platform, leading a 30-person team and driving adoption for over 1,000 businesses across Latin America.
+COMPANY_BULLET_2_ITBIGBOSS: Engineered complex system integrations for payment processing, biometrics, and accounting software, enhancing product functionality and expanding market reach for the POS solution.
+COMPANY_BULLET_3_ITBIGBOSS: Led technical operations and support workflows, defining processes that reduced ticket resolution time by 25% and ensured high system reliability for all users.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH:IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, focused on providing wellness services supported by a robust internal technology and operations platform.
+COMPANY_BULLET_1_BODYTECH: Managed technology infrastructure for 60+ sites, overseeing networking, security access control, CCTV, and service desk operations to ensure 99.9% business continuity.
+COMPANY_BULLET_2_BODYTECH: Led the technical implementation of Microsoft Dynamics CRM & ERP systems, managing the full project lifecycle to centralize billing and member management operations.
+COMPANY_BULLET_3_BODYTECH: Directed the SDLC for proprietary CRM and billing software, which automated recurring payments and contributed to a 15% increase in member retention.

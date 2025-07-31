@@ -1,0 +1,55 @@
+# Global Information
+HIRING_MANAGER: Roshan
+COMPANY_NAME: TEKsystems
+JOB_ROLE: Senior Life Insurance Project Manager Consultant
+APPLICATION_DATE: July 30th, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Senior Life Insurance Project Manager Consultant at TEKsystems
+CONTENT: Dear Roshan,<br><br>I am writing to express my strong interest in the Senior Life Insurance Project Manager Consultant role I found on LinkedIn. With over 10 years of experience leading large-scale technology transformations in complex, regulated industries such as Finance and Healthcare, I am confident I possess the expertise required to guide your client through their critical core platform evaluation and selection process.<br><br>My career has been centered on managing the precise activities this role entails. I have a substantial track record of leading end-to-end RFI/RFP cycles, orchestrating vendor evaluations, developing comprehensive business cases, and presenting clear, data-driven recommendations to executive leadership. For instance, I spearheaded a financial institution's core systems modernization and led the full lifecycle of a Microsoft Dynamics CRM & ERP implementation, from system selection to enterprise-wide adoption.<br><br>While my direct experience is in adjacent industries, the methodology for successful platform transformation is universal and a core strength of mine. I excel at translating complex business needs into technical criteria and fostering alignment between business, IT, and vendor stakeholders. My adaptive approach, leveraging both Agile and Waterfall frameworks, combined with my experience working with small to mid-sized companies, aligns perfectly with the preferred skills for this engagement.<br><br>I am eager to discuss how my experience in driving major technology decisions can ensure a successful outcome for your client's platform selection initiative. Thank you for your time and consideration.
+
+# CV Content
+CAREER_SUMMARY: Adaptive Senior Project Manager with 10+ years leading platform evaluations and digital transformations in regulated industries like Finance and Healthcare. Expert in full-cycle project management (RFP to implementation), vendor analysis, and executive reporting. Skilled in Agile (SAFe, Scrum) and Waterfall methodologies to drive core system modernization.
+SKILLS_TITLE_1: Project & Platform Management
+SKILLS_DESC_1: Platform Evaluation & Selection, RFI/RFP Management, Vendor Engagement, Business Case Development, Executive Reporting, Transformation Roadmapping, Risk Management.
+SKILLS_TITLE_2: Methodologies & Frameworks
+SKILLS_DESC_2: SAFe 6, Scrum, Kanban, Scrum of Scrums, Waterfall, Hybrid Models.
+SKILLS_TITLE_3: Industry & Domain Expertise
+SKILLS_DESC_3: Financial Services, Healthcare Technology, E-commerce & Retail, Travel & Hospitality, Public Safety, SaaS Platforms.
+SKILLS_TITLE_4: Tools & Technologies
+SKILLS_DESC_4: Jira, Confluence, MS Teams, Slack, AWS, GCP, Salesforce CRM, Dynamics CRM, AI/GenAI Solutions.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Senior Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company offering innovative technology solutions, focusing on AI-powered software development and consulting to reinvent industries and drive client transformation.
+COMPANY_BULLET_1_GLOBANT: Spearheaded a financial institution's core systems modernization, including a data center migration to GCP, leading to enhanced data capabilities and operational efficiency.
+COMPANY_BULLET_2_GLOBANT: Directed RFP analysis and proposal creation for complex technology initiatives, securing key contracts and aligning solutions with executive-level strategic goals for multiple clients.
+COMPANY_BULLET_3_GLOBANT: Managed portfolios for clients like Royal Caribbean, leading global teams of over 100 to deliver AI chatbots and enhance digital guest experience platforms.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm specializing in cloud-native solutions and custom applications for the media, sports, and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Led end-to-end product delivery for Concacaf, from RFP and proposal to the successful implementation of AWS-based media streaming platforms for millions of users.
+COMPANY_BULLET_2_MANGOSOFT: Orchestrated the development of an AWS Polly voice-to-text application for healthcare, improving clinical documentation efficiency and accuracy for multiple hospital clients.
+COMPANY_BULLET_3_MANGOSOFT: Defined and staffed technical teams, implementing Scrum methodologies to deliver complex data integration and visualization tools on time and within fixed-price budgets.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology company delivering integrated hardware-software solutions, including IoT devices and management platforms for public safety and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Directed the project lifecycle for a law enforcement bodycam solution under a government contract, ensuring strict compliance and the successful deployment of 3,000+ devices.
+COMPANY_BULLET_2_TIPI: Engineered the integration of custom RFID devices with hospital management systems, enhancing asset tracking and improving patient-to-staff communication speed.
+COMPANY_BULLET_3_TIPI: Led development teams hands-on, managing the SDLC for embedded firmware and web applications to deliver a cohesive, end-to-end technology platform for clients.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering a comprehensive POS and business management platform for small and medium-sized businesses in the retail and service industries.
+COMPANY_BULLET_1_ITBIGBOSS: Architected and led the SDLC for a SaaS POS platform, successfully implementing the solution for over 1,000 small businesses across Latin America.
+COMPANY_BULLET_2_ITBIGBOSS: Managed complex third-party integrations, including payment processors, accounting software, and biometric hardware, creating a versatile and scalable core business system.
+COMPANY_BULLET_3_ITBIGBOSS: Drove product adoption and customer retention by continuously enhancing the core platform's features, directly contributing to the company's growth and market position.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, operating over 60 sites across multiple countries with a focus on member experience technology.
+COMPANY_BULLET_1_BODYTECH: Led the company-wide implementation of Microsoft Dynamics CRM & ERP, managing the full lifecycle from system selection and vendor negotiation to deployment and adoption.
+COMPANY_BULLET_2_BODYTECH: Managed the technology infrastructure and IT service desk across 60+ locations in three countries, achieving high system uptime and improving operational support.
+COMPANY_BULLET_3_BODYTECH: Directed the SDLC for the company’s proprietary CRM and billing software, which automated billing processes and significantly improved member data management.

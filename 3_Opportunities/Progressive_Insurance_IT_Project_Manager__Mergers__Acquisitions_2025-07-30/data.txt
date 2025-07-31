@@ -1,0 +1,55 @@
+# Global Information
+HIRING_MANAGER: Progressive Hiring Team
+COMPANY_NAME: Progressive Insurance
+JOB_ROLE: IT Project Manager - Mergers & Acquisitions
+APPLICATION_DATE: July 22, 2025
+
+# Cover Letter Content
+SUBJECT: Application for IT Project Manager - Mergers & Acquisitions at Progressive Insurance
+CONTENT: Dear Progressive Hiring Team,<br><br>I am writing to express my strong interest in the IT Project Manager - Mergers & Acquisitions position at Progressive Insurance, as advertised on LinkedIn. With over 10 years of experience leading complex, multi-platform enterprise projects, my background in driving large-scale system integrations and aligning cross-functional teams for strategic growth initiatives aligns perfectly with the requirements of this role.<br><br>Throughout my career, I have successfully managed the integration of new technologies, processes, and teams for clients like Royal Caribbean and Banco de Chile, mirroring the complexities of post-acquisition environments. I have a comprehensive understanding of various delivery methodologies, including Agile, Lean, and Hybrid models, which I have used to ensure projects align with scope, cost, and schedule while navigating evolving demands and tight timelines.<br><br>My expertise in stakeholder communication, from C-level executives to technical teams, and my ability to foster a collaborative culture to drive seamless transitions, make me a strong candidate to contribute to Progressive's acquisition-led growth. I am confident I have the leadership skills and strategic focus necessary to deliver value on your key M&A initiatives.<br><br>Thank you for your time and consideration. I look forward to discussing how my experience can benefit Progressive Insurance.<br><br>Sincerely,<br><br>Andres Jimenez
+
+# CV Content
+CAREER_SUMMARY: Adaptive IT Project Manager with 10+ years of experience leading complex enterprise projects and large-scale digital transformations. Expert in driving acquisition-led growth through the seamless integration of systems, processes, and cross-functional teams across global enterprises. Skilled in Agile, Lean, and Hybrid methodologies to deliver strategic initiatives and report to executive leadership.
+SKILLS_TITLE_1: Project & Portfolio Management
+SKILLS_DESC_1: Strategic Planning, Enterprise Project Leadership, Budget & Cost Control, Risk Management, Executive Reporting (RAG Status), KPI & OKR Tracking, RFP Analysis.
+SKILLS_TITLE_2: M&A & Systems Integration
+SKILLS_DESC_2: Technology & Process Integration, Due Diligence Support, Stakeholder Management, Cross-Functional Team Alignment, Change Management, Cultural Integration.
+SKILLS_TITLE_3: Agile & Lean Methodologies
+SKILLS_DESC_3: SAFe, Scrum, Kanban, Scrum of Scrums, Lean Principles, Hybrid & Waterfall Models, Continuous Improvement, PI Planning.
+SKILLS_TITLE_4: Technologies & Platforms
+SKILLS_DESC_4: Cloud (AWS, GCP), AI/Generative AI, SDLC, CI/CD, Jira, Confluence, AEM, Salesforce, ERP/CRM, Data Migration.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Technical Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company offering innovative technology solutions. Focuses on AI-powered software development and consulting to help organizations reinvent their industries and scale.
+COMPANY_BULLET_1_GLOBANT: Led large-scale system integrations for Royal Caribbean, launching AI chatbots and digital services, enhancing guest experience and driving ancillary onboard revenue.
+COMPANY_BULLET_2_GLOBANT: Managed portfolio for Dick's Sporting Goods, improving e-commerce platform performance by 40% through adaptive quarterly roadmaps and Core Web Vitals initiatives.
+COMPANY_BULLET_3_GLOBANT: Directed a 150-person team for Banco de Chile's datacenter migration to GCP, ensuring seamless transition and alignment with strategic technology goals.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A technology consultancy specializing in custom software, cloud services, and big data solutions for the media, sports, and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Delivered a media platform for Concacaf using AWS services, enabling live streaming and fan engagement for major championships across the region.
+COMPANY_BULLET_2_MANGOSOFT: Oversaw development of an AWS Polly-based voice-to-text application, improving clinical documentation efficiency and accuracy for healthcare professionals at multiple clinics.
+COMPANY_BULLET_3_MANGOSOFT: Spearheaded integration of medical imaging data (DICOM) to AWS for multiple hospitals, improving physician access to critical patient information and diagnoses.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: Provider of integrated hardware and software solutions, specializing in IoT, real-time data, and custom applications for public safety and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Led end-to-end delivery of an integrated bodycam/software solution for the Colombian Police, deploying 3,000+ devices to improve officer and public safety.
+COMPANY_BULLET_2_TIPI: Managed full SDLC for a SaaS-based nurse call system, implemented across 10+ hospitals to reduce patient wait times and improve care coordination.
+COMPANY_BULLET_3_TIPI: Directed system integrations with hospital patient data systems using HL7 V2, enabling real-time surgery tracking and enhancing operational visibility.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider developing point-of-sale (POS) and business management software tailored for small and medium-sized businesses in retail and fitness.
+COMPANY_BULLET_1_ITBIGBOSS: Led the full SDLC for a SaaS POS product, scaling the platform to support over 1,000 small businesses across Latin America.
+COMPANY_BULLET_2_ITBIGBOSS: Engineered complex integrations with third-party accounting, payment, and biometric systems, creating a unified and automated business management solution for clients.
+COMPANY_BULLET_3_ITBIGBOSS: Drove product adoption by delivering customized solutions for fitness centers, increasing member retention and streamlining billing and access control operations.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading chain of health and fitness centers across Latin America, committed to promoting wellness through medical and athletic services.
+COMPANY_BULLET_1_BODYTECH: Managed the full technology infrastructure lifecycle across 60+ sites in three countries, ensuring high system uptime and operational stability during rapid expansion.
+COMPANY_BULLET_2_BODYTECH: Led the enterprise-wide implementation and integration of Microsoft Dynamics CRM & ERP, unifying sales, operations, and billing processes for improved efficiency.
+COMPANY_BULLET_3_BODYTECH: Established the company's IT Service Desk from the ground up, implementing support protocols that improved ticket resolution rates and employee satisfaction.
