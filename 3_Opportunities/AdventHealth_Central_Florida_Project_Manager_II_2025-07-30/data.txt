@@ -2,63 +2,54 @@
 HIRING_MANAGER: Hiring Manager
 COMPANY_NAME: AdventHealth Central Florida
 JOB_ROLE: Project Manager II
-COMPANY_NAME: AdventHealth Central Florida
-APPLICATION_DATE: July 30, 2025
+APPLICATION_DATE: July 30th, 2025
 
 # Cover Letter Content
 SUBJECT: Application for Project Manager II at AdventHealth Central Florida
-CONTENT: <p>Dear Hiring Manager,</p><br>
-<p>I am writing to express my keen interest in the Project Manager II position at AdventHealth Central Florida, as advertised on LinkedIn.  With 10+ years of experience leading complex, large-scale projects across diverse industries including healthcare, I am confident my adaptive approach and proven results align perfectly with your needs.</p><br>
-<p>My expertise encompasses Agile methodologies (SAFe, Scrum, Kanban) and traditional project management practices. I have a strong track record of successfully managing projects involving cloud infrastructure, system integrations, and AI-driven solutions, consistently delivering on time and within budget.  My experience with clients such as Royal Caribbean and Banco de Chile demonstrates my ability to manage projects of significant scope and complexity, while effectively communicating with stakeholders at all levels.</p><br>
-<p>I am particularly adept at translating client needs into actionable plans and driving efficiency improvements. For example, at Globant, I spearheaded a project for Dick’s Sporting Goods that resulted in a 40% improvement in eCommerce performance by focusing on Core Web Vitals.  My experience at Mango-Soft involved the successful delivery of several healthcare projects utilizing cloud-based services and big data technologies. </p><br>
-<p>My certifications in SAFe, Scrum, Google Cloud, and Generative AI, coupled with my strong technical foundation, further underscore my qualifications for this role. I am eager to contribute my skills and experience to AdventHealth's mission of extending the healing ministry of Christ.</p><br>
-<p>Thank you for your time and consideration. I have attached my resume for your review and welcome the opportunity to discuss my qualifications further.</p><br>
-
+CONTENT: Dear Hiring Manager,<br><br>I am writing to express my keen interest in the Project Manager II position at AdventHealth Central Florida, as advertised on LinkedIn. With over 10 years of project management experience, including a significant focus on the healthcare sector, I am drawn to AdventHealth's mission of providing whole-person care and feel my professional background is strongly aligned with the values and requirements of your team.<br><br>In my previous roles, I have been responsible for independently leading strategic initiatives from scoping through to successful execution. This includes managing complex projects for healthcare organizations, where I oversaw the integration of medical imaging (DICOM) and patient data (HL7) systems, launched patient portals, and improved clinical workflows. I am adept at managing the key project constraints of cost, schedule, and quality, while ensuring effective communication and engagement with all stakeholders, from technical teams to senior executives and clinical leaders.<br><br>My approach is adaptive, utilizing both Agile and traditional methodologies to best fit the project's needs. I am committed to translating complex requirements into actionable plans and delivering solutions that enhance operational efficiency and support mission-critical services. I am confident that my experience in delivering impactful technology solutions within the healthcare space will allow me to contribute significantly to AdventHealth's purpose-minded team.<br><br>Thank you for considering my application. I look forward to the opportunity to discuss how I can help extend the healing ministry of Christ through dedicated and effective project management.
 
 # CV Content
-CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading global teams and delivering complex digital transformations across healthcare, finance, retail, and travel.  Expert in AI-driven solutions and large-scale staffing.
-SKILLS_TITLE_1: Project Management Methodologies
-SKILLS_DESC_1: SAFe, Scrum, Kanban, Waterfall
-SKILLS_TITLE_2: Technical Skills
-SKILLS_DESC_2: Cloud (AWS, GCP, Azure), AI Integration, System Integrations, SDLC
-SKILLS_TITLE_3: Business Acumen
-SKILLS_DESC_3: Healthcare, Finance, Retail, Travel/Hospitality
-SKILLS_TITLE_4: Tools & Technologies
-SKILLS_DESC_4: Jira, Confluence, MS Teams, Slack, Salesforce, Angular, Java, SQL Server, Python
-
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading complex strategic initiatives in mission-critical environments, including healthcare, finance, and public safety. Expert in full lifecycle project delivery, from scoping to execution, with rigorous oversight of cost, schedule, and quality. Excels at engaging diverse stakeholders, including senior executives and clinical teams, to translate complex needs into viable solutions. Adept in Agile and traditional methodologies, focused on driving operational efficiency and delivering impactful projects that support organizational goals.
+SKILLS_TITLE_1: Project & Portfolio Management
+SKILLS_DESC_1: Strategic Planning, Stakeholder Engagement, Budget & Cost Control, Scheduling, Risk Management, Quality Assurance, Executive Reporting.
+SKILLS_TITLE_2: Methodologies
+SKILLS_DESC_2: SAFe, Scrum, Kanban, Scrum of Scrums, Waterfall, Hybrid Models.
+SKILLS_TITLE_3: Healthcare & Regulated Industries
+SKILLS_DESC_3: DICOM & HL7 Integration, Patient Portals, EMR/EHR Systems, Medical Device Integration, HIPAA Compliance Context.
+SKILLS_TITLE_4: Technical Acumen
+SKILLS_DESC_4: Cloud Platforms (AWS, GCP), SDLC, System Integration, AI & Data Analytics, Jira, Confluence.
 
 # Work Experience - Globant
-JOB_TITLE_GLOBANT: Senior Project Manager
-COMPANY_SUMMARY_GLOBANT: A global IT consulting and software development company specializing in AI solutions, serving diverse clients worldwide.
-COMPANY_BULLET_1_GLOBANT: Led project for Royal Caribbean, delivering features including an AI chatbot, resulting in on-time and within-budget delivery of key functionalities.
-COMPANY_BULLET_2_GLOBANT: Improved Dick's Sporting Goods eCommerce performance by 40% by optimizing Core Web Vitals through adaptive roadmaps and PI Planning.
-COMPANY_BULLET_3_GLOBANT: Managed Banco de Chile's Metaverse project, successfully implementing Scrum of Scrums methodology across 100+ team members.
+JOB_TITLE_GLOBANT: Project Manager
+COMPANY_SUMMARY_GLOBANT: Global AI-focused consulting company, digitally transforming industries by delivering innovative software solutions and cognitive platforms for top-tier clients.
+COMPANY_BULLET_1_GLOBANT: Led strategic initiatives for Royal Caribbean, launching AI chatbots and mobile apps, improving guest experience and driving ancillary revenue through tailored advertising.
+COMPANY_BULLET_2_GLOBANT: Managed a 100+ person program for Banco de Chile, overseeing a data center migration to GCP and implementing a new enterprise data warehouse.
+COMPANY_BULLET_3_GLOBANT: Drove a 40% e-commerce performance improvement for Dick's Sporting Goods by leading the implementation of Core Web Vitals across their digital platform.
 
 # Work Experience - Mango-soft
-JOB_TITLE_MANGOSOFT: Technical Project Manager
-COMPANY_SUMMARY_MANGOSOFT:  A technology firm delivering innovative software solutions for healthcare and media, leveraging big data and cloud services.
-COMPANY_BULLET_1_MANGOSOFT: Delivered a voice-to-text application for healthcare, improving medical documentation efficiency and reducing physician workload.
-COMPANY_BULLET_2_MANGOSOFT: Migrated medical imaging data to AWS, enhancing data security and accessibility for multiple clinics.
-COMPANY_BULLET_3_MANGOSOFT:  Implemented a patient portal, improving patient engagement and satisfaction with healthcare services.
+JOB_TITLE_MANGOSOFT: Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A specialized software consultancy delivering custom cloud-based solutions, big data analytics, and media streaming services for healthcare and sports media clients.
+COMPANY_BULLET_1_MANGOSOFT: Managed end-to-end development of healthcare applications, integrating medical imaging (DICOM) and patient data (HL7) systems for multiple hospital clients.
+COMPANY_BULLET_2_MANGOSOFT: Launched a voice-to-text application for clinicians, improving documentation speed and accuracy, thereby allowing greater focus on direct patient care.
+COMPANY_BULLET_3_MANGOSOFT: Delivered a media streaming platform for Concacaf, expanding their digital reach and creating new revenue streams through enhanced fan engagement features.
 
 # Work Experience - TIPI
 JOB_TITLE_TIPI: Technical Project Manager
-COMPANY_SUMMARY_TIPI: A technology firm delivering innovative software solutions for healthcare and media, leveraging big data and cloud services.
-COMPANY_BULLET_1_TIPI:  Delivered a bodycam system for the Colombian Police, including a management software with face-recognition capabilities for 3000+ devices.
-COMPANY_BULLET_2_TIPI:  Implemented a nurse-call system for hospitals and clinics, improving response times and patient care.
-COMPANY_BULLET_3_TIPI: Developed a patient flow tracking board, enhancing hospital efficiency and reducing wait times.
+COMPANY_SUMMARY_TIPI: Technology firm developing integrated hardware and software solutions, including IoT devices and management platforms for public safety and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Led the full SDLC and deployment of a bodycam system for the Colombian Police, equipping over 3,000 officers and enhancing operational oversight.
+COMPANY_BULLET_2_TIPI: Deployed an RFID asset tracking and nurse call system across 10+ hospitals, improving patient response times and optimizing critical resource management.
+COMPANY_BULLET_3_TIPI: Managed firmware development and a web-based management platform, ensuring secure, real-time data streaming and analysis for mission-critical operations.
 
 # Work Experience - itBigBoss
 JOB_TITLE_ITBIGBOSS: Technical Project Manager
-COMPANY_SUMMARY_ITBIGBOSS:  A software house creating POS systems for various businesses, focusing on SaaS solutions and scalability.
-COMPANY_BULLET_1_ITBIGBOSS: Developed and deployed a POS system for over 1000 small businesses, resulting in streamlined operations and improved sales tracking.
-COMPANY_BULLET_2_ITBIGBOSS: Integrated various payment processing systems into the POS, ensuring smooth and secure transactions for customers.
-COMPANY_BULLET_3_ITBIGBOSS: Managed the software development lifecycle, delivering a robust and adaptable POS system that met market demands.
-
+COMPANY_SUMMARY_ITBIGBOSS: SaaS provider of point-of-sale (POS) and business management software tailored for small to medium-sized businesses in retail, fitness, and health.
+COMPANY_BULLET_1_ITBIGBOSS: Spearheaded development and deployment of a comprehensive SaaS POS platform, successfully implemented by over 1,000 businesses across Latin America.
+COMPANY_BULLET_2_ITBIGBOSS: Directed integrations with payment processors, biometrics, and accounting systems, automating billing processes and reducing client data entry time by over 50%.
+COMPANY_BULLET_3_ITBIGBOSS: Led the full software development lifecycle for the flagship product, from feature definition to release, resulting in a scalable, market-leading solution.
 
 # Work Experience - Bodytech
 JOB_TITLE_BODYTECH: IT Manager
-COMPANY_SUMMARY_BODYTECH: A large-scale health and fitness center chain in Latin America providing a comprehensive fitness experience.
-COMPANY_BULLET_1_BODYTECH: Implemented and managed an access control system across multiple sites, enhancing security and operational efficiency.
-COMPANY_BULLET_2_BODYTECH: Led the implementation of Dynamics CRM and ERP systems improving business processes, client management and operational reporting.
-COMPANY_BULLET_3_BODYTECH: Managed IT infrastructure across 60+ sites across Colombia, Peru and Chile, ensuring high availability and stability of IT operations.
+COMPANY_SUMMARY_BODYTECH: Leading health and fitness center chain in Latin America, providing comprehensive wellness services and facilities to a broad member base.
+COMPANY_BULLET_1_BODYTECH: Managed technology infrastructure and operations across 60+ sites in 3 countries, ensuring 99.5% system uptime for all critical business operations.
+COMPANY_BULLET_2_BODYTECH: Led the implementation of Microsoft Dynamics CRM & ERP, centralizing member data and streamlining billing, improving overall operational efficiency.
+COMPANY_BULLET_3_BODYTECH: Deployed a company-wide IT service desk and biometric access control system, improving facility security and reducing support ticket resolution times.

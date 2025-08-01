@@ -1,69 +1,55 @@
 # Global Information
 HIRING_MANAGER: Jacob Marshall-Naef
 COMPANY_NAME: AQRA International
-JOB_ROLE: Wastewater Project Manager
-APPLICATION_DATE: July 2, 2025
+JOB_ROLE: Water/Wastewater Engineering Project Manager P.E.
+APPLICATION_DATE: July 31st, 2025
 
 # Cover Letter Content
-SUBJECT: Application for Wastewater Project Manager at AQRA International
-CONTENT: Dear Jacob Marshall-Naef,
-<br><br>
-I am writing to express my keen interest in the Wastewater Project Manager position posted on LinkedIn. With over 10 years of experience managing the end-to-end lifecycle of complex, multi-million-dollar technical and infrastructure projects, I have a strong foundation in the core competencies required for this role.
-<br><br>
-My background involves leading large, cross-functional teams (+100 engineers) to deliver solutions in highly regulated industries such as finance, healthcare, and public safety. This has provided me with deep expertise in project planning, budget and resource management, risk mitigation, and ensuring strict compliance with project requirements. I am adept at managing client relationships, collaborating with diverse stakeholders, and leading business development activities, including RFP analysis and proposal creation.
-<br><br>
-While my technical domain has been in digital and systems engineering, my project management approach is adaptive and universally applicable to overseeing large-scale infrastructure initiatives. I excel at translating complex requirements into actionable plans and driving projects to successful completion, on time and within budget.
-<br><br>
-I am confident that my extensive project management skills and leadership experience would be a valuable asset to your clients. I am eager to discuss how my background in managing complex projects can contribute to the development of sustainable water solutions.
-<br><br>
-Thank you for your time and consideration.
-<br><br>
-Sincerely,
-<br>
-[Your Name]
+SUBJECT: Application for Water/Wastewater Engineering Project Manager P.E. at AQRA International
+CONTENT: Dear Jacob Marshall-Naef,<br><br>I am writing to express my strong interest in the Water/Wastewater Engineering Project Manager role advertised on LinkedIn. While my professional background is rooted in managing complex technology and systems infrastructure projects, the core principles of my experience are directly transferable to the key responsibilities outlined in your job description.<br><br>With over 10 years of experience, I have a substantial track record of leading all phases of multi-million-dollar projects from initial conception and planning through to final completion. My expertise includes developing detailed project plans, timelines, and budgets, as well as allocating resources for large, cross-functional teams. I excel at managing client relationships and collaborating effectively with technical teams, stakeholders, and regulatory bodies to ensure project objectives are met.<br><br>My career has been built on successfully identifying and mitigating project risks, ensuring adherence to strict compliance and industry standards, and driving business development through proposal preparation and client engagement. I am confident that my adaptive project management skills and leadership experience would allow me to quickly integrate and contribute to the successful delivery of your clients' sustainable water solution projects.<br><br>Thank you for considering my application. I am eager to discuss how my extensive project management background can bring significant value to your team.
 
 # CV Content
-CAREER_SUMMARY: Adaptive Technical Project Manager with 10+ years of experience leading complex, multi-million-dollar infrastructure and digital transformation projects across regulated industries. Expert in end-to-end project delivery, managing budgets, timelines, and resource allocation for globally distributed teams (+100 engineers). Strengths in stakeholder management, client relations, risk mitigation, and ensuring compliance within hybrid Agile and traditional methodologies.
-SKILLS_TITLE_1: Project & Portfolio Management
-SKILLS_DESC_1: Project Planning, Budgeting & Cost Control, Resource Allocation, Risk Mitigation, Stakeholder Management, Regulatory Compliance Analogues.
-SKILLS_TITLE_2: Methodologies & Frameworks
-SKILLS_DESC_2: Hybrid (Agile & Waterfall), SAFe, Scrum, Kanban, Scrum of Scrums, PMP/PMI Principles.
-SKILLS_TITLE_3: Business Development & Client Relations
-SKILLS_DESC_3: RFP Analysis, Proposal Development, Client-Facing Presentations, C-Level Reporting (RAG Status), Contract Management.
-SKILLS_TITLE_4: Project Management Tools & Platforms
-SKILLS_DESC_4: Jira, Confluence, MS Project & Teams, Asana, Clickup, Slack, Azure DevOps.
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading global teams and delivering complex, multi-million-dollar infrastructure and systems projects. Expert in end-to-end project delivery from concept to completion, including planning, budgeting, and resource allocation. Skilled in risk mitigation, regulatory compliance, and business development. Expert in Agile and traditional methodologies, with strengths in executive reporting and financial oversight across diverse industries.
+SKILLS_TITLE_1: Project Lifecycle Management
+SKILLS_DESC_1: Full project lifecycle leadership from concept to completion, including planning, scheduling (MS Project), budgeting, and execution for multi-million-dollar projects.
+SKILLS_TITLE_2: Stakeholder & Client Relations
+SKILLS_DESC_2: Managing cross-functional teams, regulatory agencies, and C-level stakeholders; business development, proposal creation, and client reporting.
+SKILLS_TITLE_3: Risk Management & Regulatory Compliance
+SKILLS_DESC_3: Proactive risk identification, mitigation strategy development, and ensuring project adherence to industry standards and complex regulatory frameworks.
+SKILLS_TITLE_4: Technical & Infrastructure Acumen
+SKILLS_DESC_4: Systems integration, data migration, cloud infrastructure (AWS/GCP), and managing the preparation of technical reports and specifications.
 
 # Work Experience - Globant
-JOB_TITLE_GLOBANT: Technical Project Manager
-COMPANY_SUMMARY_GLOBANT: A digitally native company offering innovative technology solutions. We leverage AI and software development to help the world's leading organizations reinvent their businesses.
-COMPANY_BULLET_1_GLOBANT: Led multi-million-dollar digital programs for Royal Caribbean, managing project scope, budget, and timelines for globally distributed teams to improve on-time feature delivery.
-COMPANY_BULLET_2_GLOBANT: Directed an e-commerce platform overhaul for Dick's Sporting Goods, boosting performance by 40% through adaptive quarterly roadmaps and PI planning with cross-functional teams.
-COMPANY_BULLET_3_GLOBANT: Oversaw a data center migration for Banco de Chile, managing project compliance and a large-scale team of over 100 engineers to modernize critical banking infrastructure.
+JOB_TITLE_GLOBANT: Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native consulting company using AI and innovative technologies to reinvent businesses and deliver large-scale software solutions for top-tier global clients.
+COMPANY_BULLET_1_GLOBANT: Directed multi-million dollar project portfolios for clients like Royal Caribbean, managing budgets, timelines, and resource allocation for globally distributed teams of 100+.
+COMPANY_BULLET_2_GLOBANT: Led the full project lifecycle for a Dick's Sporting Goods e-commerce platform, improving system performance by 40% through meticulous planning and execution.
+COMPANY_BULLET_3_GLOBANT: Drove business development by leading RFP analysis and proposal creation, securing fixed-price and T&M contracts through effective client relationship management.
 
 # Work Experience - Mango-soft
 JOB_TITLE_MANGOSOFT: Technical Project Manager
-COMPANY_SUMMARY_MANGOSOFT: A software development firm specializing in custom cloud services and data solutions for the media, sports, and healthcare industries across international markets.
-COMPANY_BULLET_1_MANGOSOFT: Managed end-to-end delivery of a media streaming platform on AWS for Concacaf, leading project planning, resource allocation, and client relations for successful product launch.
-COMPANY_BULLET_2_MANGOSOFT: Spearheaded healthcare systems integration for multiple hospitals, delivering medical imaging and voice-to-text solutions that improved physician workflow and data accessibility.
-COMPANY_BULLET_3_MANGOSOFT: Drove business development by creating technical proposals and staffing teams, successfully securing and launching multiple complex projects from concept to production support.
+COMPANY_SUMMARY_MANGOSOFT: A software development firm specializing in cloud-native solutions, data engineering, and media streaming services for sports and healthcare organizations in the Americas.
+COMPANY_BULLET_1_MANGOSOFT: Managed end-to-end delivery of a media streaming infrastructure for Concacaf, ensuring compliance with broadcasting standards and successful on-time, on-budget project completion.
+COMPANY_BULLET_2_MANGOSOFT: Oversaw a medical data integration project for multiple hospitals, collaborating with clinical stakeholders to meet strict healthcare data regulations and improve data accessibility.
+COMPANY_BULLET_3_MANGOSOFT: Led proposal development and client acquisition, successfully staffing and launching multiple fixed-price infrastructure projects for over 10 new client engagements.
 
 # Work Experience - TIPI
 JOB_TITLE_TIPI: Technical Project Manager
-COMPANY_SUMMARY_TIPI: An engineering company developing integrated hardware and software solutions for public safety, law enforcement, and healthcare sectors, focused on IoT and real-time data.
-COMPANY_BULLET_1_TIPI: Led a project for 3,000+ police bodycams, managing the full SDLC, deployment, and support under strict government contract requirements, ensuring on-time delivery.
-COMPANY_BULLET_2_TIPI: Implemented nurse-call and asset tracking systems across 10+ hospitals, overseeing project execution and establishing SaaS operational support to improve patient care efficiency.
-COMPANY_BULLET_3_TIPI: Directed technical teams hands-on, leading project planning, implementation, and release management to ensure system reliability for critical public safety and healthcare infrastructure.
+COMPANY_SUMMARY_TIPI: A technology company delivering integrated hardware and software solutions for public safety, law enforcement, and healthcare sectors, specializing in IoT and data management.
+COMPANY_BULLET_1_TIPI: Managed the design, manufacturing, and deployment of an integrated bodycam system for the Colombian Police, overseeing hardware, firmware, and software project phases.
+COMPANY_BULLET_2_TIPI: Ensured project success by leading all planning, implementation, and quality control efforts in accordance with strict government contract regulations and technical specifications.
+COMPANY_BULLET_3_TIPI: Led deployment and operations for 3,000+ devices across multiple cities, demonstrating effective large-scale infrastructure and stakeholder management in a high-stakes environment.
 
 # Work Experience - itBigBoss
 JOB_TITLE_ITBIGBOSS: Technical Project Manager
-COMPANY_SUMMARY_ITBIGBOSS: A software-as-a-service (SaaS) company providing point-of-sale (POS) and business management solutions for the restaurant, fitness, and retail industries in Latin America.
-COMPANY_BULLET_1_ITBIGBOSS: Architected and managed the SDLC for a SaaS POS product, leading to successful implementation in over 1,000 small businesses, driving market adoption.
-COMPANY_BULLET_2_ITBIGBOSS: Led technical integrations for payments, inventory, and CRM, enhancing product value and expanding market reach through hands-on coding and team leadership.
-COMPANY_BULLET_3_ITBIGBOSS: Established and directed operations support workflows, managing client implementations and ensuring high system uptime, which improved overall customer retention.
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider offering a comprehensive Point-of-Sale (POS) and business management platform for over 1,000 small businesses across Latin America.
+COMPANY_BULLET_1_ITBIGBOSS: Directed the full software development life cycle for a core SaaS product, managing all technical development, system integrations, and ongoing feature releases.
+COMPANY_BULLET_2_ITBIGBOSS: Led technical integrations with third-party hardware (biometrics, payment devices), ensuring seamless system interoperability and enhanced functionality for over 1,000 business clients.
+COMPANY_BULLET_3_ITBIGBOSS: Managed a team of 30+ engineers and led operations and implementation workflows, ensuring high system uptime and customer satisfaction across the client base.
 
 # Work Experience - Bodytech
 JOB_TITLE_BODYTECH: IT Manager
-COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, providing comprehensive wellness services and operating state-of-the-art facilities across multiple countries.
-COMPANY_BULLET_1_BODYTECH: Managed the full lifecycle of IT infrastructure deployment across 60+ sites in three countries, including networking, security, and enterprise systems.
-COMPANY_BULLET_2_BODYTECH: Led the implementation of Dynamics CRM & ERP systems, overseeing the project from planning to rollout, which streamlined business operations and data management.
-COMPANY_BULLET_3_BODYTECH: Established and led the IT Service Desk, developing support protocols and managing a team to ensure high system availability and a 95% user satisfaction score.
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, operating over 60 sites across Colombia, Peru, and Chile with technology-driven member services.
+COMPANY_BULLET_1_BODYTECH: Managed the IT infrastructure lifecycle for 60+ new site builds, overseeing networking, security systems, and access control implementation on time and budget.
+COMPANY_BULLET_2_BODYTECH: Led the company-wide implementation of Microsoft Dynamics CRM & ERP systems, managing vendors and stakeholders to successfully centralize and streamline business operations.
+COMPANY_BULLET_3_BODYTECH: Established and led the IT Service Desk and operations support, defining processes that improved system uptime and internal service levels across the organization.

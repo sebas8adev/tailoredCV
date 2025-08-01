@@ -1,67 +1,55 @@
 # Global Information
-HIRING_MANAGER: Intecrowd Hiring Team
+HIRING_MANAGER: Hiring Manager
 COMPANY_NAME: Intecrowd LLC
 JOB_ROLE: Senior Certified Workday Project Manager
-APPLICATION_DATE: July 2, 2025
+APPLICATION_DATE: August 1st, 2025
 
 # Cover Letter Content
 SUBJECT: Application for Senior Certified Workday Project Manager at Intecrowd LLC
-CONTENT: 
-Dear Intecrowd Hiring Team,
-<br><br>
-I am writing to express my enthusiastic interest in the Senior Certified Workday Project Manager position at Intecrowd LLC, as advertised on LinkedIn. With over 10 years of experience managing complex, large-scale enterprise system implementations in a consulting capacity, I am confident that my skills align perfectly with the key expectations of this role.
-<br><br>
-My background includes successfully leading implementations of enterprise systems like SAP and Microsoft Dynamics, which closely parallel the challenges and methodologies of a Workday deployment. I have a strong record of managing the entire project lifecycle, from participating in the sales cycle and developing SOWs to governing project scope, budget, and timelines to ensure profitable, on-time delivery. My experience at Globant involved managing multiple simultaneous projects for enterprise clients, mentoring project teams, and maintaining exceptional client satisfaction, which are all central to this role.
-<br><br>
-I am adept at working in partnership with clients to facilitate the adoption of best practices and identify new service opportunities, skills I have honed while managing projects in the finance, retail, and healthcare sectors. While my direct certification is not in Workday, my extensive collection of certifications in Agile, cloud platforms, and AI demonstrates my commitment to continuous learning and my ability to quickly master new technologies and methodologies. I am eager to achieve Workday certification and become an expert in your implementation approach.
-<br><br>
-I am excited by Intecrowd's reputation for partnership and delivering maintainable, efficient solutions. I am eager to bring my adaptive project management approach and business development skills to your team. Thank you for your time and consideration. I look forward to discussing how I can contribute to your projects' success.
-<br><br>
-Sincerely,
-[Your Name]
+CONTENT: Dear Hiring Manager,<br><br>I am writing to express my strong interest in the Senior Certified Workday Project Manager position at Intecrowd LLC, as advertised on LinkedIn. With over 10 years of experience managing complex, full-lifecycle enterprise system implementations for global clients, I am confident in my ability to deliver projects successfully within your client-centric and partnership-driven framework.<br><br>While my direct experience is with systems like SAP, Oracle, and Dynamics, my background in consulting environments has equipped me with the skills to rapidly master new platforms and methodologies. I excel in managing simultaneous projects, from initial sales cycle involvement and SOW creation to budget control, risk mitigation, and profitable delivery. My experience directly aligns with your key expectations, including mentoring project managers, ensuring client satisfaction for referenceability, and presenting to executive-level stakeholders.<br><br>My passion for enabling client success and my track record of ensuring practical adoption of new technologies would make me a valuable asset to the Intecrowd team. I am eager to leverage my experience to contribute to your reputation for excellence in Workday implementations.<br><br>Thank you for your time and consideration.
 
 # CV Content
-CAREER_SUMMARY: Adaptive Senior Project Manager with 10+ years of experience leading complex ERP (SAP) and system implementations for enterprise clients in a consulting environment. Expert in managing the full project lifecycle from SOW development to profitable delivery, ensuring client partnership and C-level stakeholder alignment. Skilled in Agile (SAFe, Scrum) and traditional methodologies to deliver efficient, scalable solutions and foster a culture of continuous improvement.
-SKILLS_TITLE_1: Enterprise System Implementation & Project Management
-SKILLS_DESC_1: SAP & Salesforce CRM Implementation; Full Lifecycle Project Management; SOW & Change Order Management; Budget & Profitability Control; Risk Mitigation; Executive Reporting.
-SKILLS_TITLE_2: Client & Stakeholder Management
-SKILLS_DESC_2: Management Consulting; Client Partnership & Engagement; C-Level Communication; Business Development; Service Sales Cycle; Best Practice Adoption & Mentoring.
-SKILLS_TITLE_3: Methodologies & Team Leadership
-SKILLS_DESC_3: SAFe, Scrum, Kanban, Waterfall, Hybrid; Project Governance & Checkpoint Compliance; Project Staffing & Planning; Team Leadership & Mentoring; Continuous Education Culture.
-SKILLS_TITLE_4: Technical & Business Acumen
-SKILLS_DESC_4: Business Process Analysis (HR, Payroll, Financials); Cloud Platforms (AWS, GCP); SDLC; AI Solutions; Data Migration Strategy; Computational Thinking.
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading global teams and delivering complex system implementations (ERP, CRM, Cloud). Expert in full project lifecycle management from SOW development and requirements gathering to profitable delivery. Adept in Agile (SAFe, Scrum) and traditional methodologies, driving project success and client adoption for enterprise clients in consulting environments. Skilled in financial oversight, executive reporting, and business development.
+SKILLS_TITLE_1: Enterprise System Implementation
+SKILLS_DESC_1: Oracle, SAP, Dynamics CRM/ERP; Full SDLC for Financial, HR, Retail, and Healthcare systems.
+SKILLS_TITLE_2: Project & Portfolio Management
+SKILLS_DESC_2: Multi-Project Oversight, Budgeting & P&L, Scope & Risk Management, SOWs & Change Orders, Executive Reporting.
+SKILLS_TITLE_3: Agile & Hybrid Methodologies
+SKILLS_DESC_3: SAFe, Scrum of Scrums, Kanban, Waterfall; Certified SAFe Agilist & Advanced ScrumMaster (A-CSM).
+SKILLS_TITLE_4: Client & Business Development
+SKILLS_DESC_4: Consulting, Requirements Gathering, RFP Analysis, Proposal Development, Stakeholder Management, Client Satisfaction.
 
 # Work Experience - Globant
 JOB_TITLE_GLOBANT: Senior Project Manager
-COMPANY_SUMMARY_GLOBANT: A digitally native consulting firm using AI and technology to reinvent business. Delivers innovative software products and digital transformation for global enterprise clients.
-COMPANY_BULLET_1_GLOBANT: Led complex system integrations for Royal Caribbean, managing project P&L, governance, and scope to ensure profitable, on-time delivery of enterprise-level digital solutions.
-COMPANY_BULLET_2_GLOBANT: Drove a 40% performance boost for Dick's Sporting Goods' e-commerce platform by leading cross-functional teams and implementing adaptive quarterly roadmaps and PI Planning.
-COMPANY_BULLET_3_GLOBANT: Directed RFP analysis, proposal development, and staffing for portfolios of 150+ engineers, aligning project plans with client business goals in finance and retail.
+COMPANY_SUMMARY_GLOBANT: A digitally native consulting firm leveraging AI and software development to reinvent business, serving top-tier global clients across diverse industries.
+COMPANY_BULLET_1_GLOBANT: Directed project portfolios for clients like Royal Caribbean and Banco de Chile, managing budgets and ensuring profitable, on-time delivery of complex system integrations.
+COMPANY_BULLET_2_GLOBANT: Led the full lifecycle of an e-commerce platform enhancement for Dick's Sporting Goods, improving Core Web Vitals performance by 40% through adaptive roadmaps.
+COMPANY_BULLET_3_GLOBANT: Managed global teams of 100+; created SOWs, controlled scope, and presented status to C-level stakeholders, ensuring high client satisfaction and referenceability.
 
 # Work Experience - Mango-soft
-JOB_TITLE_MANGOSOFT: Technical Project Manager
-COMPANY_SUMMARY_MANGOSOFT: A software development consultancy specializing in cloud, Big Data, and AI solutions for the media and healthcare sectors, delivering custom applications and integrations.
-COMPANY_BULLET_1_MANGOSOFT: Managed end-to-end implementation of a media streaming platform for Concacaf, integrating multiple AWS services and delivering the product from SOW to production.
-COMPANY_BULLET_2_MANGOSOFT: Led the deployment of a voice-to-text application for healthcare clients using AWS AI, improving physician efficiency and ensuring secure data handling.
-COMPANY_BULLET_3_MANGOSOFT: Orchestrated project planning, staffing, and client engagement for teams of 10+, consistently delivering fixed-price projects within budget, fostering strong partner relationships.
+JOB_TITLE_MANGOSOFT: Senior Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software consultancy specializing in delivering cloud-based solutions, Big Data analytics, and custom applications for media and healthcare clients.
+COMPANY_BULLET_1_MANGOSOFT: Spearheaded development of a media streaming platform on AWS, managing the project from SOW to production, enhancing client's media delivery capabilities.
+COMPANY_BULLET_2_MANGOSOFT: Led implementation of a voice-to-text healthcare application, integrating AWS AI services to improve physician workflow efficiency and reduce documentation time.
+COMPANY_BULLET_3_MANGOSOFT: Managed project financials and staffing for 10+ person teams, successfully delivering fixed-price projects on budget while fostering strong client partnerships.
 
 # Work Experience - TIPI
-JOB_TITLE_TIPI: Technical Project Manager
-COMPANY_SUMMARY_TIPI: An integrated technology firm developing custom hardware and software solutions, including IoT devices and management platforms for public safety and healthcare organizations.
-COMPANY_BULLET_1_TIPI: Directed the full SDLC for a bodycam and evidence management system for law enforcement, successfully deploying over 3,000 devices and ensuring government contract compliance.
-COMPANY_BULLET_2_TIPI: Led development of an integrated nurse-call system with RFID asset tracking, improving patient communication and operational efficiency across 10+ hospital installations.
-COMPANY_BULLET_3_TIPI: Defined project constraints and managed operations, ensuring the reliability and successful adoption of integrated hardware/software solutions, leading to high client satisfaction.
+JOB_TITLE_TIPI: Senior Project Manager
+COMPANY_SUMMARY_TIPI: A technology firm developing integrated hardware and software solutions for public safety, law enforcement, and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Led end-to-end delivery of a bodycam system for law enforcement, managing software, firmware, and hardware components to meet stringent government contract requirements.
+COMPANY_BULLET_2_TIPI: Oversaw implementation of an RFID asset tracking and nurse-call system in 10+ hospitals, improving operational efficiency and patient response times.
+COMPANY_BULLET_3_TIPI: Directed project planning, staffing, and execution for fixed-price contracts, ensuring compliance, on-time delivery, and successful client adoption of new technologies.
 
 # Work Experience - itBigBoss
-JOB_TITLE_ITBIGBOSS: Technical Project Manager
-COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider that developed and supported a comprehensive POS and business management platform for over 1,000 small businesses in the LATAM market.
-COMPANY_BULLET_1_ITBIGBOSS: Spearheaded the complete SDLC for a SaaS POS platform, growing the user base to over 1,000 businesses by leading development, implementation, and support.
-COMPANY_BULLET_2_ITBIGBOSS: Managed integrations with payment processors, biometrics, and accounting apps, enhancing product value and automating key customer business operations, increasing adoption.
-COMPANY_BULLET_3_ITBIGBOSS: Led a 30+ person team in an adaptive environment, directly contributing to coding and releases to meet diverse needs of retail and service clients.
+JOB_TITLE_ITBIGBOSS: Senior Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering point-of-sale (POS), CRM, and business management software for over 1,000 small businesses in retail and fitness.
+COMPANY_BULLET_1_ITBIGBOSS: Managed the full SDLC for a SaaS POS platform, integrating payment, inventory, and CRM modules to automate operations for 1,000+ businesses.
+COMPANY_BULLET_2_ITBIGBOSS: Led technical and operational teams, overseeing product development, quality, and releases which increased user adoption and drove high system uptime.
+COMPANY_BULLET_3_ITBIGBOSS: Drove business growth by adapting the platform for diverse retail clients, resulting in widespread market penetration and a successful company acquisition.
 
 # Work Experience - Bodytech
 JOB_TITLE_BODYTECH: IT Manager
-COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, operating over 60 sites across multiple countries, focused on operational and technological excellence.
-COMPANY_BULLET_1_BODYTECH: Led the technical implementation of Microsoft Dynamics CRM & ERP, improving billing accuracy and member data management across the 60+ site enterprise.
-COMPANY_BULLET_2_BODYTECH: Managed the full IT infrastructure lifecycle for 60+ new sites, including networking, security, and service desk, achieving high system uptime and support.
-COMPANY_BULLET_3_BODYTECH: Directed the SDLC for a proprietary access control system with biometrics, enhancing facility security and streamlining member check-in for thousands of users daily.
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, operating over 60 sites across Colombia, Peru, and Chile.
+COMPANY_BULLET_1_BODYTECH: Led the technical implementation of Microsoft Dynamics CRM & ERP, managing the project lifecycle to centralize billing and customer relationship management.
+COMPANY_BULLET_2_BODYTECH: Managed IT infrastructure and operations for 60+ sites, including access control, networking, and service desk, ensuring 99% operational availability.
+COMPANY_BULLET_3_BODYTECH: Directed the SDLC for a custom CRM and billing system, which automated key business processes and supported the company's multi-country expansion.

@@ -1,0 +1,55 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: Banyan Software
+JOB_ROLE: Senior Project Manager
+APPLICATION_DATE: July 31st, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Senior Project Manager at Banyan Software
+CONTENT: Dear Hiring Manager,<br><br>I am writing to express my strong interest in the Senior Project Manager position at Banyan Software, specifically for the Hancock Software team, as advertised on LinkedIn. With over 10 years of experience leading complex, end-to-end software implementations and customer rollouts, my background aligns perfectly with the requirements of this role.<br><br>In my previous roles, I have served as the primary liaison between clients and internal teams, coordinating efforts across leadership, development, and IT to ensure seamless deployments of SaaS solutions. I am highly experienced in developing detailed rollout plans, managing projects from initiation to completion, and ensuring all contractual obligations are met while adhering to budget and timelines. My experience managing globally distributed teams, including in India, will be directly applicable to collaborating with your teams in India and China.<br><br>My expertise includes creating clear process documentation, training new users to drive product adoption, and performing customer-centric testing to guarantee quality and functionality. I am passionate about the mission to help utilities reduce energy consumption and am confident that my proactive, adaptive, and results-oriented approach would make me a valuable asset in successfully deploying the Hancock Cloud solution to your new customers.<br><br>Thank you for considering my application. I am eager to discuss how my skills in project management and customer onboarding can contribute to the success of Banyan Software and your clients.
+
+# CV Content
+CAREER_SUMMARY: Adaptive Senior Project Manager with 10+ years of experience leading complex SaaS implementations and end-to-end product rollouts across diverse vertical markets including Utilities, Healthcare, and Public Safety. Expert in managing the full project lifecycle, from planning and contract adherence to customer onboarding, training, and ongoing support. Skilled in coordinating global teams (including India), managing stakeholder communications, and ensuring seamless deployments that meet budget and timeline requirements.
+SKILLS_TITLE_1: Project & Program Management
+SKILLS_DESC_1: End-to-End SaaS Implementation, Customer Onboarding, Rollout Planning, Process Documentation, Budget & Schedule Adherence, Contract Management.
+SKILLS_TITLE_2: Stakeholder & Team Leadership
+SKILLS_DESC_2: Client Liaison, Executive Reporting (RAG), Cross-Functional Coordination (Dev, IT, Leadership), Offshore Team Management (India), User Training.
+SKILLS_TITLE_3: Agile & Hybrid Methodologies
+SKILLS_DESC_3: SAFe, Scrum, Kanban, Waterfall; Adaptive planning for product adoption and continuous improvement.
+SKILLS_TITLE_4: Technical & Business Acumen
+SKILLS_DESC_4: Cloud Platforms (AWS, GCP), SaaS Solutions, System Integrations, RFP Analysis, AI Solutions, Full SDLC, User Acceptance Testing (UAT).
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Senior Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native consulting firm leveraging AI and innovative software solutions to help organizations reinvent their industries and stay ahead of the curve.
+COMPANY_BULLET_1_GLOBANT: Led the end-to-end rollout of a new AI-powered guest services app for Royal Caribbean, coordinating three offshore teams to launch on schedule.
+COMPANY_BULLET_2_GLOBANT: Drove a 40% performance improvement for Dick's Sporting Goods' e-commerce platform by managing the execution of a core web vitals enhancement project.
+COMPANY_BULLET_3_GLOBANT: Directed the project portfolio for Banco de Chile, managing over 100 engineers to deliver a data center migration and a new Metaverse branch.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development company delivering custom cloud-based solutions, Big Data analytics, and streaming services for media, sports, and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Managed the complete SDLC for the Concacaf media platform, launching new streaming and statistics services on AWS for thousands of international users.
+COMPANY_BULLET_2_MANGOSOFT: Led implementation of an AWS-based medical imaging integration for multiple hospitals, improving physician access to critical patient data and reducing wait times.
+COMPANY_BULLET_3_MANGOSOFT: Orchestrated the project to transfer medical device data (DICOM) to AWS, enabling a new patient portal for enhanced image visualization and collaboration.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology firm specializing in integrated hardware and software solutions, including IoT devices and management platforms for public safety and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Led the end-to-end development and deployment of a bodycam system for the Colombian Police, delivering over 3,000 devices with compliant management software.
+COMPANY_BULLET_2_TIPI: Directed the project to create and implement a Bluetooth-based nurse call system, successfully deploying the solution in over 10 clinics to improve response times.
+COMPANY_BULLET_3_TIPI: Managed the software and hardware integration for an asset tracking solution in hospitals using RFID, improving equipment location and operational efficiency.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering a comprehensive POS and business management platform tailored for small businesses in the retail, fitness, and restaurant industries.
+COMPANY_BULLET_1_ITBIGBOSS: Oversaw the full SDLC for a SaaS POS product, leading to its adoption by over 1,000 small businesses across Latin America.
+COMPANY_BULLET_2_ITBIGBOSS: Managed integrations of the POS system with third-party hardware and software, including biometrics, payment processors, and accounting applications for seamless operations.
+COMPANY_BULLET_3_ITBIGBOSS: Led the technical team in hands-on coding and releases, automating billing and reducing data entry time for clients through new features.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, focused on providing wellness services supported by a robust technology platform.
+COMPANY_BULLET_1_BODYTECH: Led the company-wide implementation of Microsoft Dynamics CRM & ERP, centralizing data across 60+ locations in three countries for unified operations.
+COMPANY_BULLET_2_BODYTECH: Managed the lifecycle for the access control system, integrating software with turnstiles and biometrics, which improved member security and check-in speed.
+COMPANY_BULLET_3_BODYTECH: Established the IT service desk and managed all technology infrastructure, including networking and CCTV, ensuring high system uptime across all clubs.

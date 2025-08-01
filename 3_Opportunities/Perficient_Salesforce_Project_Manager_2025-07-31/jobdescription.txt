@@ -1,0 +1,94 @@
+Status: pending
+Data-Status: error
+Job board: LinkedIn
+Company Name: Perficient
+Role Name: Salesforce Project Manager
+Location: United States
+Type: Not specified
+Salary range: $73,008 to $170,640.
+Hiring Team: Not identified
+Application Instructions: See Job Post URL
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4278628372&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+Job Description:
+About the job
+Job Description
+
+Join Perficient as a Salesforce Project Manager.
+
+Perficient is excited to present a fantastic opportunity for a Salesforce Project Manager with hands-on experience in recent Salesforce implementations.
+
+Be part of a vibrant, collaborative team of Salesforce experts and elevate your career with a company that values innovation, growth, and fun!
+
+The Salesforce Project Manager role is designed to manage and continually adapt to project goals. This highly collaborative role requires close collaboration with all departments, including account, creative, and technology teams, to deliver high-quality solutions to our customers.
+
+Perficient is the global AI-first consultancy. Our team of strategists, designers, technologists, and engineers partners with the world’s most innovative enterprises and admired brands to deliver real business results through the transformative power of AI. As part of our AI-First strategy, we empower every employee to build AI fluency and actively engage with AI tools to drive innovation and efficiency. We break boundaries, obsess over outcomes, and shape the future for our clients. Join a company where bold ideas and brilliant minds converge to redefine what’s possible - while building a career filled with growth, balance, and purpose.
+
+Our Salesforce + MuleSoft team helps global brands create connected, data-driven experiences that drive enterprise-wide transformation. As a Salesforce Partner and trusted MuleSoft advisor, we deliver strategic guidance, industry accelerators, and AI-powered solutions across healthcare, financial services, manufacturing, and more—unlocking the full potential of the Salesforce ecosystem.
+
+Responsibilities
+
+Facilitate Scrum ceremonies and track sprint progress. 
+Foster an Agile environment that adapts quickly to change. 
+Create and manage project timelines, milestones, and deliverables. 
+Maintain goals set by teams and clients. 
+Ensure clear communication of requirements and deliverable dates. 
+Capture meeting notes and ensure prompt completion of action items. 
+Resolve technical problems through team discussions. 
+Collaborate with development teams to understand solution opportunities and limitations. 
+Balance client and internal team needs. 
+Manage deliverables with external vendors. 
+Provide production and technical knowledge for optimal execution decisions. 
+Identify and manage suitable outside vendors for projects. 
+Ensure projects remain on schedule by managing resources. 
+Communicate project status and details with product and account leads. 
+Anticipate and address potential project issues proactively. 
+Demonstrate problem-solving skills to find effective solutions. 
+
+Qualifications
+
+Experience: At least 5 years of leading projects in a technical and Agile environment. 
+Consulting: Recent professional consulting experience. 
+Salesforce: Over 3 years of experience leading Salesforce implementations. 
+Detail-Oriented: Must have a keen eye for detail. 
+Collaboration: Experience working directly with creative teams and development engineers. 
+Project Management: Skilled in managing and communicating project status, budgets, and risks. 
+Communication: Strong written and verbal communication skills. 
+Problem-Solving: Creative and analytical thinker with excellent problem-solving abilities. 
+Industry Knowledge: Comprehensive experience in Financial Services, specifically Insurance. 
+AI: Proficient in leveraging AI technologies to drive innovation, support strategic initiatives, and enable data-driven decision-making. 
+AI Knowledge: Possesses a strong understanding of AI capabilities, limitations, and ethical considerations. 
+Education: Bachelor’s degree or commensurate experience required. 
+Certification: Scrum Master certification is preferred, as well as any AI Certifications 
+
+The salary range for this position takes into consideration a variety of factors, including but not limited to skill sets, level of experience, applicable office location, training, licensure and certifications, and other business and organizational needs. The new hire salary range displays the minimum and maximum salary targets for this position across all US locations, and the range has not been adjusted for any specific state differentials. It is not typical for a candidate to be hired at or near the top of the range for their role, and compensation decisions are dependent on the unique facts and circumstances regarding each candidate. A reasonable estimate of the current salary range for this position is $73,008 to $170,640. Please note that the salary range posted reflects the base salary only and does not include benefits or any potential equity or variable bonus programs. Information regarding the benefits available for this position are in our benefits overview .
+
+Applications will be accepted until the position is filled or the posting is removed.
+
+Who We Are
+
+Perficient is a leading global digital consultancy. We imagine, create, engineer, and run digital transformation solutions that help our clients exceed customers’ expectations, outpace competition, and grow their business. With unparalleled strategy, creative, and technology capabilities, our colleagues bring big thinking and innovative ideas, along with a practical approach to help our clients – the world’s largest enterprises and biggest brands succeed.
+
+What We Believe
+
+At Perficient, we promise to challenge, champion, and celebrate our people. You will experience a unique and collaborative culture that values every voice. Join our team, and you’ll become part of something truly special.
+
+We believe in developing a workforce that is as diverse and inclusive as the clients we work with. We’re committed to actively listening, learning, and acting to further advance our organization, our communities, and our future leaders… and we’re not done yet.
+
+Perficient, Inc. proudly provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, gender, sexual orientation, national origin, age, disability, genetic information, marital status, amnesty, or status as a protected veteran in accordance with applicable federal, state and local laws. Perficient, Inc. complies with applicable state and local laws governing non-discrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including, but not limited to, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training. Perficient, Inc. expressly prohibits any form of unlawful employee harassment based on race, color, religion, gender, sexual orientation, national origin, age, genetic information, disability, or covered veterans. Improper interference with the ability of Perficient, Inc. employees to perform their expected job duties is absolutely not tolerated.
+
+Disability Accommodations:
+
+Perficient is committed to providing a barrier-free employment process with reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or accommodation due to a disability, please contact us.
+
+Disclaimer: The above statements are not intended to be a complete statement of job content, rather to act as a guide to the essential functions performed by the employee assigned to this classification. Management retains the discretion to add or change the duties of the position at any time. 
+
+About Us
+
+Perficient is always looking for the best and brightest talent and we need you! We’re a quickly growing, global digital consulting leader, and we’re transforming the world’s largest enterprises and biggest brands. You’ll work with the latest technologies, expand your skills, experience work-life balance, and become a part of our global community of talented, diverse, and knowledgeable colleagues.
+
+Select work authorization questions to ask when applicants apply
+
+1. Are you legally authorized to work in the United States?
+
+2. Will you now, or in the future, require sponsorship for employment visa status (e.g. H-1B visa status)?

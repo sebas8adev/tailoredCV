@@ -1,55 +1,55 @@
 # Global Information
-HIRING_MANAGER: ApTask Hiring Team
+HIRING_MANAGER: Hiring Manager
 COMPANY_NAME: ApTask
 JOB_ROLE: Delivery Manager
-APPLICATION_DATE: July 2, 2025
+APPLICATION_DATE: August 1st, 2025
 
 # Cover Letter Content
 SUBJECT: Application for Delivery Manager at ApTask
-CONTENT: Dear ApTask Hiring Team,<br><br>I am writing to express my keen interest in the Delivery Manager position advertised on LinkedIn. With over 10 years of experience in leading complex, large-scale IT project deliveries for global clients, including in the banking and financial services sector, my background aligns perfectly with the requirements of this role.<br><br>In my role as a Technical Project Manager, I have a strong record of managing the end-to-end delivery of digital transformation projects. For instance, I led a 100+ person team for Banco de Chile, overseeing a datacenter migration to GCP and the implementation of new digital banking features, all while ensuring strict adherence to financial industry compliance and governance standards. My expertise spans Agile (Scrum, SAFe), Waterfall, and hybrid methodologies, allowing me to adapt my approach to meet project and client needs effectively.<br><br>I excel at acting as the central point of communication between clients, technical teams, and C-level stakeholders, defining project scope, managing risks, and delivering executive-level status reports to ensure alignment with business goals. My experience is complemented by certifications including SAFe 6 Agilist, Advanced Certified ScrumMaster (A-CSM), and credentials in Google Cloud and Generative AI.<br><br>I am confident that my skills in project delivery, stakeholder management, and deep understanding of the BFSI domain make me a strong candidate to drive success for your client. Thank you for your time and consideration. I look forward to discussing my qualifications further.<br><br>Sincerely,<br>Andres Jimenez
+CONTENT: Dear Hiring Manager,<br><br>I am writing to express my strong interest in the Delivery Manager position at ApTask, as advertised on LinkedIn. With over 10 years of experience leading complex IT project deliveries, particularly within the banking and financial services sector, my background aligns perfectly with the requirements of this role.<br><br>In my role as a Technical Project Manager at Globant, I led the successful delivery of large-scale technology implementations for financial clients like Banco de Chile. This involved managing a team of over 100 professionals, ensuring adherence to strict compliance and governance standards, and delivering key digital transformation initiatives. I am an expert in a range of methodologies, including Agile, Scrum, and Waterfall, and I hold SAFe, A-CSM, and CSPO certifications.<br><br>My experience includes defining project scope, managing resources and budgets, mitigating risks, and providing clear, concise status reports to executive stakeholders. I am adept at acting as the central point of contact between clients, technical teams, and business leaders to ensure project objectives are met on time and to the highest quality. I am confident that my leadership skills and proven track record in the BFSI domain make me an ideal candidate for this opportunity.<br><br>Thank you for your time and consideration. I look forward to discussing how my experience can benefit your team.
 
 # CV Content
-CAREER_SUMMARY: Adaptive Delivery and Project Management professional with 10+ years of experience leading complex IT projects for banking and financial services clients. Expert in Agile (Scrum), Waterfall, and hybrid methodologies, steering global teams to deliver large-scale digital transformations. Skilled in end-to-end project lifecycle management, from scope definition to delivery, ensuring alignment with C-level stakeholder expectations and strict regulatory compliance.
+CAREER_SUMMARY: Adaptive Delivery-focused Project Manager with 10+ years of experience leading global teams and delivering complex technology projects in the banking, retail, and travel industries. Expert in end-to-end project delivery, from RFP to release, managing large-scale staffing and financial oversight. Skilled in Agile (SAFe, Scrum, Kanban) and Waterfall methodologies, delivering AI-driven, cloud-based, and system integration solutions that improve performance and business value.
 SKILLS_TITLE_1: Project & Delivery Management
-SKILLS_DESC_1: End-to-end SDLC, Digital Transformation, Risk & Scope Management, Budget Oversight, C-Level Reporting, Resource Allocation, Continuous Improvement.
-SKILLS_TITLE_2: Methodologies & Frameworks
-SKILLS_DESC_2: Agile (Scrum, Kanban), Scaled Agile Framework (SAFe), Waterfall, Hybrid Models, Scrum of Scrums.
-SKILLS_TITLE_3: Industry & Domain Expertise
-SKILLS_DESC_3: Banking & Financial Services (BFSI), Regulatory Compliance, Retail & E-commerce, Travel & Hospitality, Healthcare, Media.
-SKILLS_TITLE_4: Tools & Technologies
-SKILLS_DESC_4: Jira, Confluence, MS Teams, AWS, GCP, Google AI, Java, Springboot, SQL, AEM, Salesforce.
+SKILLS_DESC_1: Agile (SAFe, Scrum, Kanban), Waterfall, End-to-End SDLC, Risk Management, Budget & Resource Planning, Executive Reporting.
+SKILLS_TITLE_2: Financial Services & Regulated Industries
+SKILLS_DESC_2: BFSI Digital Transformation, Financial Systems Implementation, Governance & Compliance, Security Standards, C-Level Stakeholder Management.
+SKILLS_TITLE_3: Technologies & Platforms
+SKILLS_DESC_3: Cloud (AWS, GCP, Azure), AI & Gen AI Integration, Java, React, Angular, AEM, Salesforce, Jira, Confluence.
+SKILLS_TITLE_4: Leadership & Operations
+SKILLS_DESC_4: Global Team Leadership (+100), RFP & Proposal Management, Process Improvement, KPI & OKR Tracking, Production Support.
 
 # Work Experience - Globant
 JOB_TITLE_GLOBANT: Technical Project Manager
-COMPANY_SUMMARY_GLOBANT: A digitally native consulting company focused on reinventing businesses through innovative technology solutions, specializing in AI-powered software development and large-scale digital transformations.
-COMPANY_BULLET_1_GLOBANT: Managed project delivery for financial client Banco de Chile, leading 100+ engineers in a data center migration to GCP and implementing new digital banking features.
-COMPANY_BULLET_2_GLOBANT: Directed program delivery for Royal Caribbean, implementing an AI chatbot and guest app features, leading to enhanced customer engagement and new onboard revenue streams.
-COMPANY_BULLET_3_GLOBANT: Drove a 40% e-commerce performance improvement for Dick's Sporting Goods by leading Core Web Vitals optimization, directly impacting online sales conversion rates.
+COMPANY_SUMMARY_GLOBANT: A digitally native consulting company focused on reinventing businesses through innovative technology solutions, including AI, cloud, and enterprise platforms for global clients.
+COMPANY_BULLET_1_GLOBANT: Led a 100+ person team for Banco de Chile, implementing a hybrid Scrum model for data migration and app development, improving delivery against KPIs.
+COMPANY_BULLET_2_GLOBANT: Managed a portfolio for Royal Caribbean, delivering AI chatbots and guest apps, coordinating three offshore teams to meet fixed-price project deadlines and goals.
+COMPANY_BULLET_3_GLOBANT: Drove a 40% e-commerce performance increase for Dick's Sporting Goods by optimizing Core Web Vitals and leading a 30+ person Scrum of Scrums team.
 
 # Work Experience - Mango-soft
 JOB_TITLE_MANGOSOFT: Technical Project Manager
-COMPANY_SUMMARY_MANGOSOFT: A software development firm delivering custom cloud-native solutions and big data services for media, sports, and healthcare industries across the Americas.
-COMPANY_BULLET_1_MANGOSOFT: Led the end-to-end development of a media streaming platform for Concacaf, utilizing AWS services to deliver live matches and statistics to thousands of users.
-COMPANY_BULLET_2_MANGOSOFT: Managed delivery of a voice-to-text application for healthcare clients, integrating AWS Polly to streamline clinical documentation and improve physician efficiency.
-COMPANY_BULLET_3_MANGOSOFT: Architected and delivered a medical imaging integration solution, transferring DICOM data to AWS, improving data accessibility and diagnostic workflows for multiple clinics.
+COMPANY_SUMMARY_MANGOSOFT: A software development firm delivering custom cloud-native solutions in media, sports, and healthcare, specializing in big data, AI, and streaming services.
+COMPANY_BULLET_1_MANGOSOFT: Directed end-to-end delivery of media and streaming apps for Concacaf, managing fixed-price contracts and leading a 10+ person team to successful launch.
+COMPANY_BULLET_2_MANGOSOFT: Managed projects for multiple clinics, integrating AWS services for voice-to-text and imaging, which enhanced clinical workflows and improved data accessibility for doctors.
+COMPANY_BULLET_3_MANGOSOFT: Implemented a Scrum methodology from scratch, defining team structure and KPIs, which accelerated product delivery for all client projects within the first quarter.
 
 # Work Experience - TIPI
 JOB_TITLE_TIPI: Technical Project Manager
-COMPANY_SUMMARY_TIPI: A technology company specializing in integrated hardware and software solutions for public safety and healthcare sectors, focusing on IoT and secure data management.
-COMPANY_BULLET_1_TIPI: Directed the full SDLC for a bodycam system for the Colombian Police, deploying over 3,000 devices and a real-time management platform, enhancing officer safety.
-COMPANY_BULLET_2_TIPI: Led project to implement an RFID asset tracking and nurse call system across 10+ hospitals, significantly reducing equipment loss and improving patient response times.
-COMPANY_BULLET_3_TIPI: Spearheaded firmware and backend development for IoT devices, ensuring robust performance and secure data transmission under strict government contract requirements.
+COMPANY_SUMMARY_TIPI: Provider of integrated hardware and software solutions, including IoT bodycams and management platforms, for public safety, law enforcement, and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Led the full SDLC for a bodycam system for the Colombian Police, deploying over 3,000 devices and ensuring on-time delivery under strict regulations.
+COMPANY_BULLET_2_TIPI: Deployed an RFID asset tracking and nurse call system across 10+ hospitals, improving patient response times and communication speed under a SaaS model.
+COMPANY_BULLET_3_TIPI: Led technical teams hands-on through coding, code reviews, and releases, establishing the operations support workflow for all hardware and software products.
 
 # Work Experience - itBigBoss
 JOB_TITLE_ITBIGBOSS: Technical Project Manager
-COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering comprehensive POS and business management software solutions for over 1,000 small businesses in the retail, fitness, and hospitality industries.
-COMPANY_BULLET_1_ITBIGBOSS: Led the entire product lifecycle for a SaaS POS system, growing the user base to over 1,000 businesses by integrating payment processing and inventory management.
-COMPANY_BULLET_2_ITBIGBOSS: Drove technical integrations with biometrics, turnstiles, and accounting apps, expanding product capabilities and increasing market penetration in the fitness and retail sectors.
-COMPANY_BULLET_3_ITBIGBOSS: Managed a team of 30+ developers in a hybrid Waterfall-Kanban environment, delivering regular product updates and maintaining high system uptime for all clients.
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering comprehensive POS and business management software for over 1,000 small businesses in the restaurant, fitness, and retail industries.
+COMPANY_BULLET_1_ITBIGBOSS: Directed the full product life cycle for a POS SaaS platform, integrating payments and biometrics, serving over 1,000 businesses across Latin America.
+COMPANY_BULLET_2_ITBIGBOSS: Led a 30-person team developing a platform that automated billing and inventory, reducing manual data entry time by over 50% for client businesses.
+COMPANY_BULLET_3_ITBIGBOSS: Managed hands-on technical leadership, from coding in .NET and SQL to quality assurance, ensuring continuous product improvement and achieving 99.9% system uptime.
 
 # Work Experience - Bodytech
 JOB_TITLE_BODYTECH: IT Manager
-COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, operating over 60 clubs across Colombia, Peru, and Chile, dedicated to member wellness.
-COMPANY_BULLET_1_BODYTECH: Managed the technology infrastructure expansion to 60+ sites, implementing networking and security systems that supported rapid business growth and operational stability.
-COMPANY_BULLET_2_BODYTECH: Led the full implementation of Dynamics CRM & ERP systems, automating billing and member management, which improved data accuracy and increased member retention.
-COMPANY_BULLET_3_BODYTECH: Established the company's IT Service Desk from the ground up, defining support workflows and improving IT service delivery and system uptime across the organization.
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, focused on delivering premium wellness services supported by a robust technology infrastructure.
+COMPANY_BULLET_1_BODYTECH: Managed IT infrastructure rollout for 60+ sites across three countries, including networking and security, ensuring 100% operational readiness for all new locations.
+COMPANY_BULLET_2_BODYTECH: Led the full life cycle for a custom CRM and billing system with biometric access control, which increased member retention and enhanced security.
+COMPANY_BULLET_3_BODYTECH: Spearheaded a Dynamics CRM & ERP implementation, acting as the technical lead to streamline business operations and improve data-driven decision-making for management.

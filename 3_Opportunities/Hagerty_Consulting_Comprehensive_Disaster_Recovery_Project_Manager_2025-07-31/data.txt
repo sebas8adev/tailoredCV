@@ -1,0 +1,66 @@
+# Global Information
+HIRING_MANAGER: Aly Delaney
+COMPANY_NAME: Hagerty Consulting
+JOB_ROLE: Comprehensive Disaster Recovery Project Manager
+COMPANY_NAME: Hagerty Consulting
+APPLICATION_DATE: July 31st, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Comprehensive Disaster Recovery Project Manager at Hagerty Consulting
+CONTENT: Dear Aly Delaney,
+<br><br>
+I am writing to express my strong interest in the Comprehensive Disaster Recovery Project Manager position at Hagerty Consulting, which I discovered on LinkedIn. I understand this opportunity is for consideration within your Recovery Cadre pipeline, and I am keen to be part of a team dedicated to making a tangible impact on community resilience and recovery.
+<br><br>
+With over 10 years of experience managing complex, large-scale projects for diverse clients, including public safety and government entities, I have a strong foundation in the core competencies this role requires. My background involves leading large, multi-disciplinary teams of over 100 professionals, managing project constraints, and ensuring the delivery of high-quality outcomes under demanding conditions. I have extensive experience in strategic planning, proposal development, and full lifecycle project execution, which I am confident are directly transferable to managing federal disaster grant programs and supporting local governments.
+<br><br>
+My adaptive approach to project management, utilizing both Agile and traditional frameworks, has been instrumental in navigating dynamic environments and delivering results. I excel at translating complex requirements into actionable plans, fostering clear communication with high-level stakeholders, and using data-driven reporting (KPIs/OKRs) to maintain project visibility and alignment with strategic goals.
+<br><br>
+I am enthusiastic about the possibility of applying my project leadership skills to Hagerty Consulting’s mission. I am a quick learner, eager to develop expertise in the FEMA Public Assistance Program, and committed to contributing to your firm's reputation for excellence and innovation in emergency management.
+<br><br>
+Thank you for your time and consideration. I look forward to the opportunity to discuss how my experience can benefit your clients and support their recovery efforts.
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading large, globally-distributed teams and delivering complex digital and operational transformations. Expert in managing the full project lifecycle, from strategic planning and resource allocation to financial oversight and executive reporting. Skilled in Agile and traditional methodologies to drive program efficiency, maximize resources, and ensure high-quality deliverables for critical public safety, government, and enterprise initiatives.
+SKILLS_TITLE_1: Project & Program Management
+SKILLS_DESC_1: Strategic Planning, Full Project Lifecycle, Complex & Dynamic Projects, Risk Management, Budget & Scope Control, Quality Assurance, Executive Reporting (KPIs/OKRs).
+SKILLS_TITLE_2: Leadership & Team Management
+SKILLS_DESC_2: Large-Scale Team Leadership (100+), Cross-Functional & Multi-Disciplinary Teams, Resource Allocation & Staffing, Coaching & Mentoring, Global Team Coordination.
+SKILLS_TITLE_3: Methodologies & Frameworks
+SKILLS_DESC_3: Agile (SAFe, Scrum of Scrums, Kanban), Waterfall, Hybrid Models, Project Management Best Practices.
+SKILLS_TITLE_4: Domain & Technical Acumen
+SKILLS_DESC_4: Government & Public Safety Contracts, RFP & Proposal Development, System Integration, Cloud Platforms (AWS/GCP), MS Office Suite & Project Tools.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native consulting firm focused on AI and software solutions, helping organizations reinvent their businesses and stay ahead in a competitive global landscape.
+COMPANY_BULLET_1_GLOBANT: Led complex digital programs for clients like Royal Caribbean and Dick's Sporting Goods, managing multi-million dollar budgets and improving platform performance by 40%.
+COMPANY_BULLET_2_GLOBANT: Directed large, multi-disciplinary teams of over 100 global engineers, optimizing team capacity and velocity to consistently meet aggressive quarterly roadmap objectives.
+COMPANY_BULLET_3_GLOBANT: Managed full lifecycle project delivery for major banking and retail clients, from RFP analysis and staffing to execution, enhancing stakeholder visibility through KPI reporting.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm delivering custom cloud-based solutions and data services for clients in the media, sports, and healthcare industries across the Americas.
+COMPANY_BULLET_1_MANGOSOFT: Oversaw the end-to-end development of a media streaming platform for Concacaf, from proposal to hypercare support, successfully launching new services for major sports leagues.
+COMPANY_BULLET_2_MANGOSOFT: Managed the delivery of critical healthcare solutions for multiple hospitals, including data integration and imaging systems, improving procedural efficiency and data access.
+COMPANY_BULLET_3_MANGOSOFT: Implemented Scrum methodologies for project teams, defining and staffing resources to deliver on fixed-price contracts within budget and on schedule, ensuring client satisfaction.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: An integrated technology company providing hardware and software solutions for public safety, law enforcement, and healthcare, specializing in IoT and data management.
+COMPANY_BULLET_1_TIPI: Led a complex public safety project for the Colombian Police, delivering over 3,000 bodycams and a management platform under strict government contract requirements.
+COMPANY_BULLET_2_TIPI: Directed the entire software and firmware development lifecycle for law enforcement devices, ensuring compliance and successful city-wide deployment and operational support.
+COMPANY_BULLET_3_TIPI: Managed the implementation of asset tracking and communication systems for 10+ hospitals, improving operational workflows and reducing patient wait times through technology.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A Software-as-a-Service (SaaS) provider delivering Point-of-Sale (POS) and business management solutions for over 1,000 small businesses in Latin America.
+COMPANY_BULLET_1_ITBIGBOSS: Directed the full SDLC for a flagship SaaS product, leading a 30+ person team and managing complex integrations with payment, hardware, and accounting systems.
+COMPANY_BULLET_2_ITBIGBOSS: Led product implementation and adaptation for over 1,000 retail and health businesses, directly contributing to customer acquisition and 95% market retention.
+COMPANY_BULLET_3_ITBIGBOSS: Managed all operational support workflows, providing hands-on technical leadership in releases to ensure 99.9% system uptime and high customer satisfaction scores.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, operating over 60 sites across Colombia, Peru, and Chile with a focus on technology-driven member experience.
+COMPANY_BULLET_1_BODYTECH: Managed IT infrastructure and operations across 60+ sites in three countries, ensuring high availability for all critical business and member-facing systems.
+COMPANY_BULLET_2_BODYTECH: Led the full lifecycle for a custom CRM and billing software, automating billing processes and supporting membership growth to over 200,000 active users.
+COMPANY_BULLET_3_BODYTECH: Directed the implementation of a company-wide IT Service Desk and security systems, improving support ticket resolution by 30% and enhancing security compliance.

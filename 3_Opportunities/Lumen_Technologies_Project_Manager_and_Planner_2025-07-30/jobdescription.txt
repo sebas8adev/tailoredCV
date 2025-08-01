@@ -1,5 +1,5 @@
-Status: pending
-Data-Status: error
+Status: processed
+Data-Status: complete
 Job board: LinkedIn
 Company Name: Lumen Technologies
 Role Name: Project Manager and Planner

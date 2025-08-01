@@ -1,0 +1,55 @@
+# Global Information
+HIRING_MANAGER: Joseph Prabakar
+COMPANY_NAME: TWO95 International
+JOB_ROLE: Business Analyst/Project Manager - Remote
+APPLICATION_DATE: August 2, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Business Analyst/Project Manager - Remote
+CONTENT: Dear Joseph Prabakar,<br><br>I am writing to express my keen interest in the Business Analyst/Project Manager role, advertised on LinkedIn. With over 10 years of experience leading complex, large-scale IT projects from inception to completion, my background in both business analysis and project management aligns perfectly with the requirements of this position for your client.<br><br>My career has been dedicated to successfully bridging the gap between business needs and technical execution. I am adept at gathering and documenting requirements from business SMEs, managing project costs and budgets, and applying an adaptive project management approach that leverages Agile, Waterfall, and Hybrid methodologies to fit project needs. My experience spans diverse industries, including the healthcare sector, which I note is a plus for this role.<br><br>I excel in managing cross-functional teams and communicating effectively with all stakeholders, from technical partners to executive sponsors. My background includes creating detailed project plans, managing risks, overseeing quality assurance, and presenting status updates to ensure alignment and drive projects toward their goals. I am proficient with the entire MS Office Suite, MS Project, Jira, and other essential project management tools.<br><br>I am confident that my skills in creating structure in ambiguous settings and my commitment to delivering results would make me a valuable asset to your client. I am eager to discuss how my experience can contribute to their success.
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading large-scale, cross-functional IT projects from inception to completion. Expert in gathering business requirements and managing budgets, risks, and schedules using Agile, Waterfall, and Hybrid frameworks. Excels at stakeholder communication and C-level reporting, delivering solutions across healthcare, finance, and retail.
+SKILLS_TITLE_1: Project Management Methodologies
+SKILLS_DESC_1: Agile (SAFe, Scrum, Kanban), Waterfall, Hybrid Models, SDLC, Risk & Change Management
+SKILLS_TITLE_2: Business Analysis & Planning
+SKILLS_DESC_2: Requirements Gathering & Documentation, RFP Analysis, Roadmapping, KPI & OKR Tracking, Estimation
+SKILLS_TITLE_3: Stakeholder & Financial Management
+SKILLS_DESC_3: C-Level Reporting, Vendor Management, Budget & Cost Control, Stakeholder Engagement, Team Leadership
+SKILLS_TITLE_4: Technical & Tools Proficiency
+SKILLS_DESC_4: MS Project, Jira, Confluence, MS Office Suite (Visio, PowerPoint), Cloud (AWS, GCP), AI Solutions
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native consulting company reinventing business through innovative technology and AI-driven solutions for global enterprise clients across multiple industries.
+COMPANY_BULLET_1_GLOBANT: Led large-scale digital transformation programs for clients like Royal Caribbean, managing distributed teams of up to 100 engineers to ensure on-time, on-budget delivery.
+COMPANY_BULLET_2_GLOBANT: Drove program performance for Dick's Sporting Goods, achieving a 40% boost in e-commerce efficiency through adaptive quarterly roadmaps and PI Planning execution.
+COMPANY_BULLET_3_GLOBANT: Managed end-to-end project lifecycles, from RFP analysis and requirements gathering to C-level reporting and financial oversight for banking and retail clients.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm specializing in cloud services, big data solutions, and custom applications for the media, sports, and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Managed development of cloud-based media platforms for Concacaf, integrating live streaming and AWS services, leading to increased fan engagement and content delivery.
+COMPANY_BULLET_2_MANGOSOFT: Oversaw healthcare IT projects, including voice-to-text applications and DICOM imaging integrations, improving diagnostic workflows and reducing clinician documentation time.
+COMPANY_BULLET_3_MANGOSOFT: Implemented Scrum methodologies and defined project roadmaps for fixed-price contracts, ensuring clear requirements, timely delivery, and successful product launches for all clients.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: An innovative technology company delivering integrated hardware and software solutions for law enforcement, public safety, and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Led the end-to-end development of a bodycam system for the Colombian Police, delivering over 3,000 units under strict government contract compliance regulations.
+COMPANY_BULLET_2_TIPI: Directed the entire SDLC for management software, including requirements definition, development, and release management, enhancing operational efficiency for law enforcement agencies.
+COMPANY_BULLET_3_TIPI: Managed deployment of SaaS nurse-call systems in over 10 hospitals, improving patient response times and streamlining clinical communication through reliable IoT technology.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A software-as-a-service (SaaS) provider delivering customizable Point-of-Sale (POS) and management solutions for businesses in retail, fitness, and hospitality.
+COMPANY_BULLET_1_ITBIGBOSS: Spearheaded the full product lifecycle for a SaaS POS system, growing the user base to over 1,000 small businesses across Latin America.
+COMPANY_BULLET_2_ITBIGBOSS: Led all technical and operational aspects, from hands-on coding and releases to customer support, resulting in high client retention and product stability.
+COMPANY_BULLET_3_ITBIGBOSS: Integrated diverse technologies like biometrics and payment processing into the platform, expanding product features and increasing market competitiveness for all clients.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, dedicated to well-being through professional training services and advanced facility technology.
+COMPANY_BULLET_1_BODYTECH: Managed technology infrastructure and IT operations across 60+ sites in three countries, ensuring 99% system uptime for critical business and member-facing functions.
+COMPANY_BULLET_2_BODYTECH: Led the development of a custom CRM and billing platform, automating processes and improving member data management for a rapidly growing user base.
+COMPANY_BULLET_3_BODYTECH: Directed the corporate implementation of Microsoft Dynamics CRM & ERP, centralizing business operations and providing a unified platform for sales, service, and finance.

@@ -1,0 +1,55 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: SuperbTech, Inc.
+JOB_ROLE: Technical Project Manager
+APPLICATION_DATE: July 31st, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Technical Project Manager at SuperbTech, Inc.
+CONTENT: Dear Hiring Manager,<br><br>I am writing to express my keen interest in the Technical Project Manager position at SuperbTech, Inc., as advertised on LinkedIn. With over 10 years of experience managing complex, concurrent technical projects in client-facing consulting environments, my background aligns perfectly with the responsibilities and qualifications outlined in your job description.<br><br>My career has been dedicated to leading projects from initiation to completion, ensuring delivery is on-time, within scope, and on-budget. I am an expert in developing comprehensive project schedules, managing budgets and forecasts, and executing change orders to maintain financial and strategic alignment. My experience includes rigorous RAID management to proactively mitigate risks and ensure smooth project execution across cross-functional teams.<br><br>I am certified in SAFe and Scrum and highly proficient in both Agile and Waterfall methodologies, allowing me to adapt my approach to best suit project and client needs. I have a strong record of delivering projects in your preferred industries, including technology, healthcare, and government. A key strength is my ability to communicate effectively with all levels of an organization, from leading development team meetings to preparing and presenting clear status updates for executive-level steering committees.<br><br>I am confident that my leadership skills and technical project management expertise will allow me to make a significant contribution to SuperbTech, Inc. I am eager to discuss how my background can support your team's success.
+
+# CV Content
+CAREER_SUMMARY: Adaptive Technical Project Manager with 10+ years of experience leading complex, end-to-end technical projects for global clients in technology, healthcare, and government. Expert in schedule, budget, and scope management for concurrent initiatives, driving delivery through Agile (SAFe, Scrum) and Waterfall methodologies. Skilled in full SDLC execution, RAID management, change control, and executive stakeholder communication. Passionate about leading high-performance teams and delivering impactful solutions in fast-paced, client-facing environments, consistently ensuring projects meet financial and strategic goals.
+SKILLS_TITLE_1: Project Lifecycle Management
+SKILLS_DESC_1: End-to-end Project Planning, Execution, SDLC, Scope Control, Change Orders, Executive Reporting, Stakeholder Engagement.
+SKILLS_TITLE_2: Agile & Hybrid Methodologies
+SKILLS_DESC_2: SAFe, Scrum of Scrums, Scrum, Kanban, Waterfall; Certified SAFe Agilist (SAFe 6), A-CSM, CSM.
+SKILLS_TITLE_3: Financial & Risk Oversight
+SKILLS_DESC_3: Budgeting & Forecasting, Resource Management, Timesheet & Invoicing Support, RAID Log Management, Risk Mitigation.
+SKILLS_TITLE_4: Technical & Industry Acumen
+SKILLS_DESC_4: Technical Consulting, Cloud (AWS/GCP), AI Solutions, Healthcare, Government, Finance, Retail, Aviation/Travel.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Technical Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company offering AI-powered software development and consulting services to reinvent businesses and industries through innovative technology solutions.
+COMPANY_BULLET_1_GLOBANT: Managed a portfolio of projects for Royal Caribbean and Dick's Sporting Goods, overseeing budgets, schedules, and globally distributed teams of up to 100+.
+COMPANY_BULLET_2_GLOBANT: Drove a 40% e-commerce performance improvement for Dick's Sporting Goods through adaptive quarterly roadmaps and Agile PI planning, boosting user engagement and sales.
+COMPANY_BULLET_3_GLOBANT: Led discovery, planning, and execution for an AI chatbot at Royal Caribbean, translating complex requirements and team progress into clear C-level stakeholder reports.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A technology consulting firm specializing in custom software, cloud services, and Big Data solutions for clients in the media and healthcare sectors.
+COMPANY_BULLET_1_MANGOSOFT: Led development of a voice-to-text application and DICOM imaging integration for healthcare clients, managing the full project lifecycle from proposal to production.
+COMPANY_BULLET_2_MANGOSOFT: Delivered a media streaming and statistics platform for Concacaf using AWS services, ensuring on-time project completion within a fixed-price engagement model.
+COMPANY_BULLET_3_MANGOSOFT: Implemented Scrum methodologies and defined project KPIs, improving team velocity and delivering weekly, monthly, and quarterly status reports to stakeholders and leadership.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology company developing integrated hardware and software solutions for public safety, law enforcement, and healthcare organizations across Colombia.
+COMPANY_BULLET_1_TIPI: Led the end-to-end SDLC for a bodycam system for the Colombian Police, delivering hardware and software for over 3,000 devices under government contracts.
+COMPANY_BULLET_2_TIPI: Directed development of nurse call and asset tracking systems for 10+ hospitals, improving communication speed and patient care through real-time data.
+COMPANY_BULLET_3_TIPI: Managed project constraints, quality, and implementation, and led the operations team in customer support and deployment, ensuring high system uptime and compliance.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider developing POS and business management software for over 1,000 small businesses in the retail, restaurant, and fitness industries.
+COMPANY_BULLET_1_ITBIGBOSS: Directed the complete software development life cycle for a SaaS POS platform, scaling the product to support over 1,000 businesses across Latin America.
+COMPANY_BULLET_2_ITBIGBOSS: Led a 30-person team technically with hands-on coding and code reviews, while managing the product roadmap, features, and third-party system integrations.
+COMPANY_BULLET_3_ITBIGBOSS: Established and led the operations support workflow, managing customer implementation and support, which directly contributed to high customer retention and business growth.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, operating over 60 sites across Colombia, Peru, and Chile with a strong technology-driven vision.
+COMPANY_BULLET_1_BODYTECH: Managed IT infrastructure deployment for 60+ sites, including networking and security, ensuring operational readiness and scalability for a rapidly expanding enterprise.
+COMPANY_BULLET_2_BODYTECH: Served as technical lead for the Dynamics CRM & ERP implementation, overseeing the full project lifecycle to centralize customer and financial data management.
+COMPANY_BULLET_3_BODYTECH: Led the SDLC for a custom billing software and established the IT Service Desk, improving ticket resolution rates and achieving high system uptime.

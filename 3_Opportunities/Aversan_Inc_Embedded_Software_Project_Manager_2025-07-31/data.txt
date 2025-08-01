@@ -1,0 +1,55 @@
+# Global Information
+HIRING_MANAGER: Muhammad Sid
+COMPANY_NAME: Aversan Inc.
+JOB_ROLE: Embedded Software Project Manager
+APPLICATION_DATE: July 30th, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Embedded Software Project Manager at Aversan Inc.
+CONTENT: Dear Muhammad Sid,<br><br>I am writing to express my strong interest in the Embedded Software Project Manager position at Aversan Inc., which I discovered on LinkedIn. With over 10 years of experience managing the full lifecycle of complex technical projects, including embedded systems, I am confident I possess the skills and expertise required to contribute significantly to your Professional Services team.<br><br>My background aligns directly with the core responsibilities of this role. At TIPI, I led the end-to-end development of an Android-based firmware for law enforcement bodycams and managed the deployment of over 3,000 devices. This involved overseeing the complete SDLC, managing hardware/software integration, and ensuring mission-critical reliability, which mirrors the embedded systems focus at Aversan.<br><br>Furthermore, a significant portion of my career has been dedicated to proposal development and pre-sales support. In my role at Globant, I was responsible for RFP analysis, cost and schedule estimation, SOW creation, and presenting technical solutions to clients like Royal Caribbean and British Airways. I excel at working with sales and technical leads to qualify opportunities and secure new business.<br><br>While my direct experience is not in aerospace or with DO-178C, my work in highly regulated industries like finance and healthcare has instilled a rigorous approach to quality, risk management, and process optimization. I am an adaptive and quick learner, eager to apply my robust project management and technical leadership skills to the safety-critical standards of the aerospace and defence industries. I am excited by the opportunity to deliver world-class systems for Aversan's clients.<br><br>Thank you for considering my application. I look forward to discussing how my experience can benefit your team.
+
+# CV Content
+CAREER_SUMMARY: Adaptive Technical Project Manager with 10+ years of experience leading the full lifecycle of complex software and embedded systems projects. Expert in proposal development, pre-sales engineering support, and end-to-end project execution for industries including public safety and healthcare. Excels at managing customer relationships, building high-performance engineering teams, and delivering projects on time and within budget. Strengths in Agile (SAFe, Scrum) and traditional methodologies, financial oversight, and translating complex technical requirements into actionable plans.
+SKILLS_TITLE_1: Proposal Development & Pre-Sales
+SKILLS_DESC_1: RFP Analysis, Cost/Schedule Estimation, SOW Creation, Technical Proposals, Feasibility Analysis, Customer Presentations
+SKILLS_TITLE_2: Project Lifecycle Management
+SKILLS_DESC_2: End-to-End Execution, Risk Assessment & Management, Budget & Resource Planning, Quality Assurance, Stakeholder Reporting
+SKILLS_TITLE_3: Technical & Domain Expertise
+SKILLS_DESC_3: Embedded Systems (Android Firmware, RFID), SDLC, Cloud Platforms (AWS, GCP), System Integration, AI Solutions
+SKILLS_TITLE_4: Agile & PM Methodologies
+SKILLS_DESC_4: SAFe, Scrum, Kanban, Scrum of Scrums, Hybrid Waterfall, Jira, Confluence
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Senior Project Manager
+COMPANY_SUMMARY_GLOBANT: A global digital consultancy reinventing businesses through innovative technology and AI solutions, leveraging expertise to create transformative software products for leading companies.
+COMPANY_BULLET_1_GLOBANT: Directed proposal development for Royal Caribbean, leading to multi-million dollar contracts for guest-facing AI chatbot and mobile application feature development.
+COMPANY_BULLET_2_GLOBANT: Managed quarterly roadmaps and PI planning for Dick's Sporting Goods' e-commerce platform, improving Core Web Vitals and overall performance by 40%.
+COMPANY_BULLET_3_GLOBANT: Led a 100+ person team for Banco de Chile's digital transformation, implementing Scrum of Scrums to manage data center migration and app development.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm specializing in cloud-native applications, big data, and streaming services for the media, sports, and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Spearheaded project execution for Concacaf's media platform, delivering live streaming services to millions of users by implementing a hybrid Scrum methodology.
+COMPANY_BULLET_2_MANGOSOFT: Led end-to-end development of a voice-to-text application for healthcare clients, improving physician documentation efficiency by integrating AWS Polly and custom AI.
+COMPANY_BULLET_3_MANGOSOFT: Managed the full lifecycle of a medical imaging solution, using DICOM standards to securely transfer patient data to AWS for multiple clinics.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology company developing integrated hardware and software solutions, including IoT devices and management platforms for public safety and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Led development of an Android-based embedded firmware for bodycams used by police, enabling real-time video streaming and geolocalization for officers in the field.
+COMPANY_BULLET_2_TIPI: Managed the deployment and operations for over 3,000 bodycams, defining the full SDLC and support workflow to ensure mission-critical system reliability and uptime.
+COMPANY_BULLET_3_TIPI: Directed the creation of an RFID-based asset tracking system for hospitals, improving inventory management and reducing asset loss across multiple facilities.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider creating POS and business management software for over 1,000 small businesses in the retail, fitness, and restaurant industries.
+COMPANY_BULLET_1_ITBIGBOSS: Led the full SDLC for a flagship POS product, overseeing development from concept to market release and scaling to over 1,000 business clients.
+COMPANY_BULLET_2_ITBIGBOSS: Directed technical integration of biometrics, turnstiles, and payment hardware, expanding product capabilities and increasing market adoption in the fitness sector.
+COMPANY_BULLET_3_ITBIGBOSS: Managed a 30-person development team and led operations, achieving high customer satisfaction through continuous feature releases and responsive support.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading chain of health and fitness centers operating over 60 sites in South America, focused on technology-driven member experiences.
+COMPANY_BULLET_1_BODYTECH: Managed the lifecycle for a custom access control system, integrating software with turnstiles and biometrics across 60+ locations to improve security.
+COMPANY_BULLET_2_BODYTECH: Led the technical implementation of Microsoft Dynamics CRM & ERP, centralizing member data and billing processes which improved operational efficiency and reporting.
+COMPANY_BULLET_3_BODYTECH: Established and led the IT Service Desk and infrastructure operations, managing networking and CCTV to ensure high system uptime for all clubs.

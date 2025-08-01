@@ -1,55 +1,55 @@
 # Global Information
-HIRING_MANAGER: Green Key Resources Hiring Team
-COMPANY_NAME: Green Key Resources
-JOB_ROLE: Operations Project Manager
-APPLICATION_DATE: July 26, 2025
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: Green Key Resources
+JOB_ROLE: Operations Project Manager
+APPLICATION_DATE: August 1st, 2025
 
 # Cover Letter Content
-SUBJECT: Application for Operations Project Manager at Green Key Resources
-CONTENT: Dear Green Key Resources Hiring Team,<br><br>I am writing to express my keen interest in the Operations Project Manager position, as advertised on LinkedIn. With over 10 years of experience managing complex, operations-focused projects, particularly within the healthcare sector, I am confident that my background aligns perfectly with the requirements of this role.<br><br>My experience includes leading end-to-end initiatives that directly parallel the responsibilities outlined in your job description. For instance, at Bodytech, I led the development and implementation of the company's CRM and billing software, a large-scale project that automated member transactions and streamlined financial operations across 60+ sites. This work involved extensive stakeholder management, process improvement, and creating reporting metrics to ensure visibility for leadership.<br><br>Additionally, my work with healthcare clients like San Rafael Hospital involved managing the implementation of medical imaging integrations and patient flow systems. This required gathering detailed business requirements, managing system transitions, and ensuring seamless change management to improve practitioner workflows and operational efficiency.<br><br>I am highly proficient in managing large-scale workflows, developing clear project work plans, and presenting status updates to all organizational levels. My adaptive approach to project management, combining both Agile and traditional methodologies, allows me to effectively drive projects to successful completion.<br><br>I am eager to bring my background in operations project management and my direct experience with billing and enrollment systems to your client's team. Thank you for your time and consideration. I look forward to discussing my qualifications further.<br><br>Sincerely,<br>Andres Jimenez
+SUBJECT: Application for Operations Project Manager at Green Key Resources's Client
+CONTENT: Dear Hiring Manager,<br><br>I am writing to express my keen interest in the Operations Project Manager position I found on LinkedIn. With over 10 years of experience managing complex, end-to-end projects, particularly within the healthcare sector, my background aligns closely with the requirements of this role.<br><br>In my previous roles, I have successfully managed large-scale operational workflows, including initiatives directly related to billing systems and customer data management. I led the full lifecycle of a custom CRM and billing software for a multi-site enterprise and directed the transition from legacy platforms to a new Microsoft Dynamics ERP, experiences that have honed my skills in change management and seamless system implementation.<br><br>My expertise includes developing detailed workplans, gathering cross-functional business requirements, and creating performance metrics dashboards to provide leadership with clear visibility into project status, risks, and KPIs. I am highly comfortable presenting to all stakeholder levels and am adept at driving process improvement initiatives from conception to completion. My background in healthcare projects, such as implementing imaging integration and patient data systems, would allow me to quickly add value to your client's enrollment and billing initiatives.<br><br>I am confident that my adaptive project management approach and hands-on experience in operational projects make me a strong candidate for this contract position.
 
 # CV Content
-CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading complex, operations-focused projects across the healthcare, finance, and retail sectors. Expert in managing end-to-end project lifecycles, from system migrations to process improvements, for teams of up to 100+. Skilled in stakeholder communication, creating reporting dashboards, and driving initiatives that enhance operational efficiency.
-SKILLS_TITLE_1: Project & Operations Management
-SKILLS_DESC_1: End-to-End Project Execution, Process Improvement, Stakeholder Management, Change Management, Risk Escalation, Business Requirements Gathering, Workplan Development.
-SKILLS_TITLE_2: Methodologies & Frameworks
-SKILLS_DESC_2: Agile (Scrum, Kanban, SAFe), Waterfall, Hybrid Models.
-SKILLS_TITLE_3: Tools & Reporting
-SKILLS_DESC_3: Jira, Confluence, Asana, MS Teams, Power BI, SQL, Metrics & Dashboard Creation.
-SKILLS_TITLE_4: Industry Domains
-SKILLS_DESC_4: Healthcare Operations (Enrollment, Billing), Finance, Retail, Public Safety, SaaS, E-commerce, Cloud Platforms (AWS, GCP).
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading complex operational and digital transformation projects across healthcare, finance, and retail. Expert in managing end-to-end project lifecycles, from workplan development to implementation. Excels in stakeholder presentations, process improvement, and legacy system transitions. Skilled in Agile (Scrum, Kanban) and traditional methodologies, with strengths in creating reporting dashboards, managing large-scale workflows, and ensuring on-time delivery.
+SKILLS_TITLE_1: Project & Operations Management
+SKILLS_DESC_1: End-to-End Project Lifecycle, Process Improvement, Change Management, Stakeholder Presentations, Risk & Issue Escalation.
+SKILLS_TITLE_2: Methodologies & Frameworks
+SKILLS_DESC_2: Agile (SAFe, Scrum, Kanban), Waterfall & Hybrid Models, SDLC, Business Requirement Gathering.
+SKILLS_TITLE_3: Technical & Platform Acumen
+SKILLS_DESC_3: Healthcare Systems (DICOM, HL7), CRM/ERP (Salesforce, Dynamics), Cloud (AWS, GCP), Jira, Confluence.
+SKILLS_TITLE_4: Data & Reporting
+SKILLS_DESC_4: KPI & OKR Tracking, Performance Metrics Dashboards, Capacity & Velocity Planning, Financial Oversight.
 
 # Work Experience - Globant
 JOB_TITLE_GLOBANT: Project Manager
-COMPANY_SUMMARY_GLOBANT: A digitally native consulting company that leverages AI and innovative technologies to reinvent businesses and deliver scalable, high-quality software solutions globally.
-COMPANY_BULLET_1_GLOBANT: Led a 100+ person team for Banco de Chile, managing a data center migration and new mobile app features, ensuring seamless transitions and data access.
-COMPANY_BULLET_2_GLOBANT: Managed end-to-end project delivery for Royal Caribbean, creating KPI dashboards and RAG status reports for C-level stakeholders, improving cross-functional alignment and visibility.
-COMPANY_BULLET_3_GLOBANT: Drove a 40% performance improvement for Dick's Sporting Goods' e-commerce platform by optimizing workflows and leading process enhancements through agile quarterly planning.
+COMPANY_SUMMARY_GLOBANT: A digitally native consulting company that reimagines businesses through innovative technology solutions, specializing in AI-driven software development and large-scale digital transformation.
+COMPANY_BULLET_1_GLOBANT: Drove 40% e-commerce performance improvement for Dick's Sporting Goods by leading Core Web Vitals initiatives and optimizing large-scale digital workflows.
+COMPANY_BULLET_2_GLOBANT: Managed end-to-end delivery of guest-facing applications for Royal Caribbean, leading cross-functional teams and presenting project status and KPIs to C-level stakeholders.
+COMPANY_BULLET_3_GLOBANT: Orchestrated a large-scale datacenter migration from on-prem to GCP for Banco de Chile, ensuring seamless transition and operational continuity for critical banking applications.
 
 # Work Experience - Mango-soft
 JOB_TITLE_MANGOSOFT: Project Manager
-COMPANY_SUMMARY_MANGOSOFT: A custom software development firm specializing in AI and cloud solutions for media, healthcare, and sports industries, delivering innovative digital products.
-COMPANY_BULLET_1_MANGOSOFT: Directed end-to-end implementation of healthcare solutions for multiple clinics, including voice-to-text and medical imaging integrations, improving practitioner workflow efficiency.
-COMPANY_BULLET_2_MANGOSOFT: Managed large-scale workflows for Concacaf, developing a media and streaming platform from concept to production, enhancing fan engagement through real-time data services.
-COMPANY_BULLET_3_MANGOSOFT: Established and staffed high-performance teams of 10+ engineers, implementing scrum methodologies to deliver KPI-driven results and ensure operational support for new products.
+COMPANY_SUMMARY_MANGOSOFT: A software development firm creating bespoke digital solutions, focusing on cloud services, big data applications, and tailored software for media and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Led the implementation of an imaging integration platform for multiple clinics, transitioning from legacy systems and improving data accessibility for medical staff.
+COMPANY_BULLET_2_MANGOSOFT: Developed a voice-to-text application for healthcare professionals, improving clinical documentation efficiency and reducing manual data entry for over 100 users.
+COMPANY_BULLET_3_MANGOSOFT: Managed the development of a media streaming platform for Concacaf, overseeing complex workflows from media ingestion to live delivery, enhancing fan engagement.
 
 # Work Experience - TIPI
 JOB_TITLE_TIPI: Technical Project Manager
-COMPANY_SUMMARY_TIPI: A technology company providing integrated hardware and software solutions, including IoT devices, for public safety, law enforcement, and healthcare sectors.
-COMPANY_BULLET_1_TIPI: Implemented patient flow tracking boards and nurse call systems in 10+ hospitals, optimizing operational workflows and reducing patient wait times through RFID technology.
-COMPANY_BULLET_2_TIPI: Led the full lifecycle for a bodycam system for the Colombian Police, ensuring on-time delivery and compliance under a complex government contract.
-COMPANY_BULLET_3_TIPI: Oversaw deployment and operations support for over 3,000 bodycam devices, managing software releases and establishing a workflow that improved device uptime and reliability.
+COMPANY_SUMMARY_TIPI: A technology company developing integrated hardware and software solutions, specializing in IoT devices and management platforms for public safety and healthcare operations.
+COMPANY_BULLET_1_TIPI: Directed the full lifecycle of a bodycam system for the Colombian Police, including a platform for evidence review, real-time tracking, and operational reporting.
+COMPANY_BULLET_2_TIPI: Implemented a Bluetooth nurse-call system across 10+ hospitals, optimizing clinical workflows and improving patient-staff communication and response times.
+COMPANY_BULLET_3_TIPI: Led operations and deployment for 3,000+ bodycam units, managing firmware updates and support workflows to ensure reliability under strict government contract SLAs.
 
 # Work Experience - itBigBoss
 JOB_TITLE_ITBIGBOSS: Technical Project Manager
-COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering POS and business management software for restaurants, fitness, and health centers with integrations for payments, inventory, and CRM.
-COMPANY_BULLET_1_ITBIGBOSS: Directed the full SDLC for a SaaS POS system, leading its implementation for over 1,000 businesses to automate billing and sales processes.
-COMPANY_BULLET_2_ITBIGBOSS: Managed complex system integrations with biometrics and payment processors, enhancing operational functionality and streamlining business workflows for clients across Latam.
-COMPANY_BULLET_3_ITBIGBOSS: Led a team of 30+ developers and support staff, defining the product roadmap and overseeing operations, which directly improved customer retention through reliable service.
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider that delivered and supported a comprehensive POS and business management platform for over 1,000 small businesses in the retail and service industries.
+COMPANY_BULLET_1_ITBIGBOSS: Engineered a SaaS POS platform with payment processing, inventory control, and automated billing, increasing operational efficiency for 1,000+ SMB clients.
+COMPANY_BULLET_2_ITBIGBOSS: Led integrations with third-party accounting and government tax systems, ensuring compliance and seamless financial data flow for a diverse client base.
+COMPANY_BULLET_3_ITBIGBOSS: Directed the complete software development life cycle and client support operations, resulting in high platform adoption and strong customer retention.
 
 # Work Experience - Bodytech
 JOB_TITLE_BODYTECH: IT Manager
-COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, transforming wellness through technology, with over 60 locations across Colombia, Peru, and Chile.
-COMPANY_BULLET_1_BODYTECH: Spearheaded the SDLC for the company's CRM and billing software, automating member transactions and improving financial reporting accuracy across all 60+ locations.
-COMPANY_BULLET_2_BODYTECH: Managed technology infrastructure and IT service desk operations for all sites, ensuring high system uptime and efficient support for business-critical systems.
-COMPANY_BULLET_3_BODYTECH: Led the technical implementation of Microsoft Dynamics CRM & ERP, a large-scale project that centralized customer data and streamlined core business and billing operations.
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, focused on delivering premium wellness services supported by robust, integrated technology infrastructure.
+COMPANY_BULLET_1_BODYTECH: Managed the full lifecycle of the company’s CRM and billing software, automating member billing cycles and improving financial reporting across 60+ locations.
+COMPANY_BULLET_2_BODYTECH: Led the technical implementation of Microsoft Dynamics CRM & ERP, transitioning from legacy systems to unify sales, operations, and financial data enterprise-wide.
+COMPANY_BULLET_3_BODYTECH: Established and led the IT Service Desk and infrastructure operations for 60+ sites, ensuring high system uptime and security for all member-facing technology.

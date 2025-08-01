@@ -1,55 +1,55 @@
 # Global Information
-HIRING_MANAGER: Amtex Systems Inc Hiring Team
+HIRING_MANAGER: Hiring Manager
 COMPANY_NAME: Amtex Systems Inc
 JOB_ROLE: Sr Project Manager
-APPLICATION_DATE: July 3, 2024
+APPLICATION_DATE: July 30th, 2025
 
 # Cover Letter Content
 SUBJECT: Application for Sr Project Manager at Amtex Systems Inc
-CONTENT: Dear Amtex Systems Inc Hiring Team,<br><br>I am writing to express my strong interest in the Sr Project Manager position, as advertised on LinkedIn. With over 10 years of experience leading complex technology application and integration projects, particularly within the financial services sector, my background aligns perfectly with the requirements for the Veritex Community Bank Integration efforts.<br><br>My career has been focused on managing the end-to-end delivery of large-scale programs, with a deep emphasis on governance, risk management, and compliance frameworks in highly regulated industries. At Globant, I successfully managed a data center migration and application modernization project for Banco de Chile, navigating complex regulatory requirements and coordinating with cross-functional teams of over 100 engineers. This experience has equipped me with a robust understanding of the intricacies of financial system integrations.<br><br>I am an expert in both Agile and Waterfall methodologies and proficient with tools like Jira and Microsoft Project. My approach involves proactive risk mitigation, meticulous budget and schedule management, and clear, concise communication tailored for stakeholders at all levels, including senior leadership. I am confident in my ability to drive this critical integration project to successful completion, ensuring all deliverables meet the highest quality standards.<br><br>I am eager to bring my project management expertise and my commitment to "Getting Stuff Done" to your team. Thank you for your time and consideration. I look forward to discussing how I can contribute to your success.<br><br>Sincerely,<br>
+CONTENT: Dear Hiring Manager,<br><br>I am writing to express my keen interest in the remote Sr Project Manager position at Amtex Systems Inc, as advertised on LinkedIn. With over 10 years of experience leading complex technology integration and application delivery projects, particularly within the financial services sector, my background aligns perfectly with the requirements for the Veritex Community Bank Integration efforts.<br><br>In my previous role, I successfully managed large-scale system integrations for clients like Banco de Chile, overseeing core banking feature updates, datacenter migrations, and the implementation of robust data governance frameworks. I am adept at managing the full project lifecycle, from developing charters and budgets to proactive risk mitigation and ensuring adherence to strict regulatory and compliance standards.<br><br>My expertise includes engaging with cross-functional stakeholders across business, IT, operations, and risk management teams to define scope and ensure timely delivery. I have a strong record of providing clear, concise status reports and dashboards to senior leadership, translating complex project data into actionable insights.<br><br>I am confident that my adaptive approach, expertise in both Agile and Waterfall methodologies, and my proactive, "Get Stuff Done" attitude will allow me to make a significant and immediate contribution to your team and client. I am eager to discuss how my skills in leading integration projects can benefit your organization.
 
 # CV Content
-CAREER_SUMMARY: Adaptive Senior Project Manager with 10+ years of experience leading complex technology integrations and digital transformations for the financial services industry. Expert in managing governance, risk, and compliance for large-scale programs, driving delivery through Agile and Waterfall methodologies.
+CAREER_SUMMARY: Adaptive Sr Project Manager with 10+ years of experience leading complex technology integration projects in the financial services, retail, and healthcare industries. Expert in managing governance, risk, and compliance frameworks for large-scale application delivery. Strengths in full lifecycle management, cross-functional stakeholder engagement, executive reporting, and financial oversight. Proficient in Agile (SAFe, Scrum) and Waterfall methodologies to drive project success and deliver business value.
 SKILLS_TITLE_1: Project & Program Management
-SKILLS_DESC_1: End-to-End Project Delivery, Financial & Budget Management, Risk & Compliance (SOX), Governance Frameworks, Stakeholder Engagement, Cross-functional Leadership.
-SKILLS_TITLE_2: Methodologies & Tools
-SKILLS_DESC_2: Agile (SAFe, Scrum, Kanban), Waterfall, Hybrid Models, Jira, Confluence, Microsoft Project, Azure DevOps (ADO).
-SKILLS_TITLE_3: Technical & Domain Expertise
-SKILLS_DESC_3: Financial Services (Core Banking Concepts), System Integration, SDLC, Cloud Platforms (AWS, GCP), Data Migration, API Development, AI-driven Solutions.
-SKILLS_TITLE_4: Industry Acumen
-SKILLS_DESC_4: Finance & Banking, Retail & E-commerce, Travel & Hospitality, Healthcare, Public Safety, Media & Entertainment.
+SKILLS_DESC_1: Agile (SAFe, Scrum, Kanban), Waterfall & Hybrid Methodologies, End-to-End Project Lifecycle, Risk & Issue Management, Budget & Schedule Control, Governance & Reporting
+SKILLS_TITLE_2: Financial Services & Regulated Industries
+SKILLS_DESC_2: Banking System Integration, E-commerce Platforms, Regulatory & Compliance Management (SOX), Healthcare Systems (HL7, DICOM), RFP Analysis & Proposal Management
+SKILLS_TITLE_3: Technical & Platform Expertise
+SKILLS_DESC_3: Cloud Platforms (AWS, GCP), System & API Integration, Data Migration, AI & Chatbot Solutions, Full SDLC Management, Java, SQL, Microservices Architecture
+SKILLS_TITLE_4: Tools & Leadership
+SKILLS_DESC_4: Jira, Confluence, Microsoft Project, Azure DevOps (ADO), Cross-Functional Team Leadership, C-Level Stakeholder Communication, Process Improvement, Vendor & Resource Management
 
 # Work Experience - Globant
-JOB_TITLE_GLOBANT: Senior Project Manager
-COMPANY_SUMMARY_GLOBANT: A digitally native consulting firm leveraging AI and innovative technologies to reinvent businesses and deliver scalable software solutions for global enterprise clients.
-COMPANY_BULLET_1_GLOBANT: Directed large-scale integration programs for Royal Caribbean, leading 3 offshore teams to deliver AI chatbot and mobile features, enhancing guest experience and onboard revenue.
-COMPANY_BULLET_2_GLOBANT: Managed the full project lifecycle for a Banco de Chile data migration to GCP, ensuring regulatory compliance and establishing robust governance for +100 engineers.
-COMPANY_BULLET_3_GLOBANT: Drove e-commerce platform performance for Dick's Sporting Goods, improving core web vitals by 40% through adaptive quarterly roadmaps and Agile execution with a 30+ person team.
+JOB_TITLE_GLOBANT: Sr Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company offering innovative technology solutions, focusing on AI-powered transformation and software development for global enterprise clients across various industries.
+COMPANY_BULLET_1_GLOBANT: Led a core system modernization for Banco de Chile, managing data migration and application integration, ensuring regulatory compliance and delivering executive-level progress reports.
+COMPANY_BULLET_2_GLOBANT: Managed delivery for Royal Caribbean's guest app, overseeing financial transaction features and integrating systems for three offshore teams, within fixed-price contract constraints.
+COMPANY_BULLET_3_GLOBANT: Drove a 40% performance improvement for Dick's Sporting Goods' e-commerce platform by leading a +30-person team through strategic PI planning and execution.
 
 # Work Experience - Mango-soft
-JOB_TITLE_MANGOSOFT: Technical Project Manager
-COMPANY_SUMMARY_MANGOSOFT: A software development company specializing in custom solutions for media, sports, and healthcare, delivering cloud-based applications and big data services.
-COMPANY_BULLET_1_MANGOSOFT: Led the end-to-end development of a media streaming platform for Concacaf, integrating AWS services and delivering new features for multiple MLS teams.
-COMPANY_BULLET_2_MANGOSOFT: Managed healthcare integration projects for several clinics, implementing a voice-to-text solution and migrating medical imaging data (DICOM) to AWS cloud infrastructure.
-COMPANY_BULLET_3_MANGOSOFT: Staffed and directed a 10+ person team to deliver complex, fixed-price projects, establishing Scrum methodologies that improved delivery predictability and stakeholder satisfaction.
+JOB_TITLE_MANGOSOFT: Sr Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software consultancy specializing in custom cloud-native solutions, data engineering, and application development for clients in media, sports, and healthcare sectors.
+COMPANY_BULLET_1_MANGOSOFT: Directed end-to-end delivery of a media integration platform for Concacaf on AWS, managing fixed-price contracts and improving content delivery speed for viewers.
+COMPANY_BULLET_2_MANGOSOFT: Led integration of medical imaging (DICOM) and patient data (HL7) systems for multiple clinics, enhancing data access and reducing wait times for clinicians.
+COMPANY_BULLET_3_MANGOSOFT: Implemented Scrum methodologies and staffed teams of over 10 engineers, leading projects from initial RFP to final production support and hyper care phases.
 
 # Work Experience - TIPI
 JOB_TITLE_TIPI: Technical Project Manager
-COMPANY_SUMMARY_TIPI: A technology firm delivering integrated hardware and software solutions, including IoT devices and management platforms, for public safety and healthcare sectors.
-COMPANY_BULLET_1_TIPI: Led the full SDLC and deployment of an integrated bodycam and evidence management system for the Colombian Police, supporting over 3,000 devices nationwide.
-COMPANY_BULLET_2_TIPI: Delivered a real-time patient and asset tracking system for 10+ hospitals, integrating RFID and Bluetooth devices to improve operational efficiency and patient flow.
-COMPANY_BULLET_3_TIPI: Managed project constraints for government contracts, ensuring on-time delivery under strict regulatory requirements and leading operations support for deployed solutions.
+COMPANY_SUMMARY_TIPI: A technology firm developing integrated hardware and software solutions, including IoT devices and management platforms for public safety and healthcare organizations.
+COMPANY_BULLET_1_TIPI: Led a project for the Colombian Police to deploy 3,000 bodycams, managing the entire hardware/software lifecycle under strict government contract and compliance regulations.
+COMPANY_BULLET_2_TIPI: Directed the integration of IoT patient-call systems in over 10 hospitals, streamlining nurse-patient communication and improving workflow efficiency and response times.
+COMPANY_BULLET_3_TIPI: Oversaw technical leadership and operations support, defining project constraints and working hands-on with the team to ensure quality and on-time delivery.
 
 # Work Experience - itBigBoss
 JOB_TITLE_ITBIGBOSS: Technical Project Manager
-COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering a comprehensive POS and business management platform with hardware and software integrations for small businesses across Latin America.
-COMPANY_BULLET_1_ITBIGBOSS: Directed the complete SDLC for a SaaS POS product, leading a 30-person team and driving adoption for over 1,000 businesses in retail and fitness.
-COMPANY_BULLET_2_ITBIGBOSS: Engineered integrations with payment processors, accounting software, and government tax systems, ensuring compliance and seamless operations for a diverse client base.
-COMPANY_BULLET_3_ITBIGBOSS: Provided hands-on technical leadership, including coding and code reviews, to enhance product features and system stability, directly contributing to customer retention.
+COMPANY_SUMMARY_ITBIGBOSS: A Software as a Service (SaaS) provider that developed and scaled a comprehensive POS and business management platform for small to medium-sized businesses.
+COMPANY_BULLET_1_ITBIGBOSS: Headed the full SDLC of a SaaS POS platform, successfully deploying it to over 1,000 businesses by integrating with various payment and accounting systems.
+COMPANY_BULLET_2_ITBIGBOSS: Managed product adaptation and implementation across retail, fitness, and health verticals, increasing market penetration and customer retention through tailored feature sets.
+COMPANY_BULLET_3_ITBIGBOSS: Provided hands-on technical leadership, guiding development teams through coding, code reviews, and releases to ensure platform stability and high performance.
 
 # Work Experience - Bodytech
 JOB_TITLE_BODYTECH: IT Manager
-COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, providing comprehensive wellness services to a large member base across multiple countries.
-COMPANY_BULLET_1_BODYTECH: Managed IT infrastructure and service desk operations for over 60 sites across Colombia, Peru, and Chile, ensuring 99% system uptime and support.
-COMPANY_BULLET_2_BODYTECH: Led the technical implementation of Microsoft Dynamics CRM & ERP, integrating business processes and improving data management and reporting capabilities for the organization.
-COMPANY_BULLET_3_BODYTECH: Directed the SDLC for a custom CRM and billing platform, including a biometric access control system that automated member check-in and reduced fraud.
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, operating over 60 clubs across Colombia, Peru, and Chile, focused on wellness services.
+COMPANY_BULLET_1_BODYTECH: Directed the corporate-wide Microsoft Dynamics CRM & ERP implementation across 60+ sites, unifying business operations and improving data-driven decision-making.
+COMPANY_BULLET_2_BODYTECH: Managed the lifecycle for a proprietary access control and billing system with biometrics, enhancing security and automating revenue collection for all members.
+COMPANY_BULLET_3_BODYTECH: Established the IT service desk and managed all technology infrastructure, including networking and CCTV, achieving high system uptime and user satisfaction.

@@ -1,0 +1,71 @@
+Status: pending
+Data-Status: error
+Job board: LinkedIn
+Company Name: Pransu Tech Solutions
+Role Name: RPA Product Manager/Project Manager
+Location: United States
+Type: Remote
+Salary range: Not specified
+Hiring Team: Not identified
+Application Instructions: LinkedIn Easy Apply
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4278564440&distance=25&f_TPR=r86400&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+Job Description:
+About the job
+Product Manager/Project Manager
+
+Remote (CST)
+
+The team has expanded capabilities to include AI, like Agentic Process Automation, in addition to RPA.
+Contract for now, typical CVS moto
+No high level (Directors/AVP) seeking managerial - Not a Managerial role
+Must have project management skills and knowledge
+Crucial to have a solid foundation in project management, they will transition from the feasibility and discovery phase into a full SDLC project that the product lead will need to manage in an Agile environment.
+
+The manager is seeking candidates with strong leadership skills who can confidently engage with the business and lead the project team to ensure successful delivery. It is essential that they can hit the ground running, as we have a backlog of projects that need to be initiated quickly in this fast-paced environment.
+
+Job Description
+
+As a Product Lead within the Automation Team, you will play a crucial role in evaluating, leading, and managing the development of automation opportunities from inception to implementation. By collaborating with various business groups across the enterprise, you will assess potential automation initiatives and create comprehensive solutions that enhance operational efficiency and improve member and client satisfaction.
+
+In this position, you will oversee the entire lifecycle of automation opportunities, from evaluation and design to execution and delivery. Your expertise will guide the collaborative efforts of all automation resources, ensuring the creation of effective and innovative solutions. A strong understanding of complex processes is essential for defining and implementing industry-leading automation strategies that significantly enhance the customer experience.
+
+Key Responsibilities
+
+Intake, Feasibility Assessment and Discovery:
+Conduct comprehensive feasibility assessments for potential automation opportunities, analyzing business needs to identify areas for improvement and optimization.
+Identify additional potential opportunities for automations
+Gather and document feasibility artifacts, including business case value, requirements, and solution design, ensuring alignment with business objectives.
+Develop robust business cases that outline the benefits, costs, and risks associated with proposed automation projects.
+Present findings and recommendations to leadership to facilitate informed go/no-go decision-making.
+Effort Estimation:
+Estimate the resources, time, and budget required for implementing automation solutions.
+Collaborate with technical teams to evaluate the complexity and feasibility of proposed automation initiatives.
+Funding Facilitation:
+Lead discussions with leadership and business groups to secure funding for automation projects.
+Prepare and present funding proposals that clearly articulate the value and expected outcomes of automation initiatives.
+Product Leadership and Opportunity Lifecycle Management:
+Oversee the automation team throughout the opportunity lifecycle, from initiation to deployment, by planning and managing the end-to-end process.
+Track progress, risks, and issues, assigning tasks, setting deadlines, and ensuring accountability within the team to meet project milestones.
+Maintain timely communication with stakeholders regarding project status and necessary adjustments.
+Support and Collaboration:
+Provide ongoing support to both business and automation teams throughout the entire opportunity lifecycle.
+Facilitate collaboration among cross-functional teams to ensure successful implementation and adoption of automation solutions.
+Automation Performance Monitoring:
+Establish metrics and KPIs to measure the success and impact of implemented automation solutions.
+Conduct post-implementation reviews to assess outcomes and identify areas for further improvement.
+Continuous Improvement:
+Stay informed about industry trends and best practices in automation and product management.
+Advocate for a culture of continuous improvement within the organization, encouraging feedback and fostering innovation.
+
+Required Qualifications
+
+Extensive Project Management Experience: Over 7 years of product and project management experience, specializing in RPA, Agentic Process Automation and related automation technologies, with a demonstrated ability to successfully manage multiple projects concurrently.
+Leadership in Product Management: Proven track record as a senior product lead/manager, overseeing end-to-end opportunity lifecycles, including planning, execution, monitoring, and project closure.
+Technical Expertise in Automation Solutions: Strong technical background in developing comprehensive automation solutions, with in-depth knowledge of RPA tools such as UiPath and Automation Anywhere.
+Process Analysis and Digital Transformation: Expertise in process analysis, digital transformation, and optimization, with a focus on conducting feasibility assessments and identifying automation opportunities to build compelling business cases.
+Agile Methodologies Proficiency: Experienced in Agile/Scrum methodologies and software development practices, utilizing tools like Azure DevOps and JIRA to enhance project efficiency.
+Effective Communication Skills: Exceptional verbal and written communication skills, enabling effective interaction with a diverse range of clients and stakeholders.
+Analytical and Problem-Solving Acumen: Strong analytical and problem-solving abilities to navigate complex processes, troubleshoot challenges, and define innovative solutions.
+Commitment to Continuous Improvement: Demonstrated passion for continuous learning and improvement, with a solid understanding of change management principles to facilitate successful automation adoption.
+Cross-Functional Team Leadership: Proven ability to lead cross-functional teams, establish clear expectations and timelines for deliverables, mentor junior product managers, and effectively manage stakeholder relationships.

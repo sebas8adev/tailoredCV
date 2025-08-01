@@ -1,0 +1,49 @@
+Status: processed
+Data-Status: complete
+Job board: LinkedIn
+Company Name: Codeworks IT Careers
+Role Name: Project Manager
+Location: United States
+Type: Remote
+Salary range: Not specified
+Hiring Team: Not identified
+Application Instructions: LinkedIn Easy Apply
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4253516968&distance=25&f_TPR=r86400&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+Job Description:
+About the job
+Codeworks is an IT Services firm headquartered in SE Wisconsin, known for our strong commitment to quality and for our direct client relationships.
+
+Who We’re Looking For:
+
+A Project Manager to join our client’s team on a long-term contract. While this role is 100% Remote, candidates must reside in Madison, Wisconsin area or surrounding communities.
+
+Top Qualifications:
+
+12+ years of experience in project management, particularly in large-scale application development
+Strong understanding of standard project management methodologies and tools
+Proven ability to collaborate with and influence stakeholders at all organizational levels
+Excellent problem-solving, communication, and organizational skills
+PMP CERTIFICATION Strongly preferred. 
+
+Key Responsibilities:
+
+Lead complex application development projects with enterprise-wide impact. 
+Create and maintain project documentation including charters, work plans, risk registers, and deliverables. 
+Collaborate closely with project sponsors and IT leadership to align project outcomes with business goals. 
+Guide project teams toward key milestones, while promoting an inclusive and constructive team environment. 
+Identify and manage project risks, changes in scope, and dependencies
+
+Work Schedule and Expectations:
+
+Business hours: Monday–Friday, typically 9:00 AM–3:00 PM CST
+Occasional evening/weekend availability may be requested for major deployments
+Candidate may be asked to attend on-site meetings with notice
+
+About Codeworks: Codeworks has over 25 years of experience serving Fortune 1000 companies in Wisconsin as well as our client's national locations. Our recruiting team excels at evaluating, advising, and connecting IT professionals with new opportunities that will satisfy their expectations regarding income and opportunity for growth. At Codeworks, we're committed to diversity, equity, and inclusion in our workforce and beyond. We believe in equal opportunities and value the unique perspectives that every individual brings to our team. Join us in creating an inclusive, innovative, and collaborative workplace where your talents can thrive.
+
+Codeworks is an Equal Opportunity Employer and considers applicants for all positions without regard to race, color, religion or belief, sex, age, national origin, citizenship status, marital status, military/veteran status, genetic information, sexual orientation, gender identity, physical or mental disability or any other characteristic protected by applicable laws.
+
+Codeworks, LLC discloses that the anticipated hourly pay range for this position is between $55-65/hr. This range is subject to change based on job-related factors, including client requirements where applicable.
+
+All full time Codeworks employees are eligible to enroll in the company’s medical, dental, vision, and life insurance plans. Additionally, employees can participate in Codeworks’ 401(k) retirement plan.

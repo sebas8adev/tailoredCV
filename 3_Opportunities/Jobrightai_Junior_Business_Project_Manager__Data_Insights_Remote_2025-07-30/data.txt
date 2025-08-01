@@ -1,74 +1,55 @@
 # Global Information
-HIRING_MANAGER: Redtech Hiring Team
+HIRING_MANAGER: Hiring Manager
 COMPANY_NAME: Redtech
 JOB_ROLE: Junior Business Project Manager – Data Insights
-APPLICATION_DATE: July 24, 2025
+APPLICATION_DATE: July 30th, 2025
 
 # Cover Letter Content
 SUBJECT: Application for Junior Business Project Manager – Data Insights at Redtech
-CONTENT: 
-Dear Redtech Hiring Team,
-<br><br>
-I am writing to express my keen interest in the Junior Business Project Manager – Data Insights role, as advertised on LinkedIn. With over 10 years of experience in project management, specializing in data-driven decision-making, budget management, and delivering actionable insights for executive leadership, I am confident I possess the skills to excel in this position and support your client's objectives.
-<br><br>
-My background includes extensive experience in:
-<br><br>
-- **Reporting & Analytics:** I have consistently delivered detailed reporting on project metrics, KPIs, and OKRs. At Globant, I translated complex project data into clear RAG status reports for C-level stakeholders, which is directly transferable to monitoring Standard Partner Consumption Metrics and Partner Pipeline Metrics for Azure.
-<br><br>
-- **Budget Management & Fiscal Planning:** I am proficient in managing project financials, including forecasting, budget oversight, and RFP analysis. My experience with both fixed-price and T&M engagements has equipped me with advanced skills in financial tracking and reporting, aligning with the budget management responsibilities of this role.
-<br><br>
-- **Business Intelligence & Dashboards:** I have hands-on experience developing and maintaining project dashboards and knowledge bases. I led a team at Banco de Chile that utilized Power BI to visualize data from a new data warehouse, providing critical business insights.
-<br><br>
-I am an adaptive and results-oriented professional dedicated to enhancing business operations through meticulous planning and insightful analysis. I am eager to bring my expertise in project management and data insights to Redtech and your client.
-<br><br>
-Thank you for your time and consideration. I look forward to discussing how my skills and experience can benefit your team.
-<br><br>
-Sincerely,
-<br>
-[Your Name]
+CONTENT: Dear Hiring Manager,<br><br>I am writing to express my keen interest in the Junior Business Project Manager – Data Insights role, as advertised on LinkedIn. With over 10 years of experience in project management, I have developed a strong expertise in budget management, fiscal planning, and delivering actionable insights through comprehensive data analysis and reporting, which aligns perfectly with the requirements of this position.<br><br>Throughout my career, I have successfully managed project financials, created detailed forecasts, and reported on key performance indicators (KPIs) and OKRs to C-level executives. My experience includes creating and maintaining dashboards for business visibility—similar to Power BI—and utilizing advanced Excel for budget tracking. I have a strong technical acumen in cloud environments, including AWS and GCP, and can quickly adapt my skills to the Azure-focused responsibilities of this role.<br><br>My adaptive approach to project management, combined with a deep understanding of data-driven decision-making, has enabled me to consistently support strategic objectives and improve operational efficiency. I am confident that my ability to translate complex data into clear, actionable insights would make me a valuable asset to your team and client.<br><br>Thank you for considering my application. I am eager to discuss how my background in project management and data analytics can contribute to your success.
 
 # CV Content
-CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience delivering complex digital transformations. Expert in driving data-driven insights, managing budgets, and creating actionable reports for executive leadership. Skilled in Agile methodologies and cloud technologies, with a focus on enhancing business operations and financial performance.
-SKILLS_TITLE_1: Project & Data Management
-SKILLS_DESC_1: Agile (SAFe, Scrum, Kanban), Waterfall, Budget Management, Fiscal Planning, Forecasting, RFP Analysis.
-SKILLS_TITLE_2: Business Intelligence & Analytics
-SKILLS_DESC_2: Power BI, KPI & OKR Reporting, Data-Driven Insights, Performance Metrics, Executive Dashboards.
-SKILLS_TITLE_3: Technology & Platforms
-SKILLS_DESC_3: Azure, GCP, AWS, Jira, Confluence, SharePoint, Advanced Excel, Google AI, Generative AI.
-SKILLS_TITLE_4: Leadership & Stakeholder Management
-SKILLS_DESC_4: C-Level Reporting, Cross-Functional Team Leadership, Stakeholder Engagement, Chief of Staff (COS) Support.
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading complex digital projects across global industries. Expert in delivering data-driven insights, managing budgets, and optimizing performance in cloud environments (AWS, GCP). Skilled in full-cycle project delivery, from strategic planning and financial oversight to executive reporting with KPIs and OKRs. Proficient in creating dashboards and managing stakeholder communications to drive business visibility and support C-level decision-making. Certified in SAFe, Scrum, and Cloud technologies, poised to deliver actionable analytics.
+SKILLS_TITLE_1: Project & Financial Management
+SKILLS_DESC_1: Budget Management, Fiscal Planning & Forecasting, RFP Analysis, Risk Management, Resource Allocation, P&L Oversight
+SKILLS_TITLE_2: Data Analysis & Reporting
+SKILLS_DESC_2: Actionable Insights, KPI & OKR Tracking, Power BI Dashboards, Performance Metrics, C-Level Reporting, Confluence
+SKILLS_TITLE_3: Cloud & Technical Environments
+SKILLS_DESC_3: Azure, AWS, GCP, System Integrations, SDLC, AI/ML Solutions, Jira, SharePoint, SQL
+SKILLS_TITLE_4: Agile & PM Methodologies
+SKILLS_DESC_4: SAFe, Scrum of Scrums, Kanban, Scrum, Hybrid Waterfall, PMP/PMI Practices
 
 # Work Experience - Globant
 JOB_TITLE_GLOBANT: Project Manager
-COMPANY_SUMMARY_GLOBANT: A digitally native consulting company reinventing business through innovative technology solutions, specializing in AI-powered software development and large-scale digital transformation.
-COMPANY_BULLET_1_GLOBANT: Managed project budgets and financials for Royal Caribbean, ensuring fixed-price engagements remained profitable while delivering features for guest-facing apps on time.
-COMPANY_BULLET_2_GLOBANT: Delivered quarterly business reviews and performance reports to C-level stakeholders, translating complex project data into actionable RAG status indicators and insights.
-COMPANY_BULLET_3_GLOBANT: Improved e-commerce platform performance by 40% for Dick's Sporting Goods by leading the implementation of Core Web Vitals and optimizing quarterly roadmaps.
+COMPANY_SUMMARY_GLOBANT: A digitally native consulting company using AI and innovative technologies to reinvent businesses and deliver scalable software solutions for top-tier global clients.
+COMPANY_BULLET_1_GLOBANT: Managed portfolios for Royal Caribbean and Banco de Chile, delivering quarterly roadmaps with precise KPI/OKR reporting to C-level stakeholders, ensuring project alignment.
+COMPANY_BULLET_2_GLOBANT: Improved Dick's Sporting Goods' e-commerce performance by 40% through Core Web Vitals optimization, managing a +30-person team and project financials.
+COMPANY_BULLET_3_GLOBANT: Led planning and execution for a Google AI Chatbot at Royal Caribbean, managing budget, scope, and cross-functional teams to enhance guest services.
 
 # Work Experience - Mango-soft
 JOB_TITLE_MANGOSOFT: Technical Project Manager
-COMPANY_SUMMARY_MANGOSOFT: A software development firm creating bespoke digital solutions. Specializes in cloud services, big data, and media streaming applications for international clients.
-COMPANY_BULLET_1_MANGOSOFT: Delivered KPI and OKR-based reporting on a weekly, monthly, and quarterly basis, providing key business insights for media and healthcare clients.
-COMPANY_BULLET_2_MANGOSOFT: Led end-to-end implementation of a media streaming service for Concacaf, managing project budgets and delivering a platform for live matches and statistics.
-COMPANY_BULLET_3_MANGOSOFT: Managed cloud data migration projects for healthcare clients, using AWS services to transfer and process medical imaging data, improving data accessibility.
+COMPANY_SUMMARY_MANGOSOFT: A software development firm specializing in cloud-native solutions, Big Data analytics, and streaming services for media, sports, and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Delivered a media and data platform for Concacaf on AWS, integrating streaming and analytics to enhance fan engagement and provide new revenue streams.
+COMPANY_BULLET_2_MANGOSOFT: Managed the end-to-end development of a voice-to-text application for healthcare professionals, leveraging AWS services to improve documentation efficiency and accuracy.
+COMPANY_BULLET_3_MANGOSOFT: Implemented Scrum methodologies and delivered weekly/monthly KPI reports, providing clear project visibility and ensuring on-time delivery for fixed-price contracts.
 
 # Work Experience - TIPI
 JOB_TITLE_TIPI: Technical Project Manager
-COMPANY_SUMMARY_TIPI: A technology company developing integrated hardware and software solutions, specializing in IoT devices and management platforms for public safety and healthcare sectors.
-COMPANY_BULLET_1_TIPI: Directed the full SDLC for a bodycam system for the Colombian Police, ensuring on-time delivery and compliance with government contract requirements.
-COMPANY_BULLET_2_TIPI: Provided detailed project reporting and analytics to leadership, tracking progress against budget and timeline for a 3,000-unit bodycam deployment.
-COMPANY_BULLET_3_TIPI: Implemented an RFID asset tracking system in over 10 hospitals, delivering actionable data on equipment location and reducing manual search times for staff.
+COMPANY_SUMMARY_TIPI: A technology provider developing integrated hardware and software solutions for public safety, law enforcement, and healthcare sectors with custom IoT devices.
+COMPANY_BULLET_1_TIPI: Led the full SDLC for a bodycam system for the Colombian Police, deploying over 3,000 devices and ensuring compliance with government contracts.
+COMPANY_BULLET_2_TIPI: Directed the implementation of an RFID asset tracking and nurse call system in 10+ hospitals, improving operational workflows and patient response times.
+COMPANY_BULLET_3_TIPI: Led a 10-person team hands-on through development, from coding and code reviews to release management, ensuring high-quality product delivery under budget.
 
 # Work Experience - itBigBoss
 JOB_TITLE_ITBIGBOSS: Technical Project Manager
-COMPANY_SUMMARY_ITBIGBOSS: A software house that developed and scaled a SaaS POS platform for over 1,000 small businesses in the retail, fitness, and health industries.
-COMPANY_BULLET_1_ITBIGBOSS: Oversaw the complete SDLC for a SaaS POS product, managing feature development, integrations, and reporting analytics for a diverse client base.
-COMPANY_BULLET_2_ITBIGBOSS: Managed project financials and resource allocation for a 30-person team, ensuring profitability and sustainable growth of the SaaS business model.
-COMPANY_BULLET_3_ITBIGBOSS: Directed integration of the POS system with accounting apps and tax services, automating financial reporting for clients and improving their operational efficiency.
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS company I co-founded, delivering POS and management software to over 1,000 small businesses in the retail, fitness, and health industries.
+COMPANY_BULLET_1_ITBIGBOSS: Drove the entire SDLC for a SaaS POS product, leading to adoption by over 1,000 small businesses by integrating payments, inventory, and CRM.
+COMPANY_BULLET_2_ITBIGBOSS: Managed a 30-person on-site team and led all operational support, achieving high system uptime and customer satisfaction for our client base.
+COMPANY_BULLET_3_ITBIGBOSS: Led technical integrations with biometrics, accounting apps, and government tax systems, expanding product functionality and market reach across LATAM.
 
 # Work Experience - Bodytech
 JOB_TITLE_BODYTECH: IT Manager
-COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, transforming member wellness through technology-driven services across over 60 locations in three countries.
-COMPANY_BULLET_1_BODYTECH: Managed the IT budget and infrastructure deployment for over 60 sites, overseeing network, CCTV, and CRM systems to support all business operations.
-COMPANY_BULLET_2_BODYTECH: Led the implementation of Dynamics CRM & ERP, creating centralized reporting systems that provided actionable insights into membership and billing data.
-COMPANY_BULLET_3_BODYTECH: Established and led the IT Service Desk, improving system uptime and support ticket resolution rates for all corporate and fitness center locations.
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain with over 60 locations across Latin America, focused on providing premium wellness and training services.
+COMPANY_BULLET_1_BODYTECH: Managed IT infrastructure deployment across 60+ sites in Colombia, Peru, and Chile, including networking, security, and IP telephony systems.
+COMPANY_BULLET_2_BODYTECH: Led the technical implementation of Dynamics CRM & ERP, managing the project lifecycle and budget to centralize operations and member data.
+COMPANY_BULLET_3_BODYTECH: Directed the SDLC for a proprietary CRM and access control system, automating billing and improving member check-in processes for thousands of users.

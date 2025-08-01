@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sebastian Ochoa Alvarez - CV</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        /* Basic Reset & Font */
+        body {
+            font-family: 'Open Sans', sans-serif;
+            line-height: 1.4; /* Reduced line height for tighter spacing */
+            color: black;
+            margin: 0;
+            padding: 0;
+            -webkit-print-color-adjust: exact; /* For printing background colors */
+            box-sizing: border-box;
+        }
+
+        /* Page Margins for PDF Output */
+        @page {
+            size: A4; /* Or Letter */
+            margin: 0.85in 0.50in 0.82in 0.50in; /* Top, Right, Bottom, Left */
+        }
+
+        .container {
+            width: 100%;
+            max-width: 8.5in; /* Standard Letter width */
+            margin: 0 auto; /* Center content */
+            padding: 0; /* Page margins handled by @page rule */
+            box-sizing: border-box;
+        }
+
+        /* Utility classes for controlled spacing */
+        .margin-top-10 { margin-top: 10px !important; }
+        .margin-bottom-10 { margin-bottom: 10px !important; }
+        .margin-bottom-5 { margin-bottom: 5px !important; }
+        .no-margin { margin: 0 !important; }
+        .no-padding { padding: 0 !important; }
+
+
+        /* Header Styles */
+        .header {
+            text-align: center;
+            margin-bottom: 0px !important; /* Ensure no margin */
+        }
+        .header h1 {
+            font-size: 10.3pt;
+            font-weight: 600;
+            line-height: 1.4;
+            margin: 0 !important; /* Ensure no margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+        .header p {
+            font-size: 10.3pt;
+            margin: 0 !important; /* Ensure no margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+        .header a {
+            color: black;
+            text-decoration: none;
+        }
+        .header a:hover {
+            text-decoration: underline;
+        }
+
+        /* Section Styles */
+        .section {
+            margin-bottom: 0px !important; /* Ensure no margin */
+            margin-top: 6px !important; /* Ensure no margin */
+            padding: 0 !important; /* Ensure no padding */
+            padding-top: 6px !important; /* Ensure no margin */
+        }   
+        .section-info {
+            font-size: 10.3pt;
+            line-height: 1.4;
+            margin: 0 !important; /* Ensure no margin */
+            padding: 0 !important; /* Ensure no padding */
+            text-align: center;
+        }
+        .section-summary {
+            font-size: 10.3pt;
+            line-height: 1.4;
+            margin: 0 !important; /* Ensure no margin */
+            padding: 0 !important; /* Ensure no padding */
+            text-align: justify;
+        }
+        .section-title {
+            font-size: 10.3pt;
+            line-height: 1.4;
+            font-weight: 600;
+            padding-bottom: 0px !important; /* Reduced padding */
+            margin-bottom: 0px !important; /* Reduced margin */
+            padding-top: 0 !important; /* Ensure no top padding */
+            display: block; /* Ensure it's a block element again */
+            width: 100%; /* Take full width */
+            text-align: left; /* Align title to left */
+            text-decoration: underline; /* Retained underline on text */
+        }
+
+
+        /* Paragraph Styles */
+        p {
+            margin: 0 !important; /* Ensure no default paragraph margin */
+            padding: 0 !important; /* Ensure no default paragraph padding */
+            font-size: 10.3pt;
+            text-align: justify;
+        }
+
+        /* List Styles (Bullet Points) */
+        ul {
+            list-style: none; /* Remove default bullet */
+            padding: 0 !important; /* Remove default padding */
+            margin: 0 !important; /* Remove default margin */
+            /* This ensures the UL starts at the same horizontal position as section titles */
+            margin-left: 0.25in !important; /* Align UL with the page's left content margin */
+        }
+        li {
+            position: relative;
+            /* This ensures the text of the list item starts at the UL's left edge (0.75in from page margin) */
+            text-indent: 0in !important;
+            padding-left: 0in !important; /* Ensure no additional padding pushes text right */
+            margin-bottom: 0px !important; /* Reduced margin */
+            text-align: justify;
+            font-size: 10.3pt;
+            margin-left: 0 !important; /* Reset li's own margin-left */
+            padding-top: 0 !important; /* Ensure no top padding */
+            padding-bottom: 0 !important; /* Ensure no bottom padding */
+            line-height: 1.25;
+        }
+        li::before {
+            content: '•'; /* Custom bullet character */
+            position: absolute;
+            /* This pulls the bullet to the left of the LI's starting position.
+               If LI text starts at 0.75in page margin, then bullet will be at 0.75in - 0.25in = 0.5in. */
+            left: -0.12in; /* Adjusted to place bullet to the left of the text, at 0.5in from page edge */
+            font-size: 10.3pt; /* Adjust bullet size if needed */
+            line-height: inherit; /* Align with text baseline */
+        }
+        
+        /* Experience Section Specifics */
+        .experience-item {
+            margin-bottom: 0px !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+        .experience-title {
+            font-weight: 600;
+            font-size: 10.3pt;
+            line-height: 1.4;
+            margin: 0 !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+        .experience-description {
+            font-size: 10.3pt;
+            margin: 0 !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+            font-style: italic;
+        }
+        .experience-details {
+            font-size: 10.3pt;
+            line-height: 1.4;
+            margin: 0 !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+        .experience-bullets li {
+            margin: 0 !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+
+        /* Skills/Certifications List (similar to experience bullets but might need distinct styling) */
+        .skills-list li, .certifications-list li {
+            margin: 0 !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+        .skills-list strong, .certifications-list strong {
+            font-weight: 600;
+        }
+
+        /* Education */
+        .education-item {
+            margin: 0 !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+            font-size: 10.3pt;
+        }
+        .education-item strong {
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>SEBASTIAN OCHOA ALVAREZ</h1>
+            <p class="section-info">Orlando, FL ∙ (786) 475-0772</p>
+            <p class="section-info margin-bottom-5">sebastian.ochoa.alvarez@gmail.com ∙ <a href="www.linkedin.com/in/sebastianochoaalvarez">www.linkedin.com/in/sebastianochoaalvarez</a></p>
+        </header>
+
+        <section class="section">
+            <h2 class="section-title">PROFESSIONAL SUMMARY</h2>
+            <p class="section-summary">Adaptive Senior IT Project Manager with 10+ years of experience leading global teams and delivering complex digital transformations. Expert in Agile (SAFe, Scrum) and Waterfall methodologies, with a strong record of managing projects from business case development to final delivery. Skilled in leading AI-driven, cloud-based, and system integration solutions, with strengths in C-level reporting, financial oversight, and driving performance improvements in matrix organizations.</p>
+        </section>
+
+        <section class="section">
+            <h2 class="section-title margin-top-10">KEY SKILLS</h2>
+            <ul class="skills-list">
+                <li><strong>Project & Program Management</strong>: End-to-end SDLC, Business Case Development, Budgeting & Financial Oversight, Risk Management, Roadmapping, KPI/OKR Tracking.</li>
+                <li><strong>Methodologies & Governance</strong>: SAFe, Scrum, Kanban, Waterfall, Hybrid Models; Project Charters, Status Reporting, Steering Committee Presentations.</li>
+                <li><strong>Leadership & Stakeholder Engagement</strong>: Global Team Leadership (up to 100+), Matrix Organization Navigation, C-Level Communication, Team Coaching & Development.</li>
+                <li><strong>Technical & Platform Acumen</strong>: Cloud Infrastructure (AWS, GCP), AI/GenAI Solutions, System Integrations, Salesforce CRM, Jira, Confluence, MS Office Suite.</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2 class="section-title margin-top-10">PROFESSIONAL EXPERIENCE</h2>
+            <div class="experience-item margin-top-5">
+                <p class="experience-title no-margin">Senior Project Manager <span style="float:right; font-weight: 500;">08/2021 - 07/2025</span></p>
+                <p class="experience-details no-margin"><span style="font-weight: 600;">Globant</span>, Medellin, Colombia</p>
+                <p class="experience-description no-margin">A digitally native consulting firm leveraging AI and software development to help organizations reinvent their businesses through innovative technology solutions.</p>
+                <ul class="experience-bullets margin-bottom-10">
+                    <li>Led program delivery for Royal Caribbean, launching an AI chatbot and guest app features, improving user engagement and increasing onboard revenue opportunities.</li>
+                    <li>Drove a 40% performance improvement for Dick's Sporting Goods' e-commerce platform by managing agile delivery of Core Web Vitals and feature enhancements.</li>
+                    <li>Directed a 100+ person team for Banco de Chile, managing a cloud migration and mobile app development, ensuring delivery aligned with stakeholder expectations.</li>
+                </ul>
+            </div>
+
+            <div class="experience-item margin-top-5">
+                <p class="experience-title no-margin">Technical Project Manager  <span style="float:right; font-weight: 500;">01/2020 - 07/2021</span></p>
+                <p class="experience-details no-margin"><span style="font-weight: 600;">Mango Soft</span>, Miami, FL.</p>
+                <p class="experience-description no-margin">A software development company creating custom solutions for media and healthcare, specializing in cloud services, AI, and data-driven applications.</p>
+                <ul class="experience-bullets margin-bottom-10">
+                    <li>Managed the end-to-end development of Concacaf's AWS-based media platform, delivering live streaming and news services to enhance fan engagement across championships.</li>
+                    <li>Led the development of a voice-to-text AI application for healthcare clients using AWS Polly, significantly improving the speed of clinical documentation.</li>
+                    <li>Directed the integration of medical imaging (DICOM) systems with AWS cloud storage for multiple clinics, improving data accessibility for physicians and patients.</li>
+                </ul>
+            </div>
+
+            <div class="experience-item margin-top-5">
+                <p class="experience-title no-margin">Technical Project Manager <span style="float:right; font-weight: 500;">01/2019 - 12/2019</span></p>
+                <p class="experience-details no-margin"><span style="font-weight: 600;">TIPI</span>, Medellin, Colombia.</p>
+                <p class="experience-description no-margin">A technology firm providing integrated hardware and software solutions, including IoT devices and management platforms for public safety and healthcare sectors.</p>
+                <ul class="experience-bullets margin-bottom-10">
+                    <li>Led the full SDLC and deployment of over 3,000 bodycam units for the Colombian Police, delivering a secure evidence management and real-time streaming platform.</li>
+                    <li>Deployed an RFID asset tracking and nurse call system across 10+ hospitals, improving operational efficiency and reducing patient wait times.</li>
+                    <li>Managed project delivery under strict government contract regulations, ensuring on-time, on-budget completion and full compliance for a law enforcement technology solution.</li>
+                </ul>
+            </div>
+
+            <div class="experience-item margin-top-5">
+                <p class="experience-title no-margin">Technical Project Manager <span style="float:right; font-weight: 500;">08/2012 - 12/2018</span></p>
+                <p class="experience-details no-margin"><span style="font-weight: 600;">IT Big Boss Software House</span>, Medellin, Colombia.</p>
+                <p class="experience-description no-margin">A SaaS provider delivering point-of-sale (POS) and business management software for over 1,000 small businesses in the retail and fitness industries.</p>
+                <ul class="experience-bullets margin-bottom-10">
+                    <li>Architected and led the full SDLC for a comprehensive SaaS POS platform, integrating payments, inventory, and CRM to streamline small business operations.</li>
+                    <li>Drove product adoption across 1,000+ businesses by delivering custom features and integrations, increasing customer retention and expanding market reach in LATAM.</li>
+                    <li>Led technical teams hands-on through coding and releases, ensuring high-quality software delivery and responsive support that sustained a growing client base.</li>
+                </ul>
+            </div>
+
+            <div class="experience-item margin-top-5">
+                <p class="experience-title no-margin">IT Manager <span style="float:right; font-weight: 500;">07/2005 - 07/2012</span></p>
+                <p class="experience-details no-margin"><span style="font-weight: 600;">Bodytech</span>, Bogota, Colombia.</p>
+                <p class="experience-description no-margin">A leading health and fitness center chain in Latin America, providing comprehensive wellness services and professional training across more than 60 locations.</p>
+                <ul class="experience-bullets margin-bottom-10">
+                    <li>Managed the IT infrastructure lifecycle for 60+ sites across three countries, implementing networking, security, and access control systems to support business expansion.</li>
+                    <li>Led the corporate implementation of Microsoft Dynamics CRM & ERP, automating billing and member management, which improved data accuracy and operational efficiency.</li>
+                    <li>Established and scaled the IT Service Desk, developing support workflows that improved system uptime by 30% and enhanced technology services for staff.</li>
+                </ul>
+            </div>
+        </section>
+
+        <section class="section">
+            <h2 class="section-title margin-top-10">PROFESSIONAL DEVELOPMENT</h2>
+            <ul class="certifications-list">
+                <li><strong>Agile Project Management</strong>: Certified SAFe 6 Agilist, Advanced Certified ScrumMaster (A-CSM), Certified ScrumMaster (CSM).</li>
+                <li><strong>Agile Product Management</strong>: Certified Scrum Product Owner (CSPO).</li>
+                <li><strong>Project Management</strong>: Management 3.0, Google Project Management Certificate, Microsoft Career Essentials in Project.</li>
+                <li><strong>AI</strong>: Google Generative AI Leader Certificate, Microsoft Career Essentials in Generative AI.</li>                                
+                <li><strong>Cloud</strong>: Google Cloud Digital Leader Certificate, AWS Cloud Technical Essentials.</li>
+                <li><strong>Languages</strong>: English, Spanish.</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2 class="section-title margin-top-10">EDUCATION</h2>
+            <ul class="education-list">
+                <li><strong>Bachelor’s Degree in Computer Engineering</strong>: Politecnico Colombiano Jaime Isaza Cadavid, Medellin, Colombia.</li>
+                <li><strong>Graduate-level in Technology Management</strong>: EAN University, Bogota, Colombia.</li>
+            </ul>
+        </section>
+    </div>
+</body>
+</html>

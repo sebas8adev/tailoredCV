@@ -1,0 +1,55 @@
+# Global Information
+HIRING_MANAGER: Fanchon Page
+COMPANY_NAME: Lumen Technologies
+JOB_ROLE: SR LEAD PROJECT MANAGER - PUB SEC
+APPLICATION_DATE: July 31st, 2025
+
+# Cover Letter Content
+SUBJECT: Application for SR LEAD PROJECT MANAGER - PUB SEC at Lumen Technologies
+CONTENT: Dear Fanchon Page,<br><br>I am writing to express my enthusiastic interest in the SR LEAD PROJECT MANAGER - PUB SEC position at Lumen Technologies, which I discovered on LinkedIn. With over 10 years of experience managing the full lifecycle of complex technical programs, including engagements within the public sector, I am confident that my skills in strategic planning, budget management, and team leadership are an excellent match for this role's requirements.<br><br>My background includes successfully managing proposals, contracts, and the end-to-end delivery of large-scale projects. For instance, I led the development and deployment of an integrated hardware and software solution for the Colombian Police, a project that required strict adherence to government contract specifications, cross-functional team coordination, and rigorous progress reporting. This experience, combined with my work on infrastructure projects such as datacenter migrations and multi-site network rollouts, has prepared me to handle the scope of telecommunications transitions and public sector demands at Lumen.<br><br>I am an expert in adaptive project management, utilizing Agile (SAFe, Scrum) and hybrid methodologies to ensure timely delivery and alignment with corporate objectives. My responsibilities have consistently involved developing detailed project plans, managing resource allocation, controlling budgets, and delivering clear status reports to C-level stakeholders.<br><br>I am deeply impressed by Lumen's mission to connect the world and empower business growth. I am eager to bring my experience in driving complex projects to your team and contribute to delivering outstanding results for your public sector customers. Thank you for your time and consideration. I look forward to discussing how I can contribute to Lumen's success.
+
+# CV Content
+CAREER_SUMMARY: Adaptive Senior Project Manager with 10+ years of experience leading complex, global programs across public and private sectors. Expert in full-lifecycle project management, from proposal development to delivery, with strong financial acumen in budget control and reporting. Excels at directing large-scale system integrations, cloud infrastructure, and AI-driven solutions. Proven leader in building and guiding high-performing teams, utilizing Agile (SAFe, Scrum) and hybrid methodologies to ensure strategic alignment and timely completion of corporate objectives.
+SKILLS_TITLE_1: Project & Program Management
+SKILLS_DESC_1: Full Lifecycle Management, Proposal & Contract Support, Budget & Expense Control, Financial Reporting, Resource Allocation, Risk Management, Stakeholder Communications.
+SKILLS_TITLE_2: Methodologies & Frameworks
+SKILLS_DESC_2: Agile (SAFe, Scrum, Kanban), Scrum of Scrums, Hybrid Models, SDLC, PMP/PMI Practices.
+SKILLS_TITLE_3: Industry & Technical Acumen
+SKILLS_DESC_3: Public Sector/Safety, Telecommunications Infrastructure, Cloud Platforms (AWS, GCP, Azure), AI & Generative AI Solutions, E-commerce, Finance, Retail, Healthcare.
+SKILLS_TITLE_4: Tools & Platforms
+SKILLS_DESC_4: Jira, Confluence, MS Teams, Slack, Azure DevOps, AEM, Salesforce CRM, Google AI.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Senior Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native consulting firm leveraging AI and software to reinvent businesses. We partner with global brands to create transformative digital experiences.
+COMPANY_BULLET_1_GLOBANT: Led full lifecycle for Royal Caribbean's guest app, integrating an AI chatbot and improving services, ensuring project execution aligned with quarterly PI planning.
+COMPANY_BULLET_2_GLOBANT: Managed a multi-million dollar portfolio for Banco de Chile, overseeing a datacenter migration to GCP and staffing 150+ engineers, ensuring strategic business alignment.
+COMPANY_BULLET_3_GLOBANT: Drove 40% e-commerce performance boost for Dick's Sporting Goods by optimizing Core Web Vitals, managing budget, scope, and agile delivery across global teams.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development company specializing in cloud-native solutions, big data, and streaming services for the media, sports, and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Directed end-to-end development of Concacaf's AWS media platform, managing a fixed-price contract and delivering live streaming services to millions of global users.
+COMPANY_BULLET_2_MANGOSOFT: Implemented a voice-to-text AI solution using AWS Polly for hospitals, improving clinical documentation efficiency and reducing physician data entry time by 30%.
+COMPANY_BULLET_3_MANGOSOFT: Spearheaded the integration of medical imaging systems with AWS, enabling secure DICOM data transfer and improving patient data access for partner hospitals.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology firm developing integrated hardware/software solutions, including IoT devices and management platforms for public safety and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Managed proposal, development, and deployment of 3,000+ bodycams for the Colombian Police, delivering a full-stack solution under strict government contract regulations.
+COMPANY_BULLET_2_TIPI: Led a project from concept to production for an RFID asset tracking system, deployed across 10+ hospitals to improve operational efficiency and reduce loss.
+COMPANY_BULLET_3_TIPI: Oversaw the complete SDLC for an Android-based firmware and its web management platform, delivering geolocalization, video streaming, and facial recognition features.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering POS and business management software to 1,000+ small businesses in the retail, fitness, and health sectors across Latam.
+COMPANY_BULLET_1_ITBIGBOSS: Led the entire SDLC for a flagship SaaS POS product, managing technical teams and integrating payment processing, inventory, and CRM functionalities for clients.
+COMPANY_BULLET_2_ITBIGBOSS: Directed technical implementation for over 1,000 small businesses, driving 95% customer adoption and expanding market presence across three countries.
+COMPANY_BULLET_3_ITBIGBOSS: Owned the product roadmap, introducing features like biometric integration that increased customer retention by 15% and reduced fraudulent access.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness chain in Latin America with 60+ locations, focused on delivering technology-driven services and operational excellence.
+COMPANY_BULLET_1_BODYTECH: Managed the technology infrastructure rollout for 60+ new sites, including networking, IP telephony, and CCTV, ensuring 99.9% uptime and operational readiness.
+COMPANY_BULLET_2_BODYTECH: Led the implementation of Microsoft Dynamics CRM & ERP systems, centralizing data to improve business intelligence and automate billing for 200,000+ members.
+COMPANY_BULLET_3_BODYTECH: Championed the full lifecycle of a custom biometric access control system, reducing unauthorized access by 100% and improving member check-in speed by 50%.

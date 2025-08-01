@@ -16,7 +16,7 @@ SCRIPT_DIR = os.path.dirname(os.path.realpath(__file__))
 PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
 OPPORTUNITIES_BASE_DIR = os.path.join(PROJECT_ROOT, '3_Opportunities')
 PROCESSED_URLS_FILE = os.path.join(PROJECT_ROOT, 'processed_urls.txt') # --- NEW: Master URL log file
-SEARCH_URL = "https://www.linkedin.com/jobs/search/?currentJobId=4274325450&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true"
+SEARCH_URL = "https://www.linkedin.com/jobs/search/?currentJobId=4278928885&distance=25&f_TPR=r86400&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true&sortBy=DD"
 
 def load_processed_urls():
     """Loads all previously processed URLs from the log file into a set for fast lookups."""

@@ -1,0 +1,55 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: CitiusTech
+JOB_ROLE: Senior Technical Project Manager
+APPLICATION_DATE: July 30th, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Senior Technical Project Manager at CitiusTech
+CONTENT: Dear Hiring Manager,<br><br>I am writing to express my keen interest in the Senior Technical Project Manager position at CitiusTech, which I discovered on LinkedIn. CitiusTech's mission to accelerate the transition to a human-first, digital healthcare ecosystem deeply resonates with my professional experience and passion for leveraging technology to solve critical industry challenges.<br><br>As an adaptive Senior Technical Project Manager with over 10 years of experience, I have a strong background in the healthcare technology sector. I have successfully led the end-to-end delivery of complex projects, including EHR-integrated solutions, patient data portals using DICOM and HL7 standards, and voice-to-text applications for clinicians. My experience aligns directly with your need for a professional who can provide healthcare consulting, translate business needs into detailed technical requirements, and manage deliverables to timeline and budget.<br><br>My technical acumen includes hands-on experience with Java, Python, and cloud platforms like AWS, which has been instrumental in leading development teams and architecting robust solutions. I excel at supervising teams, managing project constraints, and providing clear, data-driven status reports to executive stakeholders. My background in vendor analysis and system implementation ensures I can identify and execute opportunities for optimization and growth, driving tangible value for both the client and the organization.<br><br>I am confident that my blend of healthcare industry knowledge, technical leadership, and project management expertise makes me an excellent candidate to contribute to your team. I am eager to help CitiusTech inspire new possibilities for the health ecosystem and would welcome the opportunity to discuss my qualifications further.
+
+# CV Content
+CAREER_SUMMARY: Adaptive Senior Technical Project Manager with 10+ years of experience delivering complex digital transformations in the healthcare sector. Expert in leading global teams through the full SDLC for cloud (AWS/GCP), AI, and EHR-integrated solutions. Combines a technical background in Java and Python with deep experience in healthcare consulting, requirements analysis, and executive reporting. A track record of driving client success by managing project scope, budget, and timelines in fast-paced environments.
+SKILLS_TITLE_1: Healthcare & Life Sciences
+SKILLS_DESC_1: Healthcare Consulting, EHR Systems Integration (HL7, DICOM), Digital Patient Solutions, Vendor Analysis, HIPAA-Compliant Architectures.
+SKILLS_TITLE_2: Project & Program Management
+SKILLS_DESC_2: Agile (SAFe, Scrum, Kanban), Waterfall/Hybrid, Scope & Budget Management, Executive Reporting (KPIs/OKRs), Risk Management, RFP Analysis.
+SKILLS_TITLE_3: Technical Acumen & Platforms
+SKILLS_DESC_3: Cloud Platforms (AWS, GCP), Java, Python, Springboot, SQL/NoSQL, API Development, SDLC Management, CI/CD Tools.
+SKILLS_TITLE_4: Leadership & Team Management
+SKILLS_DESC_4: Global Team Leadership (+100), Cross-Functional Collaboration, Stakeholder Engagement, Talent Staffing & Development, Coaching & Mentoring.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Senior Technical Project Manager
+COMPANY_SUMMARY_GLOBANT: Global AI-first consulting and software development company creating digital journeys for top-tier organizations in finance, retail, travel, and healthcare industries.
+COMPANY_BULLET_1_GLOBANT: Led a Google AI Chatbot integration for Royal Caribbean, enhancing guest services and tailoring advertising, which improved customer engagement and onboard revenue.
+COMPANY_BULLET_2_GLOBANT: Drove a 40% e-commerce performance improvement for Dick's Sporting Goods by leading Core Web Vitals optimization, directly increasing user satisfaction and sales.
+COMPANY_BULLET_3_GLOBANT: Managed a complex data center migration to GCP for Banco de Chile with a +100 person team, ensuring business continuity and enabling advanced analytics.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Senior Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A specialized software consultancy delivering custom cloud solutions, Big Data analytics, and digital media services for the healthcare and sports media industries.
+COMPANY_BULLET_1_MANGOSOFT: Directed the development of a voice-to-text application for clinicians, reducing documentation time by over 50% and improving accuracy in patient records.
+COMPANY_BULLET_2_MANGOSOFT: Engineered a DICOM-to-AWS data transfer solution for multiple hospitals, enabling a secure, scalable patient imaging portal and improving diagnostic access.
+COMPANY_BULLET_3_MANGOSOFT: Launched a live streaming and media management platform on AWS for Concacaf, expanding fan reach and creating new digital revenue streams.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Senior Technical Project Manager
+COMPANY_SUMMARY_TIPI: Innovative firm developing integrated hardware and software solutions for public safety, law enforcement, and healthcare, specializing in IoT and real-time data.
+COMPANY_BULLET_1_TIPI: Led the full SDLC for a bodycam system for 3,000+ officers, enhancing operational oversight and evidence management through real-time streaming and geolocalization.
+COMPANY_BULLET_2_TIPI: Deployed a Bluetooth/RFID nurse-call and asset tracking system in 10+ hospitals, improving patient response times and optimizing equipment utilization.
+COMPANY_BULLET_3_TIPI: Managed development of a patient flow tracking board integrated with hospital systems, reducing patient wait times and improving communication for medical teams.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: SaaS provider delivering POS, CRM, and business management software for over 1,000 small businesses in the retail, fitness, and health sectors.
+COMPANY_BULLET_1_ITBIGBOSS: Led the full SDLC for a SaaS POS platform with payment and biometric integrations, automating billing and improving operational efficiency for clients.
+COMPANY_BULLET_2_ITBIGBOSS: Directed hands-on implementation for 1,000+ businesses, delivering customized solutions that increased customer retention and streamlined inventory management.
+COMPANY_BULLET_3_ITBIGBOSS: Managed the operations and support workflow for the entire product suite, achieving 99.9% system uptime and high customer satisfaction across LATAM.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, operating over 60 sites across Colombia, Peru, and Chile with a technology-driven approach.
+COMPANY_BULLET_1_BODYTECH: Spearheaded a Dynamics CRM & ERP implementation, unifying customer data and billing, which increased member retention and streamlined financial reporting.
+COMPANY_BULLET_2_BODYTECH: Managed the technology infrastructure rollout for 60+ new sites, including networking and security, ensuring scalable and reliable operations for business expansion.
+COMPANY_BULLET_3_BODYTECH: Established the IT Service Desk and implemented a biometric access control system, improving ticket resolution rates and enhancing facility security.

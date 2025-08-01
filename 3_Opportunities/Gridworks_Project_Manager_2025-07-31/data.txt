@@ -1,0 +1,63 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: Gridworks
+JOB_ROLE: Project Manager
+APPLICATION_DATE: July 30th, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Project Manager at Gridworks
+CONTENT: Dear Hiring Manager,
+<br><br>
+I am writing to express my strong interest in the Project Manager position at Gridworks, as advertised on LinkedIn. My passion for leading complex, end-to-end technical projects aligns perfectly with your mission to advance the renewable energy sector. While my background is in software and technology, my core expertise lies in the rigorous, disciplined project management required to deliver large-scale initiatives on time and within budget.
+<br><br>
+With over 10 years of experience, I have a substantial track record in end-to-end project lifecycle management. My expertise includes meticulous planning, scheduling, cost control, risk mitigation, and quality assurance, all of which are directly transferable to managing utility-scale Solar PV and BESS construction projects. I excel at developing work instructions, monitoring progress against baselines, and ensuring all project constraints are met.
+<br><br>
+As a Technical Project Manager, I am adept at quickly mastering complex technical domains, from cloud infrastructure to integrated hardware/software solutions like IoT bodycams. This ability to lead technical teams and manage physical deployments ensures I can effectively oversee field inspections, ensure design compliance, and collaborate with all internal teams to guarantee seamless project execution.
+<br><br>
+My leadership experience extends to managing large, diverse teams and communicating project progress effectively to all stakeholders, from field personnel to C-level executives. I am confident that my adaptive project management approach and commitment to excellence will allow me to successfully lead your renewable energy projects. I am eager to discuss how my skills can contribute to Gridworks’ continued success.
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading complex, full-lifecycle projects across diverse technical industries. Expert in managing budgets, schedules, and risks to ensure on-time, on-spec delivery. Skilled in leading large, cross-functional teams and managing stakeholder communications from the field to the C-suite. A technically-astute leader adept at mastering new domains, ready to apply extensive project management expertise to utility-scale renewable energy construction.
+SKILLS_TITLE_1: Project Lifecycle Management
+SKILLS_DESC_1: End-to-End Planning, Scheduling, Budget & Cost Control, Risk Management, Quality Assurance & Compliance, Resource Allocation.
+SKILLS_TITLE_2: Technical Project & Operations Leadership
+SKILLS_DESC_2: SDLC Management, Hardware/Software Integration, Infrastructure Projects, Operations & Support, Field Inspection Principles, AI-Driven Solutions.
+SKILLS_TITLE_3: Stakeholder & Team Management
+SKILLS_DESC_3: C-Level & Stakeholder Reporting, Vendor & Subcontractor Management, Cross-Functional Team Leadership (100+), RFP & Proposal Development.
+SKILLS_TITLE_4: Methodologies & Tools
+SKILLS_DESC_4: Agile (SAFe, Scrum, Kanban), Waterfall & Hybrid Models, Jira, Confluence, Asana, MS Teams, Slack.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Project Manager
+COMPANY_SUMMARY_GLOBANT: A global technology consulting firm specializing in AI-powered digital transformation, delivering innovative software solutions for top-tier clients across various industries.
+COMPANY_BULLET_1_GLOBANT: Led globally distributed teams of up to 100+ members to deliver complex digital transformation programs for clients like Royal Caribbean and Dick's Sporting Goods.
+COMPANY_BULLET_2_GLOBANT: Managed the full project lifecycle, including meticulous planning, scheduling, and budget oversight, ensuring on-time delivery of enterprise-scale e-commerce and guest experience platforms.
+COMPANY_BULLET_3_GLOBANT: Drove a 40% e-commerce performance improvement for a major retail client by implementing Core Web Vitals, showcasing rigorous quality control and technical oversight.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm delivering custom cloud-based solutions, big data analytics, and media streaming services for sports and healthcare organizations.
+COMPANY_BULLET_1_MANGOSOFT: Directed end-to-end development of a media streaming platform for Concacaf, managing all phases from RFP and staffing to production launch and support.
+COMPANY_BULLET_2_MANGOSOFT: Oversaw the integration of AWS cloud services and data systems, delivering high-availability solutions that improved data accessibility and streaming for thousands of users.
+COMPANY_BULLET_3_MANGOSOFT: Implemented Scrum methodologies for teams of 10+, improving delivery predictability and successfully launching critical patient data and media management systems on schedule.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology company developing integrated hardware and software solutions, including IoT devices and management platforms for public safety and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Led the full SDLC for a bodycam system, from Android firmware to web management software, resulting in a successful deployment of 3,000+ units.
+COMPANY_BULLET_2_TIPI: Managed project execution for government contracts, ensuring strict compliance with regulations, quality standards, and on-time delivery of integrated hardware-software systems.
+COMPANY_BULLET_3_TIPI: Directed operations, deployment, and support workflows, demonstrating hands-on leadership in both software development and physical hardware installation, maintenance, and quality assurance.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering a comprehensive POS and business management platform for over 1,000 small businesses in the retail and wellness industries.
+COMPANY_BULLET_1_ITBIGBOSS: Led the complete software development lifecycle for a SaaS POS product, including feature development, integrations, and releases, driving 1000+ business adoptions.
+COMPANY_BULLET_2_ITBIGBOSS: Provided hands-on technical leadership, including coding and code reviews, to ensure high-quality, reliable software that minimized downtime and support tickets.
+COMPANY_BULLET_3_ITBIGBOSS: Managed operations and support workflows, ensuring high system uptime and successful implementation of the software across a diverse client portfolio in LATAM.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, operating over 60 sites across multiple countries, focused on member wellness technology.
+COMPANY_BULLET_1_BODYTECH: Managed the technology infrastructure lifecycle across 60+ sites, including networking and access control systems, ensuring 99% operational uptime during major expansion.
+COMPANY_BULLET_2_BODYTECH: Led the implementation and operation of the IT Service Desk, improving ticket resolution rates by 30% and establishing robust support processes.
+COMPANY_BULLET_3_BODYTECH: Directed the deployment of Dynamics CRM & ERP systems, successfully managing a major business systems transformation to enhance operational and member management.

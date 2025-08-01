@@ -1,0 +1,56 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: CSI
+JOB_ROLE: Project Manager
+COMPANY_NAME: CSI
+APPLICATION_DATE: July 31st, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Project Manager at CSI
+CONTENT: Dear Hiring Manager,<br><br>I am writing to express my strong interest in the Project Manager position at CSI, as advertised on LinkedIn. With over 10 years of experience managing complex, cross-functional technology projects, my background aligns well with the requirements of this role and CSI's mission to shape the future of banking.<br><br>My experience includes leading the full project lifecycle—from initiation and planning to execution, monitoring, and successful closure—for clients in the FinTech and banking sectors, such as Banco de Chile. I am an expert in refining project plans, managing risks and issues, and providing clear, proactive communication to all stakeholders, including senior leadership, to ensure projects remain on track and within budget.<br><br>I am skilled in improving project management methodologies to enhance efficiency and profitability, a key responsibility mentioned in your job description. My adaptive approach, combining Agile and traditional frameworks, has consistently delivered results, and I am confident I possess the skills to contribute significantly to your team.<br><br>Thank you for your time and consideration.
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading global teams and delivering complex digital transformations in FinTech, Retail, and Travel. Expert in full project lifecycle management from initiation and planning to execution and closure. Skilled in managing cross-functional projects, proactive stakeholder engagement, risk mitigation, and enhancing process efficiency. Expert in Agile (SAFe, Scrum) and hybrid methodologies, with a technical background in cloud platforms (AWS, GCP) and AI-driven solutions.
+SKILLS_TITLE_1: Project Management & Methodologies
+SKILLS_DESC_1: SAFe, Scrum, Kanban, Scrum of Scrums, Waterfall, Hybrid Models, Full Project Lifecycle Management (Initiating, Planning, Executing, Monitoring, Closing)
+SKILLS_TITLE_2: Tools & Platforms
+SKILLS_DESC_2: Jira, Confluence, MS Teams, Asana, Slack, Azure, AWS, Google Cloud Platform (GCP)
+SKILLS_TITLE_3: Technical & Industry Acumen
+SKILLS_DESC_3: FinTech & Banking, E-commerce, AI/Generative AI Solutions, Cloud Infrastructure, SDLC, System Integrations, API Development, Data Migration
+SKILLS_TITLE_4: Leadership & Operations
+SKILLS_DESC_4: Stakeholder Engagement & C-Level Reporting, Risk & Issue Management, Budget & Cost Control, Process Improvement, Team Leadership & Mentoring, RFP Management
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native consulting firm leveraging AI and innovative technologies to reinvent businesses and deliver profound software solutions for global enterprise clients.
+COMPANY_BULLET_1_GLOBANT: Directed a FinTech digital transformation for Banco de Chile, leading 100+ engineers in a data migration to GCP, enhancing data processing capabilities.
+COMPANY_BULLET_2_GLOBANT: Managed the Royal Caribbean Guest App portfolio, launching an AI chatbot that improved guest experience and supported tailored advertising revenue growth.
+COMPANY_BULLET_3_GLOBANT: Led an e-commerce platform overhaul for Dick's Sporting Goods, boosting Core Web Vitals performance by 40% through adaptive SAFe PI planning.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A custom software development company specializing in cloud-native applications, Big Data, and streaming services for the media, sports, and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Launched Concacaf's media platform on AWS, enabling live streaming and news delivery, which significantly grew fan engagement across North and Central America.
+COMPANY_BULLET_2_MANGOSOFT: Oversaw development of a DICOM-to-AWS data transfer system for multiple clinics, improving medical image accessibility and physician workflow efficiency.
+COMPANY_BULLET_3_MANGOSOFT: Implemented a voice-to-text service using AWS Polly for healthcare professionals, reducing patient record documentation time and increasing data accuracy.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: An integrated technology firm providing custom hardware and software solutions, including IoT devices and management platforms for public safety and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Led the end-to-end SDLC for a bodycam system for the Colombian Police, deploying over 3,000 devices and enhancing officer accountability and evidence collection.
+COMPANY_BULLET_2_TIPI: Deployed an IoT nurse-call system across 10+ hospitals, integrating with existing infrastructure to decrease patient wait times and enhance communication speed.
+COMPANY_BULLET_3_TIPI: Managed project delivery for government contracts, ensuring on-time execution and full compliance with strict public sector regulations and quality standards.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider developing comprehensive POS and business management software for over 1,000 small businesses in the retail, fitness, and beauty sectors.
+COMPANY_BULLET_1_ITBIGBOSS: Directed the full SDLC for a flagship SaaS POS product, leading to successful implementation and adoption by over 1,000 businesses across LATAM.
+COMPANY_BULLET_2_ITBIGBOSS: Released key integrations for payment processing, biometrics, and accounting apps, automating client billing cycles and reducing manual data entry time.
+COMPANY_BULLET_3_ITBIGBOSS: Led the technical team hands-on through coding, QA, and release cycles, increasing platform stability and improving customer retention for fitness centers.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, focused on wellness and athletic training with a large network across multiple countries.
+COMPANY_BULLET_1_BODYTECH: Managed IT infrastructure deployment for 60+ new sites across Colombia, Peru, and Chile, including networking, access control, and IP phoning systems.
+COMPANY_BULLET_2_BODYTECH: Led the technical implementation of Microsoft Dynamics CRM & ERP, centralizing member data to streamline billing operations and improve member retention rates.
+COMPANY_BULLET_3_BODYTECH: Established and led the IT Service Desk, implementing support protocols that improved system uptime and achieved a high internal user satisfaction score.

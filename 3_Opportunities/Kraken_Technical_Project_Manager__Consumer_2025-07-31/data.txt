@@ -1,0 +1,55 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: Kraken
+JOB_ROLE: Technical Project Manager - Consumer
+APPLICATION_DATE: July 30th, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Technical Project Manager - Consumer at Kraken
+CONTENT: Dear Kraken Hiring Team,<br><br>I am writing to express my enthusiastic interest in the Technical Project Manager - Consumer role at Kraken. Your mission to accelerate the global adoption of crypto for financial freedom deeply resonates with my professional passion for leveraging technology to create impactful solutions. With over 10 years of experience leading complex, cross-functional product initiatives, I am confident I possess the skills and drive to contribute significantly to your Consumer team.<br><br>Throughout my career, I have specialized in driving execution across diverse teams including Product, Engineering, Legal, and Marketing, similar to the scope outlined in your job description. I have a strong record of owning business reporting and creating high-quality deliverables, from C-level presentations and board decks to detailed weekly and monthly KPI reports, ensuring all stakeholders are aligned and informed.<br><br>My approach involves acting as a strategic partner to leadership, using data-informed insights to surface opportunities, establish effective KPIs, and maintain dynamic team roadmaps using tools like Jira and Confluence. I excel at serving as a central liaison for cross-functional requests, ensuring clear communication and efficient routing of priorities. I am highly proficient in both Agile and waterfall methodologies, applying an adaptive approach to fit the unique context of each project.<br><br>As a firm believer in the future of decentralized finance, I am eager to bring my project management expertise, collaborative mindset, and bias for action to Kraken. I am excited by the opportunity to help build world-class financial experiences and support your mission-driven team.
+
+# CV Content
+CAREER_SUMMARY: Adaptive Technical Project Manager with 10+ years of experience leading global teams and delivering complex product initiatives across finance, retail, and travel. Expert in AI-driven solutions, cross-functional execution, strategic planning, and roadmap management. Master of Agile (SAFe, Scrum) and hybrid methodologies, with strengths in C-level reporting, KPI management, and driving data-informed decisions to achieve business goals.
+SKILLS_TITLE_1: Project & Product Leadership
+SKILLS_DESC_1: Cross-Functional Execution, Strategic Planning, Roadmap Management, Stakeholder Communications, KPI & OKR Reporting, Risk Management.
+SKILLS_TITLE_2: Methodologies & Frameworks
+SKILLS_DESC_2: Agile (SAFe, Scrum, Kanban), Waterfall, Hybrid Models, Scrum of Scrums, Lean Principles.
+SKILLS_TITLE_3: Technical & Platform Acumen
+SKILLS_DESC_3: Jira, Confluence, Cloud Platforms (AWS, GCP), SDLC, API Integration, AI & Generative AI Solutions, Data Migration.
+SKILLS_TITLE_4: Business Operations
+SKILLS_DESC_4: RFP Analysis & Proposals, Budget & Financial Oversight, Resource Staffing & Management, Process Improvement, Software Capitalization Reporting.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Technical Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native consulting firm leveraging AI and innovative technologies to reinvent businesses and deliver scalable, end-to-end software development solutions globally.
+COMPANY_BULLET_1_GLOBANT: Led cross-functional execution for Royal Caribbean, launching an AI chatbot and guest app features by coordinating product, engineering, and global teams.
+COMPANY_BULLET_2_GLOBANT: Drove a 40% e-commerce performance improvement for Dick's Sporting Goods by managing quarterly roadmaps, KPIs, and adaptive resource planning across 30+ engineers.
+COMPANY_BULLET_3_GLOBANT: Directed program delivery for banking and retail clients, owning C-level reporting, budget oversight, and roadmap prioritization for portfolios exceeding 100+ personnel.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development company specializing in creating custom digital solutions for media, sports, and healthcare industries using cloud technologies and big data.
+COMPANY_BULLET_1_MANGOSOFT: Managed the end-to-end delivery of a media streaming platform for Concacaf, integrating AWS services and coordinating with stakeholders to achieve a successful launch.
+COMPANY_BULLET_2_MANGOSOFT: Led the development of a voice-to-text application for healthcare clients, improving physician workflow efficiency and ensuring data compliance through AWS integration.
+COMPANY_BULLET_3_MANGOSOFT: Implemented Scrum methodologies for hybrid remote teams, defining KPIs and streamlining project delivery for multiple fixed-price contracts to ensure profitability.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology firm developing integrated hardware and software solutions, including IoT devices and management platforms for public safety and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Led the full SDLC for a bodycam system for the Colombian Police, delivering a compliant solution for over 3,000 devices under government contracts.
+COMPANY_BULLET_2_TIPI: Directed the development and deployment of an asset tracking and nurse call system, increasing operational efficiency and communication speed across 10+ hospitals.
+COMPANY_BULLET_3_TIPI: Provided hands-on technical leadership, including code reviews and release management, to ensure product quality and on-time delivery for complex hardware/software integrations.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider offering a comprehensive POS platform with integrated business management tools for over 1,000 small businesses in the retail and wellness sectors.
+COMPANY_BULLET_1_ITBIGBOSS: Owned the entire product lifecycle for a flagship POS SaaS solution, driving adoption by over 1,000 small businesses and achieving sustained market growth.
+COMPANY_BULLET_2_ITBIGBOSS: Led a 30-person team in a hybrid environment, managing all technical aspects from code releases to customer operations, reducing data entry time.
+COMPANY_BULLET_3_ITBIGBOSS: Engineered integrations with payment processors and biometric devices, enhancing product value and increasing customer retention by 25% through expanded features.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, focused on delivering premium wellness experiences through technology-driven services and club management.
+COMPANY_BULLET_1_BODYTECH: Managed technology infrastructure and operations across 60+ sites, leading the IT service desk to achieve a 98% system uptime for all business operations.
+COMPANY_BULLET_2_BODYTECH: Led the full implementation of Dynamics CRM & ERP systems, automating billing and centralizing member data, which significantly increased member retention rates.
+COMPANY_BULLET_3_BODYTECH: Directed development of a custom access control system with biometrics, streamlining member check-in and reducing entry friction by 50% across all locations.

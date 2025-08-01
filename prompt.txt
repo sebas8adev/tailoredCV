@@ -226,7 +226,7 @@ Second, review the attached jobdescription.txt file.
 Finally, help me with:
 1. Help me tailor my CV to that Job Description:
 - Generate a new Career Summary, taking into account the job description, recruiter message, and my experience with the valuable transferible experience.
-NOTE 1: The structure should be something like, no more than 3 lines: [General Role] professional with [number] years of experience in [areas or activities of specialization or industry]. (Passionate about [mission]) OR (Key quantifiable metric to give a sense of scale of past responsibility). 
+NOTE 1: The structure should be something like, no more than 80 words (make it in those 80 words but making the most of them to show what they are asking on the Job Description): [General Role] professional with [number] years of experience in [areas or activities of specialization or industry]. (Passionate about [mission]) OR (Key quantifiable metric to give a sense of scale of past responsibility). 
 NOTE 2: check the one that I have on LinkedIn:
 "Dynamic and results-oriented Senior Technical Project Manager with a robust track record leading complex, end-to-end projects across diverse business markets including Finance, Healthcare, Retail, Travel/Hospitality, Media, and Public Safety. My expertise in project management approaches encompasses Agile methodologies (SAFe, Scrum, Kanban) and a deep understanding of formal PMP/PMI project management practices, enabling me to effectively steer globally distributed, cross-functional teams (+30-100 engineers) towards exceeding project goals.
 I am proficient in managing various types of projects, including cloud infrastructure initiatives (AWS, GCP, Azure), multifaceted system integrations, full SDLC software development, and delivering AI-driven solutions such as chatbots and Generative AI applications. My experience covers the full project lifecycle, from strategic planning, RFP response, and meticulous execution to risk management, budget oversight, and seamless release management.
@@ -252,6 +252,7 @@ NOTE: If the job description states "Senior Project Manager" or "Sr Project Mana
 > Generate a second bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
 > Generate a third bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
 NOTE 1: Focus the experience on program and portfolio-based projects, cruise lines, banking, e-commerce, and retail.
+NOTE 2: On bullet points, For highly specialized roles, prioritize descriptive, domain-specific language that reflects the job's requirements (e.g., 'enhanced the guest journey,' 'managed onboard digital services') over a generic quantifiable metric if both cannot fit. The context is more important than the number in these cases.
 
 - For the Mango-soft work experience:
 > Generate a Job Title choosing one of the following, according to the most direct job title defined in the Job Description. The options are: Senior Project Manager, Project Manager, Senior Scrum Master, Scrum Master, Technical Project Manager, Technical Scrum Master, IT Project Manager, IT Scrum Master.
@@ -260,7 +261,8 @@ NOTE: If the job description states "Senior Project Manager", please include the
 > Generate a bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
 > Generate a second bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
 > Generate a third bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
-NOTE: Focus the experience on Big Data, cloud services, media, and healthcare.
+NOTE 1: Focus the experience on Big Data, cloud services, media, and healthcare.
+NOTE 2: On bullet points, For highly specialized roles, prioritize descriptive, domain-specific language that reflects the job's requirements (e.g., 'enhanced the guest journey,' 'managed onboard digital services') over a generic quantifiable metric if both cannot fit. The context is more important than the number in these cases.
 
 - For the Tipi work experience:
 > Generate a Job Title choosing one of the following, according to the most direct job title defined in the Job Description. The options are: Senior Project Manager, Project Manager, Senior Scrum Master, Scrum Master, Technical Project Manager, Technical Scrum Master, IT Project Manager, IT Scrum Master.
@@ -269,7 +271,8 @@ NOTE: If the job description states "Senior Project Manager", please include the
 > Generate a bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
 > Generate a second bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
 > Generate a third bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
-NOTE: Focus the experience on Hardware+Software solutions, law enforcement, and healthcare.
+NOTE 1: Focus the experience on Hardware+Software solutions, law enforcement, and healthcare.
+NOTE 2: On bullet points, For highly specialized roles, prioritize descriptive, domain-specific language that reflects the job's requirements (e.g., 'enhanced the guest journey,' 'managed onboard digital services') over a generic quantifiable metric if both cannot fit. The context is more important than the number in these cases.
 
 - For the IT Big Boss Software House work experience:
 > Generate a Job Title choosing one of the following, according to the most direct job title defined in the Job Description. The options are: Senior Project Manager, Project Manager, Senior Scrum Master, Scrum Master, Technical Project Manager, Technical Scrum Master, IT Project Manager, IT Scrum Master.
@@ -278,7 +281,8 @@ NOTE: If the job description states "Senior Project Manager", please include the
 > Generate a bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
 > Generate a second bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
 > Generate a third bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
-NOTE: Focus the experience on SaaS, POS, SDLC, fitness centers, retail, and restaurants.
+NOTE 1: Focus the experience on SaaS, POS, SDLC, fitness centers, retail, and restaurants.
+NOTE 2: On bullet points, For highly specialized roles, prioritize descriptive, domain-specific language that reflects the job's requirements (e.g., 'enhanced the guest journey,' 'managed onboard digital services') over a generic quantifiable metric if both cannot fit. The context is more important than the number in these cases.
 
 - For the Bodytech work experience:
 > Generate a Job Title choosing one of the following, according to the most direct job title defined in the Job Description. The options are: IT Manager, Technology Manager, Operations Manager, CTO.
@@ -287,9 +291,11 @@ NOTE: If the job description states "Senior Project Manager", please include the
 > Generate a bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
 > Generate a second bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
 > Generate a third bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
-NOTE: Focus the experience on Health and Fitness Centers, ERP & CRM implementations, Technology Infrastucture, Operations, Support, Security, Platform.
+NOTE 1: Focus the experience on Health and Fitness Centers, ERP & CRM implementations, Technology Infrastucture, Operations, Support, Security, Platform.
+NOTE 2: On bullet points, For highly specialized roles, prioritize descriptive, domain-specific language that reflects the job's requirements (e.g., 'enhanced the guest journey,' 'managed onboard digital services') over a generic quantifiable metric if both cannot fit. The context is more important than the number in these cases.
 
 ADDITIONAL NOTES:
+- If a job description has a mandatory and highly specific domain (e.g., 'cruise domain,' 'pharmaceutical manufacturing'), the following instructions override the standard ones: Prioritize showcasing experience exclusively within that single domain. Dedicate all bullet points for a relevant company to that specific client or project, even if it means ignoring other clients from that same work period. The goal is to demonstrate deep expertise, not broad versatility.
 - The HIRING_MANAGER field should be "Hiring Manager" when Not identified or if it's identified, the name of the Hiring Manager, without the name of the company.
 - The APPLICATION_DATE field should be "cardinal", example: July 30th, 2025.
 - The cover letter content does not include the final greetings nor the name, because that will be included via hard code on the template: 

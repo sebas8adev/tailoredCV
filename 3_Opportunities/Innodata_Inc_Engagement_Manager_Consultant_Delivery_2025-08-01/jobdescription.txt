@@ -1,0 +1,74 @@
+Status: processed
+Data-Status: complete
+Job board: LinkedIn
+Company Name: Innodata Inc.
+Role Name: Engagement Manager (Consultant), Delivery
+Location: United States
+Type: Remote
+Salary range: Not specified
+Hiring Team: Not identified
+Application Instructions: See Job Post URL
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4278932265&distance=25&f_TPR=r86400&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true&sortBy=DD
+
+Job Description:
+About the job
+Location: Must reside in the USA. Role is 100% remote.
+
+Who we are:
+
+Innodata (NASDAQ: INOD) is a leading data engineering company. Prestigious companies across the globe turn to Innodata for help with their biggest data challenges. By combining advanced machine learning and artificial intelligence (ML/AI) technologies, a global workforce of subject matter experts, and a highsecurity infrastructure, we’re helping usher in the promise of clean and optimized digital data to all industries. Innodata offers a powerful combination of both digital data solutions and easy-to-use, highquality platforms. Our global workforce includes over 3,000 employees in the United States, Canada, United Kingdom, Philippines, India, Sri Lanka, Israel, and Germany. Interested in joining us?
+
+About The Role
+
+We are seeking a consultative and delivery-focused Engagement Manager to serve as the primary interface between Innodata and our enterprise clients. This individual will be responsible for overseeing complex AI/ML data and content transformation engagements, ensuring delivery excellence while fostering long-term partnerships.
+
+This is a high-impact role ideal for someone who thrives at the intersection of client management, solution execution, and operational excellence.
+
+Key Responsibilities
+
+Serve as the main point of contact for assigned enterprise client engagements
+Build and maintain trusted advisor relationships with key client stakeholders
+Understand client objectives and design delivery plans to align with their business goals
+Lead end-to-end project execution, from kickoff through final delivery
+Coordinate cross-functional teams across global delivery hubs
+Manage delivery workflows related to AI data preparation, annotation, enrichment, and digital content transformation
+Define and monitor KPIs, SLAs, and delivery milestones
+Identify and address delivery risks, issues, and blockers proactively
+Ensure accurate and timely communication with clients regarding progress, changes, and expectations
+Track and manage scope, timeline, and budget across multiple workstreams
+Maintain comprehensive documentation for all projects and client interactions
+Collaborate with Sales, Solutions, Product, and Operations to align internal capabilities with client needs
+Drive continuous improvement in delivery processes and service models
+Provide strategic input on how clients can optimize AI workflows or digital operations
+Translate client feedback into actionable insights for internal teams
+Contribute to the development of new service offerings based on evolving client demands
+
+
+Required Skills And Experience
+
+5+ years of client delivery or program management experience in professional services, consulting, digital transformation, or AI/data services
+Experience managing enterprise-level clients and complex delivery engagements
+Strong project management skills with familiarity in Agile, Scrum, or Waterfall methodologies
+Excellent verbal and written communication skills, with the ability to present to executive-level stakeholders
+Ability to manage multiple projects simultaneously in a fast-paced environment
+Experience leading geographically distributed teams
+Understanding of AI/ML data workflows, digital content processing, or knowledge management
+
+
+Preferred Skills And Experience
+
+Experience in AI/ML data services, BPO, or technology consulting
+Background in industries such as technology, healthcare, publishing, or financial services
+Familiarity with annotation platforms, LLM workflows, or automation tools
+PMP, CSM, or similar project management certification
+
+
+Minimum Education Requirements
+
+Bachelor's degree in Computer Science, Engineering, Data Science, Project Management, or a related field (or equivalent work experience).
+
+Salary Range: $160,000-180,000
+
+Salary rates at Innodata vary depending on a wide array of factors, which may include but are not limited to the role, skill set, educational background and geographic location.
+
+We are an equal opportunity employer committed to fostering an inclusive, respectful, and diverse workplace. We welcome and encourage applications from individuals of all backgrounds and are dedicated to employment equity and building a team that reflects the diverse communities in which we live and operate.

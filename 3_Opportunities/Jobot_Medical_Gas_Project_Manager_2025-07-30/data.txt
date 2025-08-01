@@ -2,54 +2,55 @@
 HIRING_MANAGER: Logan Ridge
 COMPANY_NAME: Jobot
 JOB_ROLE: Medical Gas Project Manager
-APPLICATION_DATE: July 24, 2025
+COMPANY_NAME: Jobot
+APPLICATION_DATE: July 31st, 2025
 
 # Cover Letter Content
-SUBJECT: Application for Medical Gas Project Manager
-CONTENT: Dear Logan Ridge,<br><br>I am writing to express my keen interest in the Medical Gas Project Manager position I found on LinkedIn. While my professional background is rooted in technical and IT project management, the core disciplines of my experience—meticulous planning, risk mitigation, financial oversight, and delivering complex projects in highly regulated environments—align directly with the requirements of this role.<br><br>For over 10 years, I have successfully managed the full lifecycle of mission-critical projects. My experience in the healthcare sector involved delivering system integrations for hospitals, adhering to strict data standards like HL7 and DICOM, and ensuring operational continuity. This required a deep understanding of compliance and safety protocols, skills I am confident are transferable to managing medical gas installations.<br><br>Furthermore, my work in public safety included overseeing the deployment of integrated hardware and software solutions, such as the installation of over 3,000 bodycams for law enforcement. This involved managing physical installations, coordinating field teams, and ensuring thousands of hardware units functioned reliably according to strict contractual specifications.<br><br>My ability to manage project constraints—scope, budget, timeline, and quality—while leading cross-functional teams and communicating effectively with all stakeholders has been central to my career. I am an adaptive and results-driven professional, eager to apply my robust project management skills to the construction industry and contribute to the success of your team.<br><br>Thank you for your time and consideration. I have attached my resume for your review and look forward to discussing how my experience can benefit your organization.<br><br>Sincerely,<br>Andres Jimenez
+SUBJECT: Application for Medical Gas Project Manager at Jobot
+CONTENT: Dear Logan Ridge,<br><br>I am writing to express my keen interest in the Medical Gas Project Manager position I discovered on LinkedIn. With over 10 years of comprehensive project management experience, I have a strong record of leading complex, end-to-end projects within highly regulated industries, including healthcare, and I am confident my skills align with the requirements of this role.<br><br>My career has been centered on overseeing all project stages, from initial planning, budgeting, and resource allocation to execution, risk management, and quality control. I am adept at managing cross-functional teams, coordinating with diverse stakeholders including engineers and technical experts, and ensuring all work complies with stringent industry standards and safety protocols. My focus on clear communication and proactive issue resolution ensures projects are delivered on time and within budget.<br><br>While my background is in technical project management, my extensive work with healthcare clients like San Rafael Hospital and Antioquia Clinic has provided me with a deep understanding of the critical nature of healthcare infrastructure. I have managed projects involving systems integration, data security (HIPAA), and operational workflows within clinical environments, giving me valuable insight into the demands of your projects.<br><br>I am a highly adaptive and results-driven leader, passionate about applying my robust project management expertise to new challenges. I am eager to learn more about this opportunity and discuss how my background in successfully delivering critical projects can benefit your team.
 
 # CV Content
-CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading complex, end-to-end projects in highly regulated industries, including Healthcare and Public Safety. Expert in full lifecycle project delivery: planning, financial oversight, risk management, and quality assurance for mission-critical system implementations. Skilled in coordinating cross-functional teams, managing subcontractors, and ensuring strict compliance with industry standards and safety protocols.
-SKILLS_TITLE_1: Project Lifecycle Management
-SKILLS_DESC_1: End-to-End Project Planning, Budgeting & Cost Control, Scheduling, Resource Allocation, Risk Management & Mitigation, Quality Assurance.
-SKILLS_TITLE_2: Stakeholder & Team Leadership
-SKILLS_DESC_2: C-Level Reporting, Cross-Functional Team Coordination, Subcontractor & Vendor Management, Negotiation, Client Relations.
-SKILLS_TITLE_3: Regulated Environments & Compliance
-SKILLS_DESC_3: Healthcare Systems (HL7, DICOM), Public Safety Solutions, Regulatory Compliance, Safety Protocols, Quality Control Standards.
-SKILLS_TITLE_4: Project Management Methodologies & Tools
-SKILLS_DESC_4: Hybrid Waterfall, Kanban, Scrum, Jira, Confluence, Asana, Financial Reporting.
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading complex projects in regulated industries, including healthcare and public safety. Expert in end-to-end project delivery, from planning and budgeting to risk management and quality control. Skilled in managing large-scale teams, ensuring projects are delivered on time and within budget, meeting the highest safety and compliance standards.
+SKILLS_TITLE_1: Project Management & Execution
+SKILLS_DESC_1: Project Lifecycle Management (Planning, Execution, Control, Closure), Risk & Compliance Management, Budget & Resource Allocation, Stakeholder & Vendor Relations.
+SKILLS_TITLE_2: Methodologies & Tools
+SKILLS_DESC_2: Agile (Scrum, Kanban, SAFe), Waterfall & Hybrid Models, Jira, Confluence, MS Project.
+SKILLS_TITLE_3: Industry & Domain Expertise
+SKILLS_DESC_3: Healthcare Operations & Systems (Hospitals, Clinics), Public Safety & Regulated Environments, IT Infrastructure & Systems Integration, SaaS & Cloud Platforms (AWS, GCP).
+SKILLS_TITLE_4: Leadership & Reporting
+SKILLS_DESC_4: Cross-Functional Team Leadership (On-site & Remote), Performance Tracking (KPIs & OKRs), C-Level & Executive Reporting, Staffing & Team Development.
 
 # Work Experience - Globant
-JOB_TITLE_GLOBANT: Project Manager
-COMPANY_SUMMARY_GLOBANT: A digitally native company leveraging AI and innovative technologies to reinvent businesses through software development and consulting for global clients.
-COMPANY_BULLET_1_GLOBANT: Directed complex system integration projects for healthcare and financial clients, managing the full lifecycle from planning to completion and ensuring strict regulatory compliance.
-COMPANY_BULLET_2_GLOBANT: Managed project budgets and timelines for large-scale digital transformation initiatives, consistently delivering projects on schedule and within financial constraints for clients like Royal Caribbean.
-COMPANY_BULLET_3_GLOBANT: Led risk identification and mitigation planning for multi-team projects, providing regular progress reports to C-level stakeholders to ensure alignment and project success.
+JOB_TITLE_GLOBANT:Technical Project Manager
+COMPANY_SUMMARY_GLOBANT: A global AI-focused consulting firm delivering innovative software solutions and digital transformation for enterprise clients in healthcare, retail, and finance.
+COMPANY_BULLET_1_GLOBANT: Led project delivery for Royal Caribbean's guest services, managing distributed teams to launch new features on time, enhancing guest experience and onboard service efficiency.
+COMPANY_BULLET_2_GLOBANT: Drove a 40% performance improvement for Dick's Sporting Goods' e-commerce platform by leading an agile transformation and optimizing core web vitals and infrastructure.
+COMPANY_BULLET_3_GLOBANT: Managed a datacenter migration to GCP for Banco de Chile and implemented a Scrum of Scrums framework for 100+ engineers, ensuring project alignment and on-time delivery.
 
 # Work Experience - Mango-soft
-JOB_TITLE_MANGOSOFT: Technical Project Manager
-COMPANY_SUMMARY_MANGOSOFT: A custom software development company delivering innovative cloud and data solutions for the media, sports, and healthcare industries across the Americas.
-COMPANY_BULLET_1_MANGOSOFT: Managed end-to-end delivery of critical healthcare system projects, including imaging integration and voice-to-text solutions, for multiple hospital clients.
-COMPANY_BULLET_2_MANGOSOFT: Coordinated with technical experts and subcontractors to implement cloud infrastructure (AWS), ensuring high system reliability and performance for media streaming services.
-COMPANY_BULLET_3_MANGOSOFT: Oversaw project planning and execution for fixed-price contracts, ensuring profitability while adhering to strict project specifications and delivery deadlines.
+JOB_TITLE_MANGOSOFT:Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software consultancy specializing in custom cloud-based solutions, data services, and media streaming platforms for healthcare and sports media clients.
+COMPANY_BULLET_1_MANGOSOFT: Directed the development of critical healthcare applications, including imaging integration and voice-to-text systems, improving clinician workflow and patient data access.
+COMPANY_BULLET_2_MANGOSOFT: Ensured HIPAA compliance by managing the secure transfer of medical device data (DICOM) to AWS, enhancing data integrity and security for multiple clinic clients.
+COMPANY_BULLET_3_MANGOSOFT: Delivered a live-streaming media platform for Concacaf, managing the project from RFP to production support, increasing fan engagement through enhanced media access.
 
 # Work Experience - TIPI
-JOB_TITLE_TIPI: Technical Project Manager
-COMPANY_SUMMARY_TIPI: A technology company specializing in integrated hardware and software solutions for public safety, law enforcement, and healthcare sectors.
-COMPANY_BULLET_1_TIPI: Led deployment of integrated hardware systems for the Colombian Police, overseeing installation and operation of over 3,000 bodycam units across multiple cities.
-COMPANY_BULLET_2_TIPI: Managed the complete project lifecycle for government contracts, ensuring strict adherence to technical specifications, timelines, quality standards, and regulatory requirements.
-COMPANY_BULLET_3_TIPI: Directed field teams for system installations and maintenance in over 10 hospitals, improving on-site communication, asset tracking, and operational support.
+JOB_TITLE_TIPI:Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology firm developing integrated hardware and software solutions for public safety, law enforcement, and healthcare sectors, focusing on IoT and real-time data.
+COMPANY_BULLET_1_TIPI: Led the full lifecycle of a bodycam system for the Colombian Police, deploying 3,000+ devices and ensuring operational readiness and strict governmental compliance.
+COMPANY_BULLET_2_TIPI: Implemented nurse call and asset tracking systems in over 10 hospitals, improving staff response times by 30% and enhancing patient safety and care coordination.
+COMPANY_BULLET_3_TIPI: Oversaw software development and field operations teams, managing project constraints to ensure on-time delivery of critical infrastructure for government and healthcare contracts.
 
 # Work Experience - itBigBoss
-JOB_TITLE_ITBIGBOSS: Technical Project Manager
-COMPANY_SUMMARY_ITBIGBOSS: A Software-as-a-Service (SaaS) provider developing and implementing Point-of-Sale and business management solutions for over 1,000 small businesses in Latam.
-COMPANY_BULLET_1_ITBIGBOSS: Directed projects involving integrations with physical hardware like turnstiles, biometrics, printers, and cash devices, ensuring seamless system functionality.
-COMPANY_BULLET_2_ITBIGBOSS: Managed implementation projects for over 1,000 small businesses, coordinating timelines, resources, and client requirements to ensure successful on-site deployment.
-COMPANY_BULLET_3_ITBIGBOSS: Led system configuration, quality assurance, and release management, establishing robust operations and customer support workflows for all clients.
+JOB_TITLE_ITBIGBOSS:Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering POS and business management software solutions for over 1,000 small businesses in the retail, fitness, and health industries.
+COMPANY_BULLET_1_ITBIGBOSS: Spearheaded the full SDLC for a SaaS POS platform, integrating payment processing and inventory management to streamline operations for 1,000+ small businesses.
+COMPANY_BULLET_2_ITBIGBOSS: Managed all integrations with hardware including biometrics and access control turnstiles, creating a secure and seamless user experience for fitness centers.
+COMPANY_BULLET_3_ITBIGBOSS: Led technical and support teams, establishing operational workflows that resulted in a 95% customer retention rate through reliable service and continuous product improvement.
 
 # Work Experience - Bodytech
-JOB_TITLE_BODYTECH: IT Manager
-COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, providing comprehensive wellness services and operating across Colombia, Peru, and Chile.
-COMPANY_BULLET_1_BODYTECH: Managed technology infrastructure deployment across 60+ new sites, overseeing networking, security systems (CCTV), and access control hardware installation.
-COMPANY_BULLET_2_BODYTECH: Led the implementation of enterprise-wide CRM & ERP systems, coordinating with vendors and internal teams to meet business and operational needs.
-COMPANY_BULLET_3_BODYTECH: Established and directed IT operational support teams, ensuring high system uptime and efficient issue resolution across all locations in three countries.
+JOB_TITLE_BODYTECH:IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain with over 60 locations across Latin America, focused on providing premium wellness and training services.
+COMPANY_BULLET_1_BODYTECH: Directed the implementation of a secure access control system using biometrics across 60+ fitness centers, improving security and reducing member check-in time.
+COMPANY_BULLET_2_BODYTECH: Led the company-wide Dynamics CRM & ERP implementation, unifying customer data and billing processes, which supported rapid multi-country expansion and operational scale.
+COMPANY_BULLET_3_BODYTECH: Managed all IT infrastructure and service desk operations for 60+ sites, achieving 99.9% system uptime for critical business functions including CRM and billing.

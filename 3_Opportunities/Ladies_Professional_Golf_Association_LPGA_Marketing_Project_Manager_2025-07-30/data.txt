@@ -1,0 +1,56 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: Ladies Professional Golf Association (LPGA)
+JOB_ROLE: Marketing Project Manager
+COMPANY_NAME: Ladies Professional Golf Association (LPGA)
+APPLICATION_DATE: July 30th, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Marketing Project Manager at Ladies Professional Golf Association (LPGA)
+CONTENT: Dear Hiring Manager,<br><br>I am writing to express my enthusiastic interest in the Marketing Project Manager position at the Ladies Professional Golf Association (LPGA), which I discovered on LinkedIn. With over 10 years of experience managing complex, cross-functional projects in dynamic environments, including media and retail, I am confident I possess the skills to optimize your marketing operations and drive successful brand initiatives.<br><br>My background involves orchestrating all project elements from conception to completion, mirroring the responsibilities outlined in your job description. I have extensive experience defining project scope, establishing timelines, setting and tracking KPIs, and managing budgets to ensure on-time delivery. At Globant, I led initiatives for clients like Royal Caribbean and Dick's Sporting Goods, managing campaigns that included digital marketing, AI-driven applications, and e-commerce platform enhancements, which directly aligns with the deliverables you require.<br><br>I am an expert in using project management software like Jira, MS Teams, and Slack to foster collaboration and streamline workflows, and I am adept at quickly mastering new tools like Asana. My adaptive approach to project management, combining Agile and traditional methodologies, has consistently led to process improvements and greater team efficiency. For example, I drove a 40% performance boost on an e-commerce platform by optimizing development cycles and fostering clear communication across teams. I am excited by the opportunity to bring my proactive planning and leadership skills to the LPGA and contribute to your team's success.<br><br>Thank you for considering my application. I look forward to discussing how my experience can benefit the LPGA.
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading cross-functional teams and delivering complex digital and marketing initiatives across entertainment, retail, and tech. Expert in Agile and hybrid methodologies, skilled in process optimization, budget oversight, and end-to-end campaign delivery. A track record of improving performance and managing large-scale projects from conception to launch.
+SKILLS_TITLE_1: Project & Campaign Management
+SKILLS_DESC_1: End-to-end planning, execution, budget & timeline management, KPI tracking, vendor relations.
+SKILLS_TITLE_2: Methodologies & Process Optimization
+SKILLS_DESC_2: Agile (SAFe, Scrum, Kanban), Waterfall, Hybrid Models, process streamlining, operational efficiency.
+SKILLS_TITLE_3: Collaboration & Leadership
+SKILLS_DESC_3: Cross-functional team leadership, stakeholder communications, C-level reporting, team building.
+SKILLS_TITLE_4: Tools & Technologies
+SKILLS_DESC_4: Asana, Jira, Confluence, MS Teams, Slack; Marketing campaigns (social, digital, email).
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Project Manager
+COMPANY_SUMMARY_GLOBANT: A digital consulting company helping organizations reinvent themselves with AI-powered solutions. Creates and develops software products for top companies, fostering innovation and transformation.
+COMPANY_BULLET_1_GLOBANT: Led project execution for Royal Caribbean's digital guest apps, including tailored advertising and AI chatbots, driving enhanced customer engagement and onboard revenue.
+COMPANY_BULLET_2_GLOBANT: Drove a 40% performance boost for Dick's Sporting Goods' e-commerce platform by optimizing web vitals and streamlining development cycles with Agile methodologies.
+COMPANY_BULLET_3_GLOBANT: Managed program delivery for diverse portfolios in retail, travel, and finance, ensuring projects met KPIs and were delivered on-time and within budget.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm specializing in cloud services, big data, and custom applications for the media, sports, and healthcare industries across the Americas.
+COMPANY_BULLET_1_MANGOSOFT: Directed end-to-end development of the Concacaf media and streaming platform, managing deliverables for live matches, news, and statistics for sports fans.
+COMPANY_BULLET_2_MANGOSOFT: Managed projects for major healthcare clinics, integrating voice-to-text AI and imaging systems, improving data access and operational workflows for medical staff.
+COMPANY_BULLET_3_MANGOSOFT: Implemented Scrum methodologies for cross-functional teams, defining project roadmaps and delivering products from concept to production support, increasing team velocity.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology company that develops integrated hardware and software solutions, including mobile devices and management platforms for public safety and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Led the full product lifecycle for a bodycam system for the Colombian Police, delivering over 3,000 devices with integrated management software.
+COMPANY_BULLET_2_TIPI: Managed the development and deployment of a real-time patient-flow and nurse-call system, improving communication and efficiency in over 10 hospitals.
+COMPANY_BULLET_3_TIPI: Oversaw project constraints for government contracts, ensuring on-time delivery, compliance with regulations, and successful implementation of hardware and software solutions.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider offering specialized Point-of-Sale (POS) and business management software for restaurants, fitness, beauty, and health centers throughout Latin America.
+COMPANY_BULLET_1_ITBIGBOSS: Directed the full SDLC for a SaaS POS product, leading to its successful implementation and adoption by over 1,000 small businesses.
+COMPANY_BULLET_2_ITBIGBOSS: Led technical teams hands-on, overseeing coding, quality assurance, and release management to integrate biometrics, payment systems, and third-party accounting apps.
+COMPANY_BULLET_3_ITBIGBOSS: Managed operations and customer support workflows, creating a scalable platform that reduced data entry time and automated billing for clients.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading chain of health and fitness centers in Latin America, providing comprehensive wellness services and facilities to a large member base.
+COMPANY_BULLET_1_BODYTECH: Managed infrastructure rollout for over 60 new sites, implementing networking, CCTV, and access control systems, ensuring operational readiness for new club openings.
+COMPANY_BULLET_2_BODYTECH: Led the software development lifecycle for the company's CRM and billing software, resulting in streamlined member management and increased retention.
+COMPANY_BULLET_3_BODYTECH: Established and led the IT Service Desk, defining support protocols and improving ticket resolution rates and system uptime across the organization.

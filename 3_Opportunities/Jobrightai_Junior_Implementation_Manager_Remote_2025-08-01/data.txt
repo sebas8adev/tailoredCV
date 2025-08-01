@@ -1,0 +1,55 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: Rad AI
+JOB_ROLE: Junior Implementation Manager
+APPLICATION_DATE: August 1st, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Junior Implementation Manager at Rad AI
+CONTENT: Dear Hiring Manager,<br><br>I am writing to express my enthusiastic interest in the Junior Implementation Manager position at Rad AI, as advertised on LinkedIn. Your mission to transform healthcare through artificial intelligence deeply resonates with my professional experience in leading technology projects within the healthcare sector and delivering innovative AI solutions.<br><br>With over 10 years of experience managing client-facing software implementations, I have a strong background in leading the end-to-end delivery of complex technical products. My experience at Mango-Soft involved deploying SaaS solutions for multiple clinics and hospitals, including integrating medical imaging devices and voice-to-text applications using AWS cloud services. This has given me practical knowledge of healthcare IT environments, workflows, and standards like HL7 and DICOM, aligning with the core requirements of this role.<br><br>I excel at coordinating cross-functional product, engineering, and integration teams to ensure seamless customer onboarding and project success. At Globant, I managed the delivery of a Google AI-powered chatbot for Royal Caribbean, overseeing the project from discovery and planning through to go-live and support. I am proficient in developing detailed project plans, managing risks, and facilitating clear communication with all stakeholders, from technical teams to executive leadership.<br><br>I am confident that my adaptive project management approach and my experience in both healthcare technology and AI-driven products make me a strong candidate to contribute to your world-class implementation team. I am eager to help Rad AI exceed customer expectations and achieve long-term success.
+
+# CV Content
+CAREER_SUMMARY: Adaptive Technical Project Manager with over 10 years of experience leading complex, client-facing software implementations across healthcare, finance, and retail. Expert in delivering AI-driven and SaaS solutions, managing the full project lifecycle from discovery to go-live. Skilled in Agile and hybrid methodologies, stakeholder management, and coordinating cross-functional teams to ensure seamless customer onboarding and long-term success.
+SKILLS_TITLE_1: Project & Implementation Management
+SKILLS_DESC_1: End-to-end Delivery, Project Planning, Risk Management, Scope Control, Stakeholder Communication, Onboarding, Go-Live.
+SKILLS_TITLE_2: Methodologies & Tools
+SKILLS_DESC_2: Agile (SAFe, Scrum, Kanban), Hybrid, Waterfall; Jira, Confluence, Asana, MS Teams, Slack.
+SKILLS_TITLE_3: Technical & Industry Expertise
+SKILLS_DESC_3: SaaS Implementation, AI & GenAI Solutions, Healthcare IT (HL7, DICOM), Cloud (AWS, GCP), SDLC.
+SKILLS_TITLE_4: Leadership & Collaboration
+SKILLS_DESC_4: Cross-Functional Team Coordination, Executive Reporting (KPIs/OKRs), Client Relationship Management, Process Improvement.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Technical Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native consulting firm leveraging AI and innovative software solutions to help organizations reinvent their industries and stay ahead of the curve.
+COMPANY_BULLET_1_GLOBANT: Directed end-to-end delivery of a Google AI chatbot for Royal Caribbean, enhancing guest services and tailoring advertising for improved customer engagement.
+COMPANY_BULLET_2_GLOBANT: Led a +30-person team to improve Dick's Sporting Goods' e-commerce performance by 40% through adaptive quarterly roadmaps and PI planning execution.
+COMPANY_BULLET_3_GLOBANT: Managed the project lifecycle for a data center migration to GCP for Banco de Chile, ensuring a seamless transition and improved data warehousing capabilities.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development company creating custom cloud-based solutions and big data applications for clients in the media, sports, and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Implemented a cloud-based media center for Concacaf using AWS, delivering live streaming and news services to a broad international fanbase.
+COMPANY_BULLET_2_MANGOSOFT: Deployed a voice-to-text application for healthcare professionals, integrating AWS Polly to improve clinical documentation speed and accuracy for multiple hospitals.
+COMPANY_BULLET_3_MANGOSOFT: Managed the integration of medical imaging devices with AWS cloud infrastructure, utilizing DICOM standards to centralize patient data for improved diagnostics.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: An IoT firm specializing in integrated hardware and software solutions for public safety, law enforcement, and healthcare operational management in Colombia.
+COMPANY_BULLET_1_TIPI: Led development and deployment of a bodycam system for the Colombian Police, including firmware, management software, and real-time streaming capabilities.
+COMPANY_BULLET_2_TIPI: Deployed the bodycam solution for over 3,000 officers, leading operations and support to enhance officer accountability and ensure on-time delivery under regulation.
+COMPANY_BULLET_3_TIPI: Implemented a Bluetooth and RFID-based nurse call and asset tracking system in 10+ hospitals, improving patient response times and equipment management.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: My own SaaS company that developed and supported a comprehensive POS solution for over 1,000 small businesses in the retail and fitness sectors.
+COMPANY_BULLET_1_ITBIGBOSS: Architected and managed the full SDLC for a SaaS-based POS system, serving over 1,000 businesses with integrated payments, inventory, and CRM.
+COMPANY_BULLET_2_ITBIGBOSS: Led the technical team in coding and release management, directly contributing to product stability and the launch of new features for clients.
+COMPANY_BULLET_3_ITBIGBOSS: Spearheaded integrations with biometrics and accounting apps, automating billing processes and reducing data entry time for restaurant and fitness center clients.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, operating over 60 sites across three countries with a focus on technology-driven member services.
+COMPANY_BULLET_1_BODYTECH: Managed the technology infrastructure rollout for 60+ new sites, including networking, security, and IP phoning, supporting rapid company expansion.
+COMPANY_BULLET_2_BODYTECH: Led the implementation of Microsoft Dynamics CRM & ERP, centralizing member data and billing processes to improve operational efficiency and member retention.
+COMPANY_BULLET_3_BODYTECH: Established and led the IT Service Desk, implementing support workflows that improved system uptime and achieved a high internal user satisfaction score.

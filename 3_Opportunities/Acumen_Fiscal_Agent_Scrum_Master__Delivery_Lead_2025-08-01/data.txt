@@ -1,0 +1,55 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: Acumen Fiscal Agent
+JOB_ROLE: Scrum Master / Delivery Lead
+APPLICATION_DATE: July 30th, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Scrum Master / Delivery Lead at Acumen Fiscal Agent
+CONTENT: Dear Hiring Manager,<br><br>I am writing to express my keen interest in the Scrum Master / Delivery Lead position at Acumen Fiscal Agent, as advertised on LinkedIn. With over 10 years of experience in leading Agile delivery for complex technology projects, I am confident that my skills in facilitation, process improvement, and stakeholder management align perfectly with the requirements of this role.<br><br>In my previous roles, I have been responsible for leading all Agile ceremonies, removing impediments, and serving as the crucial link between technical and business teams. I have a strong background in delivering data-centric and automation projects, such as implementing data warehouses and BI/analytics for a major bank and deploying AI-powered test automation for a leading e-commerce retailer. My focus has always been on tracking key metrics like velocity, throughput, and adoption to drive continuous improvement and ensure timely, high-quality delivery.<br><br>My certifications, including Certified SAFe Agilist (SAFe), Advanced Certified ScrumMaster (A-CSM), and Certified ScrumMaster (CSM), underscore my commitment to Agile principles. I am passionate about fostering an environment of collaboration and urgency, and I am drawn to Acumen's mission of helping people lead independent lives through innovative services. I am eager to bring my experience to your team and contribute to your success.<br><br>Thank you for considering my application. I look forward to discussing how I can add value to Acumen Fiscal Agent.
+
+# CV Content
+CAREER_SUMMARY: Adaptive Scrum Master with 10+ years of experience leading Agile delivery of complex data, automation, and BI/analytics projects. Expert in Scrum, SAFe, and Kanban, bridging technical and non-technical stakeholders to drive outcomes. Skilled in tracking velocity, throughput, and adoption metrics to foster continuous improvement and quality.
+SKILLS_TITLE_1: Agile & Delivery Leadership
+SKILLS_DESC_1: Scrum, SAFe, Kanban, Sprint Planning, Retrospectives, Impediment Removal, Release Management.
+SKILLS_TITLE_2: Data & Automation Expertise
+SKILLS_DESC_2: BI/Analytics, Datawarehouse, Data Ingestion, AI Test Automation, Cloud Data Services (AWS, GCP).
+SKILLS_TITLE_3: Performance & Quality Management
+SKILLS_DESC_3: Metric Tracking (Velocity, Throughput), KPI & OKR Reporting, Quality Assurance, Change Management.
+SKILLS_TITLE_4: Stakeholder & Team Enablement
+SKILLS_DESC_4: Stakeholder Communication, C-Level Reporting, Conflict Resolution, Team Coaching, Cross-Functional Facilitation.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Scrum Master
+COMPANY_SUMMARY_GLOBANT: A digitally native consulting company reinventing business through innovative technology solutions, specializing in AI-driven software development and global delivery at scale.
+COMPANY_BULLET_1_GLOBANT: Led Agile ceremonies for a data-intensive banking project, delivering Power BI dashboards and a datawarehouse, improving data accessibility for business stakeholders.
+COMPANY_BULLET_2_GLOBANT: Drove a 40% e-commerce performance boost for Dick's Sporting Goods by implementing an AI test automation framework and optimizing Core Web Vitals.
+COMPANY_BULLET_3_GLOBANT: Managed delivery for Royal Caribbean's AI chatbot, tracking adoption metrics and coordinating releases across three global teams to enhance guest services.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Scrum Master
+COMPANY_SUMMARY_MANGOSOFT: A software development firm delivering custom cloud-based solutions in media and healthcare, focused on data analytics, streaming services, and process automation.
+COMPANY_BULLET_1_MANGOSOFT: Delivered a media and data analytics platform for Concacaf using AWS data services, enabling real-time streaming and statistical reporting for championships.
+COMPANY_BULLET_2_MANGOSOFT: Implemented an automated voice-to-text solution for healthcare clients, using AWS Polly to transcribe procedures, improving documentation speed and accuracy for clinicians.
+COMPANY_BULLET_3_MANGOSOFT: Led delivery of a medical imaging integration project, automating data transfer from devices to AWS, which reduced patient data processing times.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology company developing integrated hardware and software solutions for public safety and healthcare, specializing in IoT and data management systems.
+COMPANY_BULLET_1_TIPI: Directed the delivery of a bodycam system for law enforcement, including data management software with automated, real-time facial recognition alerts.
+COMPANY_BULLET_2_TIPI: Managed release of automated docking stations that updated firmware and offloaded data for 3,000+ bodycams, ensuring fleet-wide compliance and reliability.
+COMPANY_BULLET_3_TIPI: Led an automation project integrating RFID asset tracking with a patient flow dashboard, improving operational visibility and resource management in hospitals.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider offering a comprehensive POS platform for small businesses in retail and fitness, integrating payments, inventory, and customer management.
+COMPANY_BULLET_1_ITBIGBOSS: Spearheaded the full SDLC for a SaaS POS solution, successfully deploying it to over 1,000 small businesses across Latin America.
+COMPANY_BULLET_2_ITBIGBOSS: Drove integration of automated billing and reporting features into the core product, reducing manual data entry time by 50% for business owners.
+COMPANY_BULLET_3_ITBIGBOSS: Managed the development of an inventory management automation module, helping restaurant clients optimize stock levels and reduce food waste by 15%.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, focused on delivering exceptional member experiences through technology-driven services and operations.
+COMPANY_BULLET_1_BODYTECH: Led the implementation of an automated access control system with biometrics across 60+ locations, improving security and member check-in speed.
+COMPANY_BULLET_2_BODYTECH: Directed the Dynamics CRM & ERP implementation, automating billing and member management, which contributed to a 10% increase in member retention.
+COMPANY_BULLET_3_BODYTECH: Established the IT Service Desk, implementing a ticketing system that improved internal support ticket resolution rate by 30% and boosted system uptime.

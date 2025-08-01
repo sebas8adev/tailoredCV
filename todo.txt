@@ -1,24 +1,375 @@
 ---------------------------------------------------
-Generated on: 2025-07-30 20:50:53
-Company: Black & Veatch
-Role: Extra High Voltage Overhead Transmission Line Project Engineering Manager
+Generated on: 2025-08-01 11:37:07
+Company: ABBYY
+Role: Technical Project Manager / Business Analyst
 
   > Application URL:
-    https://www.linkedin.com/jobs/search/?currentJobId=4275015953&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+    https://www.linkedin.com/jobs/search/?currentJobId=4278343422&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
 
   > Generated Documents Path:
-    I:\Playground\techguys\tailoredCV\3_Opportunities\Black__Veatch_Extra_High_Voltage_Overhead_Transmission_Line_Project_Engineering_Manager_2025-07-30
+    I:\Playground\techguys\tailoredCV\3_Opportunities\ABBYY_Technical_Project_Manager__Business_Analyst_2025-07-30
 ---------------------------------------------------
 
 ---------------------------------------------------
-Generated on: 2025-07-30 20:50:56
-Company: Jobs via Dice
-Role: Project Manager with Life Insurance Exp (Only W2)
+Generated on: 2025-08-01 11:37:25
+Company: AdventHealth
+Role: Organizational Effectiveness, Project Manager I
 
   > Application URL:
-    https://www.linkedin.com/jobs/search/?currentJobId=4275005924&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+    https://www.linkedin.com/jobs/search/?currentJobId=4278901582&distance=25&f_TPR=r86400&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true&sortBy=DD
 
   > Generated Documents Path:
-    I:\Playground\techguys\tailoredCV\3_Opportunities\Jobs_via_Dice_Project_Manager_with_Life_Insurance_Exp_Only_W2_2025-07-30
+    I:\Playground\techguys\tailoredCV\3_Opportunities\AdventHealth_Organizational_Effectiveness_Project_Manager_I_2025-08-01
+---------------------------------------------------
+
+---------------------------------------------------
+Generated on: 2025-08-01 11:37:43
+Company: Avanciers Inc.
+Role: PLM Teamcenter Project Manager
+
+  > Application URL:
+    https://www.linkedin.com/jobs/search/?currentJobId=4277566814&distance=25&f_TPR=r86400&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true&sortBy=DD
+
+  > Generated Documents Path:
+    I:\Playground\techguys\tailoredCV\3_Opportunities\Avanciers_Inc_PLM_Teamcenter_Project_Manager_2025-08-01
+---------------------------------------------------
+
+---------------------------------------------------
+Generated on: 2025-08-01 11:37:49
+Company: Banyan Software
+Role: Senior Project Manager
+
+  > Application URL:
+    https://www.linkedin.com/jobs/search/?currentJobId=4242915883&distance=25&f_TPR=r86400&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true&sortBy=DD
+
+  > Generated Documents Path:
+    I:\Playground\techguys\tailoredCV\3_Opportunities\Banyan_Software_Senior_Project_Manager_2025-08-01
+---------------------------------------------------
+
+---------------------------------------------------
+Generated on: 2025-08-01 11:38:11
+Company: Cella
+Role: IT Project Manager (Hybrid)
+
+  > Application URL:
+    https://www.linkedin.com/jobs/search/?currentJobId=4229367335&distance=25&geoId=90000596&keywords=Scrum%20master&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+
+  > Generated Documents Path:
+    I:\Playground\techguys\tailoredCV\3_Opportunities\Cella_IT_Project_Manager_Hybrid_2025-07-30
+---------------------------------------------------
+
+---------------------------------------------------
+Generated on: 2025-08-01 11:38:13
+Company: Centene Corporation
+Role: Project Manager I
+
+  > Application URL:
+    https://www.linkedin.com/jobs/search/?currentJobId=4278665001&distance=25&f_TPR=r86400&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+  > Generated Documents Path:
+    I:\Playground\techguys\tailoredCV\3_Opportunities\Centene_Corporation_Project_Manager_I_2025-07-31
+---------------------------------------------------
+
+---------------------------------------------------
+Generated on: 2025-08-01 11:38:16
+Company: Centric Consulting
+Role: Project Manager – Life Sciences
+
+  > Application URL:
+    https://www.linkedin.com/jobs/search/?currentJobId=4278332891&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+  > Generated Documents Path:
+    I:\Playground\techguys\tailoredCV\3_Opportunities\Centric_Consulting_Project_Manager__Life_Sciences_2025-07-30
+---------------------------------------------------
+
+---------------------------------------------------
+Generated on: 2025-08-01 11:38:18
+Company: Circular Action Alliance
+Role: Technical IT Project Manager
+
+  > Application URL:
+    https://www.linkedin.com/jobs/search/?currentJobId=4273382516&distance=25&f_TPR=r86400&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+  > Generated Documents Path:
+    I:\Playground\techguys\tailoredCV\3_Opportunities\Circular_Action_Alliance_Technical_IT_Project_Manager_2025-07-31
+---------------------------------------------------
+
+---------------------------------------------------
+Generated on: 2025-08-01 11:38:21
+Company: Citrin Cooperman
+Role: Technical Project Manager (48203)
+
+  > Application URL:
+    https://www.linkedin.com/jobs/search/?currentJobId=4276875240&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+  > Generated Documents Path:
+    I:\Playground\techguys\tailoredCV\3_Opportunities\Citrin_Cooperman_Technical_Project_Manager_48203_2025-07-31
+---------------------------------------------------
+
+---------------------------------------------------
+Generated on: 2025-08-01 11:38:34
+Company: ConsultNet Technology Services and Solutions
+Role: Sr. Salesforce Scrum Master / Agile Coach - REMOTE
+
+  > Application URL:
+    https://www.linkedin.com/jobs/search/?currentJobId=4278363068&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+  > Generated Documents Path:
+    I:\Playground\techguys\tailoredCV\3_Opportunities\ConsultNet_Technology_Services_and_Solutions_Sr_Salesforce_Scrum_Master__Agile_Coach__REMOTE_2025-07-30
+---------------------------------------------------
+
+---------------------------------------------------
+Generated on: 2025-08-01 11:38:47
+Company: Epic
+Role: Project Manager
+
+  > Application URL:
+    https://www.linkedin.com/jobs/search/?currentJobId=3849820350&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+  > Generated Documents Path:
+    I:\Playground\techguys\tailoredCV\3_Opportunities\Epic_Project_Manager_2025-07-31
+---------------------------------------------------
+
+---------------------------------------------------
+Generated on: 2025-08-01 11:38:52
+Company: Fluidstack
+Role: Senior Data Center Project Manager
+
+  > Application URL:
+    https://www.linkedin.com/jobs/search/?currentJobId=4278392672&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+  > Generated Documents Path:
+    I:\Playground\techguys\tailoredCV\3_Opportunities\Fluidstack_Senior_Data_Center_Project_Manager_2025-07-30
+---------------------------------------------------
+
+---------------------------------------------------
+Generated on: 2025-08-01 11:38:59
+Company: General Dynamics Information Technology
+Role: Solution Delivery Manager
+
+  > Application URL:
+    https://www.linkedin.com/jobs/search/?currentJobId=4278083156&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+  > Generated Documents Path:
+    I:\Playground\techguys\tailoredCV\3_Opportunities\General_Dynamics_Information_Technology_Solution_Delivery_Manager_2025-07-30
+---------------------------------------------------
+
+---------------------------------------------------
+Generated on: 2025-08-01 11:39:11
+Company: Gridworks
+Role: Project Manager
+
+  > Application URL:
+    https://www.linkedin.com/jobs/search/?currentJobId=4261090173&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+  > Generated Documents Path:
+    I:\Playground\techguys\tailoredCV\3_Opportunities\Gridworks_Project_Manager_2025-07-31
+---------------------------------------------------
+
+
+---------------------------------------------------
+Generated on: 2025-08-01 11:39:16
+Company: Hagerty Consulting
+Role: Comprehensive Disaster Recovery Project Manager
+
+  > Application URL:
+    https://www.linkedin.com/jobs/search/?currentJobId=4224579442&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+  > Generated Documents Path:
+    I:\Playground\techguys\tailoredCV\3_Opportunities\Hagerty_Consulting_Comprehensive_Disaster_Recovery_Project_Manager_2025-07-31
+---------------------------------------------------
+
+---------------------------------------------------
+Generated on: 2025-08-01 11:39:18
+Company: Halff
+Role: Senior Project Manager - Water and Wastewater Utilities: 4902
+
+  > Application URL:
+    https://www.linkedin.com/jobs/search/?currentJobId=4264621351&distance=25&geoId=90000596&keywords=Scrum%20master&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+
+  > Generated Documents Path:
+    I:\Playground\techguys\tailoredCV\3_Opportunities\Halff_Senior_Project_Manager__Water_and_Wastewater_Utilities_4902_2025-07-30
+---------------------------------------------------
+
+---------------------------------------------------
+Generated on: 2025-08-01 11:39:21
+Company: HaloMD
+Role: Technical Project Manager - Data & Analytics
+
+  > Application URL:
+    https://www.linkedin.com/jobs/search/?currentJobId=4278364930&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+  > Generated Documents Path:
+    I:\Playground\techguys\tailoredCV\3_Opportunities\HaloMD_Technical_Project_Manager__Data__Analytics_2025-07-30
+---------------------------------------------------
+
+---------------------------------------------------
+Generated on: 2025-08-01 11:39:35
+Company: Innodata Inc.
+Role: Engagement Manager (Consultant), Delivery
+
+  > Application URL:
+    https://www.linkedin.com/jobs/search/?currentJobId=4278932265&distance=25&f_TPR=r86400&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true&sortBy=DD
+
+  > Generated Documents Path:
+    I:\Playground\techguys\tailoredCV\3_Opportunities\Innodata_Inc_Engagement_Manager_Consultant_Delivery_2025-08-01
+---------------------------------------------------
+
+---------------------------------------------------
+Generated on: 2025-08-01 12:05:47
+Company: Jobright.ai
+Role: Technical Project Manager – Business Analyst, Mid-Level (Remote)
+
+  > Application URL:
+    https://www.linkedin.com/jobs/search/?currentJobId=4274387984&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+  > Generated Documents Path:
+    I:\Playground\techguys\tailoredCV\3_Opportunities\Jobrightai_Technical_Project_Manager__Business_Analyst_MidLevel_Remote_2025-07-30
+---------------------------------------------------
+
+
+---------------------------------------------------
+Generated on: 2025-08-01 12:06:08
+Company: KellyMitchell Group
+Role: Project Manager, Digital and Marketing Delivery
+
+  > Application URL:
+    https://www.linkedin.com/jobs/search/?currentJobId=4274325450&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+  > Generated Documents Path:
+    I:\Playground\techguys\tailoredCV\3_Opportunities\KellyMitchell_Group_Project_Manager_Digital_and_Marketing_Delivery_2025-07-30
+---------------------------------------------------
+
+---------------------------------------------------
+Generated on: 2025-08-01 12:06:14
+Company: Kimley-Horn
+Role: Senior Project Manager, Practice Builder - Aviation
+
+  > Application URL:
+    https://www.linkedin.com/jobs/search/?currentJobId=4275011159&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+  > Generated Documents Path:
+    I:\Playground\techguys\tailoredCV\3_Opportunities\Kimley-Horn_Senior_Project_Manager_Practice_Builder__Aviation_2025-07-30
+---------------------------------------------------
+
+---------------------------------------------------
+Generated on: 2025-08-01 12:06:16
+Company: Kraken
+Role: Technical Project Manager - Consumer
+
+  > Application URL:
+    https://www.linkedin.com/jobs/search/?currentJobId=4274237898&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+  > Generated Documents Path:
+    I:\Playground\techguys\tailoredCV\3_Opportunities\Kraken_Technical_Project_Manager__Consumer_2025-07-31
+---------------------------------------------------
+
+---------------------------------------------------
+Generated on: 2025-08-01 12:06:24
+Company: Ladies Professional Golf Association (LPGA)
+Role: Marketing Project Manager
+
+  > Application URL:
+    https://www.linkedin.com/jobs/search/?currentJobId=4270124730&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+  > Generated Documents Path:
+    I:\Playground\techguys\tailoredCV\3_Opportunities\Ladies_Professional_Golf_Association_LPGA_Marketing_Project_Manager_2025-07-30
+---------------------------------------------------
+
+---------------------------------------------------
+Generated on: 2025-08-01 12:06:26
+Company: Lensa
+Role: Busines Analyst/Project Manager - Remote
+
+  > Application URL:
+    https://www.linkedin.com/jobs/search/?currentJobId=4278738695&distance=25&f_TPR=r86400&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+  > Generated Documents Path:
+    I:\Playground\techguys\tailoredCV\3_Opportunities\Lensa_Busines_AnalystProject_Manager__Remote_2025-08-01
+---------------------------------------------------
+
+---------------------------------------------------
+Generated on: 2025-08-01 12:06:31
+Company: Lumen Technologies
+Role: Project Manager and Planner
+
+  > Application URL:
+    https://www.linkedin.com/jobs/search/?currentJobId=4275005521&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+  > Generated Documents Path:
+    I:\Playground\techguys\tailoredCV\3_Opportunities\Lumen_Technologies_Project_Manager_and_Planner_2025-07-30
+---------------------------------------------------
+
+---------------------------------------------------
+Generated on: 2025-08-01 12:06:33
+Company: Lumen Technologies
+Role: SR LEAD PROJECT MANAGER - PUB SEC
+
+  > Application URL:
+    https://www.linkedin.com/jobs/search/?currentJobId=4276861080&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+  > Generated Documents Path:
+    I:\Playground\techguys\tailoredCV\3_Opportunities\Lumen_Technologies_SR_LEAD_PROJECT_MANAGER__PUB_SEC_2025-07-31
+---------------------------------------------------
+
+
+---------------------------------------------------
+Generated on: 2025-08-01 14:53:27
+Company: Conflux Systems
+Role: Technical Project Manager
+
+  > Application URL:
+    LinkedIn Direct Message
+
+  > Generated Documents Path:
+    I:\Playground\techguys\tailoredCV\3_Opportunities\Conflux_Systems_Technical_Project_Manager_2025-08-01
+---------------------------------------------------
+
+---------------------------------------------------
+Generated on: 2025-08-01 14:53:29
+Company: DivIHN Integration Inc
+Role: Business Project Manager
+
+  > Application URL:
+    https://www.linkedin.com/jobs/search/?currentJobId=4273292009&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+  > Generated Documents Path:
+    I:\Playground\techguys\tailoredCV\3_Opportunities\DivIHN_Integration_Inc_Business_Project_Manager_2025-07-30
+---------------------------------------------------
+
+---------------------------------------------------
+Generated on: 2025-08-01 14:53:31
+Company: DynaFire
+Role: Experienced Fire Sprinkler Project Manager
+
+  > Application URL:
+    https://www.linkedin.com/jobs/search/?currentJobId=4278388829&distance=25&f_TPR=r10500&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+  > Generated Documents Path:
+    I:\Playground\techguys\tailoredCV\3_Opportunities\DynaFire_Experienced_Fire_Sprinkler_Project_Manager_2025-07-30
+---------------------------------------------------
+
+---------------------------------------------------
+Generated on: 2025-08-01 15:21:31
+Company: Conflux Systems
+Role: Technical Project Manager
+
+  > Application URL:
+    LinkedIn Direct Message
+
+  > Generated Documents Path:
+    I:\Playground\techguys\tailoredCV\3_Opportunities\Conflux_Systems_Technical_Project_Manager_2025-08-01
+---------------------------------------------------
+
+---------------------------------------------------
+Generated on: 2025-08-01 15:27:36
+Company: Conflux Systems
+Role: Technical Project Manager
+
+  > Application URL:
+    LinkedIn Direct Message
+
+  > Generated Documents Path:
+    I:\Playground\techguys\tailoredCV\3_Opportunities\Conflux_Systems_Technical_Project_Manager_2025-08-01
 ---------------------------------------------------
 

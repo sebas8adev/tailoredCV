@@ -1,0 +1,56 @@
+# Global Information
+HIRING_MANAGER: Alex Theakston
+COMPANY_NAME: DataX Connect
+JOB_ROLE: Commissioning Project Manager- Data Centers
+COMPANY_NAME: DataX Connect
+APPLICATION_DATE: July 31st, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Commissioning Project Manager- Data Centers
+CONTENT: Dear Alex Theakston,<br><br>I am writing to express my keen interest in the Commissioning Project Manager- Data Centers role I discovered on LinkedIn. The opportunity to contribute to a growing commissioning company dedicated to making an impact in the mission-critical sector strongly aligns with my professional goals.<br><br>With over 10 years of comprehensive project management experience, I have a substantial background in overseeing complex technical projects from conception through to post-deployment support. My experience includes leading a large-scale data center migration from on-premise infrastructure to Google Cloud Platform, where I managed multidisciplinary teams and ensured a seamless transition with minimal downtime. This project provided me with direct experience in the intricacies of data center operations and infrastructure projects.<br><br>Furthermore, my background includes extensive hands-on management of hardware and software integrations, including the deployment of physical access control systems, biometrics, and CCTV across more than 60 sites. I am adept at managing diverse internal and external stakeholders—including vendors, technical teams, and C-level executives—and implementing rigorous QA/QC programs to ensure project deliverables meet precise technical specifications.<br><br>My Project Management certifications and adaptive approach to managing timelines, budgets, and risks have been central to my success. I am confident that my skills in infrastructure management and large-scale project execution are highly transferable to the responsibilities of this role. I am eager for the opportunity to discuss how my experience can benefit your client's projects on the East Coast.
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading complex infrastructure and digital transformation projects, including data center environments. Expert in Agile and traditional methodologies, with strengths in end-to-end project delivery from design review to post-construction support. Excels in managing diverse stakeholders, large-scale budgets, and rigorous QA/QC programs for mission-critical facilities.
+SKILLS_TITLE_1: Project & Program Management
+SKILLS_DESC_1: Data Center Projects, MEP Systems Integration Concepts, Commissioning Lifecycle (ASHRAE/LEED Principles), QA/QC Programs, Stakeholder & Vendor Management, Budget & Risk Control.
+SKILLS_TITLE_2: Technical & Infrastructure Expertise
+SKILLS_DESC_2: Data Center Migration (On-Prem to GCP), Cloud Platforms (AWS, GCP), Hardware/Software Integration (Bodycams, RFID, POS), Physical Access Control Systems, Infrastructure Deployment.
+SKILLS_TITLE_3: Methodologies & Certifications
+SKILLS_DESC_3: SAFe, Scrum, Kanban, Waterfall, PMP Framework, Google Project Management Certificate, SAFe 6 Agilist, A-CSM.
+SKILLS_TITLE_4: Tools & Reporting
+SKILLS_DESC_4: Jira, Confluence, Asana, MS Teams, KPI & OKR Tracking, Executive-Level RAG Status Reporting.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native consulting firm leveraging AI and innovative technologies to reinvent businesses and deliver large-scale software development and transformation projects for global clients.
+COMPANY_BULLET_1_GLOBANT: Led a complex datacenter migration from on-prem to GCP for Banco de Chile, managing over 100 personnel and coordinating diverse infrastructure and data teams.
+COMPANY_BULLET_2_GLOBANT: Managed comprehensive QA/QC programs for Royal Caribbean, ensuring system adherence to technical specifications and facilitating seamless, on-time production releases for mission-critical guest applications.
+COMPANY_BULLET_3_GLOBANT: Drove program performance for Dick's Sporting Goods, achieving a 40% boost in e-commerce platform efficiency through adaptive quarterly roadmaps and PI Planning execution.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development company specializing in creating custom solutions using cloud services, big data, and AI for media, sports, and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Managed integration of medical imaging devices with AWS cloud, establishing DICOM data transfer protocols and ensuring high system reliability for multiple clinical environments.
+COMPANY_BULLET_2_MANGOSOFT: Spearheaded projects utilizing AWS infrastructure (Livestreaming, DynamoDB) to deliver media solutions for Concacaf, managing all phases from design review to production support.
+COMPANY_BULLET_3_MANGOSOFT: Directed fixed-price projects, defining scope, staffing teams, and delivering against KPIs for new platform launches, resulting in successful client acquisition and retention.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: An engineering firm delivering integrated hardware and software solutions, specializing in IoT, security, and management systems for public safety and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Led end-to-end deployment of a hardware-software solution for the Colombian Police, delivering over 3,000 bodycams and managing firmware and system-wide software updates.
+COMPANY_BULLET_2_TIPI: Directed implementation of Bluetooth/RFID hardware systems in 10+ hospitals, managing physical installation, system integration, and operational workflows to improve asset tracking.
+COMPANY_BULLET_3_TIPI: Managed project delivery for government contracts, ensuring compliance with regulations and leading technical teams through the full lifecycle from planning to on-site implementation.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A software-as-a-service (SaaS) provider developing and implementing point-of-sale and business management solutions for the restaurant, fitness, and retail industries in Latam.
+COMPANY_BULLET_1_ITBIGBOSS: Directed development of a SaaS POS system, integrating hardware like turnstiles, biometrics, and printers for over 1,000 small businesses, streamlining their operations.
+COMPANY_BULLET_2_ITBIGBOSS: Led the full product life cycle and operations support for the core platform, ensuring high uptime and successful implementations for a diverse client base.
+COMPANY_BULLET_3_ITBIGBOSS: Managed a 30-person team, providing hands-on technical leadership in development and QA to deliver robust and scalable business management solutions.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, focused on providing comprehensive wellness services supported by a robust technology platform.
+COMPANY_BULLET_1_BODYTECH: Managed the full lifecycle for physical access control systems, deploying software, turnstiles, and biometrics across more than 60 sites in Colombia, Peru, and Chile.
+COMPANY_BULLET_2_BODYTECH: Directed IT infrastructure rollout for 60+ new fitness centers, overseeing networking, IP phoning, and CCTV system implementation from planning to full operation.
+COMPANY_BULLET_3_BODYTECH: Established the company-wide IT Service Desk and operational procedures, improving ticket resolution rates and system uptime for all corporate and club locations.

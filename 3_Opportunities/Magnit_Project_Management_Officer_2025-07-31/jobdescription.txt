@@ -1,0 +1,55 @@
+Status: processed
+Data-Status: complete
+Job board: LinkedIn
+Company Name: Magnit
+Role Name: Project Management Officer
+Location: United States
+Type: Not specified
+Salary range: Not specified
+Hiring Team: Yash Jani
+Application Instructions: LinkedIn Easy Apply
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4274260180&distance=25&f_TPR=r86400&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+
+Job Description:
+About the job
+About the Role
+Client is seeking a highly motivated and organized Project Management Officer (PMO) to lead and coordinate the Business to Business Payment Rails program within our Invoicing Product team. 
+The project is a payment strategy project that is a dedicated B2B payment rail enabling low-cost, instant, 24/7 domestic and cross-border payments. 
+Capture high-value off-platform transactions with automated reconciliation. 
+This is a strategic role focusing on cross-functional execution, with direct accountability for ensuring timelines, transparency, and delivery integrity across global teams. 
+This is not a commercial or sales-focused role. 
+It is purely centered on program and delivery management, enabling streamlined, efficient, and aligned execution across teams contributing to the workstream. 
+
+Responsibilities 
+Program Oversight & Timeline Management:
+Own and manage the overall project plan, driving adherence to timelines and milestones across multiple workstreams.
+Facilitate regular status updates and checkpoint meetings to ensure delivery teams are aligned and progressing.
+Risk & Issue Tracking
+Establish and maintain a robust framework for identifying, documenting, escalating, and resolving program-level risks and issues.
+Monitor key risk indicators and ensure mitigation plans are in place and executed.
+Dependency Management
+Identify and manage critical interdependencies across internal teams, systems, and geographies.
+Drive alignment across stakeholders to de-risk cross-functional deliverables.
+Reporting & Communication
+Produce and distribute concise, executive-ready project updates and dashboards.
+Act as the primary point of contact for project status, ensuring stakeholders at all levels are informed and engaged.
+Cross-Location Coordination
+Coordinate activities across multi-location teams including engineering, product, risk, compliance, and operations.
+Adapt project governance to suit various time zones and team structures.
+Governance & Documentation
+Maintain accurate and up-to-date documentation of meeting notes, action items, decision logs, and program artefacts.
+
+Basic Qualifications
+5+ years of program or project management experience, preferably in a product-focused environment within a global tech or financial services company.
+Demonstrated experience in managing risk-oriented technology projects.
+Proficient in program reporting, using tools like JIRA, Confluence, and Smartsheet.
+Excellent organizational and communication skills; able to distill complexity into actionable plans.
+Strong understanding of product lifecycle and risk workflows.
+Experience working with globally distributed teams.
+Other Qualifications 
+PMP or other project management certifications.
+Prior exposure to risk systems, fraud prevention workflows, or payment holds mechanics.
+Experience working in agile environments.
+ Pay Transparency:
+This is the pay range that Magnit reasonably expects to pay for this position: $59.92/hour - $79.90/hour
+Benefits: Medical, Dental, Vision, 401K

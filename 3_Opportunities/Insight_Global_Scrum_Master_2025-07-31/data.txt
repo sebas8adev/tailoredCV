@@ -1,0 +1,55 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: Insight Global
+JOB_ROLE: Scrum Master
+APPLICATION_DATE: July 30th, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Scrum Master at Insight Global
+CONTENT: Dear Hiring Manager,<br><br>I am writing to express my keen interest in the Scrum Master position with Insight Global, as advertised on LinkedIn. With over 10 years of experience leading Agile teams, particularly within the healthcare sector and other highly regulated environments, my background aligns perfectly with the requirements for your healthcare client's critical technology initiatives.<br><br>My experience includes serving as a Project Manager and Scrum Master for multiple hospitals and clinics at Mango-Soft, where I led the delivery of projects involving medical imaging integration, surgery event management, and voice-to-text systems for clinicians. This hands-on experience has given me a deep understanding of the unique compliance, regulatory, and operational demands of the healthcare industry.<br><br>As a Certified SAFe 6 Agilist and Advanced Certified ScrumMaster (A-CSM), I have a robust command of Agile and SAFe principles. I have successfully facilitated all Scrum ceremonies, managed backlogs and sprints using Jira, and participated in PI planning to drive enterprise-level objectives. My focus is always on removing impediments, fostering a culture of continuous improvement, and enabling teams to achieve high velocity and on-time delivery.<br><br>I am adept at guiding teams through complex technical projects like the cloud migrations and system upgrades mentioned in the job description, and I am confident in my ability to champion agile best practices within your client's organization. I am eager to bring my servant leadership and expertise in compliance-driven delivery to your team.
+
+# CV Content
+CAREER_SUMMARY: Adaptive Scrum Master with 10+ years of experience guiding Agile teams in delivering complex projects for healthcare, finance, and retail sectors. Expert in SAFe and Scrum methodologies within compliance-heavy environments. Skilled in PI planning, full-cycle project delivery, and impediment removal to enhance team velocity. Proficient with Jira and Rally for backlog management and enterprise-level reporting.
+SKILLS_TITLE_1: Agile & Project Management
+SKILLS_DESC_1: SAFe, Scrum, Kanban, PI Planning, Scrum of Scrums, Backlog Grooming, Sprint Planning, Retrospectives
+SKILLS_TITLE_2: Industry Expertise
+SKILLS_DESC_2: Healthcare Systems (Imaging, EMR/EHR), Financial Services, Retail & E-commerce, Public Safety, Travel & Hospitality
+SKILLS_TITLE_3: Tools & Technologies
+SKILLS_DESC_3: Jira, Rally, Confluence, MS Teams, AWS, GCP, Google AI, Springboot, SQL, CI/CD
+SKILLS_TITLE_4: Leadership & Delivery
+SKILLS_DESC_4: Stakeholder Management, C-Level Reporting (RAG Status), Risk Management, Budget & Scope Control, Release Management
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Technical Project Manager & Scrum Master
+COMPANY_SUMMARY_GLOBANT: A global IT and software development consultancy reinventing business through AI-powered solutions, helping organizations scale and innovate with digitally native services.
+COMPANY_BULLET_1_GLOBANT: Led SAFe/Scrum teams for Royal Caribbean and Banco de Chile, facilitating PI planning and ceremonies to ensure alignment in regulated travel/finance environments.
+COMPANY_BULLET_2_GLOBANT: Drove a 40% performance boost for Dick's Sporting Goods e-commerce site by managing adaptive quarterly roadmaps and optimizing team velocity with Jira.
+COMPANY_BULLET_3_GLOBANT: Managed end-to-end delivery for AI-driven projects, from RFP analysis to release, ensuring on-time execution for cross-functional, globally distributed teams.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Project Manager & Scrum Master
+COMPANY_SUMMARY_MANGOSOFT: A specialized software firm delivering innovative solutions for the media and healthcare industries, focusing on cloud services, data management, and custom application development.
+COMPANY_BULLET_1_MANGOSOFT: Championed Scrum for healthcare clients, delivering projects for imaging integration and surgery management systems, which significantly improved clinical workflows and data accuracy.
+COMPANY_BULLET_2_MANGOSOFT: Implemented products from definition to production for San Rafael Hospital, enhancing patient data handling and reducing procedure tracking time through agile delivery.
+COMPANY_BULLET_3_MANGOSOFT: Directed the end-to-end delivery of a media streaming platform on AWS for Concacaf, ensuring high availability and a seamless user experience.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology company developing integrated hardware and software solutions for public safety and healthcare, specializing in IoT and real-time data systems.
+COMPANY_BULLET_1_TIPI: Led the full SDLC for a Bodycam system for law enforcement, managing deployment of 3,000+ devices under strict government contract regulations.
+COMPANY_BULLET_2_TIPI: Deployed a nurse-call system in over 10 hospitals, integrating Bluetooth and RFID devices to improve asset tracking and reduce patient response times.
+COMPANY_BULLET_3_TIPI: Directed software and operations teams, establishing workflows for customer support and deployment that ensured high system uptime and client satisfaction.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider that developed and scaled a comprehensive POS solution for over 1,000 small businesses in the retail, fitness, and health industries.
+COMPANY_BULLET_1_ITBIGBOSS: Directed the full SDLC for a SaaS POS product, leading a 30-person team and driving adoption across 1,000+ businesses in Latin America.
+COMPANY_BULLET_2_ITBIGBOSS: Integrated the POS with biometrics and payment gateways for health and fitness centers, automating billing processes and reducing manual data entry time.
+COMPANY_BULLET_3_ITBIGBOSS: Led technical teams hands-on, performing code reviews and managing releases to ensure product quality and operational stability for a diverse client base.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading chain of health and fitness centers across Latin America, committed to improving wellness through technology-driven services and member-focused gym experiences.
+COMPANY_BULLET_1_BODYTECH: Managed technology infrastructure across 60+ sites, including networking and security, achieving 99% uptime for business-critical systems and improving member services.
+COMPANY_BULLET_2_BODYTECH: Led the SDLC for a custom CRM and billing platform, resulting in automated member management and contributing to increased member retention through better service.
+COMPANY_BULLET_3_BODYTECH: Directed the implementation of Microsoft Dynamics CRM & ERP, streamlining business operations and providing a unified platform for sales and member data management.

@@ -1,0 +1,56 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: General Dynamics Mission Systems
+JOB_ROLE: Engineering Project Manager NPD
+COMPANY_NAME: General Dynamics Mission Systems
+APPLICATION_DATE: August 1st, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Engineering Project Manager NPD at General Dynamics Mission Systems
+CONTENT: Dear Hiring Manager,<br><br>I am writing to express my strong interest in the Engineering Project Manager NPD position at General Dynamics Mission Systems, a role I discovered on LinkedIn. With a Bachelor's degree in Systems Engineering and over 10 years of experience leading the development of complex technology products from concept to commercialization, I am confident in my ability to contribute to your team's success in developing next-generation training technologies.<br><br>My background includes direct experience managing the full lifecycle of integrated hardware and software solutions, most notably leading the development of a wearable bodycam for law enforcement. This project involved overseeing firmware development, software engineering, and hardware integration, culminating in the successful deployment of over 3,000 units. This hands-on experience in the wearables space, combined with my leadership of cross-functional teams, aligns directly with the core requirements of this role.<br><br>I am an adaptive leader, expert in Agile, Scrum, and hybrid methodologies, and committed to fostering innovation and technical excellence. My experience in RFP analysis, stakeholder negotiation, and delivering AI-driven solutions demonstrates my capacity to manage challenging customer requirements and champion new ideas. I am eager to apply my skills to support our nation’s security and contribute to the high-performance culture at General Dynamics Mission Systems.
+
+# CV Content
+CAREER_SUMMARY: Adaptive Engineering Project Manager with 10+ years of experience leading cross-functional teams in new product development from concept to commercialization. Expert in managing complex hardware/software projects, including wearables, firmware, and AI-driven solutions for public safety and high-tech industries. Skilled in Agile (SAFe, Scrum, Kanban) and hybrid methodologies to drive innovation and efficiency. Excels in technical leadership, stakeholder negotiation, and delivering next-generation technology products on time and within budget, aligning with critical mission objectives.
+SKILLS_TITLE_1: New Product Development (NPD) & Lifecycle Management
+SKILLS_DESC_1: Concept-to-Commercialization, Wearables, Hardware/Software Integration, Firmware Development, Full SDLC, Release Management.
+SKILLS_TITLE_2: Project & Team Leadership
+SKILLS_DESC_2: Cross-Functional Team Management, Technical Leadership, Stakeholder Negotiation, RFP & Proposal Development, Resource Staffing.
+SKILLS_TITLE_3: Methodologies & Frameworks
+SKILLS_DESC_3: Agile (SAFe, Scrum of Scrums, Scrum, Kanban), Hybrid Waterfall, PMP/PMI Practices, PI Planning.
+SKILLS_TITLE_4: Technologies & Platforms
+SKILLS_DESC_4: Cloud (AWS, GCP), AI/Generative AI, Java, Python, Android, JIRA, Confluence, Github.
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT:Technical Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native consulting company focused on reinventing businesses through innovative technology solutions, including AI-driven software development and large-scale digital transformation.
+COMPANY_BULLET_1_GLOBANT: Managed a project portfolio for Royal Caribbean, leading development of AI chatbots and guest-facing apps that improved user engagement and onboard service efficiency.
+COMPANY_BULLET_2_GLOBANT: Drove program performance for Dick's Sporting Goods, leading a +30 person team to boost e-commerce platform efficiency by 40% via adaptive quarterly roadmaps.
+COMPANY_BULLET_3_GLOBANT: Spearheaded Scrum of Scrums for a 100+ person team at Banco de Chile, managing a complex datacenter migration and delivering new mobile banking features.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development company delivering custom cloud-based solutions, Big Data analytics, and media streaming services for sports federations and the healthcare industry.
+COMPANY_BULLET_1_MANGOSOFT: Led development of a media streaming platform for Concacaf, using AWS services to deliver live matches and statistics, significantly expanding fan reach and engagement.
+COMPANY_BULLET_2_MANGOSOFT: Managed the creation of a voice-to-text application for clinicians using AWS Polly, reducing documentation time by 50% and improving clinical workflow efficiency.
+COMPANY_BULLET_3_MANGOSOFT: Implemented a medical imaging solution using DICOM and AWS for multiple hospitals, enabling secure data transfer and faster diagnostic speed for patient care.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI:Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology firm specializing in integrated hardware and software solutions, including wearable devices and IoT systems for public safety and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Led end-to-end development of a wearable bodycam for law enforcement, from concept to deployment of 3,000+ units, enhancing officer safety and accountability.
+COMPANY_BULLET_2_TIPI: Directed the full SDLC for bodycam firmware and management software, integrating real-time streaming and face recognition to improve critical incident response times.
+COMPANY_BULLET_3_TIPI: Managed hardware/software projects under government contracts, leading hands-on development, code review, and release management to ensure on-time delivery and full compliance.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering comprehensive POS and business management software for over 1,000 small businesses across the retail, fitness, and health industries in Latam.
+COMPANY_BULLET_1_ITBIGBOSS: Led the full SDLC for a flagship SaaS POS product, integrating biometrics and payment systems to streamline operations and improve transaction security for clients.
+COMPANY_BULLET_2_ITBIGBOSS: Directed a 30-person team in an agile-hybrid environment, managing product development and releases that resulted in high customer retention and market growth.
+COMPANY_BULLET_3_ITBIGBOSS: Provided technical leadership for integrations with accounting software and government tax systems, ensuring regulatory compliance and seamless financial reporting for 1,000+ businesses.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH:IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in South America, operating over 60 sites across Colombia, Peru, and Chile with technology-driven member experiences.
+COMPANY_BULLET_1_BODYTECH: Managed the lifecycle for a new access control system, integrating software, turnstiles, and biometrics across 60+ locations, enhancing security and member experience.
+COMPANY_BULLET_2_BODYTECH: Led the technical implementation of Dynamics CRM & ERP systems, automating billing and member management, which improved data accuracy and operational efficiency.
+COMPANY_BULLET_3_BODYTECH: Established and led the IT Service Desk and infrastructure operations for 60+ sites, achieving 99% system uptime and supporting rapid company expansion.

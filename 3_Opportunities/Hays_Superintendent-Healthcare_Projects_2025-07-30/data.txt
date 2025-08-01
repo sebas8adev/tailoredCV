@@ -3,54 +3,54 @@ HIRING_MANAGER: Alec Scully
 COMPANY_NAME: Hays
 JOB_ROLE: Superintendent-Healthcare Projects
 COMPANY_NAME: Hays
-APPLICATION_DATE: July 2, 2025
+APPLICATION_DATE: July 30th, 2025
 
 # Cover Letter Content
-SUBJECT: Application for Superintendent-Healthcare Projects at your client's firm
-CONTENT: Dear Alec Scully,<br><br>I am writing to express my strong interest in the Superintendent-Healthcare Projects position you are recruiting for. With over 10 years of experience leading complex projects in highly regulated industries, including healthcare, I have developed a robust skill set in managing projects from conception to completion while ensuring strict adherence to compliance, budget, and schedule.<br><br>My background in managing large-scale system deployments and infrastructure build-outs has equipped me with an adaptive approach to project management. For example, I managed the IT infrastructure deployment for over 60 new health and fitness centers, overseeing everything from networking to physical security systems. This experience is directly comparable to coordinating the various trades and systems in a construction project.<br><br>In my roles, I have served as the primary point of contact for diverse stakeholders, including technical teams, senior executives, and client facility staff. I have a deep understanding of the operational needs of healthcare environments from my work developing and implementing software for hospitals and clinics, such as patient tracking boards and medical imaging portals. I am adept at mastering complex regulatory frameworks and am confident in my ability to quickly become proficient in AHCA standards and ICRA protocols.<br><br>My resume provides further detail on my leadership experience and project successes. I am eager to apply my skills in meticulous planning, quality control, and on-site leadership to contribute to your client's success. Thank you for your time and consideration. I look forward to discussing this opportunity with you.<br><br>Sincerely,<br><br>Andres Perez
+SUBJECT: Application for Superintendent-Healthcare Projects at Hays
+CONTENT: Dear Alec Scully,<br><br>I am writing to express my keen interest in the Superintendent-Healthcare Projects role advertised on LinkedIn. With over 10 years of extensive experience in leading complex projects within highly regulated environments, including the healthcare sector, I am confident in my ability to deliver the precision and professionalism required for this position.<br><br>Throughout my career, I have been responsible for the end-to-end management of multifaceted projects, ensuring strict adherence to budget, schedule, and quality standards. My background includes orchestrating large-scale team deployments, coordinating with diverse stakeholders including facility staff and administrators, and enforcing rigorous project protocols to ensure successful outcomes.<br><br>My experience in the healthcare space involved delivering critical system integrations for hospitals and clinics, where maintaining operational continuity and adhering to strict compliance measures were paramount. I excel at translating complex requirements into actionable plans, mentoring project staff, and serving as the primary point of contact for all project-related communications.<br><br>I am eager to apply my adaptive project leadership skills and my passion for excellence to contribute to your team's success in delivering premier healthcare construction projects. Thank you for your time and consideration. I look forward to discussing how my background aligns with your needs.
 
 # CV Content
-CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading global teams and delivering complex digital and infrastructure transformations in regulated industries, including healthcare. Expert in end-to-end project delivery, financial oversight, and executive reporting. Skilled in Agile and traditional methodologies, with a track record of improving performance by managing large-scale staffing and ensuring stringent compliance.
-SKILLS_TITLE_1: Project & Program Management
-SKILLS_DESC_1: SAFe, Scrum, Kanban, Waterfall, MS Project, Jira, Confluence, Risk Management, Budgeting & Forecasting, Resource Planning.
-SKILLS_TITLE_2: Leadership & Stakeholder Relations
-SKILLS_DESC_2: Cross-Functional Team Leadership, C-Level Reporting, Vendor & Subcontractor Coordination, Mentorship & Coaching, On-site Operations Management.
-SKILLS_TITLE_3: Compliance & Quality Assurance
-SKILLS_DESC_3: Quality Management Systems (QMS), Full SDLC Governance, Production Support, Incident Management, Regulatory Adherence (Healthcare/Finance).
-SKILLS_TITLE_4: Industry & Technical Acumen
-SKILLS_DESC_4: Healthcare Technology, Cloud Infrastructure (AWS, GCP, Azure), System Integration, Data Management, AI Solutions.
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading global teams and delivering complex projects in regulated industries, including healthcare. Expert in managing the full project lifecycle, from planning and financial oversight to execution and delivery. Skilled in coordinating cross-functional teams, managing large-scale staffing, ensuring compliance, and providing executive-level reporting. Strengths in Agile (SAFe, Scrum) and traditional methodologies to drive efficiency and achieve strategic goals.
+SKILLS_TITLE_1: Project & Program Leadership
+SKILLS_DESC_1: End-to-End Project Execution, Budget & Schedule Management, Risk Mitigation, Quality Assurance, Strategic Planning, Scope Control.
+SKILLS_TITLE_2: Healthcare Project Delivery
+SKILLS_DESC_2: Hospital & Clinic System Integrations, Healthcare Operations, Data Management & Migration (DICOM, HL7), Health & Safety Protocols.
+SKILLS_TITLE_3: Stakeholder & Team Coordination
+SKILLS_DESC_3: Executive Reporting (C-Level), Cross-Functional Team Leadership, Subcontractor/Vendor Management, Client Relations, Mentoring & Coaching.
+SKILLS_TITLE_4: Methodologies & Tools
+SKILLS_DESC_4: Agile (SAFe, Scrum, Kanban), Waterfall, Hybrid Models, Jira, Confluence, MS Project, Slack, MS Teams.
 
 # Work Experience - Globant
-JOB_TITLE_GLOBANT: Senior Project Manager
-COMPANY_SUMMARY_GLOBANT: A digitally native consulting company focused on reinventing businesses through innovative technology solutions, specializing in AI-powered software development and large-scale digital transformation.
-COMPANY_BULLET_1_GLOBANT: Drove program performance for clients like Dick's Sporting Goods, achieving a 40% boost in platform efficiency via adaptive quarterly roadmaps and PI Planning.
-COMPANY_BULLET_2_GLOBANT: Directed an AI chatbot project for Royal Caribbean, managing project constraints across three international teams to enhance guest services and operational efficiency.
-COMPANY_BULLET_3_GLOBANT: Managed Banco de Chile's datacenter migration to GCP, ensuring zero downtime and strict financial regulatory compliance while overseeing a team of over 100 personnel.
+JOB_TITLE_GLOBANT:Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native consulting firm that helps organizations reinvent themselves with AI-powered solutions, innovative software development, and strategic digital transformations.
+COMPANY_BULLET_1_GLOBANT: Drove program performance and cost efficiency across client portfolios, including Dick's Sporting Goods, achieving a 40% boost in platform efficiency via adaptive roadmaps.
+COMPANY_BULLET_2_GLOBANT: Led project delivery for Royal Caribbean's guest-facing digital products, including an AI Chatbot, enhancing the customer experience and driving onboard revenue.
+COMPANY_BULLET_3_GLOBANT: Directed team formation for a large-scale banking project, staffing over 150 positions to successfully deliver a complex datacenter migration and app modernization.
 
 # Work Experience - Mango-soft
-JOB_TITLE_MANGOSOFT: Technical Project Manager
-COMPANY_SUMMARY_MANGOSOFT: A software development firm delivering custom cloud, big data, and streaming solutions for the media, sports, and healthcare industries.
-COMPANY_BULLET_1_MANGOSOFT: Led development of a voice-to-text app for healthcare professionals at multiple clinics, improving documentation speed and ensuring compliance with patient data protocols.
-COMPANY_BULLET_2_MANGOSOFT: Spearheaded the end-to-end delivery of an AWS-based medical imaging portal for Las Americas Clinic, improving data access times and communication for clinicians.
-COMPANY_BULLET_3_MANGOSOFT: Managed the creation of Concacaf's media platform, coordinating complex data integrations to provide real-time streaming and statistics for international championships.
+JOB_TITLE_MANGOSOFT:Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software consultancy specializing in custom solutions for the media, sports, and healthcare industries, leveraging cloud services and big data technologies.
+COMPANY_BULLET_1_MANGOSOFT: Spearheaded complex systems integration projects for multiple hospitals, delivering critical imaging and surgery management solutions on schedule to improve patient care workflows.
+COMPANY_BULLET_2_MANGOSOFT: Delivered a voice-to-text application for healthcare professionals, improving documentation efficiency by 30% and reducing administrative workload for clinicians.
+COMPANY_BULLET_3_MANGOSOFT: Managed the full project lifecycle for Concacaf, launching media and streaming services that increased fan engagement and created new revenue streams.
 
 # Work Experience - TIPI
-JOB_TITLE_TIPI: Technical Project Manager
-COMPANY_SUMMARY_TIPI: Provider of integrated hardware and software solutions for public safety and healthcare, specializing in bodycams, asset tracking, and real-time data management systems.
-COMPANY_BULLET_1_TIPI: Led the full project lifecycle for a bodycam system for the Colombian Police, deploying 3,000+ devices and ensuring strict compliance with government contracts.
-COMPANY_BULLET_2_TIPI: Directed implementation of a real-time patient flow tracking board across 10+ hospitals, improving operational visibility and communication speed for medical staff.
-COMPANY_BULLET_3_TIPI: Oversaw the entire SDLC, leading a 10+ person team in the development, quality assurance, and deployment of mission-critical public safety and healthcare products.
+JOB_TITLE_TIPI:Technical Project Manager
+COMPANY_SUMMARY_TIPI: An IoT company delivering integrated hardware and software solutions for public safety, law enforcement, and healthcare sectors in Latin America.
+COMPANY_BULLET_1_TIPI: Led the end-to-end delivery of an integrated bodycam system for the Colombian Police, deploying over 3,000 units and ensuring operational readiness.
+COMPANY_BULLET_2_TIPI: Deployed nurse-call systems and asset tracking solutions across 10+ clinics, improving staff communication speed and reducing patient wait times significantly.
+COMPANY_BULLET_3_TIPI: Directed project execution under government contracts, managing the entire lifecycle from planning and implementation to quality assurance and operational support.
 
 # Work Experience - itBigBoss
-JOB_TITLE_ITBIGBOSS: Technical Project Manager
-COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider offering specialized Point-of-Sale (POS) and business management software for over 1,000 small businesses in retail and wellness industries.
-COMPANY_BULLET_1_ITBIGBOSS: Directed the end-to-end SDLC for a flagship POS product, leading a 30-person team and integrating complex systems like biometrics, payment processing, and inventory.
-COMPANY_BULLET_2_ITBIGBOSS: Managed product implementation for over 1,000 businesses in Latam, customizing solutions for retail and fitness centers, which led to high client retention rates.
-COMPANY_BULLET_3_ITBIGBOSS: Led technical operations and support workflows, achieving high system uptime and rapid issue resolution for clients in high-traffic retail and wellness environments.
+JOB_TITLE_ITBIGBOSS:Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider of Point-of-Sale (POS) and business management software for over 1,000 small businesses in the retail and wellness sectors.
+COMPANY_BULLET_1_ITBIGBOSS: Led the full software development lifecycle for a flagship POS product, driving implementation and customization for over 1,000 businesses across Latam.
+COMPANY_BULLET_2_ITBIGBOSS: Engineered key integrations with payment processors and biometric systems, automating billing processes and reducing client data entry time by over 50%.
+COMPANY_BULLET_3_ITBIGBOSS: Managed technical and operations support workflows, leading teams in hands-on development, quality assurance, and release management to ensure 99.9% platform uptime.
 
 # Work Experience - Bodytech
-JOB_TITLE_BODYTECH: IT Manager
-COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America with over 60 sites, focused on providing comprehensive wellness services and facilities.
-COMPANY_BULLET_1_BODYTECH: Managed the complete IT infrastructure deployment for 60+ new sites, overseeing networking, security, and access control installations, ensuring on-time, on-budget openings.
-COMPANY_BULLET_2_BODYTECH: Led the enterprise-wide implementation of Microsoft Dynamics CRM & ERP, streamlining billing and member management, which automated billing and increased operational efficiency.
-COMPANY_BULLET_3_BODYTECH: Established and led the IT Service Desk, developing support protocols and managing a team to maintain high system uptime and user satisfaction across all locations.
+JOB_TITLE_BODYTECH:IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, operating over 60 sites across Colombia, Peru, and Chile.
+COMPANY_BULLET_1_BODYTECH: Managed technology infrastructure deployment across 60+ new sites in three countries, overseeing networking, security systems, and IT services for all locations.
+COMPANY_BULLET_2_BODYTECH: Directed the implementation of a company-wide Dynamics CRM & ERP, streamlining billing and increasing member retention by 15% through improved customer management.
+COMPANY_BULLET_3_BODYTECH: Established and led the IT Service Desk, improving the ticket resolution rate by 40% and ensuring high system uptime for all business operations.

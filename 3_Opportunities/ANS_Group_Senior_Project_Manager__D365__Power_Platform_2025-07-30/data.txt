@@ -1,55 +1,65 @@
 # Global Information
-HIRING_MANAGER: ANS Group Hiring Team
+HIRING_MANAGER: Hiring Manager
 COMPANY_NAME: ANS Group
 JOB_ROLE: Senior Project Manager - D365 & Power Platform
-APPLICATION_DATE: July 26, 2025
+APPLICATION_DATE: July 31st, 2025
 
 # Cover Letter Content
 SUBJECT: Application for Senior Project Manager - D365 & Power Platform at ANS Group
-CONTENT: Dear ANS Group Hiring Team,<br><br>I am writing to express my strong interest in the Senior Project Manager - D365 & Power Platform position at ANS Group, which I discovered on LinkedIn. With over 10 years of experience leading complex, large-scale technology projects, my background aligns perfectly with the requirements of this role.<br><br>My career has been dedicated to managing end-to-end project lifecycles, from initial sales support and RFP analysis to final delivery and handover to managed services. I have extensive experience managing complex CRM implementations, including Microsoft Dynamics, and other business platforms like Salesforce. I am particularly excited by the opportunity to lead the delivery of cutting-edge AI solutions, such as Co-Pilot implementations, a domain where I have successfully delivered AI-driven chatbots and generative AI applications for clients like Royal Caribbean Group.<br><br>I am an expert in establishing robust project governance, managing budgets and scope, and maintaining clear stakeholder communication through tools like RAID logs and detailed status reports. My adaptive approach, blending Agile and traditional methodologies, ensures that projects are delivered on time, within budget, and to the highest quality standards. I am confident in my ability to coordinate initiatives like Power Platform and AI Hackathons to showcase ANS's leadership in the ecosystem.<br><br>I am eager to bring my customer-first mindset and proactive problem-solving skills to ANS Group. Thank you for your time and consideration. I look forward to discussing how my experience can contribute to your team's success.
+CONTENT: Dear Hiring Manager,
+<br><br>
+I am writing to express my keen interest in the Senior Project Manager - D365 & Power Platform position at ANS Group, which I discovered on LinkedIn. With over 10 years of experience leading complex, end-to-end technology projects, I am confident that my background in delivering enterprise-level solutions aligns perfectly with the requirements of this role.
+<br><br>
+My experience includes leading a company-wide Microsoft Dynamics CRM & ERP implementation, where I managed the entire project lifecycle from planning and execution to stakeholder communication and budget oversight. I have also delivered Power BI projects, enhancing data visualization and decision-making capabilities for executive teams. I am highly skilled in managing project scope, timelines, and risks using governance tools like RAID logs, ensuring delivery excellence.
+<br><br>
+Furthermore, I have a strong track record of delivering innovative AI solutions, including Google AI chatbots and custom Generative AI applications. This experience has prepared me to lead the cutting-edge Co-Pilot implementations and AI Hackathons mentioned in the job description, demonstrating your company's leadership in the Power Platform ecosystem.
+<br><br>
+My adaptive project management approach, combining both Agile and traditional methodologies, allows me to effectively lead cross-functional teams and deliver transformative results. I am eager to bring my customer-first mindset and technical acumen to ANS Group.
+<br><br>
+Thank you for your time and consideration. I look forward to discussing how my skills and experience can contribute to your team's success.
 
 # CV Content
-CAREER_SUMMARY: Adaptive Senior Project Manager with 10+ years of experience leading large-scale digital transformations. Expert in managing end-to-end CRM (Microsoft Dynamics, Salesforce) and innovative AI solution implementations. Excels at project governance, financial oversight, and executive communication to deliver projects on time and budget.
-SKILLS_TITLE_1: Project & Program Management
-SKILLS_DESC_1: Agile (SAFe, Scrum, Kanban), Waterfall, Hybrid Methodologies, Project Governance (RAID), SDLC, PI Planning, End-to-End Project Delivery, C-Level Reporting & Communication.
-SKILLS_TITLE_2: Platform & Technology Expertise
-SKILLS_DESC_2: CRM & Platform Implementation (Dynamics 365, Salesforce), Power Platform, AI/Generative AI (Co-Pilot, Chatbots), Cloud Platforms (AWS, GCP), System Integrations.
-SKILLS_TITLE_3: Financial & Scope Management
-SKILLS_DESC_3: Budget Management & Reporting, Scope Control, Risk Assessment & Mitigation, RFP Analysis & Proposal Development, Resource Planning, Vendor Management.
-SKILLS_TITLE_4: Leadership & Stakeholder Relations
-SKILLS_DESC_4: Global Team Leadership (100+), Stakeholder Engagement, Pre-Sales Support, Client Relationship Management, Continuous Improvement, Change Management.
+CAREER_SUMMARY: Adaptive Senior Project Manager with 10+ years of experience leading complex digital transformations and end-to-end implementations. Expert in delivering D365, Power Platform, and AI-driven solutions for diverse industries. Skilled in managing global teams, large-scale budgets, and full project lifecycles using Agile (SAFe, Scrum) and traditional methodologies. Strengths in risk management (RAID), executive reporting, pre-sales support, and driving business value.
+SKILLS_TITLE_1: Platforms & Technologies
+SKILLS_DESC_1: Microsoft Dynamics 365, Power Platform (Power BI), Salesforce CRM, Google AI, Generative AI, AWS, GCP, Azure.
+SKILLS_TITLE_2: Project & Program Management
+SKILLS_DESC_2: End-to-end Project Lifecycle, Scope & Budget Management, Risk/Issue Tracking (RAID), Governance, Stakeholder Reporting.
+SKILLS_TITLE_3: Methodologies & Frameworks
+SKILLS_DESC_3: Agile (SAFe, Scrum, Kanban), Scrum of Scrums, Hybrid Models, Waterfall, Full SDLC.
+SKILLS_TITLE_4: Leadership & Business Acumen
+SKILLS_DESC_4: Pre-Sales Support, Cross-Functional Team Leadership, Continuous Improvement, RFP Analysis, Customer-First Service Delivery.
 
 # Work Experience - Globant
 JOB_TITLE_GLOBANT: Senior Project Manager
-COMPANY_SUMMARY_GLOBANT: A digitally native consulting company leveraging AI and innovative technologies to reinvent businesses. Specializes in software development for global clients.
-COMPANY_BULLET_1_GLOBANT: Directed complex digital transformations for Royal Caribbean, leading 3 offshore teams to deliver AI chatbot and guest app features, enhancing customer engagement.
-COMPANY_BULLET_2_GLOBANT: Drove a 40% performance boost for Dick's Sporting Goods' e-commerce platform by optimizing Core Web Vitals, leading to improved user experience and sales.
-COMPANY_BULLET_3_GLOBANT: Managed project financials, scope, and governance for a 100+ person team at Banco de Chile, ensuring alignment with quarterly roadmaps and executive-level KPIs.
+COMPANY_SUMMARY_GLOBANT: A global digital consultancy that reinvents business through innovative technology. Specializing in AI-powered software development to create transformative digital experiences for world-class brands.
+COMPANY_BULLET_1_GLOBANT: Led a Power BI implementation for Banco de Chile, managing data ingestion and visualization to improve data-driven decision-making for executive stakeholders.
+COMPANY_BULLET_2_GLOBANT: Directed a Salesforce CRM implementation for Abastible, managing the full project lifecycle and enhancing sales and marketing operational efficiency across the organization.
+COMPANY_BULLET_3_GLOBANT: Deployed a Google AI Chatbot for Royal Caribbean, managing the project from discovery to release, which enhanced customer service and digital engagement.
 
 # Work Experience - Mango-soft
-JOB_TITLE_MANGOSOFT: Technical Project Manager
-COMPANY_SUMMARY_MANGOSOFT: A software development firm delivering custom solutions. Specializes in cloud services, big data, and media streaming applications for sports and healthcare industries.
-COMPANY_BULLET_1_MANGOSOFT: Led end-to-end development of a media streaming platform for Concacaf, from RFP to production support, increasing fan engagement through live match data.
-COMPANY_BULLET_2_MANGOSOFT: Managed the implementation of a voice-to-text AWS Polly solution for healthcare clients, improving physician documentation efficiency and reducing transcription turnaround times.
-COMPANY_BULLET_3_MANGOSOFT: Established and staffed high-performing development teams of 10+ engineers, implementing Scrum methodologies to streamline project delivery and enhance product quality.
+JOB_TITLE_MANGOSOFT: Senior Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A technology firm building custom software and cloud solutions. We deliver innovative products for media, sports, and healthcare industries using AWS and data-driven approaches.
+COMPANY_BULLET_1_MANGOSOFT: Managed end-to-end delivery of a media streaming platform for Concacaf, overseeing project constraints to successfully launch services for major championships.
+COMPANY_BULLET_2_MANGOSOFT: Led development of an AWS Polly voice-to-text application for healthcare clients, improving clinical documentation efficiency and reducing physician data entry time.
+COMPANY_BULLET_3_MANGOSOFT: Oversaw multi-client project portfolios, managing scope, budget, and timelines for fixed-price engagements, ensuring profitability and high client satisfaction.
 
 # Work Experience - TIPI
 JOB_TITLE_TIPI: Technical Project Manager
-COMPANY_SUMMARY_TIPI: A technology company creating integrated hardware and software solutions for public safety, law enforcement, and healthcare, focusing on IoT and data management.
-COMPANY_BULLET_1_TIPI: Spearheaded the end-to-end SDLC for a bodycam system for the Colombian Police, deploying over 3,000 devices and improving officer safety and accountability.
-COMPANY_BULLET_2_TIPI: Directed the implementation of a SaaS-based nurse-call system across 10+ hospitals, integrating RFID for asset tracking and enhancing patient care response times.
-COMPANY_BULLET_3_TIPI: Led technical teams hands-on through coding and releases, ensuring project delivery met strict governmental contract requirements and on-time delivery under regulation.
+COMPANY_SUMMARY_TIPI: Provider of integrated hardware and software solutions for public safety and healthcare, delivering IoT devices and management platforms to improve operational efficiency and safety.
+COMPANY_BULLET_1_TIPI: Headed the development and deployment of 3,000+ bodycam units for the Colombian Police, ensuring on-time delivery and adherence to government contract regulations.
+COMPANY_BULLET_2_TIPI: Managed the full SDLC for an IoT nurse-call system in 10+ hospitals, leading to improved communication speed and faster patient response times.
+COMPANY_BULLET_3_TIPI: Led project planning for integrated hardware/software systems, managing all constraints and leading cross-functional teams to meet strict deliverable timelines and improve compliance.
 
 # Work Experience - itBigBoss
 JOB_TITLE_ITBIGBOSS: Technical Project Manager
-COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider developing and managing POS and business management software for over 1,000 small businesses in the retail and wellness industries.
-COMPANY_BULLET_1_ITBIGBOSS: Managed the full product lifecycle for a SaaS POS solution, growing the customer base to over 1,000 businesses across Latam through continuous feature development.
-COMPANY_BULLET_2_ITBIGBOSS: Led development and complex integrations for payment processing, biometrics, and accounting systems, significantly expanding the platform's functionality and market appeal.
-COMPANY_BULLET_3_ITBIGBOSS: Oversaw all technical and operational aspects of the business, from hands-on coding to customer support, driving business growth and client retention.
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS company delivering point-of-sale (POS) and business management software solutions for small to medium-sized businesses in the retail and wellness sectors.
+COMPANY_BULLET_1_ITBIGBOSS: Drove the complete SDLC for a SaaS POS platform, successfully deploying the solution to over 1,000 businesses, boosting their operational efficiency.
+COMPANY_BULLET_2_ITBIGBOSS: Led integrations with diverse systems including biometrics, payment processors, and accounting apps, expanding product functionality and increasing market competitiveness.
+COMPANY_BULLET_3_ITBIGBOSS: Managed product implementation for various retail sectors, directly contributing to a significant increase in customer acquisition, market penetration, and automated billing processes.
 
 # Work Experience - Bodytech
 JOB_TITLE_BODYTECH: IT Manager
-COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, operating over 60 sites across Colombia, Peru, and Chile, focused on wellness.
-COMPANY_BULLET_1_BODYTECH: Led the technical implementation of Dynamics CRM & ERP systems and managed IT infrastructure across 60+ sites, unifying business operations and enhancing data management.
-COMPANY_BULLET_2_BODYTECH: Directed the SDLC for a custom CRM and billing software, automating billing processes, increasing member retention, and reducing manual data entry time.
-COMPANY_BULLET_3_BODYTECH: Established and led the IT Service Desk, implementing access control and security systems that improved operational efficiency and achieved 99% system uptime.
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America dedicated to improving well-being through comprehensive services supported by robust technology infrastructure.
+COMPANY_BULLET_1_BODYTECH: Led the company-wide implementation of Microsoft Dynamics CRM & ERP, managing the project end-to-end to unify customer data and streamline billing operations.
+COMPANY_BULLET_2_BODYTECH: Managed the technology infrastructure lifecycle across 60+ sites, including networking and security, ensuring over 99% system uptime and complete operational stability.
+COMPANY_BULLET_3_BODYTECH: Established and led the IT Service Desk, implementing support workflows that improved ticket resolution rates by 50% and increased internal user satisfaction.

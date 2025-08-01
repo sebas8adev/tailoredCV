@@ -1,5 +1,5 @@
-Status: processed
-Data-Status: complete
+Status: pending
+Data-Status: error
 Job board: LinkedIn
 Company Name: STAND 8 Technology Consulting
 Role Name: Sr. IT Project Manager
