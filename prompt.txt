@@ -31,7 +31,7 @@ First, this is my career experience:
 - Methodology: SAFe, Scrum, Kanban.
 - Tools: Jira, Confluence, MS Teams, Slack.
 - Technologies: Google AI Chat, React, React Native, Android, iOS, Java 11 & Springboot, MySql Server, Kafka, Firebase, SonarQube, github.
-- Achievements: 
+- Achievements: 
 :RFP analysis, estimations and proposals for the different projects.
 :Features discovery, plan and execution on time and capacity, working along with Product Owners and Technical leaders to groom the Backlog, refine it and prioritize it by PI/quarter and every 2-week sprint.
 :PI Planning preparation, presentation and execution.
@@ -51,8 +51,8 @@ First, this is my career experience:
 - Methodology: Scrum of Scrums.
 - Tools: Jira, Confluence, MS Teams, Slack.
 - Technologies: AEM, Angular, Java 11 & Springboot, SQL Server, Firebase, SonarQube, github.
-- Achievements: 
-:Ecommerce performance improvement by 40% with the Core Web Vitals. 
+- Achievements: 
+:Ecommerce performance improvement by 40% with the Core Web Vitals. 
 :Scrum events/ceremonies implementation, coach and facilitation.
 :Quarterly roadmap execution and adaptability according to the plan, with KPI and OKR.
 :Improvement of the performance and cost of the work done based on the capacity and velocity.
@@ -69,12 +69,12 @@ First, this is my career experience:
 - Methodology: Hybrid Scrum and Waterfall.
 - Tools: Jira, Confluence, MS Teams.
 - Technologies: Angular, Android, iOS, Java 11 & Springboot, SQL Server, Oracle, Firebase, Selenium.
-- Achievements: 
+- Achievements: 
 :Worked with the client partner to review the RFP, create the proposals and follow-up.
 :Define and staff (requeriment, filter, selection, interview, fit, enrollment) the teams for more than 150 positions.
 :Implement the Scrum of Scrums methodology leading other 5 scrum masters.
 :Plan, implement and control the methodology implementation.
-:Deliver the KPI and OKR defined on a weekly, bi-weeky, monthly and Quarterly basis. 
+:Deliver the KPI and OKR defined on a weekly, bi-weeky, monthly and Quarterly basis. 
 3.1.3.4. Client: Abastible.
 - Role: Scrum Master & Project Manager.
 - Products: Wallet App, Authorized Dealers, Delivery App, Salesforce CRM.
@@ -84,14 +84,14 @@ First, this is my career experience:
 - Methodology: Hybrid Scrum and Waterfall.
 - Tools: Jira, Confluence, MS Teams.
 - Technologies: Salesforce CRM, Apex, Flutter, MySql, PostgreSQL, Firebase.
-- Achievements: 
+- Achievements: 
 :End-to-end implementation for partners distribution, wallet and neighborhood partners apps.
 :Salesforce implementation for Sales, Marketing Clod, Commerce.
 :Worked with the client partner to review the RFP, create the proposals and follow-up.
 :Define and staff (requeriment, filter, selection, interview, fit, enrollment) the teams for more than 20 positions.
 :Implement the Scrum methodology.
 :Scrum events/ceremonies implementation, coach and facilitation.
-:Deliver the KPI and OKR defined on a weekly, bi-weeky, monthly and Quarterly basis. 
+:Deliver the KPI and OKR defined on a weekly, bi-weeky, monthly and Quarterly basis. 
 3.1.3.5. Client: Brithish Airlines.
 - Role: Scrum Master.
 - Products: Mobile App.
@@ -101,7 +101,7 @@ First, this is my career experience:
 - Methodology: Scrum.
 - Tools: Jira, Confluence, MS Teams.
 - Technologies: Next.js, Node.js, SAP.
-- Achievements: 
+- Achievements: 
 :RFP and proposal for the implementation of the new AI Agents-model.
 :Initial estimation and project roadmap.
 :Implementation of the hybrid software development team along with the new AI Agents model.
@@ -121,12 +121,12 @@ First, this is my career experience:
 - Methodology: Hybrid Waterfall & Scrum.
 - Tools: Clickup, Google, Slack.
 - Technologies: AWS (Polly, Livestreaming, DynamoDB, Athena), Neo4j, MySql, Redis
-- Achievements: 
+- Achievements: 
 :Worked with the client partner to review the RFP, create the proposals and follow-up.
 :Define and staff (requeriment, filter, selection, interview, fit, enrollment) the teams for more than 10 positions.
 :Implement the Scrum methodology.
 :Scrum events/ceremonies implementation, coach and facilitation.
-:Deliver the KPI and OKR defined on a weekly, bi-weeky, monthly and Quarterly basis. 
+:Deliver the KPI and OKR defined on a weekly, bi-weeky, monthly and Quarterly basis. 
 :Implement the products since its definition until production.
 :Implementation of the hyper care and production support for the released products.
 3.2.3.2. Client: San Rafael Hospital, Antioquia Clinic, Las Americas Clinic.
@@ -137,12 +137,12 @@ First, this is my career experience:
 - Methodology: Hybrid Waterfall & Scrum.
 - Tools: Clickup, Google, Slack.
 - Technologies: AWS (Polly, Livestreaming, DynamoDB, Athena), Neo4j, MySql, Redis
-- Achievements: 
+- Achievements: 
 :Worked with the client partner to review the RFP, create the proposals and follow-up.
 :Define and staff (requeriment, filter, selection, interview, fit, enrollment) the teams for more than 10 positions.
 :Implement the Scrum methodology.
 :Scrum events/ceremonies implementation, coach and facilitation.
-:Deliver the KPI and OKR defined on a weekly, bi-weeky, monthly and Quarterly basis. 
+:Deliver the KPI and OKR defined on a weekly, bi-weeky, monthly and Quarterly basis. 
 :Implementation of the hyper care and production support for the released products.
 3.2.3.3. Others:
 - Voice-to-text app for healthcare professionals.
@@ -164,13 +164,13 @@ First, this is my career experience:
 - Methodology: Hybrid Waterfall and Kanban.
 - Tools: Asana, bitbucket.
 - Technologies: Angular, Java 8 & Springboot, Python, Android, MySql, MongoDb.
-- Achievements: 
+- Achievements: 
 :Define and staff (requeriment, filter, selection, interview, fit, enrollment) the teams for more than 10 positions.
 :Define and lead the project constraints based on goverment contracts starting on planning, implementing, quality, implementation and support.
 :Lead the team technically and work along with them hands-on with coding, code-review, quality, release.
 :Lead the operations team in customer support, deployment and releases for more than 3.000 bodycams in different cities.
 :Lead the software development life cycle for the devices and software.
-:Lead for the Operations support and workflow. 
+:Lead for the Operations support and workflow. 
 3.3.3.2. Client: Clinics and Hospitals in Colombia.
 - Role: Technical Project Manager.
 - Products and features: Bluetooth device for calling the nurses and doctors, RFID devices to identify the assets location, turn management for hospitals and clinics.
@@ -179,9 +179,9 @@ First, this is my career experience:
 - Methodology: Hybrid Waterfall and Kanban.
 - Tools: Asana, bitbucket.
 - Technologies: Angular, Java 8 & Springboot, Python, Android, MySql, MongoDb.
-- Achievements: 
+- Achievements: 
 :Implementation of the products for more than 10 clinics and hospitals in Colombia.
-:Lead for the Operations support and workflow. 
+:Lead for the Operations support and workflow. 
 3.3.3.3. Others:
 - Tracking board for the patient flow, integrated into their systems.
 - A device to call the medical team from the room and a visualization on the TVs.
@@ -198,21 +198,21 @@ First, this is my career experience:
 - Methodology: Hybrid Waterfall and Kanban.
 - Tools: Azure.
 - Technologies: .Net (vb, asp, c#), MS Sql Server, MySql, Android.
-- Achievements: 
+- Achievements: 
 :Software development life cycle for the product.
 :Implementation and adaptation for more than 1.000 small business in Latam.
 :Lead the team technically and work along with them hands-on with coding, code-review, quality, release.
-:Lead for the Operations support and workflow. 
+:Lead for the Operations support and workflow. 
 3.4.4. Reason for leaving: When the pandemic was showing that the restaurants and fitness, beauty and health centers would be affected, I decided to sell the company to my partner and find a new opportunity working for a company as employee.
 3.5. Company: Bodytech
 3.5.1. Role: IT Manager
 3.5.2. Dates: Jul, 2005 - Jul, 2012
 3.5.3. Projects and Achievements:
- :Life cycle for the Access control with software, turnstiles and biometrics.
- :Software Development Life Cycle for the CRM and billing software.
- :Implementation and operations leader for the IT Service Desk.
- :Technical leader for the Dynamics CRM & ERP implementation.
- :Infrastructure manager for Networking, IP Phoning, Printing services and CCTV, implementing more than 60 sites in Colombia, Peru and Chile.
+ :Life cycle for the Access control with software, turnstiles and biometrics.
+ :Software Development Life Cycle for the CRM and billing software.
+ :Implementation and operations leader for the IT Service Desk.
+ :Technical leader for the Dynamics CRM & ERP implementation.
+ :Infrastructure manager for Networking, IP Phoning, Printing services and CCTV, implementing more than 60 sites in Colombia, Peru and Chile.
 3.5.4. Reason for leaving: I found the opportunity of creating my own business focused on sofwtare for small fitness centers.
 3.6. Company: Intersoft
 3.6.1. Role: Software Developer
@@ -220,13 +220,13 @@ First, this is my career experience:
 3.6.3. Projects and Achievements:
 :Software Development Life Cycle for the Local taxes implementation, encripted pdf with account summary at Citibank Colombia.
 :Software Development Life Cycle for the Clinic History with detailed implementations for different medical specialties at Compensar Colombia.
-3.6.4. Reason for leaving: While I was training at the Bodytech Gym I met the founder and he explained to  his IT vision for the company and proposed me to be part of it.
+3.6.4. Reason for leaving: While I was training at the Bodytech Gym I met the founder and he explained to  his IT vision for the company and proposed me to be part of it.
 
 Second, review the attached jobdescription.txt file.
 Finally, help me with:
 1. Help me tailor my CV to that Job Description:
 - Generate a new Career Summary, taking into account the job description, recruiter message, and my experience with the valuable transferible experience.
-NOTE 1: The structure should be something like, no more than 80 words (make it in those 80 words but making the most of them to show what they are asking on the Job Description): [General Role] professional with [number] years of experience in [areas or activities of specialization or industry]. (Passionate about [mission]) OR (Key quantifiable metric to give a sense of scale of past responsibility). 
+NOTE 1: The structure should be something like, no more than 80 words (make it in those 80 words but making the most of them to show what they are asking on the Job Description): [General Role] professional with [number] years of experience in [areas or activities of specialization or industry]. (Passionate about [mission]) OR (Key quantifiable metric to give a sense of scale of past responsibility). 
 NOTE 2: check the one that I have on LinkedIn:
 "Dynamic and results-oriented Senior Technical Project Manager with a robust track record leading complex, end-to-end projects across diverse business markets including Finance, Healthcare, Retail, Travel/Hospitality, Media, and Public Safety. My expertise in project management approaches encompasses Agile methodologies (SAFe, Scrum, Kanban) and a deep understanding of formal PMP/PMI project management practices, enabling me to effectively steer globally distributed, cross-functional teams (+30-100 engineers) towards exceeding project goals.
 I am proficient in managing various types of projects, including cloud infrastructure initiatives (AWS, GCP, Azure), multifaceted system integrations, full SDLC software development, and delivering AI-driven solutions such as chatbots and Generative AI applications. My experience covers the full project lifecycle, from strategic planning, RFP response, and meticulous execution to risk management, budget oversight, and seamless release management.
@@ -234,7 +234,7 @@ With a strong technical foundation that includes technologies such as cloud plat
 Certified in SAFe (SAFe 6 Agilist), Scrum (A-CSM, CSM, CSPO), Google Cloud (Digital Leader), AWS (Cloud Technical Essentials), and Generative AI (Microsoft and LinkedIn), I am passionate about driving innovation and operational efficiency. My focus is on leveraging my extensive experience to contribute to impactful projects and foster organizational success.
 I welcome connections with industry professionals to discuss advancements and potential collaborations."
 Try to have a more robust career summary, according to the instructions, the job description, and my current LinkedIn summary.
-NOTE 3: Review and adapt it, taking into account this comment: Make sure you add years of experience. It should be more concise, though, to quickly show what kind of professional you are to recruiters 
+NOTE 3: Review and adapt it, taking into account this comment: Make sure you add years of experience. It should be more concise, though, to quickly show what kind of professional you are to recruiters 
 scanning your resume. Something similar to: Versatile Project Manager with # years of experience leading global teams and delivering complex digital transformations across industries. Skilled in AI-driven, cloud-based, and system integration solutions, with a track record of improving performance and managing large-scale staffing. Expert in Agile (SAFe, Scrum, Kanban) and traditional methodologies, with strengths in end-to-end project delivery, executive reporting, and financial oversight.
 NOTE 4: Review and adapt it, taking into account this comment: I suggest using a stronger word than "proficient" since you're trying to convince employers and recruiters you're a strong candidate. Maybe "Expert in"? Additionally, don't include any full sentences. Phrases only.
 - Generate a summary of qualifications/ skills aligned with the job description and valuable transferable skills.
@@ -245,7 +245,7 @@ NOTE 4: Just include the relevant skills directly related to the Job Description
 These categories are likely easier to scan and identify your top skills, the following is just an example, don't do it exactly, generate them according to the job description and my job experience:
 
 > For the Globant work experience:
-> Generate a Job Title choosing one of the following, according to the most direct job title defined in the Job Description. The options are: Senior Project Manager, Project Manager, Senior Scrum Master, Scrum Master, Technical Project Manager, Technical Scrum Master, IT Project Manager, IT Scrum Master.
+> Generate a Job Title choosing one of the following, according to the most direct job title defined in the Job Description. The options are: Senior Project Manager, Project Manager, Senior Scrum Master, Scrum Master, Technical Project Manager, Technical Scrum Master, IT Project Manager, IT Scrum Master, Product Manager, Product Owner, Program Manager, IT Product Manager, IT Product Owner, Product Lead.
 NOTE: If the job description states "Senior Project Manager" or "Sr Project Manager", please include the "Senior" or "Sr" part. If not, please avoid it.
 > Generate one description of the company under 26 words (check www.globant.com), showing the industry, mission, and scale, in the same words or communication style as the job description. Focus on AI, consulting company, and software development.
 > Generate a bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
@@ -255,7 +255,7 @@ NOTE 1: Focus the experience on program and portfolio-based projects, cruise lin
 NOTE 2: On bullet points, For highly specialized roles, prioritize descriptive, domain-specific language that reflects the job's requirements (e.g., 'enhanced the guest journey,' 'managed onboard digital services') over a generic quantifiable metric if both cannot fit. The context is more important than the number in these cases.
 
 - For the Mango-soft work experience:
-> Generate a Job Title choosing one of the following, according to the most direct job title defined in the Job Description. The options are: Senior Project Manager, Project Manager, Senior Scrum Master, Scrum Master, Technical Project Manager, Technical Scrum Master, IT Project Manager, IT Scrum Master.
+> Generate a Job Title choosing one of the following, according to the most direct job title defined in the Job Description. The options are: Senior Project Manager, Project Manager, Senior Scrum Master, Scrum Master, Technical Project Manager, Technical Scrum Master, IT Project Manager, IT Scrum Master, Product Manager, Product Owner, Program Manager, IT Product Manager, IT Product Owner, Product Lead.
 NOTE: If the job description states "Senior Project Manager", please include the "Senior" part. If not, please avoid it.
 > Generate one description of the company under 26 words (check www.mango-soft.com), showing the industry, mission, and scale, in the same words or communication style as the job description
 > Generate a bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
@@ -265,7 +265,7 @@ NOTE 1: Focus the experience on Big Data, cloud services, media, and healthcare.
 NOTE 2: On bullet points, For highly specialized roles, prioritize descriptive, domain-specific language that reflects the job's requirements (e.g., 'enhanced the guest journey,' 'managed onboard digital services') over a generic quantifiable metric if both cannot fit. The context is more important than the number in these cases.
 
 - For the Tipi work experience:
-> Generate a Job Title choosing one of the following, according to the most direct job title defined in the Job Description. The options are: Senior Project Manager, Project Manager, Senior Scrum Master, Scrum Master, Technical Project Manager, Technical Scrum Master, IT Project Manager, IT Scrum Master.
+> Generate a Job Title choosing one of the following, according to the most direct job title defined in the Job Description. The options are: Senior Project Manager, Project Manager, Senior Scrum Master, Scrum Master, Technical Project Manager, Technical Scrum Master, IT Project Manager, IT Scrum Master, Product Manager, Product Owner, Program Manager, IT Product Manager, IT Product Owner, Product Lead.
 NOTE: If the job description states "Senior Project Manager", please include the "Senior" part. If not, please avoid it.
 > Generate one description of the company under 26 words (check www.mango-soft.com), showing the industry, mission, and scale, in the same words or communication style as the job description.
 > Generate a bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
@@ -275,7 +275,7 @@ NOTE 1: Focus the experience on Hardware+Software solutions, law enforcement, an
 NOTE 2: On bullet points, For highly specialized roles, prioritize descriptive, domain-specific language that reflects the job's requirements (e.g., 'enhanced the guest journey,' 'managed onboard digital services') over a generic quantifiable metric if both cannot fit. The context is more important than the number in these cases.
 
 - For the IT Big Boss Software House work experience:
-> Generate a Job Title choosing one of the following, according to the most direct job title defined in the Job Description. The options are: Senior Project Manager, Project Manager, Senior Scrum Master, Scrum Master, Technical Project Manager, Technical Scrum Master, IT Project Manager, IT Scrum Master.
+> Generate a Job Title choosing one of the following, according to the most direct job title defined in the Job Description. The options are: Senior Project Manager, Project Manager, Senior Scrum Master, Scrum Master, Technical Project Manager, Technical Scrum Master, IT Project Manager, IT Scrum Master, Product Manager, Product Owner, Program Manager, IT Product Manager, IT Product Owner, Product Lead.
 NOTE: If the job description states "Senior Project Manager", please include the "Senior" part. If not, please avoid it.
 > Generate one description of the company under 26 words (check https://www.youtube.com/watch?v=UveLGnjz78E), showing the industry, mission, and scale, in the same words or communication style as the job description.
 > Generate a bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
@@ -342,58 +342,58 @@ EXPECTED OUTPUT:
 I have a formatted text file, with some specific fields by line as follows. Please identify every subtitle, generate the content next to it, and return to me the same specific format with the content updated.
 
 # Global Information
-HIRING_MANAGER: 
-COMPANY_NAME: 
-JOB_ROLE: 
-COMPANY_NAME: 
-APPLICATION_DATE: 
+HIRING_MANAGER: 
+COMPANY_NAME: 
+JOB_ROLE: 
+COMPANY_NAME: 
+APPLICATION_DATE: 
 
 # Cover Letter Content
 SUBJECT: Application for {{JOB_ROLE}} at {{COMPANY_NAME}}
-CONTENT: 
+CONTENT: 
 
 # CV Content
-CAREER_SUMMARY: 
-SKILLS_TITLE_1: 
-SKILLS_DESC_1: 
-SKILLS_TITLE_2: 
-SKILLS_DESC_2: 
-SKILLS_TITLE_3: 
-SKILLS_DESC_3: 
-SKILLS_TITLE_4: 
-SKILLS_DESC_4: 
+CAREER_SUMMARY: 
+SKILLS_TITLE_1: 
+SKILLS_DESC_1: 
+SKILLS_TITLE_2: 
+SKILLS_DESC_2: 
+SKILLS_TITLE_3: 
+SKILLS_DESC_3: 
+SKILLS_TITLE_4: 
+SKILLS_DESC_4: 
 
 # Work Experience - Globant
 JOB_TITLE_GLOBANT:
-COMPANY_SUMMARY_GLOBANT: 
-COMPANY_BULLET_1_GLOBANT: 
-COMPANY_BULLET_2_GLOBANT: 
-COMPANY_BULLET_3_GLOBANT: 
+COMPANY_SUMMARY_GLOBANT: 
+COMPANY_BULLET_1_GLOBANT: 
+COMPANY_BULLET_2_GLOBANT: 
+COMPANY_BULLET_3_GLOBANT: 
 
 # Work Experience - Mango-soft
 JOB_TITLE_MANGOSOFT:
-COMPANY_SUMMARY_MANGOSOFT: 
-COMPANY_BULLET_1_MANGOSOFT: 
-COMPANY_BULLET_2_MANGOSOFT: 
-COMPANY_BULLET_3_MANGOSOFT: 
+COMPANY_SUMMARY_MANGOSOFT: 
+COMPANY_BULLET_1_MANGOSOFT: 
+COMPANY_BULLET_2_MANGOSOFT: 
+COMPANY_BULLET_3_MANGOSOFT: 
 
 # Work Experience - TIPI
 JOB_TITLE_TIPI:
-COMPANY_SUMMARY_TIPI: 
-COMPANY_BULLET_1_TIPI: 
-COMPANY_BULLET_2_TIPI: 
-COMPANY_BULLET_3_TIPI: 
+COMPANY_SUMMARY_TIPI: 
+COMPANY_BULLET_1_TIPI: 
+COMPANY_BULLET_2_TIPI: 
+COMPANY_BULLET_3_TIPI: 
 
 # Work Experience - itBigBoss
 JOB_TITLE_ITBIGBOSS:
-COMPANY_SUMMARY_ITBIGBOSS: 
-COMPANY_BULLET_1_ITBIGBOSS: 
-COMPANY_BULLET_2_ITBIGBOSS: 
-COMPANY_BULLET_3_ITBIGBOSS: 
+COMPANY_SUMMARY_ITBIGBOSS: 
+COMPANY_BULLET_1_ITBIGBOSS: 
+COMPANY_BULLET_2_ITBIGBOSS: 
+COMPANY_BULLET_3_ITBIGBOSS: 
 
 # Work Experience - Bodytech
 JOB_TITLE_BODYTECH:
-COMPANY_SUMMARY_BODYTECH: 
-COMPANY_BULLET_1_BODYTECH: 
-COMPANY_BULLET_2_BODYTECH: 
+COMPANY_SUMMARY_BODYTECH: 
+COMPANY_BULLET_1_BODYTECH: 
+COMPANY_BULLET_2_BODYTECH: 
 COMPANY_BULLET_3_BODYTECH:

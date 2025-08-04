@@ -1,0 +1,65 @@
+# Global Information
+HIRING_MANAGER: Talent Acquisition Team
+COMPANY_NAME: Innovative Tech Solutions
+JOB_ROLE: Project Manager / Scrum Master
+APPLICATION_DATE: July 30th, 2025
+
+---END_SECTION---
+
+# Cover Letter Content
+SUBJECT: Application for Project Manager / Scrum Master at Innovative Tech Solutions
+CONTENT:
+Dear Talent Acquisition Team,<br><br>I am writing to express my strong interest in the Project Manager / Scrum Master role. With 10+ years of experience leading global teams and delivering complex digital transformations across the finance, healthcare, and retail sectors, my background is an excellent match for the responsibilities outlined.<br><br>My career has been focused on guiding software, cloud, and AI-driven projects through the full lifecycle. I am an expert in Agile methodologies—including SAFe, Scrum, and Kanban—and excel at facilitating ceremonies, coaching high-performance teams, and removing impediments to ensure on-time delivery. I have a consistent track record of managing project scope, budget, and timelines while translating complex business needs into actionable plans for engineering teams.<br><br>I am confident that my adaptive leadership style and deep technical project management expertise will allow me to make a significant contribution to your team. I am eager to discuss how my skills in strategic planning and execution can help drive your projects to success.
+---END_SECTION---
+
+# CV Content
+CAREER_SUMMARY: Adaptive Technical Project Manager with 10+ years of experience leading global teams and delivering complex software, cloud, and AI solutions across finance, healthcare, and retail. Expert in Agile (SAFe, Scrum, Kanban) and full SDLC execution, with strengths in end-to-end project delivery, stakeholder communication, and budget oversight.
+SKILLS_TITLE_1: Agile & Project Management
+SKILLS_DESC_1: SAFe, Scrum of Scrums, Kanban, SDLC; End-to-End Project Planning & Execution, Risk Management, Budget Oversight.
+SKILLS_TITLE_2: Technical & Platform Expertise
+SKILLS_DESC_2: Cloud Platforms (AWS, GCP), AI & Generative AI Solutions, System Integrations, Data Warehouse & Analytics, SaaS.
+SKILLS_TITLE_3: Leadership & Stakeholder Strategy
+SKILLS_DESC_3: Global Team Leadership (+100 engineers), C-Level Executive Reporting, KPI/OKR Definition, Product Roadmapping, Staffing.
+SKILLS_TITLE_4: Core Development & Operations Tools
+SKILLS_DESC_4: Jira, Confluence, Salesforce CRM, CI/CD Practices, Git, SQL/NoSQL, Service Desk Management.
+---END_SECTION---
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Senior Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native consulting firm that reinvents businesses through innovative technology, specializing in AI-driven software development and large-scale digital transformation for global brands.
+COMPANY_BULLET_1_GLOBANT: Drove program performance for Royal Caribbean and Dick's Sporting Goods, achieving a 40% boost in e-commerce efficiency via adaptive quarterly roadmaps and PI Planning.
+COMPANY_BULLET_2_GLOBANT: Led +100 engineers in Banco de Chile's digital transformation, launching new mobile app features and a data warehouse on GCP to enhance customer experience.
+COMPANY_BULLET_3_GLOBANT: Directed end-to-end project lifecycle for enterprise clients, from RFP analysis and team staffing to release management and C-level stakeholder reporting on KPIs/OKRs.
+---END_SECTION---
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A custom software development company delivering cloud-native and data-driven applications for media, sports, and healthcare industries in the US market.
+COMPANY_BULLET_1_MANGOSOFT: Delivered a media and news center for Concacaf, managing the full product lifecycle and leveraging AWS cloud services for live streaming and data management.
+COMPANY_BULLET_2_MANGOSOFT: Spearheaded the development of a voice-to-text application for healthcare, improving clinical documentation efficiency by integrating with existing AWS and data systems.
+COMPANY_BULLET_3_MANGOSOFT: Managed the end-to-end implementation of data-intensive healthcare products, including medical imaging (DICOM) integrations and patient portals to improve data accessibility.
+---END_SECTION---
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology firm developing integrated hardware and software solutions, including IoT devices and management platforms for public safety and healthcare operational efficiency.
+COMPANY_BULLET_1_TIPI: Led end-to-end development of a bodycam system for law enforcement, defining requirements for hardware, firmware, and a real-time management web application for 3,000+ devices.
+COMPANY_BULLET_2_TIPI: Managed the product lifecycle for an IoT nurse-call system in 10+ hospitals, improving communication speed and patient response times through integrated hardware/software.
+COMPANY_BULLET_3_TIPI: Directed teams in a hybrid Kanban model, ensuring on-time delivery of complex hardware-software projects under government contract regulations and quality standards.
+---END_SECTION---
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: An early-stage startup I co-founded, delivering SaaS POS and business management solutions for over 1,000 SMBs in the retail and fitness sectors.
+COMPANY_BULLET_1_ITBIGBOSS: Led the full SDLC hands-on for a multi-feature SaaS POS system, integrating payments, CRM, and inventory management to scale the product and business.
+COMPANY_BULLET_2_ITBIGBOSS: Directed technical operations and customer support workflows, ensuring high platform uptime and satisfaction for a rapidly growing 1,000+ customer base.
+COMPANY_BULLET_3_ITBIGBOSS: Grew the company by managing customer relationships and technical integrations, showcasing a deep passion for building products and businesses from the ground up.
+---END_SECTION---
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading chain of health and fitness centers across Latin America, focused on delivering premium member experiences through technology and personalized services.
+COMPANY_BULLET_1_BODYTECH: Championed the software development lifecycle for a proprietary CRM and billing system, directly managing member data to improve retention and operational efficiency.
+COMPANY_BULLET_2_BODYTECH: Led the technical implementation of Microsoft Dynamics CRM & ERP, integrating key business functions to create a unified view of customer and operational data.
+COMPANY_BULLET_3_BODYTECH: Managed IT infrastructure and service desk operations across 60+ sites, ensuring high platform uptime and supporting all technology-driven member services.
+---END_SECTION---

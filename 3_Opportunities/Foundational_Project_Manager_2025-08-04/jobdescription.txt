@@ -1,0 +1,31 @@
+Status: processed
+Data-Status: complete
+Job board: Foundational
+Company Name: Innovative Tech Solutions
+Role Name: Project Manager / Scrum Master
+Location: Orlando, FL (Hybrid)
+Type: Full-time
+Salary range: Not specified
+Hiring Team: Talent Acquisition Team
+Application Instructions: Apply via company portal.
+Job post URL: http://www.linkedin.com/jobs/foundation-role
+
+Job Description:
+About the Role:
+We are seeking an adaptive and experienced Project Manager / Scrum Master to lead our cross-functional engineering teams. The ideal candidate will be responsible for guiding software development projects through the full lifecycle, from planning and execution to final delivery. You will ensure that projects are completed on schedule, within budget, and to the highest quality standards, while fostering a culture of continuous improvement and collaboration.
+
+Key Responsibilities:
+- Lead the planning and implementation of complex software, cloud, and data-centric projects.
+- Facilitate Agile ceremonies, including sprint planning, daily stand-ups, sprint reviews, and retrospectives.
+- Coach team members on Agile principles and best practices to enhance team performance and velocity.
+- Manage project constraints, including scope, timeline, budget, and quality, while proactively identifying and mitigating risks.
+- Work closely with product owners and stakeholders to define project scope, groom backlogs, and prioritize features.
+- Ensure clear and consistent communication across teams and with senior leadership, providing regular status reports on KPIs and OKRs.
+
+Qualifications:
+- 10+ years of experience in IT Project Management or as a Scrum Master in a software development environment.
+- Expert knowledge of Agile methodologies (Scrum, Kanban, SAFe).
+- Experience leading projects on cloud platforms (AWS, GCP, Azure) and system integrations.
+- Strong leadership skills with experience managing globally distributed teams.
+- Excellent stakeholder management and communication skills.
+- Relevant certifications (CSM, A-CSM, SAFe Agilist) are highly desired.

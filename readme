@@ -1,4 +1,9 @@
+Terminal:
+.\venv\Scripts\activate
+
 pip install selenium
 pip install google-generativeai
 pip install weasyprint
 pip install win10toast-click
+
+run_pipeline.bat
