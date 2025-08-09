@@ -17,6 +17,7 @@ First, this is my career experience:
 2.10. Career Essentials in Generative AI by Microsoft and LinkedIn.
 2.11. Cloud Digital Leader Certification by Google Cloud.
 2.12. AWS Cloud Technical Essentials.
+2.13. Generative AI Leader Certification by Google Cloud.
 3. Work Experience:
 3.1. Company: Globant
 3.1.1. Role: Senior Project Manager
@@ -223,8 +224,7 @@ First, this is my career experience:
 3.6.4. Reason for leaving: While I was training at the Bodytech Gym I met the founder and he explained to  his IT vision for the company and proposed me to be part of it.
 
 Second, review the attached jobdescription.txt file.
-Finally, help me with:
-1. Help me tailor my CV to that Job Description:
+Finally, help me tailor my resume and cover letter to that Job Description:
 - Generate a new Career Summary, taking into account the job description, recruiter message, and my experience with the valuable transferible experience.
 NOTE 1: The structure should be something like, no more than 80 words (make it in those 80 words but making the most of them to show what they are asking on the Job Description): [General Role] professional with [number] years of experience in [areas or activities of specialization or industry]. (Passionate about [mission]) OR (Key quantifiable metric to give a sense of scale of past responsibility). 
 NOTE 2: check the one that I have on LinkedIn:
@@ -242,55 +242,65 @@ NOTE 1: Every skill should not have more than one line of description.
 NOTE 2: Group the skills in no more than 4 items, with a single description each.
 NOTE 3: Review and adapt it, taking into account these comments: Key skills should be words or very short phrases that reflect hard/technical skills (no soft skills like communication). For example, “Stakeholder Engagement” instead of “Working with stakeholders to…”. Employers are scanning your resume very quickly to identify your key skills, so you want to give them the information they need as directly and concisely as possible. You should definitely have categories if they’re relevant (e.g., “Project Management Methodologies: Scrum, Waterfall,...”), but all of the items listed in those categories should also be words or very short phrases. 
 NOTE 4: Just include the relevant skills directly related to the Job Description, or, if some of my key skills are not direct on the Job Description, include them if those skills are directly transferible to the role.
-These categories are likely easier to scan and identify your top skills, the following is just an example, don't do it exactly, generate them according to the job description and my job experience:
+NOTE 5: These categories are likely easier to scan and identify your top skills, the following is just an example, don't do it exactly, generate them according to the job description and my job experience:
+NOTE 6: No periods at end of categories.
+NOTE 6: Be sure to include just the key sills directly related to the specific job description, and the ones directly related or transferible. For instance, if in the job description is nothing related to operations, don't mentioned in the key skills.
+NOTE 7: Be sure to include AI.
+NOTE 8: Recall the Project Manager it's the paramount, the Scrum Master, Agile and other terms should be secondary, but always, Project Manager in the front, unless, the job description does not mention it, and be focused on specific scrum master, product or operations roles.
+NOTE 9: Don't include semi-colon or other characters or symbols on the details of the key skills.
+NOTE 10: When mentioning: "more than x", or, "+100", or anything similar, always use the format: "x+", example: "100+".
+NOTE 11: Include the certifications that are directly required in the job description or widely known in the market for similar roles and positions.
+- The cover letter content should be with the PAR (Problem - Action - Result) structure, always include measurable achievements related to the job description or generics to the specific role.
+NOTE 1: Include a paragraph mentioning how passionate I am about the organization/job/role that are specific to that company. If you don't have enough information about the company, make it with the common values, mission, and information for big companies that their products and services are supported in tech and innovation, such as the ones that I have experience: Cruises Lines, Services, Retail, Restaurants, Banking, etc.
 
 > For the Globant work experience:
 > Generate a Job Title choosing one of the following, according to the most direct job title defined in the Job Description. The options are: Senior Project Manager, Project Manager, Senior Scrum Master, Scrum Master, Technical Project Manager, Technical Scrum Master, IT Project Manager, IT Scrum Master, Product Manager, Product Owner, Program Manager, IT Product Manager, IT Product Owner, Product Lead.
 NOTE: If the job description states "Senior Project Manager" or "Sr Project Manager", please include the "Senior" or "Sr" part. If not, please avoid it.
-> Generate one description of the company under 26 words (check www.globant.com), showing the industry, mission, and scale, in the same words or communication style as the job description. Focus on AI, consulting company, and software development.
-> Generate a bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
-> Generate a second bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
-> Generate a third bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
+> Generate one description of the company under 26 words (check www.globant.com), showing the industry, mission, and scale, in the same words or communication style as the job description. Focus on AI, consulting company, and software development. 
+> Generate a bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops. Specify outcomes like on-time delivery, budget adherence, or stakeholder satisfaction scores. Consider consolidating the lifecycle and leadership bullets to reduce overlap and emphasize impact. 
+> Generate a second bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops. Specify outcomes like on-time delivery, budget adherence, or stakeholder satisfaction scores. Consider consolidating the lifecycle and leadership bullets to reduce overlap and emphasize impact.
+> Generate a third bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops. Specify outcomes like on-time delivery, budget adherence, or stakeholder satisfaction scores. Consider consolidating the lifecycle and leadership bullets to reduce overlap and emphasize impact.
+> Generate a fourth bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops. Specify outcomes like on-time delivery, budget adherence, or stakeholder satisfaction scores. Consider consolidating the lifecycle and leadership bullets to reduce overlap and emphasize impact.
 NOTE 1: Focus the experience on program and portfolio-based projects, cruise lines, banking, e-commerce, and retail.
 NOTE 2: On bullet points, For highly specialized roles, prioritize descriptive, domain-specific language that reflects the job's requirements (e.g., 'enhanced the guest journey,' 'managed onboard digital services') over a generic quantifiable metric if both cannot fit. The context is more important than the number in these cases.
 
 - For the Mango-soft work experience:
 > Generate a Job Title choosing one of the following, according to the most direct job title defined in the Job Description. The options are: Senior Project Manager, Project Manager, Senior Scrum Master, Scrum Master, Technical Project Manager, Technical Scrum Master, IT Project Manager, IT Scrum Master, Product Manager, Product Owner, Program Manager, IT Product Manager, IT Product Owner, Product Lead.
 NOTE: If the job description states "Senior Project Manager", please include the "Senior" part. If not, please avoid it.
-> Generate one description of the company under 26 words (check www.mango-soft.com), showing the industry, mission, and scale, in the same words or communication style as the job description
-> Generate a bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
-> Generate a second bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
-> Generate a third bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
+> Generate one description of the company under 20 words (check www.mango-soft.com), showing the industry, mission, and scale, in the same words or communication style as the job description
+> Generate a bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops. Specify outcomes like on-time delivery, budget adherence, or stakeholder satisfaction scores. Consider consolidating the lifecycle and leadership bullets to reduce overlap and emphasize impact.
+> Generate a second bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops. Specify outcomes like on-time delivery, budget adherence, or stakeholder satisfaction scores. Consider consolidating the lifecycle and leadership bullets to reduce overlap and emphasize impact.
+> Generate a third bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops. Specify outcomes like on-time delivery, budget adherence, or stakeholder satisfaction scores. Consider consolidating the lifecycle and leadership bullets to reduce overlap and emphasize impact.
 NOTE 1: Focus the experience on Big Data, cloud services, media, and healthcare.
 NOTE 2: On bullet points, For highly specialized roles, prioritize descriptive, domain-specific language that reflects the job's requirements (e.g., 'enhanced the guest journey,' 'managed onboard digital services') over a generic quantifiable metric if both cannot fit. The context is more important than the number in these cases.
 
 - For the Tipi work experience:
 > Generate a Job Title choosing one of the following, according to the most direct job title defined in the Job Description. The options are: Senior Project Manager, Project Manager, Senior Scrum Master, Scrum Master, Technical Project Manager, Technical Scrum Master, IT Project Manager, IT Scrum Master, Product Manager, Product Owner, Program Manager, IT Product Manager, IT Product Owner, Product Lead.
 NOTE: If the job description states "Senior Project Manager", please include the "Senior" part. If not, please avoid it.
-> Generate one description of the company under 26 words (check www.mango-soft.com), showing the industry, mission, and scale, in the same words or communication style as the job description.
-> Generate a bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
-> Generate a second bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
-> Generate a third bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
+> Generate one description of the company under 20 words (check www.mango-soft.com), showing the industry, mission, and scale, in the same words or communication style as the job description.
+> Generate a bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops. Specify outcomes like on-time delivery, budget adherence, or stakeholder satisfaction scores. Consider consolidating the lifecycle and leadership bullets to reduce overlap and emphasize impact.
+> Generate a second bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops. Specify outcomes like on-time delivery, budget adherence, or stakeholder satisfaction scores. Consider consolidating the lifecycle and leadership bullets to reduce overlap and emphasize impact.
+> Generate a third bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops. Specify outcomes like on-time delivery, budget adherence, or stakeholder satisfaction scores. Consider consolidating the lifecycle and leadership bullets to reduce overlap and emphasize impact.
 NOTE 1: Focus the experience on Hardware+Software solutions, law enforcement, and healthcare.
 NOTE 2: On bullet points, For highly specialized roles, prioritize descriptive, domain-specific language that reflects the job's requirements (e.g., 'enhanced the guest journey,' 'managed onboard digital services') over a generic quantifiable metric if both cannot fit. The context is more important than the number in these cases.
 
 - For the IT Big Boss Software House work experience:
 > Generate a Job Title choosing one of the following, according to the most direct job title defined in the Job Description. The options are: Senior Project Manager, Project Manager, Senior Scrum Master, Scrum Master, Technical Project Manager, Technical Scrum Master, IT Project Manager, IT Scrum Master, Product Manager, Product Owner, Program Manager, IT Product Manager, IT Product Owner, Product Lead.
 NOTE: If the job description states "Senior Project Manager", please include the "Senior" part. If not, please avoid it.
-> Generate one description of the company under 26 words (check https://www.youtube.com/watch?v=UveLGnjz78E), showing the industry, mission, and scale, in the same words or communication style as the job description.
-> Generate a bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
-> Generate a second bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
-> Generate a third bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
+> Generate one description of the company under 20 words (check https://www.youtube.com/watch?v=UveLGnjz78E), showing the industry, mission, and scale, in the same words or communication style as the job description.
+> Generate a bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops. Specify outcomes like on-time delivery, budget adherence, or stakeholder satisfaction scores. Consider consolidating the lifecycle and leadership bullets to reduce overlap and emphasize impact.
+> Generate a second bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops. Specify outcomes like on-time delivery, budget adherence, or stakeholder satisfaction scores. Consider consolidating the lifecycle and leadership bullets to reduce overlap and emphasize impact.
+> Generate a third bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops. Specify outcomes like on-time delivery, budget adherence, or stakeholder satisfaction scores. Consider consolidating the lifecycle and leadership bullets to reduce overlap and emphasize impact.
 NOTE 1: Focus the experience on SaaS, POS, SDLC, fitness centers, retail, and restaurants.
 NOTE 2: On bullet points, For highly specialized roles, prioritize descriptive, domain-specific language that reflects the job's requirements (e.g., 'enhanced the guest journey,' 'managed onboard digital services') over a generic quantifiable metric if both cannot fit. The context is more important than the number in these cases.
 
 - For the Bodytech work experience:
 > Generate a Job Title choosing one of the following, according to the most direct job title defined in the Job Description. The options are: IT Manager, Technology Manager, Operations Manager, CTO.
 NOTE: If the job description states "Senior Project Manager", please include the "Senior" part. If not, please avoid it.
-> Generate one description of the company under 26 words (check https://bodytech.com.co), showing the industry, mission, and scale, in the same words or communication style as the job description.
-> Generate a bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
-> Generate a second bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
-> Generate a third bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops.
+> Generate one description of the company under 20 words (check https://bodytech.com.co), showing the industry, mission, and scale, in the same words or communication style as the job description.
+> Generate a bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops. Be sure including a measurable result, e.g., % increase in app usage or customer satisfaction, or the one that applies.
+> Generate a second bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops. Be sure including a measurable result, e.g., % increase in app usage or customer satisfaction, or the one that applies.
+> Generate a third bullet-point with: action verb in past tense, solution/problem/situation, quantifiable outcomes of my actions, business value obtained because of that, such as sales increases, customer satisfaction, time-to-market, or any other business goal where this bullet-point helped to achieve it. 25 words, tops. Be sure including a measurable result, e.g., % increase in app usage or customer satisfaction, or the one that applies.
 NOTE 1: Focus the experience on Health and Fitness Centers, ERP & CRM implementations, Technology Infrastucture, Operations, Support, Security, Platform.
 NOTE 2: On bullet points, For highly specialized roles, prioritize descriptive, domain-specific language that reflects the job's requirements (e.g., 'enhanced the guest journey,' 'managed onboard digital services') over a generic quantifiable metric if both cannot fit. The context is more important than the number in these cases.
 
@@ -302,8 +312,14 @@ ADDITIONAL NOTES:
 "Sincerely,
 <br>
 [Your Name]"
-- The cover letter 
-- I've seem that in previous outputs you have used "versatile...". I don't like that word, nor seasoned or proven. I'd prefer to use "adaptative" or something more agile or modern project management terms.
+- I've seem that in previous outputs you have used "versatile...". I don't like that word, nor seasoned or proven. I'd prefer to use "adaptative" or something more agile or modern project management terms. Be sure to be adaptative to the job description and company type of language and communication styles.
+- Use clear project management terminology consistently. Incorporate words like “scope definition,” “project delivery,” etc where possible. This signals familiarity with core PM concepts recruiters expect.
+- Quantify your impact more wherever possible.
+- Highlight leadership beyond technical delivery.
+- Emphasize your role in guiding cross-functional teams, managing stakeholder expectations (including executives), negotiating scope or timelines, and facilitating agile ceremonies (planning, retrospectives, PI Planning).
+- Clarify your role in project lifecycle phases.
+- Show your involvement in initiation, planning, execution, monitoring & controlling, and closing phases. Use terms like “developed project plans,” “conducted risk assessments,” “monitored KPIs,” and “led post-project reviews.”
+- Balance technical details with PM skills. Ensure each bullet also reflects your project management responsibilities, such as coordinating resources, managing vendors, or driving alignment between business and technical teams.
 - Sometimes the job description can use "jargon" or business words, so, try to keep a general language and identify when they are usign terms metaphorically or are real skills specifications.
 - Shore, shoreside regularly means: Development team working along locally or in the office.
 - Offshore regularly means: Development team working remotely abroad.
@@ -337,6 +353,8 @@ ADDITIONAL NOTES:
 - The "APPLICATION_DATE" should be a grammatically written date in the US, using, for instance, July 2nd, 2025, or so.
 - If you identify that the contact is not direct for the job opportunity company, I.E., there is a freelancer recruiter finding candidates for a Universal Studios job position, make sure that the letter is well directed.
 - be sure to have a final text clean, avoid [cite_start], [cite: 6, 7], [cite: 9], [cite: 10]
+- be sure of including the required skills in the job descritions within the work experiences to support them, where they apply.
+- For a project manager position, always mention: Budget, stakeholders, scope, quality, risks, revenue increase, time to market improvement, customer satisfaction, issue resolution times, mathodologies, team leadership.
 
 EXPECTED OUTPUT:
 I have a formatted text file, with some specific fields by line as follows. Please identify every subtitle, generate the content next to it, and return to me the same specific format with the content updated.
@@ -369,6 +387,7 @@ COMPANY_SUMMARY_GLOBANT:
 COMPANY_BULLET_1_GLOBANT: 
 COMPANY_BULLET_2_GLOBANT: 
 COMPANY_BULLET_3_GLOBANT: 
+COMPANY_BULLET_4_GLOBANT: 
 
 # Work Experience - Mango-soft
 JOB_TITLE_MANGOSOFT:
