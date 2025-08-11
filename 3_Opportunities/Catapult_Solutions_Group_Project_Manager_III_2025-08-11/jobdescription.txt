@@ -1,0 +1,65 @@
+Status: processed
+Data-Status: complete
+Job board: LinkedIn
+Company Name: Catapult Solutions Group
+Role Name: Project Manager III
+Location: United States
+Type: Remote
+Salary range: Not specified
+Hiring Team: Austin Garza
+Application Instructions: LinkedIn Easy Apply
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4281062245&distance=25&f_TPR=r86400&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true&sortBy=DD
+
+Job Description:
+About the job
+Program Manager – ServiceNow HRSD Implementation
+
+Department
+People Experience – Programs & Operations
+
+Location – Remote/In-Office Policy
+Fully remote; West Coast preferred. Candidates from other U.S. time zones are welcome if able to work West Coast core hours.
+
+Role Type
+Contract through July 31, 2026 (possibility of extension based on project needs).
+
+About Our Client
+Our client is a global technology leader that delivers innovative products and services to millions of customers worldwide. With a long history of industry expertise, they are committed to creating exceptional customer and employee experiences through cutting-edge technology, inclusive workplace culture, and a mission-driven approach. Operating across multiple countries, they value collaboration, continuous improvement, and the empowerment of both customers and employees.
+
+Job Description
+We are seeking a Program Manager with deep expertise in ServiceNow to support a high-visibility HR transformation initiative. This project involves implementing ServiceNow as the platform for HR case management, knowledge content, internal workflows, and AI-powered employee support — replacing legacy systems to deliver a more streamlined, modern service delivery model.
+In this role, you will serve as the liaison between internal stakeholders and an external ServiceNow implementation partner, ensuring organizational needs are met and not overridden by generic “best practice” approaches. You will collaborate closely with HR content teams, technology partners, and vendors to migrate and optimize knowledge articles, define future-state workflows, and integrate AI-driven support capabilities. This position is ideal for someone who thrives in cross-functional environments, excels at translating business needs into technical requirements, and can manage multiple workstreams in a complex, enterprise setting.
+
+Duties and Responsibilities
+Partner with internal teams and external vendors to successfully deliver ServiceNow HR Service Delivery implementation.
+Serve as the main point of contact between the organization and the ServiceNow implementation partner.
+Translate business requirements into clear, actionable functional specifications.
+Lead the migration of knowledge content from legacy systems into ServiceNow.
+Define and document workflows that optimize the HR case management process and agent experience.
+Collaborate with operations, IT, analytics, and content management teams to ensure alignment.
+Support the design and integration of AI-enabled case resolution workflows.
+Facilitate daily standups, vendor meetings, and cross-functional progress reviews.
+Participate in user testing, design validation, and change management activities.
+
+Required Experience/Skills
+5+ years of ServiceNow experience, ideally with HR Service Delivery (HRSD) module.
+Proven track record of leading full-cycle ServiceNow or similar HR tech platform implementations.
+Strong understanding of HR case operations, workflow design, and knowledge management.
+Experience migrating content into enterprise systems.
+Ability to bridge business requirements with technical solutions.
+Excellent communication, facilitation, and stakeholder management skills.
+Experience working with both internal teams and external vendors.
+
+Nice-to-Haves
+Experience integrating Workday with ServiceNow.
+Familiarity with AI/automation in HR support contexts.
+Salesforce Service Cloud case management experience.
+
+Education
+Bachelor’s degree or equivalent experience preferred.
+
+Pay & Benefits Summary
+Competitive pay up to $92/hour.
+Remote work flexibility.
+Opportunity to lead a high-impact HR technology transformation.
+Collaborative and inclusive work environment.

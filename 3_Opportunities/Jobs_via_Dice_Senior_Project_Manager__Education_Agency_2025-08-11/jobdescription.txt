@@ -1,0 +1,52 @@
+Status: processed
+Data-Status: complete
+Job board: LinkedIn
+Company Name: Jobs via Dice
+Role Name: Senior Project Manager - Education Agency
+Location: United States
+Type: Remote
+Salary range: Not specified
+Hiring Team: Not identified
+Application Instructions: See Job Post URL
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4280868546&distance=25&f_TPR=r86400&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true&sortBy=DD
+
+Job Description:
+About the job
+ASSYST is seeking an experienced and self-motivated Senior Project Manager to lead complex, enterprise-level projects for our State client in Austin, TX. 
+
+With considerable latitude for initiative and independent judgment, this individual will perform advanced project management under limited supervision. The ideal candidate has a strong background in Agile frameworks and at least six years of hands-on project management experience. This role involves close collaboration with a wide range of team members, including senior agency leadership, to drive projects to successful completion.
+
+Job Type: Contract
+
+Job Location: Austin, TX (Fully Remote)
+
+Key Responsibilities:
+
+Lead and manage the entire lifecycle of projects with multiple stakeholders and integrations.
+Oversee projects involving enterprise content management solutions, specifically Alfresco.
+Develop and maintain project plans, schedules, budgets, and documentation.
+Facilitate Agile/Scrum ceremonies and ensure adherence to best practices.
+Track and manage state budget and project expenses.
+Coordinate with internal teams, stakeholders, and senior leadership to ensure clear communication and alignment on project goals.
+Lead the implementation of enhancements and customizations for Alfresco, including AMP packaging.
+Develop contract-related documents and perform contract management duties.
+
+Required Qualifications:
+
+A minimum of 6 years of direct experience in product and project management.
+Proven expertise in leading projects across multiple stakeholders and complex integrations.
+At least 6 years of experience managing projects involving enterprise content management solutions.
+3+ years of project management experience with the Texas Education Agency (TEA) or another state agency.
+Demonstrated experience with state budget management, expense tracking, and cost monitoring.
+Excellent written and verbal communication skills with an ability to connect with a variety of audiences.
+Project Management Professional (PMP) Certification.
+
+Preferred Qualifications:
+
+Existing familiarity with TEA s standard practices and procedures for leading projects.
+3+ years of experience participating in an Agile/Scrum environment.
+Experience with Agile software development and release methodologies.
+3+ years of experience with Alfresco Share customization, maintenance, enhancements, and AMP packaging
+Certified Texas Contract Manager (CTCM).
+
+ASSYST is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, disability, military status, national origin or any other characteristic protected under federal, state, or applicable local law

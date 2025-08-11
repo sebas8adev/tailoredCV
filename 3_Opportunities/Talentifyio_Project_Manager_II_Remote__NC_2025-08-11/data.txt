@@ -1,0 +1,58 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: First Citizens Bank
+JOB_ROLE: Project Manager II
+APPLICATION_DATE: July 30th, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Project Manager II at First Citizens Bank
+CONTENT: Dear Hiring Manager,<br><br>I am writing to express my enthusiastic interest in the Project Manager II position at First Citizens Bank, as advertised on LinkedIn. With over 10 years of experience managing the full lifecycle of complex technical projects, particularly within large financial institutions, I am confident I possess the skills and expertise required to excel in this role and contribute to your team's success.<br><br>In a recent role, I managed a large-scale project for a major financial client, Banco de Chile. The project faced the challenge of migrating legacy data infrastructure to the cloud while simultaneously developing a new data warehouse. I led a team of over 100 professionals to define the project scope, create a phased execution plan using a hybrid Scrum and Waterfall methodology, and manage the budget and risks. As a result, we successfully completed the datacenter migration to GCP and delivered the new analytics platforms, meeting all quarterly KPIs and enhancing the bank's data processing capabilities.<br><br>My approach is rooted in adaptability and clear communication. I have extensive experience coordinating with both internal business units and external vendors, refining workflows for successful implementation, and translating technical progress into clear, actionable reports for stakeholders at all levels. My background in technology disciplines, including database architecture and system analysis, allows me to effectively manage technical teams and mitigate risks before they impact timelines or budgets.<br><br>The opportunity to apply my project management expertise to support First Citizens Bank's strategic goals is very appealing. I am passionate about leveraging technology to drive efficiency and quality in the financial sector and am eager to bring my adaptive project management style to your organization.
+---END_SECTION---
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading global teams and delivering complex digital transformations for large financial institutions and retail leaders. Expert in managing the full project lifecycle for AI-driven, cloud-based, and system integration solutions. Strengths in end-to-end delivery from scope definition to execution, strategic program-level reporting, risk mitigation, and financial oversight. Excels in guiding cross-functional teams using Agile (SAFe, Scrum) and traditional methodologies to achieve strategic business goals.
+SKILLS_TITLE_1: Project & Program Management
+SKILLS_DESC_1: Full Project Lifecycle Management Scope & Budget Control Risk & Issue Resolution Program-Level Reporting & Projections Vendor Negotiation & Management
+SKILLS_TITLE_2: Methodologies & Frameworks
+SKILLS_DESC_2: SAFe Scrum Kanban Waterfall Hybrid Models Change Management
+SKILLS_TITLE_3: Technical & Domain Expertise
+SKILLS_DESC_3: Financial Services & Banking E-commerce & Retail Cloud Platforms (AWS GCP) AI & Generative AI Data Migration & Warehousing System Analysis
+SKILLS_TITLE_4: Leadership & Certifications
+SKILLS_DESC_4: Cross-Functional Team Leadership (100+) Stakeholder Communication (C-Level) SAFe 6 Agilist A-CSM Google Project Management
+---END_SECTION---
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT:Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company reinventing businesses through innovative technology, specializing in AI-driven software development and large-scale digital transformation for leading global brands.
+COMPANY_BULLET_1_GLOBANT: Led a 100+ person team for Banco de Chile, managing a datacenter migration to GCP and implementing a new data warehouse, meeting all quarterly KPIs.
+COMPANY_BULLET_2_GLOBANT: Directed an e-commerce platform overhaul for Dick's Sporting Goods, improving Core Web Vitals performance by 40% by refining workflows for a 30+ member team.
+COMPANY_BULLET_3_GLOBANT: Managed the full lifecycle of guest-facing digital products for Royal Caribbean, including an AI chatbot, delivering all features within fixed-price budget constraints.
+COMPANY_BULLET_4_GLOBANT: Drove program-level strategy by creating roadmaps, managing budgets, and reporting KPIs to C-level stakeholders, ensuring alignment across diverse client portfolios.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software consultancy delivering custom cloud-based solutions and big data applications for the media, sports, and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Led end-to-end delivery of a media streaming platform for Concacaf using AWS services, successfully launching on schedule under a fixed-price contract.
+COMPANY_BULLET_2_MANGOSOFT: Directed the integration of voice-to-text AI and imaging systems for multiple hospitals, improving clinical workflows and ensuring secure data transfer to AWS.
+COMPANY_BULLET_3_MANGOSOFT: Defined project scope and staffed teams of 10+ engineers for multiple contracts, implementing Scrum methodologies to improve delivery predictability and team performance.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI:Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology firm developing integrated hardware and software solutions, including bodycams and IoT devices, for public safety and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Managed the full SDLC for a bodycam system for the Colombian Police, successfully deploying over 3,000 devices and a real-time management platform.
+COMPANY_BULLET_2_TIPI: Led implementation of RFID asset tracking and nurse call systems in 10+ hospitals, enhancing operational efficiency and improving patient care response times.
+COMPANY_BULLET_3_TIPI: Guided a 10+ person team hands-on through development, defining project plans based on government contracts and managing the entire operations and support workflow.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering customizable POS and business management software for over 1,000 small businesses in the retail and fitness industries.
+COMPANY_BULLET_1_ITBIGBOSS: Directed the complete SDLC for a multi-feature POS system, integrating payments, inventory, and CRM for 1,000+ businesses across Latin America.
+COMPANY_BULLET_2_ITBIGBOSS: Provided hands-on technical leadership, including coding and code reviews, to a 30+ person team, ensuring high product quality and timely SaaS releases.
+COMPANY_BULLET_3_ITBIGBOSS: Led product implementation for diverse business needs, managing client relationships and the operational support workflow to achieve high customer retention rates.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH:IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America providing wellness services to a large member base across multiple countries.
+COMPANY_BULLET_1_BODYTECH: Managed IT infrastructure across 60+ sites in three countries, overseeing networking, CCTV, and service desk operations to ensure 99% system uptime.
+COMPANY_BULLET_2_BODYTECH: Acted as technical lead for the Dynamics CRM & ERP implementation, streamlining billing and member management to improve operational efficiency by 20%.
+COMPANY_BULLET_3_BODYTECH: Led the SDLC for a proprietary access control and CRM software, enhancing facility security and improving the member check-in experience.

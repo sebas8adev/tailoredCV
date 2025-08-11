@@ -1,0 +1,59 @@
+# Global Information
+HIRING_MANAGER: Anna Gordeeva
+COMPANY_NAME: Go Offer
+JOB_ROLE: Project Manager
+COMPANY_NAME: Go Offer
+APPLICATION_DATE: July 30th, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Project Manager at Go Offer
+CONTENT: Dear Anna Gordeeva,<br><br>I am writing to express my strong interest in the Project Manager position at Go Offer, which I discovered on LinkedIn. With over 10 years of experience managing the full lifecycle of complex IT, SaaS, and product development projects for global organizations, I am confident that my skills align perfectly with the requirements of this role.<br><br>In previous roles, I addressed the challenge of delivering large-scale international projects with distributed teams and evolving requirements. I took action by implementing adaptive Agile (Scrum, SAFe) methodologies, defining clear project scopes, budgets, and timelines, and establishing robust KPI tracking. For a retail client, this approach resulted in a 40% improvement in e-commerce platform performance and ensured consistent on-time, on-budget delivery for other multi-million dollar initiatives.<br><br>My experience directly involves coordinating cross-functional teams, managing stakeholder communications from engineers to C-level executives, and proactively identifying and mitigating risks. I have a strong background in defining project goals and deliverables for international projects and driving process improvements that enhance efficiency and collaboration. My proficiency with tools like Jira and Asana has been central to monitoring progress and ensuring objectives are met.<br><br>The opportunity to contribute to international projects with real business impact at Go Offer is particularly exciting. I am eager to bring my background in project management, my understanding of budgeting and resource allocation, and my passion for leading collaborative teams to your organization. Thank you for your time and consideration. I look forward to discussing how my experience can benefit Go Offer.
+---END_SECTION---
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading global teams in delivering complex IT, SaaS, and product development projects. Expert in defining project scope, goals, and budgets while managing the full lifecycle using Agile (Scrum) and hybrid methods. Excels in coordinating cross-functional teams, managing stakeholders, mitigating risks, and implementing process improvements. Proven success in delivering international projects on time and within budget, driving significant business impact through strategic planning and execution.
+SKILLS_TITLE_1: Project Management Methodologies
+SKILLS_DESC_1: Agile Scrum Kanban SAFe Hybrid Waterfall
+SKILLS_TITLE_2: Project Management Tools & Platforms
+SKILLS_DESC_2: Jira Confluence Asana MS Project MS Teams Slack
+SKILLS_TITLE_3: Core Competencies
+SKILLS_DESC_3: Full Project Lifecycle Management Budgeting & Resource Allocation Risk Mitigation Stakeholder Management Process Improvement Global Team Leadership (100+)
+SKILLS_TITLE_4: Technical & Domain Expertise
+SKILLS_DESC_4: SaaS & Product Development IT Infrastructure SDLC Cloud (AWS GCP) AI Solutions (Generative AI Chatbots)
+---END_SECTION---
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT:Senior Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company offering innovative technology solutions. Specializes in AI-powered software development and consulting to help organizations reinvent their businesses.
+COMPANY_BULLET_1_GLOBANT: Directed end-to-end project delivery for Royal Caribbean, defining scope, budget, and timelines for new onboard digital services, enhancing the guest journey.
+COMPANY_BULLET_2_GLOBANT: Led cross-functional teams (100+) for Banco de Chile, implementing Scrum of Scrums and staffing 150+ roles, improving project coordination and delivery velocity.
+COMPANY_BULLET_3_GLOBANT: Managed multiple e-commerce projects for Dick's Sporting Goods, improving platform performance by 40% through rigorous progress monitoring and adaptive planning.
+COMPANY_BULLET_4_GLOBANT: Drove process improvements by implementing SAFe and Scrum, facilitating PI planning and providing transparent KPI and RAG status reports to C-level stakeholders.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development company focused on creating innovative solutions for media, sports, and healthcare industries using cloud and AI technologies.
+COMPANY_BULLET_1_MANGOSOFT: Managed multiple fixed-price projects for clients like Concacaf, overseeing the full lifecycle from RFP to production support for new streaming services.
+COMPANY_BULLET_2_MANGOSOFT: Implemented Scrum methodologies for healthcare projects, coordinating teams to deliver voice-to-text and medical imaging integrations, improving clinical workflow efficiency.
+COMPANY_BULLET_3_MANGOSOFT: Defined project deliverables and staffed teams of 10+ engineers, ensuring successful on-time delivery of AWS-based solutions for media and healthcare clients.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI:Technical Project Manager
+COMPANY_SUMMARY_TIPI: Provider of integrated hardware and software solutions for public safety and healthcare sectors, specializing in IoT and real-time data management.
+COMPANY_BULLET_1_TIPI: Led the full SDLC for a bodycam solution for the Colombian Police, managing project scope and deliverables for over 3,000 devices.
+COMPANY_BULLET_2_TIPI: Coordinated development and deployment of a SaaS-based nurse call system for 10+ hospitals, defining project plans and managing stakeholder communications effectively.
+COMPANY_BULLET_3_TIPI: Identified and mitigated project risks for government contracts, ensuring on-time delivery and adherence to strict compliance requirements for public safety technology.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering POS and business management software solutions for over 1,000 small businesses in the retail and wellness industries.
+COMPANY_BULLET_1_ITBIGBOSS: Oversaw the entire product development lifecycle for a flagship POS SaaS product, managing timelines and feature releases for a diverse customer base.
+COMPANY_BULLET_2_ITBIGBOSS: Coordinated cross-functional development and support teams of 30+ to deliver customized software integrations, improving operational efficiency for clients.
+COMPANY_BULLET_3_ITBIGBOSS: Drove process improvements in software delivery, resulting in faster implementation times and increased customer retention across the SaaS portfolio.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH:IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, focused on providing wellness services supported by robust technology infrastructure.
+COMPANY_BULLET_1_BODYTECH: Managed the complete project lifecycle for a new CRM and billing system, coordinating resources and improving member data management across 60+ locations.
+COMPANY_BULLET_2_BODYTECH: Oversaw IT infrastructure projects, including network and CCTV implementation, defining project scope and budgets to support multi-national expansion into new markets.
+COMPANY_BULLET_3_BODYTECH: Led the implementation of the IT Service Desk, establishing best practices and improving internal support resolution times by over 30%.

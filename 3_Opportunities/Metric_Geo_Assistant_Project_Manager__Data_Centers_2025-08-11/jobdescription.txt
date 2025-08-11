@@ -1,0 +1,33 @@
+Status: processed
+Data-Status: complete
+Job board: LinkedIn
+Company Name: Metric Geo
+Role Name: Assistant Project Manager - Data Centers
+Location: United States
+Type: Not specified
+Salary range: Not specified
+Hiring Team: Joseph Hall
+Application Instructions: LinkedIn Easy Apply
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4283155381&distance=25&f_TPR=r86400&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true&sortBy=DD&start=25
+
+Job Description:
+About the job
+Metric Geo are partnered with a Top 10 Design-build firm who are looking to expand their project Management division.
+
+We are seeking a highly organized and experienced Assistant Project Manager to lead and coordinate the planning, execution, and delivery of complex Data Center projects.
+
+Key Responsibilities:
+Lead end-to-end project management for new data center builds, expansions, upgrades, and decommissions.
+Manage cross-functional teams including engineering, construction, network, IT, and operations personnel.
+Coordinate with vendors, contractors, and internal teams to ensure timely delivery of equipment and services.
+Conduct regular status meetings and provide clear, concise project updates to stakeholders and executives.
+Ensure compliance with safety, quality, and environmental standards.
+Oversee project documentation, reporting, and close-out activities.
+
+Qualifications:
+Bachelor’s degree in Engineering, Construction Management, Information Technology, or a related field.
+2+ years of experience in project management, with at least 1 year in data center or critical infrastructure projects.
+Proven experience managing large-scale capital projects ($50M+ preferred).
+Excellent organizational, leadership, and stakeholder communication skills.
+
+For more information please apply!

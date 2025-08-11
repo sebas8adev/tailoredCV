@@ -1,0 +1,69 @@
+# Global Information
+HIRING_MANAGER: Neringa Kovalenkovaitė
+COMPANY_NAME: AIXIAL GROUP
+JOB_ROLE: Senior Global Project Manager
+APPLICATION_DATE: July 30th, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Senior Global Project Manager at AIXIAL GROUP
+CONTENT: 
+Dear Neringa Kovalenkovaitė,
+<br><br>
+I am writing to express my strong interest in the Senior Global Project Manager position at AIXIAL GROUP, which I discovered on LinkedIn. With over a decade of experience managing complex, global projects in highly regulated industries, including healthcare, I am confident that my skills in financial management, cross-functional leadership, and full-cycle project execution align perfectly with the requirements of this role.
+<br><br>
+In my previous roles, I faced the challenge of delivering large-scale digital programs across multiple continents with strict budget and timeline constraints. To address this, I implemented a robust project management framework combining SAFe and Scrum methodologies to lead globally distributed teams of over 100 professionals. This action resulted in the successful delivery of multi-million dollar project portfolios and a 40% improvement in platform performance for a major retail client by optimizing resource allocation and quarterly planning.
+<br><br>
+Furthermore, my background includes directing projects that require absolute data integrity and adherence to strict protocols, which is critical in a clinical setting. I have led the development of healthcare IT solutions, including clinical history systems and medical imaging integrations (HL7/DICOM), ensuring patient data was managed securely. This experience, combined with my proficiency in managing RFP responses and bid defenses, has equipped me with the skills to oversee complex clinical studies, manage vendors, and ensure client satisfaction while upholding the highest standards of quality and safety.
+<br><br>
+The opportunity to contribute to a leading Contract Research Organization like AIXIAL GROUP is particularly exciting. I am passionate about leveraging technology and rigorous project management to support the advancement of clinical trials. My adaptive approach and commitment to excellence would allow me to make a significant contribution to your dynamic and supportive team.
+<br><br>
+Thank you for considering my application. I have attached my resume for your review and welcome the opportunity to discuss how my experience can benefit AIXIAL GROUP.
+---END_SECTION---
+
+# CV Content
+CAREER_SUMMARY: Adaptive Senior Project Manager with 10+ years of experience leading complex, global projects in regulated sectors, including healthcare and finance. Expert in managing cross-functional teams (100+), full-cycle project delivery, and multi-million dollar budgets. Skilled in driving performance improvements and stakeholder alignment from initiation to closeout. Deep experience in financial management, vendor oversight, and proposal development, ensuring projects meet strict timeline, quality, and compliance standards.
+SKILLS_TITLE_1: Global Project & Program Management
+SKILLS_DESC_1: Full Project Lifecycle Scoping Planning Execution Budgeting Risk Management Cross-Functional Leadership Stakeholder Engagement
+SKILLS_TITLE_2: Financial & Vendor Management
+SKILLS_DESC_2: Budget Oversight Fixed Price & T&M Contracts Performance Metrics RFP Analysis & Bid Defense Offshore & Onshore Vendor Management
+SKILLS_TITLE_3: Domain Experience & Methodologies
+SKILLS_DESC_3: Healthcare IT Retail Finance Hospitality Agile SAFe Scrum Kanban Hybrid Waterfall
+SKILLS_TITLE_4: Technologies & Certifications
+SKILLS_DESC_4: Jira Confluence AWS GCP AI & GenAI SAFe 6 Agilist A-CSM CSPO Google Project Management
+---END_SECTION---
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT:Senior Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company focusing on reinventing businesses through innovative technology solutions, AI, and software consulting for global enterprise clients.
+COMPANY_BULLET_1_GLOBANT: Led global project delivery for Royal Caribbean, managing distributed teams to enhance the guest digital experience and launch new onboard digital services.
+COMPANY_BULLET_2_GLOBANT: Managed the full project lifecycle for banking and retail clients, including scope, budget, and risk, ensuring on-time delivery against quarterly roadmaps.
+COMPANY_BULLET_3_GLOBANT: Directed cross-functional teams of 100+ in a hybrid model, successfully staffing and implementing a Scrum of Scrums framework to streamline program execution.
+COMPANY_BULLET_4_GLOBANT: Drove proposal development (RFP) and client-facing bid defenses for new initiatives, translating complex requirements into actionable and cost-effective project plans.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm creating bespoke solutions for media, sports, and healthcare industries using cloud and big data technologies.
+COMPANY_BULLET_1_MANGOSOFT: Managed the end-to-end development of healthcare IT solutions for multiple clinics, including imaging integration (DICOM) and patient data management (HL7).
+COMPANY_BULLET_2_MANGOSOFT: Oversaw project financials and vendor contracts for fixed-price engagements, delivering complex systems for media clients like Concacaf on time and within budget.
+COMPANY_BULLET_3_MANGOSOFT: Implemented Scrum methodologies for teams of 10+, improving delivery predictability and establishing hyper care support, which reduced post-launch issues by 25%.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI:Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology provider specializing in integrated hardware and software solutions for public safety and healthcare sectors in Colombia.
+COMPANY_BULLET_1_TIPI: Led the full SDLC for a bodycam system for law enforcement, managing hardware and software development under strict government contract requirements.
+COMPANY_BULLET_2_TIPI: Deployed integrated RFID and Bluetooth nurse-call systems in 10+ hospitals, improving asset tracking and reducing patient response times by 30%.
+COMPANY_BULLET_3_TIPI: Directed project execution, quality assurance, and operational support for over 3,000 devices, ensuring high system uptime and customer satisfaction.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider that developed and scaled a comprehensive POS and business management platform for over 1,000 small businesses in LATAM.
+COMPANY_BULLET_1_ITBIGBOSS: Spearheaded the software development lifecycle for a multi-tenant SaaS platform, integrating payments, inventory, and CRM for retail and health center clients.
+COMPANY_BULLET_2_ITBIGBOSS: Led a 30+ person team hands-on, overseeing coding, quality, and releases, which increased feature deployment speed by 20% annually.
+COMPANY_BULLET_3_ITBIGBOSS: Managed product implementation and adaptation for 1,000+ businesses, resulting in a 95% customer retention rate through tailored solutions and dedicated support.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH:IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, operating over 60 sites across Colombia, Peru, and Chile.
+COMPANY_BULLET_1_BODYTECH: Directed the implementation of a new Dynamics CRM & ERP system, unifying customer data and automating billing processes across three countries.
+COMPANY_BULLET_2_BODYTECH: Managed IT infrastructure and service desk operations for 60+ sites, improving network uptime to 99.8% and standardizing IT support protocols.
+COMPANY_BULLET_3_BODYTECH: Led the development and lifecycle of a custom access control system using biometrics, securing facilities and reducing unauthorized access by 99%.

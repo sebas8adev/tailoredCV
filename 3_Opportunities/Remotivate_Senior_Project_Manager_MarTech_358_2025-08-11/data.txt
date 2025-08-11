@@ -1,0 +1,67 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: McGaw.io
+JOB_ROLE: Senior Project Manager (MarTech)
+APPLICATION_DATE: July 30th, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Senior Project Manager (MarTech) at McGaw.io
+CONTENT: 
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Senior Project Manager (MarTech) position at McGaw.io. Your company's reputation for building powerful marketing stacks and enabling data-driven growth decisions resonates deeply with my professional passion. With over 10 years of project management experience, primarily within a fast-paced, global consulting environment, I have a strong record of leading complex digital projects for high-profile clients in retail, travel, and finance.
+<br><br>
+In my role at Globant, I frequently addressed the challenge of helping clients enhance customer engagement and revenue through technology. For example, I led a program for Dick's Sporting Goods focused on optimizing their e-commerce platform. I steered cross-functional teams through a data-driven process of identifying key performance issues, creating a strategic roadmap, and executing agile sprints to deliver targeted improvements. This initiative resulted in a 40% improvement in Core Web Vitals and a significant uplift in platform efficiency and user experience.
+<br><br>
+My approach is both consultative and data-driven. I excel at managing multiple concurrent workstreams, developing detailed client roadmaps, and ensuring projects are delivered on time and within budget. I am adept at using project management tools like Jira and Confluence to track metrics, manage resource allocation, and maintain clear communication with all stakeholders, and I am a quick learner ready to master Trello and Harvest. My experience implementing Salesforce Marketing Cloud and tailored advertising solutions has given me direct insight into the MarTech landscape you operate in.
+<br><br>
+I am confident that my skills in client service, strategic planning, and meticulous execution align perfectly with the requirements of this role and McGaw.io's commitment to delivering high-quality outcomes. I am eager to bring my proactive mindset and passion for clarity to your team.
+---END_SECTION---
+
+# CV Content
+CAREER_SUMMARY: Senior Project Manager with 10+ years of experience in consulting environments, leading complex MarTech and data analytics programs. Expert in delivering multi-client, concurrent projects on time and within budget. A data-driven leader with a consultative approach to client service, skilled in resource allocation, roadmap development, and enhancing team performance. Expert in Agile (SAFe, Scrum) and hybrid methodologies, adept at managing stakeholder expectations and driving project profitability across retail, travel, and finance.
+SKILLS_TITLE_1: Project & Program Management
+SKILLS_DESC_1: Client Onboarding & Roadmapping, Resource Allocation, Budget & Scope Management, Data-Driven Reporting, Risk Mitigation, Stakeholder Communication
+SKILLS_TITLE_2: Marketing & Data Technology
+SKILLS_DESC_2: MarTech Implementation (CRM, Advertising), Customer Data Platforms (CDP Concepts), E-commerce Platforms, Data Analytics & Visualization, AI Integration
+SKILLS_TITLE_3: Methodologies & Frameworks
+SKILLS_DESC_3: SAFe, Scrum, Kanban, Scrum of Scrums, Hybrid, Waterfall
+SKILLS_TITLE_4: Tools & Certifications
+SKILLS_DESC_4: Jira, Confluence, Trello, Notion, Harvest | SAFe 6, A-CSM, CSPO, Google PM Certificate, Microsoft PM Certificate
+---END_SECTION---
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT:Senior Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company focused on reinventing businesses through innovative technology solutions, AI, and software development for top-tier global clients.
+COMPANY_BULLET_1_GLOBANT: Led MarTech and e-commerce projects for clients like Dick's Sporting Goods, improving platform performance by 40% through strategic roadmap execution and data-driven optimizations.
+COMPANY_BULLET_2_GLOBANT: Managed complex programs for Royal Caribbean, overseeing concurrent workstreams and cross-functional teams of 15+ to deliver new digital guest services on time and budget.
+COMPANY_BULLET_3_GLOBANT: Drove client success by providing consultative solutions for Abastible, implementing Salesforce CRM (Sales, Marketing, Commerce) to enhance customer engagement and sales processes.
+COMPANY_BULLET_4_GLOBANT: Oversaw project profitability and resource allocation for teams of 100+, using KPIs and data analysis to ensure delivery within scope and budget.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A boutique software consultancy delivering custom cloud-based solutions, big data analytics, and media streaming services for sports and healthcare clients.
+COMPANY_BULLET_1_MANGOSOFT: Directed end-to-end project delivery for Concacaf, launching media and streaming platforms by managing project scope, timelines, and client expectations.
+COMPANY_BULLET_2_MANGOSOFT: Managed development of innovative AWS-powered healthcare solutions, translating complex requirements into actionable tasks and ensuring on-time delivery for multiple clinics.
+COMPANY_BULLET_3_MANGOSOFT: Implemented Scrum methodologies and defined project KPIs, improving team velocity and providing transparent progress reporting to all stakeholders.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI:Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology firm specializing in integrated hardware and software solutions for public safety, law enforcement, and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Led the full lifecycle of a bodycam solution for the Colombian Police, managing firmware and software development to meet strict government contract requirements.
+COMPANY_BULLET_2_TIPI: Oversaw project planning, quality assurance, and deployment for over 3,000 devices, ensuring operational readiness and high system reliability under regulation.
+COMPANY_BULLET_3_TIPI: Delivered an integrated nurse-call system to 10+ hospitals, managing client relationships and project constraints to improve in-patient communication speed.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider that developed, implemented, and supported POS and business management software for over 1,000 SMBs in LATAM.
+COMPANY_BULLET_1_ITBIGBOSS: Spearheaded the software development life cycle for a multi-feature POS system, integrating payments, inventory, and CRM for retail and restaurant clients.
+COMPANY_BULLET_2_ITBIGBOSS: Led technical teams in hands-on coding, code review, and release management, delivering a robust and scalable SaaS product to 1,000+ businesses.
+COMPANY_BULLET_3_ITBIGBOSS: Directed operations and customer support workflows, achieving high client satisfaction and retention through reliable service and continuous product improvements.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH:IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness company operating over 60 clubs across Colombia, Peru, and Chile, with a focus on member experience.
+COMPANY_BULLET_1_BODYTECH: Managed the implementation of Dynamics CRM and billing software, automating processes and improving data management for a large member base.
+COMPANY_BULLET_2_BODYTECH: Directed IT infrastructure projects for 60+ sites, including networking and security, ensuring 99.9% uptime for all business-critical operations.
+COMPANY_BULLET_3_BODYTECH: Led the IT Service Desk implementation, establishing support protocols that improved internal ticket resolution rates by 30%.

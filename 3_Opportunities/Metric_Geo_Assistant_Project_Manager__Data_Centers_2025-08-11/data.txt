@@ -1,0 +1,69 @@
+# Global Information
+HIRING_MANAGER: Joseph Hall
+COMPANY_NAME: Top 10 Design-build firm
+JOB_ROLE: Assistant Project Manager - Data Centers
+APPLICATION_DATE: July 30th, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Assistant Project Manager - Data Centers at Top 10 Design-build firm
+CONTENT: 
+Dear Joseph Hall,
+<br><br>
+I am writing to express my keen interest in the Assistant Project Manager - Data Centers position I discovered on LinkedIn. With over 10 years of experience managing complex, large-scale technology projects, including data center migrations and critical infrastructure deployments, I am confident that my skills align perfectly with the requirements of this role.
+<br><br>
+In a previous role, I was tasked with leading the complex migration of a major financial institution's on-premise data center to a Google Cloud Platform (GCP) environment. I took charge of the end-to-end project management, coordinating with cross-functional engineering, IT, and operations teams, while managing all vendor contracts and timelines. The result was a seamless migration with zero downtime, ensuring full business continuity and enhancing operational scalability for the client.
+<br><br>
+Furthermore, my experience includes managing the IT infrastructure lifecycle for over 60 corporate sites. This involved a significant capital project to implement a new access control system, where I led the coordination between construction teams, hardware vendors, and internal IT staff. This project was delivered on schedule and within budget, successfully standardizing security and operations across multiple countries.
+<br><br>
+The opportunity to contribute to a Top 10 Design-build firm that is expanding its Project Management division is incredibly compelling. I am passionate about building the foundational infrastructure that powers our digital world, and my background in managing capital projects, stakeholders, and compliance is directly transferable to delivering the high-quality data center projects your firm is known for.
+<br><br>
+I am eager to discuss how my adaptive project management approach and hands-on experience can benefit your team. Thank you for your time and consideration.
+---END_SECTION---
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading complex technology projects, including data center migrations and critical infrastructure deployments. Expert in managing the full project lifecycle for large-scale capital initiatives, coordinating cross-functional engineering, IT, and construction teams. Excels in vendor management, executive stakeholder communication, and ensuring compliance, consistently delivering projects on time and within scope.
+SKILLS_TITLE_1: Project & Program Management
+SKILLS_DESC_1: Data Center & Infrastructure Projects, Capital Project Management, End-to-End SDLC, Risk Management, Budget & Scope Control, Stakeholder Reporting
+SKILLS_TITLE_2: Methodologies & Frameworks
+SKILLS_DESC_2: SAFe, Scrum, Kanban, Waterfall, Hybrid Models
+SKILLS_TITLE_3: Technical & Domain Expertise
+SKILLS_DESC_3: Data Center Migration (On-Prem to Cloud), Cloud Platforms (AWS GCP), IT Operations, AI Implementation, System Integration, Construction Coordination
+SKILLS_TITLE_4: Certifications
+SKILLS_DESC_4: SAFe 6 Agilist, A-CSM, CSM, Google Project Management, Google Cloud Digital Leader, AWS Cloud Technical Essentials
+---END_SECTION---
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT:Technical Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company focusing on reinventing businesses through innovative technology solutions, AI, and scalable software development for global enterprise clients.
+COMPANY_BULLET_1_GLOBANT: Directed the end-to-end data center migration from on-premise to GCP for Banco de Chile, coordinating infrastructure and operations teams to ensure zero downtime.
+COMPANY_BULLET_2_GLOBANT: Managed cross-functional teams of 100+ to deliver complex digital transformation programs, translating executive goals into actionable roadmaps and maintaining rigorous budget controls.
+COMPANY_BULLET_3_GLOBANT: Implemented an AI-powered chatbot for Royal Caribbean, overseeing the full SDLC and coordinating with vendors to enhance the onboard digital guest experience.
+COMPANY_BULLET_4_GLOBANT: Drove a 40% performance improvement for Dick's Sporting Goods' e-commerce platform by leading Core Web Vitals optimization projects with strict quality controls.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm creating bespoke cloud-based solutions, specializing in media streaming, big data, and healthcare applications for international clients.
+COMPANY_BULLET_1_MANGOSOFT: Led project management for a media streaming platform on AWS, coordinating network and IT teams to deliver live services for Concacaf.
+COMPANY_BULLET_2_MANGOSOFT: Managed the development of a medical imaging integration platform, overseeing the transfer of critical data from devices to AWS cloud infrastructure (DICOM).
+COMPANY_BULLET_3_MANGOSOFT: Deployed a voice-to-text application for healthcare professionals using AWS Polly, ensuring compliance with data privacy standards and improving clinical documentation efficiency.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI:Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology company developing integrated hardware and software solutions for public safety, law enforcement, and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Led the full project lifecycle for a bodycam system for the Colombian Police, managing firmware development, hardware deployment, and backend software infrastructure.
+COMPANY_BULLET_2_TIPI: Coordinated the deployment and operations support for over 3,000 bodycam devices, ensuring network connectivity and data management across multiple cities.
+COMPANY_BULLET_3_TIPI: Oversaw the implementation of RFID asset tracking systems in hospitals, managing vendor relationships and coordinating installation with clinic operations teams.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A software house that developed and scaled a comprehensive SaaS POS platform for over 1,000 small businesses in the LATAM market.
+COMPANY_BULLET_1_ITBIGBOSS: Directed the end-to-end SDLC for a SaaS POS platform, integrating payment processing and inventory functionalities for 1000+ businesses.
+COMPANY_BULLET_2_ITBIGBOSS: Managed technical integrations with hardware vendors, including biometrics, turnstiles, and payment terminals, ensuring system compatibility and reliability across diverse client environments.
+COMPANY_BULLET_3_ITBIGBOSS: Led hands-on coding, code reviews, and release management, establishing quality and operational workflows that supported rapid product scaling and customer adoption.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH:IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, providing comprehensive wellness services to a large member base.
+COMPANY_BULLET_1_BODYTECH: Managed the complete IT infrastructure lifecycle, including networking, servers, and CCTV, for over 60 sites across Colombia, Peru, and Chile.
+COMPANY_BULLET_2_BODYTECH: Led the implementation of an access control system with turnstiles and biometrics, coordinating with construction and operations teams for seamless integration.
+COMPANY_BULLET_3_BODYTECH: Directed the corporate Dynamics CRM & ERP implementation, managing stakeholder requirements and vendor coordination to centralize business operations and improve data management.

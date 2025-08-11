@@ -75,10 +75,7 @@ def process_opportunity_folder(folder_path):
     if not os.path.exists(data_file_path):
         print(f"  > ERROR: data.txt not found. Please run the AI Tailor script first. Skipping."); return False, None
 
-    # --- THIS IS THE FIX ---
-    # We now use data.txt as the single source of truth for the templates.
     document_data = read_data_from_file(data_file_path)
-    # We still read jobdescription.txt, but only to get the URL for the final log.
     job_description_data = read_data_from_file(job_desc_path)
     
     if not document_data or not job_description_data:
@@ -106,7 +103,7 @@ def process_opportunity_folder(folder_path):
         if not convert_html_to_pdf(cl_html_content, output_pdf): return False, None
     else: return False, None
     
-    return True, job_description_data # Return job_desc_data for logging purposes
+    return True, job_description_data
 
 def main():
     """Main function to find and process all pending opportunities."""
@@ -119,19 +116,15 @@ def main():
     pending_docs_found = 0
     for folder_name in sorted(os.listdir(OPPORTUNITIES_BASE_DIR)):
         opportunity_path = os.path.join(OPPORTUNITIES_BASE_DIR, folder_name)
-        
         if os.path.isdir(opportunity_path):
             job_desc_path = os.path.join(opportunity_path, 'jobdescription.txt')
-            
             overall_status = get_specific_status(job_desc_path, "Status")
             data_status = get_specific_status(job_desc_path, "Data-Status")
-            
             print(f"\nChecking '{folder_name}'... Status: {overall_status.upper()}, Data-Status: {data_status.upper()}")
             
             if overall_status == 'pending' and data_status == 'complete':
                 pending_docs_found += 1
                 success, job_data_for_log = process_opportunity_folder(opportunity_path)
-                
                 if success:
                     print(f"--- Successfully processed {folder_name} ---")
                     log_to_todo_file(opportunity_path, job_data_for_log)
@@ -145,46 +138,65 @@ def main():
         print(f"\nScan complete. Generated documents for {pending_docs_found} opportunities.")
 
 def read_data_from_file(file_path):
+    """
+    Reads data from a text file, parsing key-value pairs and multi-line sections.
+    This version is more robust and handles missing ---END_SECTION--- markers.
+    """
     data = {}
-    current_key = None; current_value_lines = []
+    current_key = None
+    current_value_lines = []
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
             for line in f:
                 line = line.strip()
-                if not line or line.startswith('#'): continue
-                if any(line.lower().strip().startswith(s) for s in ["status:", "data-status:"]) and current_key is None: continue
-                
+                if not line or line.startswith('#'):
+                    continue
+
+                # --- THIS IS THE FIX ---
+                # Check if the line is a new key. A new key implicitly ends the previous section.
+                is_new_key = ':' in line and not line.startswith(' ')
+                if is_new_key and current_key is not None:
+                    data[current_key] = "\n".join(current_value_lines).strip()
+                    current_key = None
+                    current_value_lines = []
+                # --- END FIX ---
+
                 if '---END_SECTION---' in line:
                     if current_key:
                         data[current_key] = "\n".join(current_value_lines).strip()
-                        current_key = None; current_value_lines = []
+                        current_key = None
+                        current_value_lines = []
                     continue
-                if ':' in line and current_key is None:
+                
+                if is_new_key and current_key is None:
                     key, value = line.split(':', 1)
-                    key = key.strip(); value = value.strip()
-                    if value: data[key] = value
-                    else: current_key = key
+                    key = key.strip()
+                    value = value.strip()
+                    if value:
+                        data[key] = value
+                    else:
+                        current_key = key
                 elif current_key:
                     current_value_lines.append(line)
+
     except Exception as e:
-        print(f"Error reading data file {file_path}: {e}"); return None
-    if current_key: data[current_key] = "\n".join(current_value_lines).strip()
+        print(f"Error reading data file {file_path}: {e}")
+        return None
+    
+    # Save any remaining multi-line section at the very end of the file
+    if current_key:
+        data[current_key] = "\n".join(current_value_lines).strip()
+        
     return data
 
 def generate_html_content(template_path, data, doc_type):
     try:
         with open(template_path, 'r', encoding='utf-8') as f: html_content = f.read()
-        
-        # The main replacement loop using only data from data.txt
         for key, value in data.items():
             html_content = html_content.replace(f"{{{{{key}}}}}", str(value))
-
-        # Special handling for Cover Letter subject line
         if doc_type == "CL":
-            # Use keys that the AI is prompted to generate (JOB_ROLE, COMPANY_NAME)
             subject = data.get("SUBJECT", "").replace("{{JOB_ROLE}}", data.get("JOB_ROLE", "")).replace("{{COMPANY_NAME}}", data.get("COMPANY_NAME", ""))
             html_content = html_content.replace("{{SUBJECT}}", subject)
-            
         return html_content
     except Exception as e:
         print(f"Error generating HTML: {e}"); return None

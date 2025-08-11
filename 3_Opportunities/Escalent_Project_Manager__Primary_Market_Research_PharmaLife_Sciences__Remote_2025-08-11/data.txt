@@ -1,0 +1,58 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: Escalent
+JOB_ROLE: Project Manager - Primary Market Research (Pharma/Life Sciences)
+APPLICATION_DATE: July 31st, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Project Manager - Primary Market Research (Pharma/Life Sciences) at Escalent
+CONTENT: Dear Hiring Manager,<br><br>I am writing to express my strong interest in the Project Manager - Primary Market Research (Pharma/Life Sciences) position at Escalent, as advertised on LinkedIn. I am particularly drawn to Escalent's reputation as a catalyst for progress, leveraging data analytics to help the world's leading brands navigate disruption. My extensive background in managing complex, data-intensive projects for the healthcare sector aligns perfectly with the core responsibilities of this role and your company's mission.<br><br>In my previous roles, I faced the challenge of delivering sophisticated technology solutions for healthcare clients under strict budgetary and timeline constraints. As a Project Manager at Mango-Soft, I led the end-to-end delivery of projects such as medical imaging integration and voice-to-text systems for hospitals. I managed all project logistics, from initial cost estimation and team staffing to client communications and final implementation. This resulted in the successful, on-time deployment of critical clinical tools that enhanced operational workflows and ensured high client satisfaction within fixed-price contracts.<br><br>Successfully delivering large-scale projects requires a leader who can serve as the central point of contact, ensuring seamless coordination between clients, internal teams, and external vendors. At Globant, I managed portfolios for clients like Banco de Chile and Royal Caribbean, where I was responsible for the entire project lifecycle for teams exceeding 100 members. I drove the project execution, meticulously managed budgets, and served as the primary client-facing lead for all status updates and strategic decisions. My leadership ensured project milestones were met, financials were controlled, and C-level stakeholders remained aligned, directly contributing to high-quality deliverables.<br><br>My 10+ years of experience in project management, combined with a focus on the healthcare and life sciences vernacular, has equipped me with a unique ability to manage the scope, time, cost, and quality of complex research-oriented projects. I am confident that my adaptive approach and my expertise in both quantitative and qualitative project delivery will allow me to make a significant contribution to your team.
+---END_SECTION---
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading complex, data-driven projects for clients in the Healthcare, Life Sciences, and Finance sectors. Expert in end-to-end project delivery, managing scope, budget, and timelines for both qualitative and quantitative initiatives. Excels in a client-facing capacity, leading cross-functional teams and vendor partners to deliver high-quality solutions. Skilled in translating complex requirements into actionable plans and managing the full project lifecycle from cost estimation and bidding to final implementation.
+SKILLS_TITLE_1: Project & Program Management
+SKILLS_DESC_1: Scope Definition, Cost Estimation & Bidding, Budget & Timeline Management, Risk Mitigation, Quality Assurance, Global Team Leadership (100+)
+SKILLS_TITLE_2: Research & Delivery Methodologies
+SKILLS_DESC_2: Primary Market Research (Qualitative & Quantitative), SAFe, Scrum, Kanban, Waterfall, SDLC, AI-Driven Solutions
+SKILLS_TITLE_3: Client & Stakeholder Management
+SKILLS_DESC_3: Client-Facing Leadership, Vendor & Partner Management, C-Level Reporting & Communication, Relationship Management, Requirements Analysis
+SKILLS_TITLE_4: Industry & Technical Acumen
+SKILLS_DESC_4: Healthcare & Life Sciences, Finance, Retail, Hospitality, Cloud Platforms (AWS GCP), Data & Analytics, AI Integration
+---END_SECTION---
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT:Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company offering innovative technology solutions, focusing on AI-powered software development and consulting services to reinvent industries.
+COMPANY_BULLET_1_GLOBANT: Led end-to-end project delivery for healthcare and finance clients, managing scope, budget, and timelines for cross-functional teams of 100+ members.
+COMPANY_BULLET_2_GLOBANT: Served as the primary client-facing contact for C-level stakeholders, translating project data into clear progress reports and ensuring alignment with strategic goals.
+COMPANY_BULLET_3_GLOBANT: Directed program performance for Dick's Sporting Goods, achieving a 40% improvement in e-commerce platform efficiency through adaptive quarterly roadmaps and PI Planning.
+COMPANY_BULLET_4_GLOBANT: Managed RFP analysis, cost estimation, and proposal creation for complex projects, securing new business and defining project roadmaps for clients like Royal Caribbean.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm specializing in cloud-native solutions, data engineering, and custom applications for media and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Managed full-cycle delivery of primary data projects for healthcare clients, including voice-to-text and medical imaging solutions, ensuring on-time delivery.
+COMPANY_BULLET_2_MANGOSOFT: Acted as the client-facing lead, managing communications and project logistics for fixed-price contracts, ensuring compliance and high client satisfaction.
+COMPANY_BULLET_3_MANGOSOFT: Led the implementation of AWS-based data solutions for Concacaf, integrating diverse data streams to enhance media delivery and user engagement.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI:Project Manager
+COMPANY_SUMMARY_TIPI: A technology company developing integrated hardware and software solutions for public safety, law enforcement, and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Led the project lifecycle for healthcare clients, delivering RFID asset tracking systems that improved hospital operational efficiency and patient communication speed.
+COMPANY_BULLET_2_TIPI: Managed government contracts for the Colombian Police, overseeing project planning, implementation, and support for over 3,000 bodycam devices nationwide.
+COMPANY_BULLET_3_TIPI: Directed cross-functional teams in a hybrid Kanban/Waterfall environment, ensuring on-time delivery of complex hardware/software solutions within budget.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A software house providing SaaS-based POS and business management solutions for SMBs in the retail, fitness, and health sectors.
+COMPANY_BULLET_1_ITBIGBOSS: Directed the full software development life cycle for a core SaaS product, overseeing its successful implementation for over 1,000 small businesses.
+COMPANY_BULLET_2_ITBIGBOSS: Led technical and operational teams, providing hands-on coding, quality assurance, and release management to enhance product functionality and increase customer retention.
+COMPANY_BULLET_3_ITBIGBOSS: Managed client relationships, adapting solutions with hardware and software integrations that automated billing and reduced data entry time for customers.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH:IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness club chain in Latin America, focused on providing comprehensive wellness services and facilities.
+COMPANY_BULLET_1_BODYTECH: Led the implementation of a new IT service desk and CRM/billing software, improving internal ticket resolution rates and automating key business processes.
+COMPANY_BULLET_2_BODYTECH: Managed technology infrastructure, including networking and security, across 60+ new sites in Colombia, Peru, and Chile, ensuring 99% system uptime.
+COMPANY_BULLET_3_BODYTECH: Directed the development of a custom biometric access control system, enhancing facility security and streamlining member check-in across all locations.

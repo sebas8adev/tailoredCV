@@ -1,0 +1,70 @@
+# Global Information
+HIRING_MANAGER: Megha Barot
+COMPANY_NAME: Rangam
+JOB_ROLE: Utility Incentive Project Manager
+COMPANY_NAME: Rangam
+APPLICATION_DATE: July 31st, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Utility Incentive Project Manager at Rangam
+CONTENT: 
+Dear Megha Barot,
+<br><br>
+I am writing to express my keen interest in the Utility Incentive Project Manager position with Rangam, as advertised on LinkedIn. My background in leading complex retail and partner-focused programs, combined with mandatory experience in Salesforce, aligns perfectly with the requirements for the IRA Retail Point-of-Sale rebate program. I am excited by the opportunity to contribute to a significant clean energy initiative with a direct impact on consumers and retailers.
+<br><br>
+In a recent role, I faced the challenge of managing a large, distributed network of authorized dealers for a client, which required a robust system for onboarding, sales tracking, and engagement. I led the end-to-end implementation of a Salesforce CRM platform, defining the project scope, managing stakeholder communications, and overseeing the development of custom workflows. This action resulted in a unified system that streamlined partner management, improved data reporting capabilities, and provided a scalable foundation for program growth.
+<br><br>
+Similarly, when tasked with improving the performance of a major retail e-commerce platform for Dick's Sporting Goods, I managed a program focused on data-driven optimizations. By analyzing key metrics and leading cross-functional teams, we executed a strategic roadmap that resulted in a 40% improvement in platform performance, directly enhancing the customer experience and supporting sales objectives.
+<br><br>
+While my direct experience is in retail and technology program management, the core responsibilities—managing partner enrollment, tracking transactional data, ensuring compliance, and owning program operations—are skills I have honed over a decade. I am confident in my ability to quickly adapt my expertise to the specifics of utility rebate programs and contribute to the successful rollout and expansion of this important initiative.
+<br><br>
+Thank you for considering my application. I am eager to discuss how my project management skills, retail engagement experience, and data analysis capabilities can benefit your client's program.
+---END_SECTION---
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading complex retail and partner programs. Expert in managing the full project lifecycle, including budget tracking, stakeholder communication, and issue resolution for large-scale initiatives. Specializes in retail point-of-sale systems, partner onboarding, and leveraging Salesforce for program operations and data reporting. A strong history of driving program success and ensuring compliance across multi-partner ecosystems, directly aligning with the requirements for managing utility incentive programs.
+SKILLS_TITLE_1: Project & Program Management
+SKILLS_DESC_1: Retail Program Rollout Stakeholder Management Budget & Schedule Control Risk Mitigation Compliance Reporting Issue Resolution
+SKILLS_TITLE_2: Partner & Retailer Engagement
+SKILLS_DESC_2: Partner Onboarding & Enrollment Relationship Management Point-of-Sale (POS) Systems E-commerce Platforms External Vendor Coordination
+SKILLS_TITLE_3: Technical & Data Analysis
+SKILLS_DESC_3: Salesforce Data Reporting & Analysis MS Office Suite (Excel PowerPoint) Asana Jira Confluence SharePoint
+SKILLS_TITLE_4: Methodologies & Certifications
+SKILLS_DESC_4: Agile Scrum Kanban Waterfall Hybrid Google Project Management Certificate CSM SAFe 6 Agilist
+---END_SECTION---
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT:Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company offering innovative technology solutions. Focuses on AI-powered software development and consulting to help organizations reinvent their industries.
+COMPANY_BULLET_1_GLOBANT: Managed the end-to-end implementation of a Salesforce-based partner program, streamlining dealer onboarding, sales, and marketing, which improved operational efficiency for 20+ partners.
+COMPANY_BULLET_2_GLOBANT: Led a retail e-commerce initiative for Dick's Sporting Goods, boosting platform performance by 40% through data-driven analysis and adaptive agile project execution.
+COMPANY_BULLET_3_GLOBANT: Directed multiple projects for Royal Caribbean's guest-facing digital services, including retail and onboard sales apps, enhancing the customer journey for thousands of guests.
+COMPANY_BULLET_4_GLOBANT: Oversaw project constraints including budget, scope, and timelines for global teams (100+), delivering comprehensive status reports to C-level stakeholders.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development consultancy specializing in cloud services, big data, and custom applications for the media and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Led the end-to-end development of a media platform for Concacaf, managing product delivery from definition through to production launch and ongoing support.
+COMPANY_BULLET_2_MANGOSOFT: Directed the creation of a voice-to-text application for healthcare professionals, improving documentation efficiency and reducing administrative workload for clinical staff.
+COMPANY_BULLET_3_MANGOSOFT: Staffed and led technical teams of 10+, defining project roadmaps and implementing scrum methodologies to ensure timely delivery of fixed-price contracts.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI:Project Manager
+COMPANY_SUMMARY_TIPI: A technology firm developing integrated hardware and software solutions for public safety, law enforcement, and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Led the full lifecycle for a bodycam solution for the Colombian Police, including hardware deployment, software management, and operational support for 3,000+ devices.
+COMPANY_BULLET_2_TIPI: Managed the development of a turn-management and nurse-call system, improving patient flow and communication speed in more than 10 hospitals.
+COMPANY_BULLET_3_TIPI: Directed project execution based on government contract requirements, ensuring on-time delivery under strict regulation, quality, and implementation standards.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A software house that developed and scaled a SaaS Point-of-Sale (POS) platform for small and medium businesses in LATAM.
+COMPANY_BULLET_1_ITBIGBOSS: Led the SDLC for a SaaS POS platform, successfully deploying the solution to 1,000+ retail, restaurant, and fitness businesses across Latin America.
+COMPANY_BULLET_2_ITBIGBOSS: Directed technical integrations for the POS system, including payment processors and barcode scanners, enhancing functionality for diverse retail environments.
+COMPANY_BULLET_3_ITBIGBOSS: Managed a team of 30+ developers and support staff, overseeing product development, quality assurance, and customer operations for the SaaS offering.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH:IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading chain of health and fitness centers in LATAM, providing wellness services to a large member base across multiple countries.
+COMPANY_BULLET_1_BODYTECH: Managed IT infrastructure and software lifecycles for 60+ sites, implementing CRM and billing systems that automated processes and increased member retention.
+COMPANY_BULLET_2_BODYTECH: Led the implementation of an access control system with biometrics, improving security and automating check-in for members across all locations.
+COMPANY_BULLET_3_BODYTECH: Established and led the IT Service Desk, defining support workflows and improving IT service delivery and system uptime for all business operations.

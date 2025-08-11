@@ -1,0 +1,58 @@
+Status: processed
+Data-Status: complete
+Job board: LinkedIn
+Company Name: Talentify.io
+Role Name: Technical Project Manager (Remote)
+Location: United States
+Type: Remote
+Salary range: $100,000 - $130,000
+Hiring Team: Not identified
+Application Instructions: See Job Post URL
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4283010270&distance=25&f_TPR=r86400&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true&sortBy=DD&start=25
+
+Job Description:
+About the job
+Help Banks Transform the Future of Banking
+
+Hiring Company is a fast-growing, remote-first startup revolutionizing the financial institution industry. Our no-code platform transforms how banks onboard customers, delivering innovative solutions for both online and in-branch experiences. Our team, distributed across the U.S., is united by a mission to make banking accessible for everyone, one institution at a time.
+
+At Hiring Company, we foster a high-energy, collaborative culture where talented individuals grow and thrive. We're not just building technology, we're redefining an industry. If you're passionate about solving real-world problems and working in a dynamic, fast-paced environment, Hiring Company is the place for you.
+
+Why We're Looking for You
+
+As Hiring Company continues its rapid growth, we're expanding our Implementation Team to support our clients in leveraging our no-code platform for critical banking services, such as account opening, onboarding, lending, and more. We're seeking a motivated Technical Project Manager to drive complex, high-impact projects that help banks deliver seamless, compliant, and modern digital experiences to millions of customers.
+
+In this role, you'll work with major banks to integrate Hiring Company’s platform with their systems, ensure compliance with laws, regulations, and bank policies, and modernize employee workflows. You'll collaborate with a supportive team, gain exposure to cutting-edge technology, and make a tangible impact in the banking industry.
+
+Key Responsibilities
+
+Manage complex implementation projects, overseeing timelines, stakeholder coordination, and integration of Hiring Company’s platform with various bank systems to ensure efficient and compliant customer onboarding
+Guide clients in modernizing their processes by configuring and optimizing employee workflows using Hiring Company’s no-code platform
+Build and maintain strong relationships with clients, including bank executives and operations teams, to understand their needs, manage expectations, and ensure successful project outcomes
+Ensure implementations comply with relevant laws, regulations, and bank policies, working with internal teams to address compliance requirements
+Collaborate with engineering, product, and customer success teams to deliver seamless solutions, share client feedback, and contribute to platform improvements
+Provide training and support to clients, helping them adopt Hiring Company’s platform and maximize its value for their operations
+Monitor project progress, identify risks, and implement mitigation strategies to ensure timely and high-quality delivery
+Contribute strategic insights to improve implementation processes and enhance client experiences
+
+What You’ll Bring
+
+Strong organizational and problem-solving skills with a keen attention to detail
+Ability to manage complex projects and coordinate with multiple stakeholders in a fast-paced environment
+Enthusiasm for learning and applying new technologies, including no-code/low-code platforms, to real-world challenges
+Excellent communication skills and the ability to build trust with clients, from bank executives to operations staff
+A proactive, results-oriented mindset with a passion for helping clients modernize processes and achieve their goals
+Ability to work independently and collaboratively in a dynamic environment
+Interest in or experience with financial services, banking operations, or B2B software is a plus
+
+$100,000 - $130,000 a year
+
+About Hiring Company
+
+At Hiring Company, you'll join a high-growth company where your contributions directly impact our clients and their customers. As part of our Implementation Team, you'll work alongside experienced professionals in a collaborative environment, tackling complex challenges like system integrations and compliance while helping banks modernize their operations.
+
+With our 2x year-over-year profitable growth, this is an exciting time to join Hiring Company. You'll have opportunities to take on increasing responsibility, lead projects, and grow into leadership roles as we scale to serve hundreds of banking clients.
+
+If you're ready to bridge the gap between innovative technology and real-world banking transformation, we want to hear from you. Join Hiring Company and help shape the future of the banking industry.
+
+Talentify helps candidates around the world to discover and stay focused on the jobs they want until they can complete a full application in the hiring company career page/ATS.

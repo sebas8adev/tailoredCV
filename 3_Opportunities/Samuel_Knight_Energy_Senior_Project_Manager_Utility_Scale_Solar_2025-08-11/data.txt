@@ -1,0 +1,67 @@
+# Global Information
+HIRING_MANAGER: David Allen
+COMPANY_NAME: Samuel Knight Energy
+JOB_ROLE: Senior Project Manager (Utility Scale Solar)
+APPLICATION_DATE: July 30th, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Senior Project Manager (Utility Scale Solar) at Samuel Knight Energy's Client
+CONTENT: 
+Dear David Allen,
+<br><br>
+I am writing to express my enthusiastic interest in the Senior Project Manager role for utility-scale solar construction, which I learned about through LinkedIn. My career has been dedicated to leading complex, large-scale projects from initiation to completion, and I am eager to apply my extensive project management expertise to the renewable energy sector.
+<br><br>
+Your client requires a leader who can manage projects from NTP to COD, ensuring adherence to cost, schedule, quality, and safety standards. In my previous roles, I faced the challenge of delivering multifaceted projects with aggressive timelines and budgets across distributed teams of over 100 personnel. I took action by implementing robust project control frameworks, managing the full project lifecycle, including scope definition, risk assessment, and meticulous budget oversight. I coordinated with diverse stakeholders, from C-level executives to technical leads and external vendors, ensuring clear communication and alignment. As a result, I consistently delivered projects on schedule and within budget, including driving a 40% performance improvement on a key e-commerce platform for Dick's Sporting Goods.
+<br><br>
+The opportunity to contribute to a company reshaping the energy landscape is incredibly compelling. My adaptive approach to project management, focused on leadership, clear reporting, and maintaining a high-performance culture, aligns perfectly with the requirements for executing major solar construction projects. I am confident in my ability to manage project logistics, manpower planning, and subcontractor coordination effectively.
+<br><br>
+I am excited by the prospect of bringing my skills to your client and contributing to their strong pipeline of solar projects. Thank you for your time and consideration. I look forward to discussing how my experience can benefit your team.
+---END_SECTION---
+
+# CV Content
+CAREER_SUMMARY: Adaptive Senior Project Manager with 10+ years of experience leading large-scale, complex projects for global clients. Expert in managing the full project lifecycle, controlling cost, schedule, quality, and risk for teams of 100+ personnel. Excels in coordinating with subcontractors, managing logistics, and delivering executive-level progress reports to ensure projects are executed on time and on budget. Eager to apply robust project leadership skills to the utility-scale renewable energy industry.
+SKILLS_TITLE_1: Project & Program Management
+SKILLS_DESC_1: Full Project Lifecycle Control Budget & Cost Management Risk Mitigation Scope & Schedule Management Executive Reporting
+SKILLS_TITLE_2: Leadership & Coordination
+SKILLS_DESC_2: Cross-Functional Team Leadership (100+) Subcontractor & Vendor Management Stakeholder Engagement Manpower & Resource Planning
+SKILLS_TITLE_3: Methodologies & Tools
+SKILLS_DESC_3: Construction Methodologies (Conceptual) Waterfall & Hybrid Planning PM Software (Jira Asana Clickup) Scheduling & Progress Tracking
+SKILLS_TITLE_4: Certifications & Compliance
+SKILLS_DESC_4: SAFe 6 Agilist A-CSM Google Project Management OSHA 30 Focus
+---END_SECTION---
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT:Senior Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company offering innovative technology solutions and software development, leveraging AI to help organizations reinvent their industries.
+COMPANY_BULLET_1_GLOBANT: Led the full project lifecycle for Royal Caribbean, managing budget, schedule, and quality for complex digital infrastructure and guest-facing applications.
+COMPANY_BULLET_2_GLOBANT: Drove a 40% performance improvement for Dick's Sporting Goods' e-commerce platform by optimizing resource allocation and managing cross-functional development crews.
+COMPANY_BULLET_3_GLOBANT: Directed project execution for large-scale financial and retail clients, coordinating with C-level stakeholders, engineers, and vendors to ensure on-time delivery.
+COMPANY_BULLET_4_GLOBANT: Managed manpower planning and staffing for 150+ positions, establishing high-performance teams to meet aggressive project timelines and quality standards.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A custom software development company delivering cloud-based solutions and data-driven applications for the media, sports, and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Managed end-to-end delivery of fixed-price projects for clients like Concacaf, overseeing scope, schedule, and budget from inception to operational support.
+COMPANY_BULLET_2_MANGOSOFT: Coordinated with engineering teams and client owners to deliver complex AWS cloud infrastructure projects for multiple healthcare clinics on schedule.
+COMPANY_BULLET_3_MANGOSOFT: Implemented project controls and reporting mechanisms, delivering regular progress updates to leadership and ensuring alignment with strategic business objectives.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI:Project Manager
+COMPANY_SUMMARY_TIPI: A technology firm specializing in integrated hardware and software solutions for public safety, law enforcement, and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Led project execution for government contracts, managing the deployment of over 3,000 integrated hardware/software units for the Colombian Police.
+COMPANY_BULLET_2_TIPI: Directed the full project lifecycle and operational support workflow, ensuring high quality and compliance with stringent government contract requirements.
+COMPANY_BULLET_3_TIPI: Managed project logistics, including material procurement and on-site deployment teams, ensuring successful implementation across multiple city-wide projects.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: Developed and scaled a SaaS POS platform, providing integrated business management solutions for over 1,000 clients in LATAM.
+COMPANY_BULLET_1_ITBIGBOSS: Led the entire product lifecycle for a complex SaaS platform, managing development, quality, release schedules, and operational support.
+COMPANY_BULLET_2_ITBIGBOSS: Directed technical teams and managed integrations with third-party hardware like printers and biometrics, ensuring seamless functionality for end-users.
+COMPANY_BULLET_3_ITBIGBOSS: Oversaw project implementation for 1,000+ small businesses, adapting the core product to meet diverse customer needs and timelines.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH:IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in LATAM, operating over 60 sites across multiple countries.
+COMPANY_BULLET_1_BODYTECH: Managed large-scale IT infrastructure projects, including network and access control systems, across 60+ sites in Colombia, Peru, and Chile.
+COMPANY_BULLET_2_BODYTECH: Led the full lifecycle for a large-scale Dynamics CRM & ERP implementation, coordinating vendors and internal teams to meet business requirements.
+COMPANY_BULLET_3_BODYTECH: Established and led the IT Service Desk, defining operational workflows and support protocols to ensure high system uptime and user satisfaction.

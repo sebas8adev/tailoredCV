@@ -1,0 +1,40 @@
+Status: processed
+Data-Status: complete
+Job board: LinkedIn
+Company Name: Go Offer
+Role Name: Project Manager
+Location: United States
+Type: Remote
+Salary range: Not specified
+Hiring Team: Anna Gordeeva
+Application Instructions: LinkedIn Easy Apply
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4282461417&distance=25&f_TPR=r86400&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true&sortBy=DD&start=25
+
+Job Description:
+About the job
+🔍 What You’ll Do
+Plan, organize, and oversee projects from initiation to delivery.
+Define project scope, goals, deliverables, timelines, and budgets.
+Coordinate cross-functional teams and ensure smooth communication.
+Monitor progress and adjust plans to meet deadlines and objectives.
+Identify risks and develop mitigation strategies.
+Report project status and results to stakeholders and management.
+Drive process improvements and implement best practices in project management.
+📊 What We’re Looking For
+3+ years of experience as a Project Manager or in a similar role.
+Proven ability to manage multiple projects simultaneously.
+Strong organizational and time management skills.
+Excellent communication and stakeholder management abilities.
+Proficiency with project management tools (Jira, Trello, Asana, MS Project, etc.).
+Fluency in English (written and spoken).
+💡 Nice to Have
+PMP, PRINCE2, or other project management certification.
+Experience working in Agile/Scrum environments.
+Background in IT, SaaS, or product development.
+Understanding of budgeting and resource allocation.
+🎯 What We Offer
+Competitive salary based on experience.
+Flexible work format — remote or hybrid.
+Opportunities for professional growth and certifications.
+Friendly and collaborative team culture.
+Involvement in international projects with real business impact.

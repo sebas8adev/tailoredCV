@@ -1,0 +1,68 @@
+# Global Information
+HIRING_MANAGER: Gregg Fairweather
+COMPANY_NAME: PayTech
+JOB_ROLE: HCM Project Manager, Private Equity
+APPLICATION_DATE: July 31st, 2024
+
+# Cover Letter Content
+SUBJECT: Application for HCM Project Manager, Private Equity at PayTech
+CONTENT: 
+Dear Gregg Fairweather,
+<br><br>
+I am writing to express my strong interest in the HCM Project Manager, Private Equity role at PayTech, as advertised on LinkedIn. With over 10 years of experience leading complex, high-stakes technology projects and acting as a strategic consultant for enterprise clients, I am confident in my ability to deliver the transformational results your private equity partners and their portfolio companies expect.
+<br><br>
+In my role at Globant, a key challenge was ensuring that large-scale digital transformation projects for clients like Dick's Sporting Goods delivered measurable value while navigating complex stakeholder landscapes. I took ownership of the entire project lifecycle, developing strategic roadmaps, leading PI planning sessions, and establishing clear KPIs to track progress against business objectives. This hands-on, adaptive approach resulted in a 40% improvement in e-commerce platform performance and consistently on-time, on-budget delivery, directly aligning technology investments with value creation goals.
+<br><br>
+Similarly, when tasked with a major datacenter migration for Banco de Chile, I addressed the problem of coordinating a massive, distributed workforce by designing and implementing a Scrum of Scrums framework. I led the strategic staffing of over 150 technical roles and mentored five other scrum masters, creating a high-performing PMO structure. The result was a successful, large-scale systems integration that met all strategic objectives, showcasing my ability to manage the technical and human capital aspects of transformational initiatives, much like those in an M&A context.
+<br><br>
+I am particularly drawn to PayTech's focus on becoming a trusted strategic partner within the private equity ecosystem. My career has been dedicated to not just managing projects, but to understanding client objectives, identifying new opportunities for value, and guiding C-suite stakeholders through critical decisions. I am eager to apply my expertise in risk mitigation, strategic planning, and team leadership to help your clients maximize their HCM system utilization and achieve their investment thesis.
+---END_SECTION---
+
+# CV Content
+CAREER_SUMMARY: 
+Adaptive Project Manager with 10+ years of experience leading global teams and delivering complex digital transformations for enterprise clients in finance, retail, and healthcare. Expert in managing the full project lifecycle for large-scale system implementations, from strategic planning and risk mitigation to budget control and C-suite reporting. Skilled in steering cross-functional teams (100+) through agile and hybrid methodologies to achieve ambitious value creation goals and ensure high stakeholder satisfaction in fast-paced, multi-project consulting environments.
+SKILLS_TITLE_1: Project & Portfolio Management
+SKILLS_DESC_1: End-to-End Project Lifecycle, PMO Leadership, Strategic Roadmapping, C-Suite Stakeholder Engagement, Risk & Issue Mitigation, Budget & Scope Control
+SKILLS_TITLE_2: Strategic & Business Consulting
+SKILLS_DESC_2: M&A Technical Integration, Value Creation Planning, Business Process Improvement, Vendor Management, Strategic Account Management, Business Development
+SKILLS_TITLE_3: Methodologies & Platforms
+SKILLS_DESC_3: Agile (SAFe Scrum Kanban), Waterfall & Hybrid Models, Cloud (AWS GCP), Jira, Confluence, AI & GenAI Solutions
+SKILLS_TITLE_4: Team Leadership & Mentoring
+SKILLS_DESC_4: Cross-Functional Team Leadership (100+), High-Performance Team Building, Mentoring & Coaching, Agile Transformation, Resource Planning & Staffing
+---END_SECTION---
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT:Senior Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native consulting firm leveraging AI and innovative technologies to help organizations reinvent their business and create value through strategic software development.
+COMPANY_BULLET_1_GLOBANT: Led digital transformation programs for clients like Royal Caribbean, managing project lifecycles, budgets, and C-suite communications to ensure alignment with strategic business goals.
+COMPANY_BULLET_2_GLOBANT: Drove a 40% performance improvement for Dick's Sporting Goods' e-commerce platform by leading agile teams in a complex system optimization project.
+COMPANY_BULLET_3_GLOBANT: Directed the staffing and agile implementation for a 150+ person team at Banco de Chile, establishing a Scrum of Scrums model for a complex datacenter migration.
+COMPANY_BULLET_4_GLOBANT: Guided C-level stakeholders through quarterly PI planning and roadmap execution, translating technical progress into clear business value and risk assessments for strategic decision-making.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm specializing in cloud-native solutions and custom applications for the media and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Managed end-to-end development of a media streaming platform for Concacaf, integrating AWS services to deliver live matches and statistics to a global user base.
+COMPANY_BULLET_2_MANGOSOFT: Led implementation of a voice-to-text application and DICOM imaging integration for multiple hospitals, improving clinical workflow efficiency and data accessibility for physicians.
+COMPANY_BULLET_3_MANGOSOFT: Architected and delivered a unified patient data portal by integrating disparate hospital systems using HL7 V2 standards, centralizing information to improve care coordination.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI:Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology company delivering integrated hardware and software solutions for public safety, law enforcement, and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Led the full SDLC for a bodycam and evidence management system for the Colombian Police, delivering a solution for over 3,000 officers nationwide.
+COMPANY_BULLET_2_TIPI: Directed the technical integration of custom hardware with management software, ensuring seamless data flow and operational reliability in critical public safety environments.
+COMPANY_BULLET_3_TIPI: Managed SaaS product implementation across 10+ clinics, deploying nurse call systems and patient flow tracking boards that enhanced operational efficiency and staff response times.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider offering a comprehensive POS platform with integrated employee management, CRM, and billing for retail and service industries.
+COMPANY_BULLET_1_ITBIGBOSS: Owned the product lifecycle for a SaaS POS system with employee management and billing features, successfully deploying it to over 1,000 small businesses.
+COMPANY_BULLET_2_ITBIGBOSS: Led technical integrations with third-party accounting software and access control systems, enhancing platform value and streamlining client business operations.
+COMPANY_BULLET_3_ITBIGBOSS: Directed a 30+ person team in the continuous development and support of the platform, achieving high client retention through reliable service and feature enhancements.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH:IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, focused on providing wellness services through technology-driven member experiences.
+COMPANY_BULLET_1_BODYTECH: Managed the full lifecycle of a custom CRM and billing system, directly impacting member management and revenue operations for over 60 locations.
+COMPANY_BULLET_2_BODYTECH: Led the implementation of Microsoft Dynamics CRM & ERP, a key business transformation project that centralized member data and streamlined corporate operations.
+COMPANY_BULLET_3_BODYTECH: Directed IT infrastructure and service desk operations across three countries, ensuring high system uptime and support for all business-critical applications.

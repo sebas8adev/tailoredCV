@@ -1,0 +1,70 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: GE Healthcare
+JOB_ROLE: Integration Project Manager - AI Ultrasound
+COMPANY_NAME: GE Healthcare
+APPLICATION_DATE: July 30th, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Integration Project Manager - AI Ultrasound at GE Healthcare
+CONTENT: 
+Dear Hiring Manager,
+<br><br>
+I am writing to express my keen interest in the Integration Project Manager - AI Ultrasound position at GE Healthcare, as advertised on LinkedIn. Your mission to improve clinical outcomes through AI-driven digital solutions resonates deeply with my professional experience in leading complex technology integrations within the healthcare sector. My background in managing projects that bridge the gap between medical devices, software, and AI is directly aligned with the requirements of this role.
+<br><br>
+In a recent role, my team faced the challenge of integrating disparate medical imaging data for several hospital clients to enable centralized visualization and analysis. I took action by leading the project to transfer medical device data, using the DICOM standard, to a unified AWS cloud platform. This involved coordinating with clinical staff to understand workflows and with engineering teams to build a compliant and efficient data pipeline. The result was a seamless, integrated system that improved diagnostic image accessibility for physicians and established a foundation for future AI-driven analytical tools.
+<br><br>
+I also have extensive experience aligning multi-team execution with strategic business goals. At Globant, I was responsible for delivering a portfolio of digital products for Royal Caribbean, which required integrating AI features like a guest-facing chatbot. I acted as the central point of contact, managing dependencies across three globally distributed teams and translating technical progress into clear KPIs for C-level stakeholders. This leadership ensured the on-time, on-budget delivery of integrated solutions that significantly enhanced the customer experience and operational efficiency.
+<br><br>
+My 10+ years of technical project management experience, combined with a Bachelor's degree in Systems Engineering and hands-on work with clinical workflows and healthcare data standards (HL7 V2, DICOM), has prepared me to meet the challenges of this role. I am confident I can successfully drive the integration of your AI solutions into the broader ultrasound ecosystem.
+<br><br>
+Thank you for your time and consideration. I am eager to discuss how my skills in project execution, cross-functional leadership, and AI integration can contribute to the innovative work at GE Healthcare.
+---END_SECTION---
+
+# CV Content
+CAREER_SUMMARY: Technical Project Manager with 10+ years of experience delivering complex AI and software integrations in regulated healthcare and enterprise environments. Expert in leading cross-functional engineering, product, and clinical teams from roadmap alignment to market-ready solution delivery. Adept at managing project lifecycles, mitigating risks, and ensuring compliance, with specific expertise in medical imaging (DICOM) and AI-driven clinical applications.
+SKILLS_TITLE_1: Project & Program Management
+SKILLS_DESC_1: AI & Software Integration, Cross-Functional Leadership, Budget & Risk Management, Agile (Scrum, SAFe), Stakeholder Communication, Resource Planning
+SKILLS_TITLE_2: Healthcare & Regulated Industries
+SKILLS_DESC_2: Medical Device Integration, Clinical Workflows, Healthcare Data (DICOM, HL7 V2), Regulatory Compliance, Quality Assurance, Enterprise Software
+SKILLS_TITLE_3: Technologies & Platforms
+SKILLS_DESC_3: AI & Machine Learning, Cloud (AWS, GCP), Java, Python, SQL & NoSQL, CI/CD, JIRA, Confluence
+SKILLS_TITLE_4: Certifications
+SKILLS_DESC_4: Google Project Management, Google Generative AI Leader, SAFe 6 Agilist, A-CSM, CSPO, AWS Cloud Technical Essentials
+---END_SECTION---
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT:Technical Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native consulting firm leveraging AI and innovative technologies to reinvent businesses and deliver large-scale software solutions for global enterprise clients.
+COMPANY_BULLET_1_GLOBANT: Directed global, cross-functional teams (up to 100+) in delivering complex digital transformation programs, aligning project execution with strategic quarterly roadmaps (PI Planning).
+COMPANY_BULLET_2_GLOBANT: Managed the full lifecycle of an AI-powered chatbot for Royal Caribbean, from RFP to release, improving guest service response times and satisfaction.
+COMPANY_BULLET_3_GLOBANT: Oversaw the integration of new platform components for Dick's Sporting Goods, boosting e-commerce performance by 40% through targeted Core Web Vitals enhancements.
+COMPANY_BULLET_4_GLOBANT: Led program planning and execution for banking clients, including a datacenter migration to GCP and implementation of a new data warehouse for enhanced analytics.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software consultancy specializing in cloud-native applications, AI solutions, and data integration for the healthcare and media industries.
+COMPANY_BULLET_1_MANGOSOFT: Led project execution for an imaging integration solution for multiple hospitals, transferring medical device data (DICOM) to AWS for enhanced visualization and access.
+COMPANY_BULLET_2_MANGOSOFT: Managed the development of an AI-powered voice-to-text application for clinicians, integrating with AWS Polly to automate procedural notes and improve workflow efficiency.
+COMPANY_BULLET_3_MANGOSOFT: Coordinated with clinical and technical teams to integrate patient data from health centers using HL7 V2, ensuring regulatory compliance and data integrity.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI:Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology firm developing integrated hardware and software solutions, including IoT devices and management platforms for public safety and healthcare clients.
+COMPANY_BULLET_1_TIPI: Led the end-to-end SDLC for a bodycam system for the Colombian Police, integrating hardware firmware with a web-based management and streaming platform.
+COMPANY_BULLET_2_TIPI: Deployed integrated hardware/software solutions across 10+ clinics, including Bluetooth nurse-call systems and RFID asset tracking, improving operational responsiveness.
+COMPANY_BULLET_3_TIPI: Managed development of a patient flow tracking board for hospitals, integrating with existing systems to reduce wait times and optimize resource allocation.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: An entrepreneurial software house that developed and scaled a SaaS-based POS and business management platform for over 1,000 SMBs in LATAM.
+COMPANY_BULLET_1_ITBIGBOSS: Directed the full software development lifecycle for a market-leading SaaS POS platform, from concept to deployment and support for 1,000+ businesses.
+COMPANY_BULLET_2_ITBIGBOSS: Led the hands-on technical development and integration of features including payment processing, inventory management, and biometric access control for diverse clients.
+COMPANY_BULLET_3_ITBIGBOSS: Managed client implementations for various industries, including fitness and health centers, resulting in high customer retention and successful market penetration.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH:IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, operating over 60 sites across Colombia, Peru, and Chile.
+COMPANY_BULLET_1_BODYTECH: Managed the full lifecycle of the company’s CRM, billing, and biometric access control software, supporting operations across 60+ international locations.
+COMPANY_BULLET_2_BODYTECH: Led the IT service desk implementation and managed infrastructure operations, including networking and CCTV, ensuring high system uptime and support quality.
+COMPANY_BULLET_3_BODYTECH: Acted as the technical leader for the Microsoft Dynamics CRM & ERP implementation, streamlining business processes and improving data management across the enterprise.

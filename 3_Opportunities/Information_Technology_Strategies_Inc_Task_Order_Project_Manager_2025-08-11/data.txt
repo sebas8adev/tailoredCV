@@ -1,0 +1,69 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: Information Technology Strategies, Inc.
+JOB_ROLE: Task Order Project Manager
+APPLICATION_DATE: July 30th, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Task Order Project Manager at Information Technology Strategies, Inc.
+CONTENT: 
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Task Order Project Manager position at Information Technology Strategies, Inc., as advertised on LinkedIn. With over 10 years of experience managing complex, large-scale IT projects for both private sector and government-affiliated clients, I am confident that my leadership skills and expertise in project lifecycle management align perfectly with the requirements of this role. I am particularly drawn to IT-Strat's mission of supporting critical government initiatives, and I am eager to contribute my skills to your team.
+<br><br>
+A recurring challenge in the projects I have managed is the need to deliver complex technical solutions within strict contractual timelines and budgets. For a public safety client, the Colombian Police, I was tasked with overseeing the end-to-end delivery of an integrated bodycam and software management system. I led the project from scope definition and planning through deployment and operational support, navigating stringent government contract requirements. By implementing a hybrid project management approach, I ensured all technical and schedule milestones were met, resulting in the successful deployment of over 3,000 units and delivering a critical tool for law enforcement operations.
+<br><br>
+Furthermore, I understand the critical importance of IT sustainment services for long-term project success. In my role at Globant, I was responsible not only for new feature delivery but also for establishing the hypercare and production support models for clients like Royal Caribbean and Dick's Sporting Goods. I developed and implemented support workflows that ensured system stability and seamless user transitions post-launch. This action directly reduced post-release issues and guaranteed the long-term viability and performance of enterprise-level applications, mirroring the IT sustainment responsibilities outlined in your job description.
+<br><br>
+My experience is supported by a Bachelor's degree in Systems Engineering and project management certifications from Google and Microsoft, which cover the core principles of the PMP framework. I am proficient with the entire Microsoft Office suite, including Project, Excel, and SharePoint. I understand that this position requires an IT-II security clearance, and I am prepared to undergo the necessary background checks to obtain it. I am also available to work EST hours.
+<br><br>
+I am deeply impressed by IT-Strat's track record of supporting key agencies like DHS, DISA, and DLA. My goal is to apply my project management expertise to deliver technology solutions that strengthen our national security and public services.
+---END_SECTION---
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading complex IT projects and large, cross-functional teams in both public and private sectors. Expert in full-lifecycle management of task orders, from planning and execution to IT sustainment services. Excels at managing project constraints including scope, budget, schedule, and risk while ensuring timely delivery and clear stakeholder communication. Skilled in hybrid and traditional methodologies, with a focus on supporting mission-critical government and commercial initiatives.
+SKILLS_TITLE_1: Project & Program Management
+SKILLS_DESC_1: Task Order Management, Full SDLC, Scope & Schedule Control, Budget & Risk Management, Stakeholder Engagement, Government Contracting, PMP Principles, SAFe, Scrum, Kanban, Waterfall
+SKILLS_TITLE_2: Leadership & Operations
+SKILLS_DESC_2: Team Leadership (100+), IT Sustainment Services, Hypercare & Production Support, Resource Staffing & Allocation, Performance & KPI Reporting, C-Level Communication
+SKILLS_TITLE_3: Technologies & Platforms
+SKILLS_DESC_3: Cloud Platforms (AWS, GCP), Java, SQL, AI & GenAI Integration, Salesforce CRM, Enterprise Systems (ERP/CRM), Data Migration, Mobile (Android/iOS)
+SKILLS_TITLE_4: Tools & Certifications
+SKILLS_DESC_4: MS Office Suite (Project, Excel, Access), Jira, Confluence, Google Project Management, Certified SAFe 6 Agilist, A-CSM, Google Generative AI Leader
+---END_SECTION---
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT:Project Manager
+COMPANY_SUMMARY_GLOBANT: A global digital consulting firm that helps organizations reinvent themselves through innovative technology solutions, focusing on AI-driven software development and large-scale digital transformation.
+COMPANY_BULLET_1_GLOBANT: Led project execution for Royal Caribbean, managing complex task orders for onboard digital services, enhancing the guest journey and ensuring timely, on-budget delivery.
+COMPANY_BULLET_2_GLOBANT: Managed full project lifecycle for financial and retail clients, including scope, schedule, and budget, improving e-commerce platform performance by 40% at Dick's Sporting Goods.
+COMPANY_BULLET_3_GLOBANT: Directed IT sustainment and hypercare support models post-launch, ensuring system stability and high user satisfaction for critical applications across multiple industries.
+COMPANY_BULLET_4_GLOBANT: Led staffing and management for cross-functional teams of 100+, establishing robust communication channels and KPI reporting for C-level government and commercial stakeholders.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development company specializing in cloud-native solutions, big data, and AI applications for media, sports, and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Managed fixed-price task orders for clients like Concacaf, delivering media streaming and data management platforms on AWS from conception through production support.
+COMPANY_BULLET_2_MANGOSOFT: Directed development and implementation of healthcare IT solutions, including voice-to-text applications and medical imaging integrations, improving clinical workflow efficiency.
+COMPANY_BULLET_3_MANGOSOFT: Implemented robust project management controls for scope and schedule, ensuring all project deliverables for multiple clients met contractual obligations and deadlines.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI:Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology firm developing integrated hardware and software solutions for public safety, law enforcement, and healthcare sectors in Colombia.
+COMPANY_BULLET_1_TIPI: Led a project for the Colombian Police, delivering a bodycam system with real-time tracking, meeting strict government contract requirements and operational needs.
+COMPANY_BULLET_2_TIPI: Managed the full SDLC and deployment of 3,000+ devices, overseeing firmware development, software management, and operational support across multiple cities.
+COMPANY_BULLET_3_TIPI: Oversaw project planning, execution, and quality assurance for integrated hardware/software systems, ensuring solutions met stringent public sector compliance and reliability standards.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering POS and business management software for over 1,000 small businesses in the retail, fitness, and health industries.
+COMPANY_BULLET_1_ITBIGBOSS: Directed the complete software development life cycle for a flagship SaaS product, integrating payments, inventory, and CRM functionalities for diverse business needs.
+COMPANY_BULLET_2_ITBIGBOSS: Led technical teams in coding, quality assurance, and release management, delivering continuous product improvements and system integrations for a large user base.
+COMPANY_BULLET_3_ITBIGBOSS: Managed operations and customer support workflows, ensuring high system uptime and customer satisfaction for a subscription-based service model.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH:IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, operating over 60 sites across Colombia, Peru, and Chile.
+COMPANY_BULLET_1_BODYTECH: Managed the full lifecycle of a custom CRM and billing system, which automated key business processes and supported member management across all locations.
+COMPANY_BULLET_2_BODYTECH: Led the implementation of IT infrastructure, including networking and security, for 60+ new sites, ensuring standardized, reliable operations during major company expansion.
+COMPANY_BULLET_3_BODYTECH: Established and led the IT Service Desk, implementing support protocols that improved issue resolution times and system reliability for all corporate users.

@@ -1,0 +1,58 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: Brooksource
+JOB_ROLE: Senior Program Manager - Enterprise Healthcare
+APPLICATION_DATE: July 31st, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Senior Program Manager - Enterprise Healthcare
+CONTENT: Dear Hiring Manager,<br><br>I am writing to express my keen interest in the Senior Program Manager role with Brooksource, as advertised on LinkedIn. My background in leading large-scale, strategic programs in complex, regulated industries, including healthcare, aligns directly with the requirements for your client's enterprise initiatives.<br><br>In previous roles, I addressed the challenge of disparate projects lacking strategic alignment and executive visibility. I took action by establishing centralized program governance, creating integrated roadmaps with clear KPIs/OKRs, and implementing executive-level reporting forums for clients like Banco de Chile. The result was the successful alignment of over 100 personnel across 15+ teams, ensuring on-time delivery of strategic initiatives and providing C-suite stakeholders with the clear, data-driven insights needed for critical decision-making.<br><br>Furthermore, my experience with healthcare clients like San Rafael Hospital involved navigating complex system integrations and sensitive data management. I led programs to deliver integrated imaging systems and voice-to-text applications, managing the full lifecycle from planning to cutover and training. These initiatives were delivered on schedule and within budget, directly improving physician workflows and enhancing patient data accessibility.<br><br>I thrive in the type of high-stakes environment described, where the challenge is to rapidly impose structure, align senior leaders, and convert strategy into measurable results. My expertise in program delivery and readiness across people, process, and technology makes me confident I can drive your client’s Medicaid expansion and acquisition integration programs to successful outcomes.
+---END_SECTION---
+
+# CV Content
+CAREER_SUMMARY: Adaptive Senior Program Manager with 10+ years of experience leading complex, enterprise-wide strategic initiatives across healthcare, finance, and retail. Expert in translating strategy into execution for global programs, managing budgets, and aligning C-suite stakeholders. Excels at establishing governance in matrixed environments, driving clarity through KPIs and data-driven reporting, and delivering readiness for large-scale technology and business transformations. Deep proficiency in Jira, MS 365, and advanced Excel for managing dependencies and critical paths.
+SKILLS_TITLE_1: Program & Project Leadership
+SKILLS_DESC_1: Enterprise Program Management, Strategy Execution, Stakeholder Alignment, Budget Management, Risk & Dependency Management, Governance (RAID, Change Control), Global Teams (100+)
+SKILLS_TITLE_2: Methodologies & Frameworks
+SKILLS_DESC_2: SAFe, Scrum, Kanban, Waterfall, Hybrid Models, SDLC, Change Management, Benefits Realization
+SKILLS_TITLE_3: Business Domains & Technologies
+SKILLS_DESC_3: Healthcare, Financial Services, Retail, Travel, Public Safety, M&A Integration Concepts, AI Solutions, Cloud Platforms (AWS, GCP)
+SKILLS_TITLE_4: Tools & Certifications
+SKILLS_DESC_4: Jira, Confluence, SharePoint, MS 365, Advanced Excel, SAFe 6, A-CSM, CSPO, Google Cloud, AWS Essentials
+---END_SECTION---
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT:Senior Program Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company reinventing business through innovative technology and AI-powered solutions, providing scalable software development and consulting services to global enterprises.
+COMPANY_BULLET_1_GLOBANT: Led program delivery for a major bank's digital transformation, aligning 100+ personnel across 15+ teams to migrate datacenter operations to GCP.
+COMPANY_BULLET_2_GLOBANT: Established program governance for Royal Caribbean, creating executive-level reporting dashboards and managing RAID logs to ensure alignment on strategic onboard digital initiatives.
+COMPANY_BULLET_3_GLOBANT: Drove a 40% performance improvement for Dick’s Sporting Goods’ e-commerce platform by managing cross-functional workstreams and enforcing data-driven quarterly roadmaps and OKRs.
+COMPANY_BULLET_4_GLOBANT: Directed end-to-end project lifecycle for a new AI-powered chatbot, from RFP and planning to release management, improving guest service efficiency.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:Technical Program Manager
+COMPANY_SUMMARY_MANGOSOFT: A software consultancy specializing in custom solutions for the media and healthcare industries, leveraging cloud and data technologies.
+COMPANY_BULLET_1_MANGOSOFT: Managed a portfolio of healthcare IT projects for clinics, delivering system integrations (DICOM, HL7) and voice-to-text applications, improving physician workflow.
+COMPANY_BULLET_2_MANGOSOFT: Led the development and delivery of a media streaming platform for Concacaf, managing vendor partners and technical dependencies on AWS cloud services.
+COMPANY_BULLET_3_MANGOSOFT: Implemented Scrum methodologies and program-level KPI tracking across multiple healthcare workstreams, ensuring on-time delivery and clear status reporting for all client projects.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI:Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology firm developing integrated hardware and software solutions for public safety, law enforcement, and healthcare sectors in Colombia.
+COMPANY_BULLET_1_TIPI: Directed the full SDLC for an integrated bodycam solution for the Colombian Police, managing hardware, firmware, and software workstreams to meet government contracts.
+COMPANY_BULLET_2_TIPI: Led project delivery and implementation of a nurse call system across 10+ hospitals, coordinating readiness, training, and cutover plans for clinical staff.
+COMPANY_BULLET_3_TIPI: Managed project constraints (scope, budget, schedule) for a patient flow tracking board, enhancing operational visibility and reducing wait times in hospitals.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS company providing POS and business management software to over 1,000 small businesses in the fitness and retail sectors.
+COMPANY_BULLET_1_ITBIGBOSS: Owned the entire product lifecycle for a SaaS POS solution, from initial design and development to market launch and continuous improvement.
+COMPANY_BULLET_2_ITBIGBOSS: Led technical integrations with payment processors and accounting software, expanding product functionality and securing adoption across 1,000+ businesses in LATAM.
+COMPANY_BULLET_3_ITBIGBOSS: Managed a team of 30+ developers and support staff, establishing operational workflows that drove product stability and high customer satisfaction.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH:IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading chain of health and fitness centers across Latin America, focused on providing comprehensive wellness services and technology-driven member experiences.
+COMPANY_BULLET_1_BODYTECH: Directed the technology infrastructure rollout across 60+ sites in 3 countries, managing budgets, vendors, and cross-functional teams for on-time network deployment.
+COMPANY_BULLET_2_BODYTECH: Led the full implementation of a new CRM & ERP system (Dynamics), harmonizing business processes and improving data management across the enterprise.
+COMPANY_BULLET_3_BODYTECH: Established the company's first IT Service Desk, defining processes and KPIs that improved system uptime and internal user satisfaction scores.

@@ -1,0 +1,59 @@
+# Global Information
+HIRING_MANAGER: Joseph Prabakar
+COMPANY_NAME: TWO95 International's Client
+JOB_ROLE: Business Analyst/Project Manager
+COMPANY_NAME: TWO95 International's Client
+APPLICATION_DATE: July 30th, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Business Analyst/Project Manager at TWO95 International's Client
+CONTENT: Dear Joseph Prabakar,<br><br>I am writing to express my strong interest in the Business Analyst/Project Manager position I found on LinkedIn, which is being managed by TWO95 International. With over 10 years of experience leading complex IT projects from inception to completion, my background in bridging business requirements with technical execution aligns perfectly with the needs of your client.<br><br>In a previous role, the challenge was to manage large-scale digital transformation projects within ambiguous settings and tight budgets. I took the initiative to lead requirements gathering sessions with business SMEs for Dick's Sporting Goods' e-commerce platform, creating a structured roadmap and documenting functional requirements. By applying a hybrid Agile approach and managing project costs effectively, we delivered a 40% improvement in Core Web Vitals, directly enhancing the customer experience and platform performance.<br><br>I understand the ability to manage stakeholders and deliver clear status reports is crucial. As a project manager for banking and travel clients, I developed and presented detailed project updates to C-level sponsors, articulating progress, risks, and budget adherence using clear PowerPoint presentations. This ensured stakeholder alignment and kept cross-functional teams on course toward achieving project goals, successfully launching new features like an AI-powered chatbot for Royal Caribbean.<br><br>I noted that experience in the healthcare industry is a plus. I bring direct experience managing projects for clinics and hospitals, including the development of medical imaging integrations and voice-to-text applications for physicians. My ability to quickly learn new domains and take ownership, combined with my proficiency in MS Project, Jira, and the full MS Office suite, makes me confident I can deliver immediate value to your client.<br><br>Thank you for your time and consideration. I am eager to discuss how my adaptive project management skills and business acumen can contribute to your client's success.
+---END_SECTION---
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading large-scale business and IT projects across the healthcare, retail, finance, and travel industries. Expert in managing the full project lifecycle using Agile, Waterfall, and Hybrid approaches. Skilled in gathering business requirements, managing budgets, mitigating risks, and leading cross-functional teams to deliver complex digital solutions. Adept in stakeholder communication and executive reporting to drive project success.
+SKILLS_TITLE_1: Project & Program Management
+SKILLS_DESC_1: Agile (Scrum SAFe) Waterfall & Hybrid Methodologies Full SDLC Requirements Gathering & Analysis Risk & Change Management Stakeholder & Vendor Management Budget & Cost Control
+SKILLS_TITLE_2: Business & Industry Acumen
+SKILLS_DESC_2: Healthcare IT Retail & E-Commerce Financial Services Travel & Hospitality Media & Entertainment Public Safety
+SKILLS_TITLE_3: Technical & Tools Proficiency
+SKILLS_DESC_3: Jira Confluence MS Project MS Office Suite (Visio PowerPoint) Cloud (AWS GCP) Generative AI & Chatbot Implementation
+SKILLS_TITLE_4: Certifications
+SKILLS_DESC_4: A-CSM CSM CSPO SAFe 6 Agilist Google Project Management
+---END_SECTION---
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT:Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company focusing on AI and cognitive transformation, delivering innovative software solutions and consulting services to global enterprise clients.
+COMPANY_BULLET_1_GLOBANT: Drove a 40% e-commerce performance improvement for Dick's Sporting Goods by leading Core Web Vitals initiatives and managing cross-functional development teams.
+COMPANY_BULLET_2_GLOBANT: Led requirements gathering and project execution for Royal Caribbean's Guest App, delivering new features like an AI chatbot and improving onboard guest experience.
+COMPANY_BULLET_3_GLOBANT: Managed project constraints including budget, scope, and risk for a large-scale banking data migration, ensuring on-time delivery and clear stakeholder reporting.
+COMPANY_BULLET_4_GLOBANT: Implemented SAFe and Scrum methodologies for teams of 100+ engineers, defining KPIs and OKRs to track progress and present status to C-level stakeholders.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software consultancy specializing in cloud services, big data, and custom application development for media and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Managed the end-to-end project lifecycle for healthcare clients, delivering a voice-to-text app that improved physician documentation efficiency by 30%.
+COMPANY_BULLET_2_MANGOSOFT: Led project teams in developing and launching a medical imaging integration platform, improving data accessibility and workflow for clinicians at multiple hospitals.
+COMPANY_BULLET_3_MANGOSOFT: Directed development of a media streaming platform for Concacaf, gathering business requirements and managing vendor relationships to expand fan engagement.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI:Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology firm developing integrated hardware and software solutions for public safety, law enforcement, and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Oversaw the full SDLC for a bodycam system for the Colombian Police, from requirements documentation to successful deployment for over 3,000 units.
+COMPANY_BULLET_2_TIPI: Managed the implementation of a nurse call system across 10+ clinics, defining the project roadmap and reducing patient response times.
+COMPANY_BULLET_3_TIPI: Led a cross-functional team to deploy an RFID asset tracking solution for hospitals, improving equipment management and reducing losses by 15%.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: An entrepreneurial software house that developed and scaled a SaaS POS solution for over 1,000 small businesses across Latin America.
+COMPANY_BULLET_1_ITBIGBOSS: Led the entire product SDLC for a SaaS POS system, gathering requirements from fitness and health centers to drive feature development and adoption.
+COMPANY_BULLET_2_ITBIGBOSS: Managed software integrations with payment processors, biometric devices, and accounting apps, enhancing system functionality and client value.
+COMPANY_BULLET_3_ITBIGBOSS: Directed the technical support and operations workflow, maintaining high client satisfaction and ensuring system reliability for a large user base.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH:IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading chain of health and fitness centers in Latin America, providing comprehensive wellness services to a large membership base.
+COMPANY_BULLET_1_BODYTECH: Directed the implementation of a new CRM and billing system, improving data management and streamlining member services across 60+ locations.
+COMPANY_BULLET_2_BODYTECH: Managed the IT infrastructure lifecycle, including networking and service desks for 60+ sites, ensuring 99% uptime and supporting seamless club operations.
+COMPANY_BULLET_3_BODYTECH: Led the technical team for a Dynamics ERP implementation, coordinating with vendors and business stakeholders to align the system with company goals.

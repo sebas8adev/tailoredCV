@@ -1,0 +1,99 @@
+# Global Information
+HIRING_MANAGER: Manu V George
+COMPANY_NAME: PriceSenz
+JOB_ROLE: Part-Time Project Manager
+APPLICATION_DATE: July 30th, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Part-Time Project Manager at PriceSenz
+CONTENT: 
+Dear Manu V George,
+
+I am writing to express my strong interest in the Part-Time Project Manager position at PriceSenz, which I discovered on LinkedIn. The opportunity to apply my project management expertise in a focused, part-time contract role is an excellent match for my current career goals, and I am confident that my background in managing complex technical projects aligns perfectly with your requirements.
+<br><br>
+The job description emphasizes the need to manage projects with complex integrations and diverse stakeholders. In my role at Globant, I was responsible for leading multifaceted digital initiatives for clients like Royal Caribbean and Dick's Sporting Goods. I managed globally distributed teams, controlled project budgets and scope, and served as the primary communication link to C-level stakeholders. A key achievement was leading an e-commerce platform overhaul that resulted in a 40% improvement in Core Web Vitals performance, directly enhancing the user experience and business outcomes.
+<br><br>
+I understand this role requires solid experience with enterprise content management (ECM) systems. While managing the digital platform for Dick’s Sporting Goods, I led project teams working with Adobe Experience Manager (AEM), a leading ECM solution. My responsibilities included overseeing the development of new page components, managing content workflows, and executing performance enhancements, giving me direct, hands-on experience with the challenges and successes of large-scale ECM projects.
+<br><br>
+My approach to project management is both adaptive and disciplined, rooted in over a decade of experience with Agile methodologies, including SAFe and Scrum. As a certified ScrumMaster (A-CSM) and SAFe Agilist, I excel at guiding teams to deliver value iteratively while maintaining clear project tracking and risk mitigation. I am adept at working independently and am skilled in planning, tracking, and reporting on project progress to ensure alignment with organizational standards and deliver results on time and within scope.
+
+I am eager to discuss how my skills in project management, ECM systems, and stakeholder communication can support PriceSenz's ongoing initiatives. Thank you for your time and consideration.
+---END_SECTION---
+
+# CV Content
+CAREER_SUMMARY: 
+Adaptive Project Manager with 10+ years of experience leading complex system integrations and digital transformations across retail, finance, and government sectors. Expert in managing enterprise content management (ECM) and AI-driven solutions for global clients. Skilled in Agile (SAFe, Scrum, Kanban) and traditional methodologies, with strengths in full-lifecycle project delivery, budget and scope control, and executive stakeholder reporting.
+SKILLS_TITLE_1: 
+Project & Program Management
+SKILLS_DESC_1: 
+Agile Methodologies (Scrum SAFe Kanban) Stakeholder Management Risk & Scope Control Budget & Resource Planning
+SKILLS_TITLE_2: 
+Enterprise Content & Digital Asset Management
+SKILLS_DESC_2: 
+ECM Systems (AEM) Digital Asset Management (DAM) Content Migration & Enhancement Web Content Management (WCM)
+SKILLS_TITLE_3: 
+Technical & Platform Expertise
+SKILLS_DESC_3: 
+Full SDLC System Integrations Cloud Platforms (AWS GCP) AI & ML Solutions Data & Analytics
+SKILLS_TITLE_4: 
+Tools & Certifications
+SKILLS_DESC_4: 
+Jira Confluence Slack MS Teams SAFe A-CSM CSM CSPO Google PM
+---END_SECTION---
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT:Project Manager
+COMPANY_SUMMARY_GLOBANT: 
+A digitally native company focusing on reinventing businesses through innovative technology solutions, AI, and software development for global enterprise clients.
+COMPANY_BULLET_1_GLOBANT: 
+Led an Adobe Experience Manager (AEM) project for Dick's Sporting Goods, managing the delivery of e-commerce components and improving platform performance by 40%.
+COMPANY_BULLET_2_GLOBANT: 
+Managed complex integrations for Royal Caribbean’s guest app, including an AI chatbot and onboard services, enhancing the digital experience for thousands of daily users.
+COMPANY_BULLET_3_GLOBANT: 
+Directed cross-functional teams of 100+ to execute a data center migration to GCP for a major bank, ensuring project milestones were met on schedule.
+COMPANY_BULLET_4_GLOBANT: 
+Drove project lifecycles from RFP to release, managing scope, budget, and C-level stakeholder reporting for diverse fixed-price and T&M engagements.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: 
+A software consultancy specializing in cloud-native applications, media streaming services, and custom solutions for the sports and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: 
+Directed development of media and news management platforms for Concacaf, handling digital assets and streaming services to enhance fan engagement across championships.
+COMPANY_BULLET_2_MANGOSOFT: 
+Managed the integration of medical imaging systems (DICOM) with AWS cloud services for multiple hospitals, improving data accessibility for healthcare professionals.
+COMPANY_BULLET_3_MANGOSOFT: 
+Delivered a voice-to-text application using AWS Polly for clinical notes, reducing physician documentation time by an estimated 30% and improving record accuracy.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI:Technical Project Manager
+COMPANY_SUMMARY_TIPI: 
+Provider of integrated hardware and software solutions, specializing in public safety technology and healthcare asset management for government and commercial clients.
+COMPANY_BULLET_1_TIPI: 
+Led end-to-end delivery of a bodycam and evidence management system for the Colombian Police, navigating complex government contract requirements and ensuring compliance.
+COMPANY_BULLET_2_TIPI: 
+Managed the full SDLC for a web-based management platform, enabling real-time streaming and digital evidence access for over 3,000 deployed units.
+COMPANY_BULLET_3_TIPI: 
+Oversaw the implementation of RFID asset tracking systems in 10+ hospitals, improving equipment location accuracy and reducing patient service delays.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: 
+A software house that developed and scaled a SaaS-based POS system for over 1,000 small businesses in the retail and fitness sectors.
+COMPANY_BULLET_1_ITBIGBOSS: 
+Architected and managed the full SDLC for a SaaS POS product, integrating payments, inventory, and CRM for over 1,000 small businesses.
+COMPANY_BULLET_2_ITBIGBOSS: 
+Directed integrations with third-party hardware and government tax APIs, expanding product capabilities and ensuring regulatory compliance for clients across Latam.
+COMPANY_BULLET_3_ITBIGBOSS: 
+Led technical and support teams, driving a 99% system uptime and high customer satisfaction that supported steady business growth and client retention.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH:IT Manager
+COMPANY_SUMMARY_BODYTECH: 
+A leading health and fitness center chain in Latin America, operating over 60 locations with a focus on technology-driven member services.
+COMPANY_BULLET_1_BODYTECH: 
+Managed the implementation of Microsoft Dynamics CRM & ERP, streamlining billing and customer management processes across 60+ locations in three countries.
+COMPANY_BULLET_2_BODYTECH: 
+Led the full lifecycle for a custom access control system with biometrics, reducing unauthorized access by over 95% and improving facility security.
+COMPANY_BULLET_3_BODYTECH: 
+Established the IT Service Desk from the ground up, improving average ticket resolution time by 40% for all corporate and club-level technology services.

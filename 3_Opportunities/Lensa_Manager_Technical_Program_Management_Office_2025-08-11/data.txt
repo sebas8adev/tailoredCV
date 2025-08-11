@@ -1,0 +1,67 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: Paylocity
+JOB_ROLE: Manager, Technical Program Management Office
+APPLICATION_DATE: July 30th, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Manager, Technical Program Management Office at Paylocity
+CONTENT: 
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Manager, Technical Program Management Office position at Paylocity, which I discovered on LinkedIn. With over 10 years of experience leading complex technical programs and building high-performing project management teams, I am confident I possess the skills and leadership background required to excel in this role and contribute to your mission of empowering the modern workforce.
+<br><br>
+In my recent role as Senior Project Manager, I encountered the challenge of aligning over 15 cross-functional teams and 100+ personnel for Banco de Chile under a disjointed project structure. I took action by designing and implementing a Scrum of Scrums framework, creating standardized reporting mechanisms with KPIs and OKRs, and establishing a new governance model. The result was a cohesive program delivery structure that improved communication, provided clear visibility to senior leadership, and ensured consistent execution across the portfolio.
+<br><br>
+My background includes hands-on experience in PMO transformation, defining and implementing best practices, and mentoring teams of project and scrum masters to elevate their performance and advance their careers. I have a track record of managing program intake, resource capacity, risk, and dependencies for large-scale software initiatives, including AI-driven solutions and cloud platform migrations, leading to measurable outcomes like a 40% improvement in e-commerce platform performance for Dick's Sporting Goods.
+<br><br>
+I am particularly drawn to Paylocity's commitment to building a strong workplace culture through innovative HR technology. My passion lies in creating environments where teams can thrive and deliver compelling software, and I am eager to apply my experience in talent development and program governance to help your Product & Technology organization continue to innovate and lead the market.
+---END_SECTION---
+
+# CV Content
+CAREER_SUMMARY: Adaptive Program Management leader with 10+ years’ experience directing complex software programs and developing high-performing teams across global enterprises. Expert in establishing PMO best practices, governance, risk management, and stakeholder engagement. Specializes in PMO transformations, executive reporting, and leading teams of project managers. Delivers large-scale digital, cloud, and AI solutions across finance, retail, and travel sectors, driving significant performance improvements and ensuring strategic alignment.
+SKILLS_TITLE_1: PMO & Program Leadership
+SKILLS_DESC_1: PMO Transformation, Portfolio Management, Governance & Risk Management, Career Development & Mentoring, Budget & Capacity Planning, Executive Reporting (KPIs, OKRs, RAG)
+SKILLS_TITLE_2: Project Management Methodologies
+SKILLS_DESC_2: SAFe (Scaled Agile Framework), Scrum of Scrums, Scrum, Kanban, Hybrid Waterfall, End-to-end SDLC
+SKILLS_TITLE_3: Technical & Domain Expertise
+SKILLS_DESC_3: AI & Generative AI Solutions, Cloud Platforms (AWS, GCP), E-commerce & Retail, Finance & Banking, Travel & Hospitality, Healthcare IT
+SKILLS_TITLE_4: Tools & Certifications
+SKILLS_DESC_4: Jira, Confluence, MS Teams, SAFe 6 Agilist, A-CSM, CSPO, Google Project Management
+---END_SECTION---
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT:Senior Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company focused on reinventing businesses through innovative technology solutions, specializing in AI-powered software development and global consulting services.
+COMPANY_BULLET_1_GLOBANT: Led a 100+ person program for Banco de Chile, implementing a Scrum of Scrums framework and staffing 150+ roles, establishing enterprise-wide delivery standards.
+COMPANY_BULLET_2_GLOBANT: Directed end-to-end delivery of digital guest services for Royal Caribbean, managing distributed teams and C-level stakeholders to enhance the onboard digital experience.
+COMPANY_BULLET_3_GLOBANT: Drove a 40% performance improvement for Dick's Sporting Goods' e-commerce platform by optimizing delivery with Core Web Vitals and adaptive quarterly roadmaps.
+COMPANY_BULLET_4_GLOBANT: Managed the integration of a Google AI Chatbot for Royal Caribbean, overseeing the full SDLC from discovery to hypercare, improving guest self-service capabilities.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm delivering custom cloud-native solutions and big data services for the media, sports, and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Led development of a media streaming platform for Concacaf, utilizing AWS services and managing the project from RFP analysis through to production support.
+COMPANY_BULLET_2_MANGOSOFT: Managed integration of voice-to-text AI (AWS Polly) and medical imaging systems for healthcare clients, improving clinical workflow efficiency and documentation accuracy.
+COMPANY_BULLET_3_MANGOSOFT: Established and led a 10+ person team, implementing Scrum methodologies to deliver fixed-price projects on time and within budget for international clients.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI:Technical Project Manager
+COMPANY_SUMMARY_TIPI: Provider of integrated hardware and software solutions for public safety, law enforcement, and healthcare sectors in Colombia.
+COMPANY_BULLET_1_TIPI: Led the full SDLC for a bodycam system for the Colombian Police, delivering hardware, firmware, and a web management platform for 3,000+ devices.
+COMPANY_BULLET_2_TIPI: Managed project delivery under government contract constraints, overseeing planning, implementation, quality, and operational support to ensure full compliance and on-time deployment.
+COMPANY_BULLET_3_TIPI: Directed development of a real-time asset tracking and nurse-call system for 10+ hospitals, integrating RFID and Bluetooth hardware with a central platform.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider specializing in POS, CRM, and billing solutions for small businesses across Latin America, which I co-founded and managed.
+COMPANY_BULLET_1_ITBIGBOSS: Owned the complete SDLC for a SaaS POS product, leading development, quality, and release management for over 1,000 small business clients.
+COMPANY_BULLET_2_ITBIGBOSS: Directed technical teams hands-on, performing code reviews and architectural planning to integrate payments, biometrics, and third-party accounting apps into the core product.
+COMPANY_BULLET_3_ITBIGBOSS: Managed client implementations and operational support workflows for retail, restaurant, and fitness centers, increasing market adoption and client retention.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH:IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, focused on delivering premium member experiences through technology innovation.
+COMPANY_BULLET_1_BODYTECH: Managed IT infrastructure and service desk operations across 60+ locations in three countries, ensuring 99% uptime for business and member-facing systems.
+COMPANY_BULLET_2_BODYTECH: Led the full lifecycle implementation of a custom CRM, billing software, and biometric access control system, improving operational efficiency and member security.
+COMPANY_BULLET_3_BODYTECH: Directed the technical implementation of Microsoft Dynamics CRM & ERP, creating a unified platform for sales, operations, and financial management across the enterprise.

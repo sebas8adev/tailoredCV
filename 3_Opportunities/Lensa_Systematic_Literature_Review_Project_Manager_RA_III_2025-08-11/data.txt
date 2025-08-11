@@ -1,0 +1,70 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: Thermo Fisher Scientific
+JOB_ROLE: Systematic Literature Review Project Manager (RA III)
+COMPANY_NAME: Thermo Fisher Scientific
+APPLICATION_DATE: July 30th, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Systematic Literature Review Project Manager (RA III) at Thermo Fisher Scientific
+CONTENT: 
+Dear Hiring Manager,
+
+I am writing to express my keen interest in the Systematic Literature Review Project Manager position at Thermo Fisher Scientific, as advertised on LinkedIn. My 10+ years of experience in managing complex, data-intensive projects, particularly within the healthcare sector, aligns well with the requirements of this role and your company's mission to serve science.
+
+A recurring challenge in my project work has been the need to translate complex requirements from diverse stakeholders into structured, actionable plans with clear, measurable outcomes.
+<br><br>
+In a recent project for Banco de Chile, I led the end-to-end implementation of a new data warehouse and Power BI analytics platform. This involved defining the project scope, managing a large cross-functional team, and overseeing the budget and timeline. The action resulted in a fully functional data analytics solution that provided stakeholders with streamlined access to critical business insights, enhancing their strategic decision-making capabilities.
+<br><br>
+Similarly, when managing the delivery of an AI-powered chatbot for Royal Caribbean, I successfully guided the project from the initial proposal and discovery phase to production release. I coordinated with technical and product teams to synthesize user needs into technical specifications, planned and executed the project within a fixed-price model, and managed all client communications. The result was an on-time delivery that significantly improved guest service efficiency and digital engagement.
+<br><br>
+The opportunity to apply my adaptive project management discipline, client relations experience, and background in data analysis to the vital field of health services research is incredibly appealing. I am confident that my ability to manage project lifecycles, budgets, and stakeholder communications can bring significant value to Evidera's research initiatives.
+---END_SECTION---
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading complex, data-intensive digital transformations across regulated industries, including healthcare, finance, and retail. Expert in full-lifecycle project delivery, from scope definition and proposal development to budget oversight and executive stakeholder communication. Skilled in translating complex research and business requirements into actionable plans for global teams (100+). Eager to apply a rigorous project management discipline to advance scientific research and evidence synthesis in a world-class organization.
+SKILLS_TITLE_1: Project Management & Delivery
+SKILLS_DESC_1: Project Planning Scope Definition Budget & Timeline Management Risk Assessment & Mitigation Stakeholder Communication
+SKILLS_TITLE_2: Research & Data Analysis Acumen
+SKILLS_DESC_2: Requirements Analysis & Synthesis Data Abstraction & Validation Data Ingestion & Warehousing Power BI & Analytics AI & GenAI Solutions
+SKILLS_TITLE_3: Leadership & Client Management
+SKILLS_DESC_3: Cross-Functional Team Leadership (100+) C-Level & Executive Reporting Proposal & Budget Development Client Relationship Management
+SKILLS_TITLE_4: Methodologies & Certifications
+SKILLS_DESC_4: Agile Scrum Waterfall Hybrid Models Google Project Management Certificate Google Generative AI Leader
+---END_SECTION---
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT:Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company offering innovative technology solutions, focusing on AI-powered transformation and software development for global enterprises across various industries.
+COMPANY_BULLET_1_GLOBANT: Led a data-centric program for Banco de Chile, implementing a data warehouse and Power BI analytics, which enhanced data accessibility and strategic reporting.
+COMPANY_BULLET_2_GLOBANT: Managed the end-to-end delivery of a Google AI-powered chatbot for Royal Caribbean, improving guest service efficiency and digital engagement through structured project execution.
+COMPANY_BULLET_3_GLOBANT: Directed an e-commerce optimization project for Dick's Sporting Goods, boosting platform performance by 40% through structured quarterly planning and Core Web Vitals improvements.
+COMPANY_BULLET_4_GLOBANT: Oversaw project constraints (budget, scope, quality) and led stakeholder communications for global teams of 100+, ensuring project alignment and on-time delivery.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software consultancy specializing in custom cloud and data-driven solutions for clients in the media, sports, and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Directed the implementation of a voice-to-text application for clinicians, streamlining clinical documentation processes and improving data accuracy for partner hospitals.
+COMPANY_BULLET_2_MANGOSOFT: Managed a DICOM imaging integration project, migrating medical data to AWS cloud to enhance image accessibility and support a new patient visualization portal.
+COMPANY_BULLET_3_MANGOSOFT: Led development of a media statistics platform for Concacaf using AWS and Neo4j, successfully delivering a system for real-time data streaming and analysis.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI:Project Manager
+COMPANY_SUMMARY_TIPI: A technology firm developing integrated hardware and software solutions for public safety, law enforcement, and healthcare sectors in Colombia.
+COMPANY_BULLET_1_TIPI: Led the full-lifecycle development of a bodycam system for the Colombian Police, including data management software with face-recognition and real-time streaming capabilities.
+COMPANY_BULLET_2_TIPI: Oversaw deployment of asset tracking and nurse call systems across 10+ hospitals, improving operational workflows and reducing patient response times.
+COMPANY_BULLET_3_TIPI: Managed all project constraints for government contracts, ensuring on-time delivery under regulation and leading support for over 3,000 deployed devices.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A software-as-a-service (SaaS) provider specializing in point-of-sale (POS) and business management solutions for the restaurant, fitness, and retail industries.
+COMPANY_BULLET_1_ITBIGBOSS: Directed the complete software development lifecycle for a SaaS POS platform, serving over 1,000 small businesses by integrating payments and inventory management.
+COMPANY_BULLET_2_ITBIGBOSS: Led technical teams in hands-on coding, QA, and release management, driving continuous product enhancement and maintaining high-quality standards.
+COMPANY_BULLET_3_ITBIGBOSS: Managed integrations with third-party accounting and government tax systems, ensuring regulatory compliance and expanding the product's market adaptability.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH:IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, operating over 60 clubs across Colombia, Peru, and Chile.
+COMPANY_BULLET_1_BODYTECH: Managed the lifecycle for a custom CRM and billing software, automating key business processes which improved member retention across 60+ locations.
+COMPANY_BULLET_2_BODYTECH: Led the technical implementation of Microsoft Dynamics CRM & ERP, enhancing business intelligence and creating significant operational efficiencies across departments.
+COMPANY_BULLET_3_BODYTECH: Directed IT infrastructure projects, including network and service desk implementation, achieving high system uptime and robust support for all business operations.

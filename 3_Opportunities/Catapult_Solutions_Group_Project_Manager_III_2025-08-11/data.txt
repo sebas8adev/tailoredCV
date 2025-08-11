@@ -1,0 +1,58 @@
+# Global Information
+HIRING_MANAGER: Austin Garza
+COMPANY_NAME: Catapult Solutions Group
+JOB_ROLE: Program Manager – ServiceNow HRSD Implementation
+APPLICATION_DATE: July 30th, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Program Manager – ServiceNow HRSD Implementation at Catapult Solutions Group
+CONTENT: Dear Austin Garza,<br><br>I am writing to express my keen interest in the Program Manager – ServiceNow HRSD Implementation role. My background in leading complex, enterprise-wide technology transformations, particularly with Salesforce and AI-driven support systems, aligns directly with the requirements of this high-visibility HR initiative.<br><br>In a previous role, a client faced operational inefficiencies due to fragmented legacy systems, hindering their service delivery. I led the end-to-end implementation of Salesforce CRM, serving as the central liaison between business stakeholders, technical teams, and vendors. I translated complex business needs into functional specifications, defined new workflows for sales and service, and managed the migration of critical data. This initiative streamlined operations, enhanced user adoption, and significantly improved service delivery efficiency.<br><br>I am particularly drawn to this opportunity because of its focus on modernizing the employee experience through technology. My expertise in integrating AI solutions, such as the Google AI chatbot I implemented for Royal Caribbean, and my experience with large-scale platform migrations, make me confident in my ability to support the design of AI-enabled case resolution and ensure a seamless transition to ServiceNow. I thrive on bridging the gap between business goals and technical execution and am adept at managing the cross-functional collaboration required for a successful transformation.<br><br>I am eager to bring my adaptive project management approach and experience in HR-adjacent platform implementations to your client, ensuring their organizational needs are met while delivering a cutting-edge HR service model.
+---END_SECTION---
+
+# CV Content
+CAREER_SUMMARY: Adaptive Program Manager with 10+ years of experience leading complex digital transformations and enterprise system implementations for global organizations. Expert in managing the full lifecycle of technology projects, including Salesforce CRM, AI-driven solutions, and cloud-based platforms. Excels at liaising between business stakeholders and technical partners to translate requirements into functional specifications, optimize workflows, and manage large-scale data migrations. A strategic leader skilled in steering cross-functional teams and vendors to deliver high-impact HR technology transformation projects.
+SKILLS_TITLE_1: Enterprise Platform Implementation
+SKILLS_DESC_1: Salesforce CRM, Salesforce Service Cloud principles, ServiceNow HRSD principles, Microsoft Dynamics CRM, Full-Cycle HR Tech Implementation, Workflow Design, Knowledge Management, Content Migration
+SKILLS_TITLE_2: Project & Program Management
+SKILLS_DESC_2: SAFe, Scrum, Kanban, Waterfall, Stakeholder Management, Vendor Liaison, Risk Mitigation, Budget & Scope Control, Executive Reporting, Change Management
+SKILLS_TITLE_3: Technical & AI Expertise
+SKILLS_DESC_3: AI-driven Solutions, Generative AI, Cloud Platforms (AWS GCP), System Integration, API Utilization, Data Migration, SDLC, Business Requirements Translation
+SKILLS_TITLE_4: Certifications
+SKILLS_DESC_4: SAFe 6 Agilist, A-CSM, CSPO, Google Generative AI Leader, Google Project Management, AWS Cloud Technical Essentials
+---END_SECTION---
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT:Program Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company offering innovative technology solutions. We leverage AI and software development to help organizations reinvent their industries and create exceptional experiences.
+COMPANY_BULLET_1_GLOBANT: Led the end-to-end Salesforce CRM implementation for Abastible, defining workflows for Sales, Commerce, and Marketing clouds to modernize enterprise-wide service delivery.
+COMPANY_BULLET_2_GLOBANT: Directed the integration of a Google AI Chatbot for Royal Caribbean, automating guest support and improving self-service capabilities for onboard digital services.
+COMPANY_BULLET_3_GLOBANT: Served as the primary liaison between C-level stakeholders, global teams (100+), and vendors, translating complex business needs into actionable technical roadmaps.
+COMPANY_BULLET_4_GLOBANT: Drove program performance for Dick's Sporting Goods by managing quarterly roadmaps and PI planning, achieving a 40% boost in e-commerce platform efficiency.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software consultancy specializing in cloud solutions, big data, and custom application development for the media and healthcare sectors.
+COMPANY_BULLET_1_MANGOSOFT: Orchestrated the development of media platforms for Concacaf, leading the migration of content and integrating AWS services to enhance live streaming capabilities.
+COMPANY_BULLET_2_MANGOSOFT: Led implementation of an imaging integration platform for healthcare clients, defining new workflows and migrating medical data from legacy systems to AWS.
+COMPANY_BULLET_3_MANGOSOFT: Managed the creation of a voice-to-text application for healthcare professionals, improving documentation speed and reducing administrative workload for physicians during patient visits.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI:Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology firm developing integrated hardware and software solutions for public safety, law enforcement, and healthcare asset management.
+COMPANY_BULLET_1_TIPI: Led the full SDLC for a bodycam and management software solution for law enforcement, translating stringent government requirements into functional technical specifications.
+COMPANY_BULLET_2_TIPI: Directed system deployment and operations for over 3,000 devices nationally, managing software releases, firmware updates, and cross-functional team coordination.
+COMPANY_BULLET_3_TIPI: Implemented an RFID asset tracking system in multiple hospitals, defining workflows that improved equipment visibility and reduced patient service delays.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A software-as-a-service (SaaS) provider delivering specialized point-of-sale (POS) and business management solutions for SMBs in the LATAM market.
+COMPANY_BULLET_1_ITBIGBOSS: Managed the full SDLC and implementation of a SaaS POS system for over 1,000 businesses, overseeing integrations with multiple third-party services.
+COMPANY_BULLET_2_ITBIGBOSS: Led the technical team hands-on through coding, code reviews, and releases, ensuring high-quality delivery and adherence to project timelines and budget.
+COMPANY_BULLET_3_ITBIGBOSS: Directed the operations and support workflow, establishing protocols that improved issue resolution times and increased customer satisfaction scores for our user base.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH:IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading chain of health and fitness centers across Latin America, committed to promoting wellness through medical and athletic services.
+COMPANY_BULLET_1_BODYTECH: Led the technical implementation of Microsoft Dynamics CRM & ERP, replacing legacy systems to modernize billing and customer management across 60+ sites.
+COMPANY_BULLET_2_BODYTECH: Managed the complete lifecycle for the company's proprietary CRM and billing software, significantly reducing manual data entry and improving financial reporting accuracy.
+COMPANY_BULLET_3_BODYTECH: Established and led the IT Service Desk from the ground up, implementing support protocols that improved system uptime and employee satisfaction scores.

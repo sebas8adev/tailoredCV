@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cover Letter - Sebastian Ochoa Alvarez</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        /* Basic Reset & Font */
+        body {
+            font-family: 'Open Sans', sans-serif;
+            line-height: 1.4; /* Reduced line height for tighter spacing */
+            color: black;
+            margin: 0;
+            padding: 0;
+            -webkit-print-color-adjust: exact; /* For printing background colors */
+            box-sizing: border-box;
+        }
+
+        /* Page Margins for PDF Output */
+        @page {
+            size: A4; /* Or Letter */
+            margin: 0.85in 0.50in 0.82in 0.50in; /* Top, Right, Bottom, Left */
+        }
+
+        .container {
+            width: 100%;
+            max-width: 8.5in; /* Standard Letter width */
+            margin: 0 auto; /* Center content */
+            padding: 0; /* Page margins handled by @page rule */
+            box-sizing: border-box;
+        }
+
+        /* Utility classes for controlled spacing */
+        .margin-top-10 { margin-top: 10px !important; }
+        .margin-bottom-10 { margin-bottom: 10px !important; }
+        .margin-bottom-5 { margin-bottom: 5px !important; }
+        .no-margin { margin: 0 !important; }
+        .no-padding { padding: 0 !important; }
+
+
+        /* Header Styles */
+        .header {
+            text-align: center;
+            margin-bottom: 0px !important; /* Ensure no margin */
+        }
+        .header h1 {
+            font-size: 10.3pt;
+            font-weight: 600;
+            line-height: 1.4;
+            margin: 0 !important; /* Ensure no margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+        .header p {
+            font-size: 10.3pt;
+            margin: 0 !important; /* Ensure no margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+        .header a {
+            color: black;
+            text-decoration: none;
+        }
+        .header a:hover {
+            text-decoration: underline;
+        }
+
+        /* Section Styles */
+        .section {
+            margin-bottom: 0px !important; /* Ensure no margin */
+            margin-top: 6px !important; /* Ensure no margin */
+            padding: 0 !important; /* Ensure no padding */
+            padding-top: 6px !important; /* Ensure no margin */
+        }   
+        .section-info {
+            font-size: 10.3pt;
+            line-height: 1.4;
+            margin: 0 !important; /* Ensure no margin */
+            padding: 0 !important; /* Ensure no padding */
+            text-align: center;
+        }
+        .section-summary {
+            font-size: 10.3pt;
+            line-height: 1.4;
+            margin: 0 !important; /* Ensure no margin */
+            padding: 0 !important; /* Ensure no padding */
+            text-align: justify;
+        }
+        .section-title {
+            font-size: 10.3pt;
+            line-height: 1.4;
+            font-weight: 600;
+            padding-bottom: 0px !important; /* Reduced padding */
+            margin-bottom: 0px !important; /* Reduced margin */
+            padding-top: 0 !important; /* Ensure no top padding */
+            display: block; /* Ensure it's a block element again */
+            width: 100%; /* Take full width */
+            text-align: left; /* Align title to left */
+            text-decoration: underline; /* Retained underline on text */
+        }
+
+
+        /* Paragraph Styles */
+        p {
+            margin: 0 !important; /* Ensure no default paragraph margin */
+            padding: 0 !important; /* Ensure no default paragraph padding */
+            font-size: 10.3pt;
+            text-align: justify;
+        }
+
+        /* List Styles (Bullet Points) */
+        ul {
+            list-style: none; /* Remove default bullet */
+            padding: 0 !important; /* Remove default padding */
+            margin: 0 !important; /* Remove default margin */
+            /* This ensures the UL starts at the same horizontal position as section titles */
+            margin-left: 0.25in !important; /* Align UL with the page's left content margin */
+        }
+        li {
+            position: relative;
+            /* This ensures the text of the list item starts at the UL's left edge (0.75in from page margin) */
+            text-indent: 0in !important;
+            padding-left: 0in !important; /* Ensure no additional padding pushes text right */
+            margin-bottom: 0px !important; /* Reduced margin */
+            text-align: justify;
+            font-size: 10.3pt;
+            margin-left: 0 !important; /* Reset li's own margin-left */
+            padding-top: 0 !important; /* Ensure no top padding */
+            padding-bottom: 0 !important; /* Ensure no bottom padding */
+            line-height: 1.25;
+        }
+        li::before {
+            content: '•'; /* Custom bullet character */
+            position: absolute;
+            /* This pulls the bullet to the left of the LI's starting position.
+               If LI text starts at 0.75in page margin, then bullet will be at 0.75in - 0.25in = 0.5in. */
+            left: -0.12in; /* Adjusted to place bullet to the left of the text, at 0.5in from page edge */
+            font-size: 10.3pt; /* Adjust bullet size if needed */
+            line-height: inherit; /* Align with text baseline */
+        }
+        
+        /* Experience Section Specifics */
+        .experience-item {
+            margin-bottom: 0px !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+        .experience-title {
+            font-weight: 600;
+            font-size: 10.3pt;
+            line-height: 1.4;
+            margin: 0 !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+        .experience-description {
+            font-size: 10.3pt;
+            margin: 0 !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+            font-style: italic;
+        }
+        .experience-details {
+            font-size: 10.3pt;
+            line-height: 1.4;
+            margin: 0 !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+        .experience-bullets li {
+            margin: 0 !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+
+        /* Skills/Certifications List (similar to experience bullets but might need distinct styling) */
+        .skills-list li, .certifications-list li {
+            margin: 0 !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+        .skills-list strong, .certifications-list strong {
+            font-weight: 600;
+        }
+
+        /* Education */
+        .education-item {
+            margin: 0 !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+            font-size: 10.3pt;
+        }
+        .education-item strong {
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>SEBASTIAN OCHOA ALVAREZ</h1>
+            <p class="section-info">Orlando, FL ∙ (786) 475-0772</p>
+            <p class="section-info margin-bottom-5">sebastian.ochoa.alvarez@gmail.com ∙ <a href="www.linkedin.com/in/sebastianochoaalvarez">www.linkedin.com/in/sebastianochoaalvarez</a></p>
+        </header>
+        
+        <section class="section">
+            <p class="margin-top-10">July 30th, 2025</p>
+            <p>Hiring Manager</p>
+            <p>TE Connectivity</p>
+        </section>                
+
+        <p class="subject margin-top-10"><strong>SUBJECT:</strong> Application for SR PROJECT MANAGER ENGINEER (Remote) 1 at TE Connectivity</p>
+
+        <section class="section">
+            <p class="content-paragraph">Dear Hiring Manager,
+I am writing to express my strong interest in the SR PROJECT MANAGER ENGINEER position at TE Connectivity, as advertised on LinkedIn. Your mission to create a safer, sustainable, and more connected world through industrial technology deeply resonates with my professional passion for leveraging technology to solve complex challenges. My background as an adaptive Project Manager with a degree in Systems Engineering aligns perfectly with the requirements of this role.
+<br><br>
+In my career, I have consistently managed the end-to-end delivery of complex technology products. A significant challenge in product development is navigating the lifecycle from concept to market launch while adhering to strict budget and quality controls. I addressed this by leading cross-functional, multicultural teams through structured, gated project methodologies, similar to the Toll-Gate process. For instance, I managed the full lifecycle of a bodycam system, an integrated hardware-software product, resulting in the successful deployment of over 3,000 units for a government client, meeting all contractual obligations.
+<br><br>
+Another critical aspect of project management is ensuring financial viability and maintaining stakeholder alignment. I have managed project capital and expenditures by developing detailed budget forecasts, performing cost-benefit analysis for RFPs, and establishing clear communication cadences with C-level stakeholders. At Dick's Sporting Goods, my leadership in resource planning and progress tracking against financial metrics directly contributed to a 40% improvement in e-commerce platform performance, demonstrating my ability to deliver results that meet key business objectives like ROI and cost-efficiency.
+<br><br>
+My experience in leading diverse teams, managing project financials, and executing complex product development initiatives, combined with my PMP-equivalent certifications (SAFe, A-CSM) and engineering background, makes me confident that I possess the skills and drive to excel at TE Connectivity. I am eager to contribute my results-driven approach to your team.</p>
+            <br>
+            <p class="margin-top-10">Sincerely,</p>
+            <br>
+            <p>Sebastian Ochoa Alvarez</p>            
+        </section>
+    </div>
+</body>
+</html>

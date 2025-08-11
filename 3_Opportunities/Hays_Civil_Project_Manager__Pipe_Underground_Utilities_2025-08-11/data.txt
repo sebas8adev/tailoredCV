@@ -1,0 +1,69 @@
+# Global Information
+HIRING_MANAGER: Jose Sanchez
+COMPANY_NAME: Hays
+JOB_ROLE: Civil Project Manager - Pipe/ Underground Utilities
+APPLICATION_DATE: July 30th, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Civil Project Manager - Pipe/ Underground Utilities at Hays
+CONTENT: 
+Dear Jose Sanchez,
+
+I am writing to express my strong interest in the Civil Project Manager position for the Greater Orlando area, which I discovered on LinkedIn. While my background is in technology project management, I have spent over a decade leading large-scale, complex projects with a core focus on infrastructure, multi-site deployments, and managing the critical constraints of budget, schedule, and quality. I am confident that my robust project management expertise and adaptive leadership style are highly transferable and align with the requirements of this role.
+<br><br>
+A recurring challenge in my career has been ensuring the successful delivery of complex, multi-faceted projects with large, distributed teams and strict budgetary and timeline constraints.
+<br><br>
+To address this, I have consistently acted by implementing comprehensive project management frameworks. This includes developing detailed project plans, conducting rigorous risk assessments, managing vendors and subcontractors, and maintaining transparent communication with all stakeholders, from on-the-ground teams to C-level executives. I led the infrastructure rollout for over 60 new sites across three countries, managing everything from networking to physical installations, which mirrors the logistical complexity of civil projects.
+<br><br>
+As a result, I have a consistent track record of delivering projects on time and within budget, improving operational efficiency, and ensuring compliance with all quality and contractual standards. For example, by optimizing team performance and resource allocation on a major retail e-commerce platform, I drove a 40% improvement in efficiency. I am eager to apply this same disciplined, results-oriented approach to contribute to the success of your site development and underground utilities projects.
+<br><br>
+I am deeply impressed by your partner company's reputation for self-performing projects, which demonstrates a commitment to quality and stability. The opportunity to contribute to diverse projects in site development and earthworks is precisely the career progression I am seeking. I am excited by the prospect of bringing my extensive project management skills to a new industry and growing with a dynamic team.
+---END_SECTION---
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading complex, large-scale projects and diverse, cross-functional teams. Expert in end-to-end project delivery, from initial RFP analysis and estimation to rigorous budget control, risk management, and final execution. Skilled in managing multi-million dollar project portfolios and coordinating vendors, subcontractors, and stakeholders to ensure on-time, on-budget completion while upholding the highest quality and safety standards.
+SKILLS_TITLE_1: Project Management & Controls
+SKILLS_DESC_1: Scope Definition, Budgeting & Cost Control, Scheduling, Risk Management, Quality Assurance, Safety Compliance Principles
+SKILLS_TITLE_2: Project Execution & Delivery
+SKILLS_DESC_2: End-to-End Project Lifecycle Management, Vendor & Subcontractor Coordination, Resource Allocation, Estimation & Takeoff Analysis
+SKILLS_TITLE_3: Leadership & Communication
+SKILLS_DESC_3: Cross-Functional Team Leadership (100+), Stakeholder Management & Executive Reporting, Contract Management, RFP & Proposal Development
+SKILLS_TITLE_4: Methodologies & Technologies
+SKILLS_DESC_4: Adaptive Project Management (Waterfall, Hybrid), Jira, Confluence, MS Teams, AI-driven Project Enhancements, Cloud Infrastructure Principles (AWS, GCP)
+---END_SECTION---
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT:Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native consulting company that reinvents businesses through innovative technology, specializing in AI-driven solutions and large-scale software development for global clients.
+COMPANY_BULLET_1_GLOBANT: Directed a portfolio of complex projects for clients like Royal Caribbean, managing multi-million dollar budgets and ensuring timely delivery of all program phases.
+COMPANY_BULLET_2_GLOBANT: Led globally distributed teams of 100+ personnel, implementing adaptive roadmaps and quarterly PI planning to boost a retail client's platform efficiency by 40%.
+COMPANY_BULLET_3_GLOBANT: Managed full project lifecycles from RFP analysis and estimation to execution and release, consistently meeting all contractual obligations for fixed-price and T&M engagements.
+COMPANY_BULLET_4_GLOBANT: Controlled all project constraints, including scope, schedule, and quality, while providing C-level stakeholder reports on progress, risks, and financial performance.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software consultancy delivering custom solutions for media, sports, and healthcare industries, specializing in cloud services and big data applications.
+COMPANY_BULLET_1_MANGOSOFT: Managed fixed-price contracts for clients like Concacaf, delivering complex media streaming and data platforms from initial concept to final production and support.
+COMPANY_BULLET_2_MANGOSOFT: Led project planning, staffing, and execution for teams of 10+, ensuring the successful delivery of critical healthcare integrations for multiple hospital clients.
+COMPANY_BULLET_3_MANGOSOFT: Implemented adaptive project management methodologies that improved delivery predictability by 25% and increased client satisfaction across all managed accounts.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI:Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology firm developing integrated hardware and software solutions for public safety, law enforcement, and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Led the end-to-end delivery of a bodycam system for law enforcement, managing hardware manufacturing, firmware development, and deployment for 3,000+ units.
+COMPANY_BULLET_2_TIPI: Directed project execution based on government contract requirements, overseeing planning, quality control, implementation, and operational support across multiple cities.
+COMPANY_BULLET_3_TIPI: Managed development and implementation of integrated RFID and Bluetooth-based systems for 10+ clinics, improving asset tracking and operational workflow efficiency.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering integrated Point-of-Sale (POS) and business management software for the retail, fitness, and health industries.
+COMPANY_BULLET_1_ITBIGBOSS: Led the full product lifecycle for a core POS platform, overseeing the customization and implementation for over 1,000 small businesses across Latin America.
+COMPANY_BULLET_2_ITBIGBOSS: Managed a 30+ person team, directing all product enhancements, hardware integrations (biometrics, turnstiles), and operational support workflows for a large user base.
+COMPANY_BULLET_3_ITBIGBOSS: Drove a 30% increase in customer retention by streamlining the implementation process and improving the reliability of integrated payment and accounting systems.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH:IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness company operating a large chain of athletic clubs across Colombia, Peru, and Chile, with a focus on member experience.
+COMPANY_BULLET_1_BODYTECH: Directed the end-to-end technology infrastructure rollout for 60+ new sites across 3 countries, managing networking, CCTV, and physical access control systems.
+COMPANY_BULLET_2_BODYTECH: Led the successful corporate-wide implementation of Microsoft Dynamics CRM & ERP systems, streamlining business operations and improving data management.
+COMPANY_BULLET_3_BODYTECH: Managed the full lifecycle for a custom CRM and billing software, including development and the establishment of an IT Service Desk, reducing issue resolution time by 40%.

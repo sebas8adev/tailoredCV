@@ -1,0 +1,110 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: APTIM
+JOB_ROLE: Project Specialist -- emobility/ebike Programs
+COMPANY_NAME: APTIM
+APPLICATION_DATE: July 30th, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Project Specialist -- emobility/ebike Programs at APTIM
+CONTENT: 
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Project Specialist -- emobility/ebike Programs position at APTIM, as advertised on LinkedIn. With over 10 years of experience managing complex, multi-stakeholder programs from conception through to successful delivery, I am confident that my skills in project leadership, client management, and process optimization align perfectly with the requirements of this role.
+
+<br><br>
+
+In my recent role, I was tasked with managing a portfolio of digital transformation projects for clients in highly regulated industries, facing the challenge of coordinating large, globally distributed teams, numerous vendors, and critical C-level stakeholders under tight budget and timeline constraints. I implemented an adaptive project management framework, blending Agile and traditional methodologies to create clear quarterly roadmaps, define project scope, and establish robust communication channels. This action resulted in a 40% improvement in platform efficiency for a major retail client and consistently on-time, on-budget delivery for a complex digital guest services program in the travel industry.
+
+<br><br>
+
+I am deeply impressed by APTIM's commitment to accelerating the transition to a clean energy economy and building a sustainable future. While my background is rooted in technology program management, my core expertise lies in the exact competencies you require: managing schedules, budgets, and scope; coordinating with clients, vendors, and community stakeholders; and ensuring quality delivery. I am passionate about applying my extensive project management experience to contribute to impactful E-mobility initiatives and help drive APTIM's mission forward.
+
+<br><br>
+
+My resume provides further detail on my achievements in project and program management. I am eager for the opportunity to discuss how my leadership and experience can benefit your team and contribute to the success of your E-mobility programs.
+---END_SECTION---
+
+# CV Content
+CAREER_SUMMARY: 
+Adaptive Project Manager with 10+ years of experience leading complex programs and digital transformations for global clients in retail, finance, and government sectors. Expert in managing the full project lifecycle, including budgets, schedules, scope, and risk for multi-million dollar initiatives. Excels at directing cross-functional teams, managing client and vendor relationships, and driving process improvements that enhance efficiency and deliver measurable results. Passionate about applying structured project management to achieve strategic business objectives and exceed stakeholder expectations.
+
+SKILLS_TITLE_1: 
+Project & Program Management
+SKILLS_DESC_1: 
+Full Project Lifecycle Client & Stakeholder Management Vendor & Subcontractor Coordination Budget & Schedule Management Scope & Risk Mitigation Quality Assurance
+SKILLS_TITLE_2: 
+Leadership & Strategy
+SKILLS_DESC_2: 
+Cross-Functional Team Leadership (100+) C-Level Executive Reporting & Communication Performance Metrics (KPIs & OKRs) Process Improvement & Optimization Staffing & Resource Planning
+SKILLS_TITLE_3: 
+Methodologies & Frameworks
+SKILLS_DESC_3: 
+Agile Scrum Kanban SAFe Hybrid Waterfall
+SKILLS_TITLE_4: 
+Tools & Certifications
+SKILLS_DESC_4: 
+MS Office Suite (Teams, PowerPoint, Excel) Jira Confluence PMP (in progress) Certified SAFe 6 Agilist Advanced Certified ScrumMaster (A-CSM)
+---END_SECTION---
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT:
+Senior Project Manager
+COMPANY_SUMMARY_GLOBANT: 
+A digitally native consulting firm leveraging AI and innovative technologies to reinvent businesses through comprehensive software solutions for top-tier global clients.
+COMPANY_BULLET_1_GLOBANT: 
+Directed a portfolio of projects for Royal Caribbean, managing budgets and coordinating with multiple vendors to deliver enhanced digital onboard guest services.
+COMPANY_BULLET_2_GLOBANT: 
+Led the successful delivery of a program for Dick's Sporting Goods, improving e-commerce platform performance by 40% through rigorous Core Web Vitals optimization.
+COMPANY_BULLET_3_GLOBANT: 
+Managed project constraints (scope, budget, schedule, quality) for a banking client, ensuring on-time delivery for a data center migration to Google Cloud.
+COMPANY_BULLET_4_GLOBANT: 
+Oversaw full-cycle project staffing for teams of 100+ engineers, aligning talent with program needs to ensure successful execution for clients like Banco de Chile.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:
+Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: 
+A software development firm specializing in cloud-native solutions, big data, and streaming services for media, sports, and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: 
+Managed end-to-end development of a media streaming platform for Concacaf, integrating AWS services and coordinating with stakeholders to launch new fan engagement features.
+COMPANY_BULLET_2_MANGOSOFT: 
+Led project execution for healthcare clients, delivering an AWS Polly-based voice-to-text application that improved clinical documentation efficiency for physicians.
+COMPANY_BULLET_3_MANGOSOFT: 
+Spearheaded proposal development and client relationship management, securing fixed-price contracts and defining project scope and deliverables for multiple new initiatives.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI:
+Technical Project Manager
+COMPANY_SUMMARY_TIPI: 
+A technology company delivering integrated hardware and software solutions, specializing in public safety, IoT devices, and healthcare management systems.
+COMPANY_BULLET_1_TIPI: 
+Led a complex project for the Colombian Police, delivering over 3,000 bodycam units and a supporting software management platform under a fixed-price government contract.
+COMPANY_BULLET_2_TIPI: 
+Managed the entire software development lifecycle and operational support workflow, ensuring system reliability and compliance with stringent government client requirements.
+COMPANY_BULLET_3_TIPI: 
+Directed the implementation of an RFID asset tracking system across 10+ hospitals, improving operational efficiency and communication for medical staff.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:
+Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: 
+A SaaS provider of Point-of-Sale (POS) and business management software for over 1,000 small businesses in the retail, fitness, and health sectors.
+COMPANY_BULLET_1_ITBIGBOSS: 
+Directed the full product lifecycle for a SaaS POS system, leading to its successful adoption by over 1,000 small businesses across Latin America.
+COMPANY_BULLET_2_ITBIGBOSS: 
+Led a 30+ person team in the development and release of the core software, improving customer invoicing and inventory management processes.
+COMPANY_BULLET_3_ITBIGBOSS: 
+Managed integrations with third-party systems including payment processors and accounting apps, enhancing product value and expanding the customer base.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH:
+IT Manager
+COMPANY_SUMMARY_BODYTECH: 
+A leading chain of health and fitness centers across Latin America, providing comprehensive wellness services to a large member base.
+COMPANY_BULLET_1_BODYTECH: 
+Managed the technology infrastructure rollout, including networking and security systems, across more than 60 new sites in Colombia, Peru, and Chile.
+COMPANY_BULLET_2_BODYTECH: 
+Led the implementation of Microsoft Dynamics CRM & ERP, streamlining billing and customer management processes and improving data-driven decision-making.
+COMPANY_BULLET_3_BODYTECH: 
+Directed the IT Service Desk implementation, establishing support protocols that improved system uptime and internal user satisfaction across the enterprise.

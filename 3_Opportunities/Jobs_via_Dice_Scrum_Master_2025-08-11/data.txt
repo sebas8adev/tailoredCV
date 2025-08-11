@@ -1,0 +1,77 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: Kforce Technology Staffing
+JOB_ROLE: Scrum Master
+APPLICATION_DATE: July 30th, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Scrum Master at Kforce Technology Staffing
+CONTENT: 
+Dear Hiring Manager,
+
+I am writing to express my keen interest in the Scrum Master position I discovered on LinkedIn. With over 10 years of progressive experience leading agile teams and a strong background in the hospitality sector, I am confident that my skills as a coach, facilitator, and leader align perfectly with the requirements of this role and the needs of your client.
+
+<br><br>
+
+In a previous role at Globant, I served as a Technical Project Manager and Scrum Master for Royal Caribbean Group. The challenge was to enhance the digital guest experience across several key onboard applications. I led multiple globally distributed agile teams, implementing SAFe and Scrum methodologies to drive the development of new features for the Guest App and Digital Concierge. By facilitating PI Planning, coaching teams on agile principles, and ensuring transparent communication, we successfully launched high-value features that significantly improved the guest journey and increased ancillary revenue.
+
+<br><br>
+
+I have consistently focused on fostering collaboration and continuous improvement to elevate team performance. For example, while working with a major retail client, the team faced challenges with predictability and delivery speed. I implemented a robust framework of KPIs and OKRs, refined backlog management processes, and coached the teams through Scrum ceremonies to remove impediments and improve velocity. This adaptive approach resulted in a 40% improvement in the e-commerce platform's performance and ensured consistent, on-time delivery of quarterly roadmaps.
+
+<br><br>
+
+The opportunity to apply my expertise within the Hotel Management or Vacation Ownership industry is particularly exciting. My direct experience in enhancing guest-facing technology in a large-scale hospitality environment has prepared me to deliver immediate value. I am passionate about leveraging agile practices to build exceptional products that define a first-class customer experience, and I am eager to bring my dedication and skills to your team.
+
+<br><br>
+
+Thank you for considering my application. I look forward to discussing how I can contribute to your client's success.
+---END_SECTION---
+
+# CV Content
+CAREER_SUMMARY: Adaptive Scrum Master with 10+ years of experience guiding agile teams in delivering complex software solutions for hospitality, retail, and finance sectors. Expert in coaching multiple teams within matrix organizations, driving digital transformation, and enhancing product value. Excels at impediment removal, fostering collaboration, and supporting Product Owners to achieve strategic goals, directly impacting guest experience and operational efficiency.
+SKILLS_TITLE_1: Agile Methodologies & Coaching
+SKILLS_DESC_1: SAFe Scrum Kanban Scrum of Scrums Backlog Refinement Continuous Improvement Impediment Removal
+SKILLS_TITLE_2: Project & Product Delivery
+SKILLS_DESC_2: SDLC Stakeholder Management Risk & Scope Management KPI & OKR Reporting Budgeting AI-Driven Solutions
+SKILLS_TITLE_3: Technical & Industry Acumen
+SKILLS_DESC_3: Hospitality & Travel Retail Finance Healthcare Public Safety AWS GCP Java Springboot
+SKILLS_TITLE_4: Certifications & Tools
+SKILLS_DESC_4: A-CSM CSM CSPO SAFe 6 Agilist Google PM Jira Confluence MS Teams Slack
+---END_SECTION---
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT:Senior Project Manager & Scrum Master
+COMPANY_SUMMARY_GLOBANT: A digitally native company focused on reinventing businesses through innovative technology solutions, AI, and software development for global enterprise clients.
+COMPANY_BULLET_1_GLOBANT: Led agile delivery for Royal Caribbean's guest experience apps, managing 3+ offshore teams to enhance onboard digital services and improve the guest journey.
+COMPANY_BULLET_2_GLOBANT: Coached teams in SAFe and Scrum, facilitating PI Planning and ceremonies, ensuring transparent execution of quarterly roadmaps aligned with strategic hospitality goals.
+COMPANY_BULLET_3_GLOBANT: Drove a 40% e-commerce performance improvement for Dick's Sporting Goods by optimizing the agile SDLC and focusing on Core Web Vitals delivery.
+COMPANY_BULLET_4_GLOBANT: Managed full project lifecycle for banking and retail clients, including scope, budget, and risk, leading global teams of 100+ to deliver complex transformations.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:Technical Project Manager & Scrum Master
+COMPANY_SUMMARY_MANGOSOFT: A software consultancy delivering custom solutions with a focus on cloud services, big data, and innovative tech for international clients.
+COMPANY_BULLET_1_MANGOSOFT: Implemented Scrum for 10+ member teams, delivering media streaming and data management solutions for Concacaf and MLS teams on AWS cloud infrastructure.
+COMPANY_BULLET_2_MANGOSOFT: Directed agile software development for healthcare clients, launching a voice-to-text application that improved physician documentation efficiency by over 30%.
+COMPANY_BULLET_3_MANGOSOFT: Managed end-to-end project delivery from RFP to production support, ensuring on-time and on-budget execution for fixed-price contracts.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI:Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology firm specializing in integrated hardware and software solutions for public safety, security, and healthcare sectors in Colombia.
+COMPANY_BULLET_1_TIPI: Led the end-to-end SDLC for a bodycam system for the Colombian Police, deploying over 3,000 devices with integrated management software.
+COMPANY_BULLET_2_TIPI: Managed development and implementation of an IoT nurse-call system in 10+ hospitals, improving patient response times and communication efficiency.
+COMPANY_BULLET_3_TIPI: Directed project execution under government contracts, ensuring strict adherence to scope, quality, and delivery timelines while managing a 10+ person team.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A software house that developed and scaled a SaaS-based POS system for over 1,000 small businesses in the retail and fitness industries.
+COMPANY_BULLET_1_ITBIGBOSS: Led the complete SDLC for a POS SaaS product, scaling the platform to support over 1,000 businesses across Latin America.
+COMPANY_BULLET_2_ITBIGBOSS: Directed a 30+ person team in an adaptive Waterfall-Kanban environment, delivering features that increased customer retention by 25% through enhanced functionality.
+COMPANY_BULLET_3_ITBIGBOSS: Managed technical integrations with payment processors, biometric devices, and accounting apps, expanding product capabilities and market reach.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH:IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, focused on providing wellness and training services to a large member base.
+COMPANY_BULLET_1_BODYTECH: Managed IT infrastructure and service desk across 60+ sites in three countries, achieving 99.5% system uptime for critical business operations.
+COMPANY_BULLET_2_BODYTECH: Led the full lifecycle for a custom CRM and billing system, which automated processes and supported a 20% growth in membership.
+COMPANY_BULLET_3_BODYTECH: Directed the technical implementation of Microsoft Dynamics CRM & ERP, improving data management and operational efficiency across the organization.

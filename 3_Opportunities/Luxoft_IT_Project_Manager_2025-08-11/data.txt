@@ -1,0 +1,58 @@
+# Global Information
+HIRING_MANAGER: Elizabeth Chavez
+COMPANY_NAME: Luxoft
+JOB_ROLE: IT Project Manager
+APPLICATION_DATE: July 30th, 2025
+
+# Cover Letter Content
+SUBJECT: Application for IT Project Manager at Luxoft
+CONTENT: Dear Elizabeth Chavez,<br><br>I am writing to express my strong interest in the IT Project Manager position at Luxoft, as advertised on LinkedIn. With over 10 years of experience leading large-scale technical projects and directing cross-functional teams, I am confident that my expertise in infrastructure modernization and complex project delivery aligns perfectly with the requirements of this role.<br><br>In a recent role, I addressed the challenge of an outdated and costly on-premise infrastructure for a major financial client, Banco de Chile. I led a program to migrate their entire datacenter to Google Cloud Platform, directing a team of over 100 engineers. My actions involved defining the migration strategy, managing the project schedule, mitigating risks, and overseeing the budget. The result was a successful modernization of their core infrastructure, leading to enhanced system performance and significant operational cost reductions.<br><br>At Royal Caribbean, I was responsible for delivering new features for the guest-facing mobile application under a fixed-price contract, which required meticulous budget and scope control. I directed cross-functional teams using SAFe, managed the full project lifecycle, and implemented a robust release management process. This resulted in the on-time, on-budget delivery of key digital services, including an AI-powered chatbot and onboard room service, directly enhancing the guest experience and satisfaction.<br><br>I am particularly drawn to Luxoft's position as a leader in providing high-end technology solutions. My background in consulting, combined with a deep technical proficiency and an adaptive approach to project management, has prepared me to translate complex concepts into actionable strategies and drive successful outcomes for clients. I am eager to bring my skills in infrastructure projects, team leadership, and budget management to your team.<br><br>Thank you for considering my application. I look forward to the possibility of discussing how I can contribute to Luxoft's continued success.
+---END_SECTION---
+
+# CV Content
+CAREER_SUMMARY: Adaptive IT Project Manager with 10+ years of experience leading complex technical projects and global teams. Expert in guiding infrastructure migrations from legacy to modern cloud platforms (GCP, AWS). Excels in defining project strategy, managing budgets, mitigating risks, and directing cross-functional teams to achieve business objectives. Skilled in Agile (SAFe, Scrum) and traditional methodologies, translating complex concepts for all audiences and ensuring successful delivery.
+SKILLS_TITLE_1: Project & Program Management
+SKILLS_DESC_1: End-to-End Project Lifecycle Budget & Cost Management Risk Mitigation Stakeholder Engagement Release Management Vendor Management
+SKILLS_TITLE_2: Methodologies & Frameworks
+SKILLS_DESC_2: SAFe Scrum Kanban Waterfall Hybrid Models PMP/PMI Practices
+SKILLS_TITLE_3: Technical & Infrastructure Acumen
+SKILLS_DESC_3: Cloud Migration (On-Prem to GCP/AWS) SDLC Management AI & GenAI Integration Datawarehouse & Datalake Cybersecurity Awareness
+SKILLS_TITLE_4: Leadership & Certifications
+SKILLS_DESC_4: Cross-Functional Team Leadership (100+) Consulting & Solutions Delivery SAFe A-CSM CSM PMP (Google)
+---END_SECTION---
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT:IT Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company offering innovative technology solutions and software development, with a strong focus on AI-driven transformation for global clients.
+COMPANY_BULLET_1_GLOBANT: Led the migration of Banco de Chile’s datacenter from on-prem to GCP, managing 100+ engineers and reducing operational costs by modernizing legacy infrastructure.
+COMPANY_BULLET_2_GLOBANT: Directed the full SDLC for Royal Caribbean's guest app, integrating a Google AI chatbot and delivering new features on time and within budget.
+COMPANY_BULLET_3_GLOBANT: Improved Dick's Sporting Goods' e-commerce performance by 40% by leading cross-functional teams and managing the project schedule, scope, and quality.
+COMPANY_BULLET_4_GLOBANT: Managed project financials and resource allocation for fixed-price and T&M engagements, ensuring budget compliance and presenting status reports to C-level stakeholders.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:IT Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software consultancy specializing in cloud-native solutions, big data, and custom application development for media and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Orchestrated the development of a media streaming platform on AWS for Concacaf, managing infrastructure and delivery commitments for live and on-demand content.
+COMPANY_BULLET_2_MANGOSOFT: Led the integration of medical imaging systems for multiple hospitals, using AWS services to modernize data transfer and improve physician access to information.
+COMPANY_BULLET_3_MANGOSOFT: Implemented Scrum methodologies for cross-functional teams, defining project schedules and mitigating risks to ensure successful delivery of fixed-price contracts.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI:IT Project Manager
+COMPANY_SUMMARY_TIPI: A technology firm providing integrated hardware and software solutions for public safety, law enforcement, and healthcare sectors in Colombia.
+COMPANY_BULLET_1_TIPI: Directed the end-to-end development of a bodycam system for the Colombian Police, managing firmware, software, and infrastructure for over 3,000 devices.
+COMPANY_BULLET_2_TIPI: Led project planning and execution based on government contract requirements, ensuring on-time delivery and compliance for a complex public safety solution.
+COMPANY_BULLET_3_TIPI: Managed the technical integration of RFID and Bluetooth devices in hospitals, modernizing asset tracking and nurse call systems to improve operational efficiency.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:IT Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A software house that developed and scaled a SaaS POS solution for over 1,000 small businesses across Latin America.
+COMPANY_BULLET_1_ITBIGBOSS: Led the full SDLC for a SaaS POS platform, integrating payment systems and hardware, boosting client operational efficiency by an average of 25%.
+COMPANY_BULLET_2_ITBIGBOSS: Directed technical teams in hands-on coding, code reviews, and releases, managing the product roadmap to meet diverse market needs in retail and fitness.
+COMPANY_BULLET_3_ITBIGBOSS: Managed project resources and delivery for over 1,000 implementations, adapting the core product and ensuring high customer satisfaction and retention.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH:IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, focused on delivering wellness services through technology and modern facilities.
+COMPANY_BULLET_1_BODYTECH: Managed the IT infrastructure lifecycle across 60+ sites, implementing networking, CCTV, and IP phoning systems to ensure 99.9% operational uptime.
+COMPANY_BULLET_2_BODYTECH: Led the technical implementation of Microsoft Dynamics CRM & ERP, modernizing business processes and improving data management across the organization.
+COMPANY_BULLET_3_BODYTECH: Directed the development and deployment of a custom CRM and billing software, reducing manual data entry by 50% and improving member data accuracy.

@@ -1,0 +1,67 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: Trialbee
+JOB_ROLE: Project Manager
+APPLICATION_DATE: July 31st, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Project Manager at Trialbee
+CONTENT: 
+Dear Hiring Manager,
+<br><br>
+I am writing to express my keen interest in the Project Manager position at Trialbee, as advertised on LinkedIn. I am deeply impressed by Trialbee's mission to simplify the patient journey in clinical research, and I am confident that my extensive experience in leading complex, technology-driven projects, particularly within the healthcare sector, aligns perfectly with the requirements of this role.
+<br><br>
+In my previous roles, I faced the challenge of delivering sophisticated digital solutions for clients in highly regulated and complex industries. As a Technical Project Manager at Mango-Soft, I led the development of several healthcare IT products, including a patient portal for visualizing medical images and a voice-to-text application for physicians. By managing the end-to-end project lifecycle and coordinating integrations with hospital systems using HL7 and DICOM standards, we successfully launched these platforms, which enhanced patient data accessibility and improved clinical workflows.
+<br><br>
+Similarly, the need to manage large-scale programs with diverse, globally distributed teams and tight budgets was a constant. At Globant, I managed portfolios for clients like Dick's Sporting Goods, where I directed a program that improved e-commerce platform performance by 40%. I achieved this by implementing adaptive quarterly roadmaps, overseeing financials, and leading cross-functional teams of over 100 engineers, ensuring transparent communication with C-level stakeholders through detailed KPI reporting.
+<br><br>
+My background in software development, consulting, and managing client-facing digital platforms has equipped me with a unique blend of technical acumen and strategic project management skills. I am passionate about leveraging technology to solve meaningful problems and am excited by the opportunity to contribute to Trialbee's purpose of transforming how patients engage with clinical research.
+---END_SECTION---
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading complex digital transformations across healthcare, retail, and finance. Expert in end-to-end project delivery for AI-driven solutions, cloud-based platforms, and large-scale system integrations. Skilled in managing global cross-functional teams, multi-million dollar budgets, and executive stakeholder communications. Expert in Agile (SAFe, Scrum) and hybrid methodologies, consistently improving performance and driving delivery excellence in fast-paced, client-facing environments.
+SKILLS_TITLE_1: Project & Program Management
+SKILLS_DESC_1: End-to-End Project Lifecycle, Stakeholder & Client Management, Budget & Financial Oversight, Risk Management, KPI & Performance Tracking, Vendor Coordination
+SKILLS_TITLE_2: Methodologies & Frameworks
+SKILLS_DESC_2: Agile (Scrum, SAFe, Kanban), Hybrid (Waterfall & Scrum), Continuous Improvement
+SKILLS_TITLE_3: Technical & Domain Expertise
+SKILLS_DESC_3: Software Development Lifecycle (SDLC), Digital Platforms, Cloud Services (AWS, GCP), AI & Generative AI, Healthcare IT (HL7, DICOM), Data Migration
+SKILLS_TITLE_4: Tools & Certifications
+SKILLS_DESC_4: Jira, Confluence, MS Teams, Slack, SAFe 6 Agilist, A-CSM, CSPO, Google Project Management
+---END_SECTION---
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT:Project Manager
+COMPANY_SUMMARY_GLOBANT: A global, AI-powered software development and consulting firm delivering digital transformation and cognitive solutions to enterprise clients across healthcare, finance, and retail.
+COMPANY_BULLET_1_GLOBANT: Led complex digital projects for major clients like Royal Caribbean, managing the full lifecycle of customer-facing mobile apps with AI chatbot and onboard service features.
+COMPANY_BULLET_2_GLOBANT: Managed end-to-end project delivery, overseeing scope, budget, risk, and globally distributed teams of 100+ to ensure on-time delivery and high client satisfaction.
+COMPANY_BULLET_3_GLOBANT: Drove a 40% performance improvement for Dick's Sporting Goods' e-commerce platform by implementing Core Web Vitals and coaching teams in Scrum and SAFe methodologies.
+COMPANY_BULLET_4_GLOBANT: Directed stakeholder communications, translating project KPIs and team execution into clear RAG status reports for C-level executives to ensure strategic alignment and transparency.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software consultancy specializing in custom cloud and big data solutions for the healthcare and media industries.
+COMPANY_BULLET_1_MANGOSOFT: Directed development of healthcare IT solutions, including a patient portal for medical imaging and a voice-to-text app for assisting medical professionals.
+COMPANY_BULLET_2_MANGOSOFT: Led system integrations for multiple clinics using healthcare standards like DICOM and HL7 V2, improving data accessibility and operational workflows for staff.
+COMPANY_BULLET_3_MANGOSOFT: Managed full project lifecycle for fixed-price contracts, from RFP analysis to post-launch support, delivering products on-time and within budget for multiple hospital clients.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI:Technical Project Manager
+COMPANY_SUMMARY_TIPI: Developed integrated hardware and software solutions for public safety and healthcare, focusing on IoT devices and data management platforms.
+COMPANY_BULLET_1_TIPI: Led development of a nurse call system with Bluetooth and RFID devices, enhancing patient care and improving communication speed in over 10 hospitals.
+COMPANY_BULLET_2_TIPI: Managed deployment of a real-time patient flow tracking board, integrating with hospital EMR systems to reduce patient wait times and optimize resource allocation.
+COMPANY_BULLET_3_TIPI: Oversaw the end-to-end delivery of a bodycam system for law enforcement, managing software development, hardware deployment, and government contract compliance.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: Provided SaaS POS solutions for small businesses in retail, restaurants, and health/fitness, including custom integrations and full operational support.
+COMPANY_BULLET_1_ITBIGBOSS: Owned the entire SDLC for a SaaS POS product, leading a team of 30+ in development, quality, and release management for over 1,000 businesses.
+COMPANY_BULLET_2_ITBIGBOSS: Directed complex integrations with third-party systems including biometrics, payment processors, and accounting apps, increasing product adoption and market competitiveness.
+COMPANY_BULLET_3_ITBIGBOSS: Led the technical team hands-on, contributing to coding, code reviews, and quality assurance to ensure product stability and performance.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH:IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, operating over 60 sites across Colombia, Peru, and Chile.
+COMPANY_BULLET_1_BODYTECH: Led the successful implementation of Microsoft Dynamics CRM & ERP, automating billing and improving member data management across all 60+ locations.
+COMPANY_BULLET_2_BODYTECH: Managed IT infrastructure and service desk operations, ensuring 99% system uptime for critical business applications across three countries.
+COMPANY_BULLET_3_BODYTECH: Directed the lifecycle for a custom biometric access control system, enhancing security and streamlining member check-in, reducing entry times by 50%.

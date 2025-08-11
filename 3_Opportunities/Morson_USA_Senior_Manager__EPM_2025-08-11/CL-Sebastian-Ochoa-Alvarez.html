@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cover Letter - Sebastian Ochoa Alvarez</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        /* Basic Reset & Font */
+        body {
+            font-family: 'Open Sans', sans-serif;
+            line-height: 1.4; /* Reduced line height for tighter spacing */
+            color: black;
+            margin: 0;
+            padding: 0;
+            -webkit-print-color-adjust: exact; /* For printing background colors */
+            box-sizing: border-box;
+        }
+
+        /* Page Margins for PDF Output */
+        @page {
+            size: A4; /* Or Letter */
+            margin: 0.85in 0.50in 0.82in 0.50in; /* Top, Right, Bottom, Left */
+        }
+
+        .container {
+            width: 100%;
+            max-width: 8.5in; /* Standard Letter width */
+            margin: 0 auto; /* Center content */
+            padding: 0; /* Page margins handled by @page rule */
+            box-sizing: border-box;
+        }
+
+        /* Utility classes for controlled spacing */
+        .margin-top-10 { margin-top: 10px !important; }
+        .margin-bottom-10 { margin-bottom: 10px !important; }
+        .margin-bottom-5 { margin-bottom: 5px !important; }
+        .no-margin { margin: 0 !important; }
+        .no-padding { padding: 0 !important; }
+
+
+        /* Header Styles */
+        .header {
+            text-align: center;
+            margin-bottom: 0px !important; /* Ensure no margin */
+        }
+        .header h1 {
+            font-size: 10.3pt;
+            font-weight: 600;
+            line-height: 1.4;
+            margin: 0 !important; /* Ensure no margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+        .header p {
+            font-size: 10.3pt;
+            margin: 0 !important; /* Ensure no margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+        .header a {
+            color: black;
+            text-decoration: none;
+        }
+        .header a:hover {
+            text-decoration: underline;
+        }
+
+        /* Section Styles */
+        .section {
+            margin-bottom: 0px !important; /* Ensure no margin */
+            margin-top: 6px !important; /* Ensure no margin */
+            padding: 0 !important; /* Ensure no padding */
+            padding-top: 6px !important; /* Ensure no margin */
+        }   
+        .section-info {
+            font-size: 10.3pt;
+            line-height: 1.4;
+            margin: 0 !important; /* Ensure no margin */
+            padding: 0 !important; /* Ensure no padding */
+            text-align: center;
+        }
+        .section-summary {
+            font-size: 10.3pt;
+            line-height: 1.4;
+            margin: 0 !important; /* Ensure no margin */
+            padding: 0 !important; /* Ensure no padding */
+            text-align: justify;
+        }
+        .section-title {
+            font-size: 10.3pt;
+            line-height: 1.4;
+            font-weight: 600;
+            padding-bottom: 0px !important; /* Reduced padding */
+            margin-bottom: 0px !important; /* Reduced margin */
+            padding-top: 0 !important; /* Ensure no top padding */
+            display: block; /* Ensure it's a block element again */
+            width: 100%; /* Take full width */
+            text-align: left; /* Align title to left */
+            text-decoration: underline; /* Retained underline on text */
+        }
+
+
+        /* Paragraph Styles */
+        p {
+            margin: 0 !important; /* Ensure no default paragraph margin */
+            padding: 0 !important; /* Ensure no default paragraph padding */
+            font-size: 10.3pt;
+            text-align: justify;
+        }
+
+        /* List Styles (Bullet Points) */
+        ul {
+            list-style: none; /* Remove default bullet */
+            padding: 0 !important; /* Remove default padding */
+            margin: 0 !important; /* Remove default margin */
+            /* This ensures the UL starts at the same horizontal position as section titles */
+            margin-left: 0.25in !important; /* Align UL with the page's left content margin */
+        }
+        li {
+            position: relative;
+            /* This ensures the text of the list item starts at the UL's left edge (0.75in from page margin) */
+            text-indent: 0in !important;
+            padding-left: 0in !important; /* Ensure no additional padding pushes text right */
+            margin-bottom: 0px !important; /* Reduced margin */
+            text-align: justify;
+            font-size: 10.3pt;
+            margin-left: 0 !important; /* Reset li's own margin-left */
+            padding-top: 0 !important; /* Ensure no top padding */
+            padding-bottom: 0 !important; /* Ensure no bottom padding */
+            line-height: 1.25;
+        }
+        li::before {
+            content: '•'; /* Custom bullet character */
+            position: absolute;
+            /* This pulls the bullet to the left of the LI's starting position.
+               If LI text starts at 0.75in page margin, then bullet will be at 0.75in - 0.25in = 0.5in. */
+            left: -0.12in; /* Adjusted to place bullet to the left of the text, at 0.5in from page edge */
+            font-size: 10.3pt; /* Adjust bullet size if needed */
+            line-height: inherit; /* Align with text baseline */
+        }
+        
+        /* Experience Section Specifics */
+        .experience-item {
+            margin-bottom: 0px !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+        .experience-title {
+            font-weight: 600;
+            font-size: 10.3pt;
+            line-height: 1.4;
+            margin: 0 !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+        .experience-description {
+            font-size: 10.3pt;
+            margin: 0 !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+            font-style: italic;
+        }
+        .experience-details {
+            font-size: 10.3pt;
+            line-height: 1.4;
+            margin: 0 !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+        .experience-bullets li {
+            margin: 0 !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+
+        /* Skills/Certifications List (similar to experience bullets but might need distinct styling) */
+        .skills-list li, .certifications-list li {
+            margin: 0 !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+        }
+        .skills-list strong, .certifications-list strong {
+            font-weight: 600;
+        }
+
+        /* Education */
+        .education-item {
+            margin: 0 !important; /* Reduced margin */
+            padding: 0 !important; /* Ensure no padding */
+            font-size: 10.3pt;
+        }
+        .education-item strong {
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>SEBASTIAN OCHOA ALVAREZ</h1>
+            <p class="section-info">Orlando, FL ∙ (786) 475-0772</p>
+            <p class="section-info margin-bottom-5">sebastian.ochoa.alvarez@gmail.com ∙ <a href="www.linkedin.com/in/sebastianochoaalvarez">www.linkedin.com/in/sebastianochoaalvarez</a></p>
+        </header>
+        
+        <section class="section">
+            <p class="margin-top-10">July 30th, 2025</p>
+            <p>Hiring Manager</p>
+            <p>Global Consulting Firm</p>
+        </section>                
+
+        <p class="subject margin-top-10"><strong>SUBJECT:</strong> Application for Senior Manager - EPM at Global Consulting Firm</p>
+
+        <section class="section">
+            <p class="content-paragraph">Dear Hiring Manager,<br><br>I am writing to express my enthusiastic interest in the Senior Manager - EPM position, as advertised on LinkedIn. Your firm's reputation for driving sustainable digital and operational transformation in the alternative investment industry is impressive, and I am drawn to your commitment to empowering teams as change agents. My extensive experience in consulting and leading complex technology transformations for clients in the financial services sector aligns directly with the requirements of this role.<br><br>In my role as a Senior Project Manager, I consistently faced the challenge of delivering large-scale, complex projects for clients in highly regulated industries. For a major financial services client, Banco de Chile, I was tasked with overseeing a massive digital transformation program. I took action by leading the end-to-end delivery, which included owning the business development cycle from RFP analysis to proposal creation, staffing over 150 roles, and implementing a Scrum of Scrums framework to manage multiple workstreams. The result was the successful delivery of a strategic program that modernized the bank's digital offerings and operational capabilities, demonstrating my ability to manage the full project lifecycle in a demanding financial environment.<br><br>Another key aspect of my background is driving practice growth and business development, a core responsibility outlined in your job description. At Globant, I was responsible for more than just project delivery; I actively contributed to expanding our client footprint. I led the analysis of RFPs and created detailed proposals for clients like Royal Caribbean and British Airlines, focusing on sales process enhancements and AI-driven solutions. By building trusted advisor relationships with executive stakeholders and mentoring junior consultants, I helped secure new engagements and build the delivery capability to support them, directly contributing to revenue growth and market expansion.<br><br>While my hands-on platform experience has been centered on enterprise systems like Salesforce CRM for sales transformations rather than Anaplan or Pigment, my career is defined by my ability to rapidly master new, complex technologies and lead their successful implementation. My background delivering multifaceted system integrations and managing the full SDLC for clients across finance, retail, and travel proves my capacity to quickly become proficient in new platforms and deliver the high-impact, scalable solutions your clients expect.<br><br>I am confident that my leadership skills, consulting background, and success in delivering high-stakes technology projects make me an excellent candidate to lead SPM transformations and contribute to your firm's growth. I am eager to discuss how I can bring my adaptive project management approach and execution excellence to your team.</p>
+            <br>
+            <p class="margin-top-10">Sincerely,</p>
+            <br>
+            <p>Sebastian Ochoa Alvarez</p>            
+        </section>
+    </div>
+</body>
+</html>

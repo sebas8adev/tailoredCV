@@ -1,0 +1,79 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: NTT DATA North America
+JOB_ROLE: IT PMO Lead - Remote
+APPLICATION_DATE: July 31st, 2025
+
+# Cover Letter Content
+SUBJECT: Application for IT PMO Lead - Remote at NTT DATA North America
+CONTENT: 
+Dear Hiring Manager,
+
+<br><br>
+
+I am writing to express my strong interest in the IT PMO Lead - Remote position at NTT DATA North America, which I discovered on LinkedIn. With over 10 years of experience in leading complex IT programs and establishing PMO governance, I am confident that my background in digital transformation, regulated industries, and Agile adoption aligns perfectly with the requirements of this role.
+
+<br><br>
+
+In my previous roles, I addressed the challenge of ensuring compliance and standardization in highly regulated environments. For instance, while managing projects for healthcare clients, I was responsible for delivering medical imaging and surgery management systems. I established robust project governance frameworks and led the end-to-end implementation on AWS, ensuring adherence to critical data standards like DICOM and HL7. This action resulted in streamlined clinical workflows and secure, reliable access to patient data, enhancing operational efficiency.
+
+<br><br>
+
+Furthermore, I have direct experience in building and evolving PMO functions to oversee large, multi-faceted portfolios. At a leading financial institution, I was tasked with managing a program with over 100 engineers and multiple products. I established a Scrum of Scrums model, implemented portfolio-level budgeting and forecasting, and created standardized KPI dashboards for executive reporting. This initiative improved performance visibility for C-level stakeholders, ensured all projects remained within budget, and cultivated a culture of continuous improvement.
+
+<br><br>
+
+I am particularly drawn to NTT DATA's reputation as a trusted global innovator and your commitment to helping 75% of the Fortune Global 100 transform for the future. My passion for leveraging technology, data, and AI to drive business success resonates with your mission. I am eager to bring my leadership capabilities and experience in driving strategic initiatives to your team and contribute to your long-term success.
+
+<br><br>
+
+Thank you for considering my application. I look forward to the possibility of discussing how my skills in PMO leadership, financial management, and compliance can benefit NTT DATA North America.
+---END_SECTION---
+
+# CV Content
+CAREER_SUMMARY: Adaptive IT PMO Lead with 10+ years of experience directing strategic digital transformation and systems integration programs in regulated industries including healthcare, finance, and retail. Expert in establishing PMO governance, financial oversight, and portfolio management. Skilled in leading global teams of 100+ personnel using Agile (SAFe, Scrum) and traditional methodologies to deliver complex cloud, data, and AI-driven solutions while ensuring compliance with industry standards.
+SKILLS_TITLE_1: PMO Leadership & Governance
+SKILLS_DESC_1: Portfolio Management, Strategic Planning, Financial Oversight, Resource Planning, Risk Mitigation, GxP & FDA Compliance Frameworks
+SKILLS_TITLE_2: Project Management & Methodologies
+SKILLS_DESC_2: Agile (SAFe Scrum Kanban), Waterfall, Hybrid Models, End-to-End SDLC, Scope & Budget Control, Stakeholder Reporting
+SKILLS_TITLE_3: Technical & Domain Expertise
+SKILLS_DESC_3: Digital Transformation, Systems Integration (ERP CRM), Cloud (AWS GCP), Data & AI Solutions, Healthcare & Manufacturing
+SKILLS_TITLE_4: Tools & Certifications
+SKILLS_DESC_4: Jira Confluence MS Project, SAFe 6 Agilist, A-CSM, Google Project Management, Generative AI Leader
+---END_SECTION---
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT:Senior Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company focusing on reinventing businesses through innovative technology solutions, AI, and software development for global brands across diverse industries.
+COMPANY_BULLET_1_GLOBANT: Led digital transformation for Royal Caribbean, managing a portfolio of onboard guest apps and enhancing the journey with AI-driven features like chatbots.
+COMPANY_BULLET_2_GLOBANT: Drove portfolio execution for Dick's Sporting Goods, improving e-commerce performance by 40% through rigorous PI planning and Core Web Vitals optimization.
+COMPANY_BULLET_3_GLOBANT: Established a PMO for Banco de Chile, leading 5 scrum masters and 100+ engineers to deliver complex data migration and app development projects.
+COMPANY_BULLET_4_GLOBANT: Managed project financials, including budget, scope, and resource allocation, consistently delivering KPI and OKR reports to C-level stakeholders.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software consultancy specializing in cloud solutions, big data, and custom application development for the media and regulated healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Directed projects in regulated healthcare settings, implementing imaging integration systems compliant with data standards like DICOM and HL7, improving clinical data access.
+COMPANY_BULLET_2_MANGOSOFT: Managed the full project lifecycle for a media streaming platform on AWS, defining scope, budget, and delivery roadmaps, which expanded client media reach.
+COMPANY_BULLET_3_MANGOSOFT: Implemented Agile methodologies and project governance, leading to predictable delivery schedules and improved stakeholder satisfaction across all fixed-price contracts.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI:Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology firm creating integrated hardware and software solutions for public safety, law enforcement, and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Led delivery of 3,000+ bodycams and management software for law enforcement, ensuring compliance with strict governmental contract requirements and security protocols.
+COMPANY_BULLET_2_TIPI: Oversaw the development and deployment of a nurse call system in 10+ hospitals, managing the full SDLC to improve patient care response times.
+COMPANY_BULLET_3_TIPI: Managed project constraints (scope, budget, quality) for fixed-price contracts, leading both software development and hardware deployment operations teams on-site.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering POS and business management software solutions for over 1,000 small businesses in the retail and fitness industries.
+COMPANY_BULLET_1_ITBIGBOSS: Owned the entire SDLC for a flagship SaaS POS product, leading technical teams in coding, QA, and release management to serve 1,000+ businesses.
+COMPANY_BULLET_2_ITBIGBOSS: Directed complex integrations with payment processors, biometric devices, and accounting systems, enhancing product value and expanding market penetration across LATAM.
+COMPANY_BULLET_3_ITBIGBOSS: Managed both software development and customer operations, defining the support workflow and ensuring high system uptime and customer satisfaction for all subscribers.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH:IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain across Latin America, focused on delivering wellness through technology-enabled services and facilities.
+COMPANY_BULLET_1_BODYTECH: Led the enterprise-wide implementation of Microsoft Dynamics CRM & ERP systems, streamlining billing and customer management operations across 60+ international sites.
+COMPANY_BULLET_2_BODYTECH: Managed the complete lifecycle for proprietary access control software integrated with turnstiles and biometrics, improving security and member check-in efficiency.
+COMPANY_BULLET_3_BODYTECH: Directed IT infrastructure and service desk operations for a multi-country business, ensuring high system availability and support for all corporate users.

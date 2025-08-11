@@ -1,0 +1,58 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: AireSpring
+JOB_ROLE: Telecom Project Manager
+APPLICATION_DATE: July 30th, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Telecom Project Manager at AireSpring
+CONTENT: Dear Hiring Manager,<br><br>I am writing to express my keen interest in the Telecom Project Manager position at AireSpring, which I discovered on LinkedIn. Your company's 20-year reputation for integrity and delivering an award-winning customer experience in cloud communications and managed connectivity strongly resonates with my professional commitment to service excellence and reliability.<br><br>In my role at Globant, I was the single point of contact for complex projects at Royal Caribbean, including the delivery of onboard WiFi and digital guest services. I managed project timelines and coordinated multiple global teams to resolve issues proactively. This hands-on client management resulted in the on-time delivery of critical communication features and significantly enhanced guest satisfaction, strengthening our client partnership.<br><br>My experience as an IT Manager at Bodytech directly aligns with your core business. I led the complete lifecycle for scaling IT infrastructure, including networking and IP phoning, across more than 60 new sites in three countries. I was responsible for everything from planning and equipment tracking to deployment and establishing the IT service desk. This initiative successfully provided robust, scalable connectivity that was crucial for the company's expansion and operational stability.<br><br>I am confident that my 10+ years of experience in managing technical projects, ensuring client satisfaction, and coordinating complex implementations make me an excellent candidate for this role. I am adept at creating and executing project plans, managing multiple priorities, and facilitating clear communication between clients, sales teams, and technical resources. Per your request, my salary expectations are negotiable and align with industry standards for a role of this scope. I am eager to discuss how I can contribute to AireSpring's mission to help clients connect and communicate easily.
+---END_SECTION---
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience delivering complex connectivity and cloud communication projects. Expert in end-to-end lifecycle management, acting as the single point of contact for clients to ensure timely completion and exceptional satisfaction. Skilled in managing multiple priorities, coordinating cross-functional teams, and interfacing with all personnel levels. Excels in creating project plans, tracking progress, and resolving issues to minimize customer attrition and drive project success across telecom, retail, and finance sectors.
+SKILLS_TITLE_1: Project & Program Management
+SKILLS_DESC_1: Client Order Management Project Planning & Execution Risk & Issue Management Stakeholder Communication Resource & Budget Management
+SKILLS_TITLE_2: Methodologies & Tools
+SKILLS_DESC_2: Traditional Project Management Hybrid Waterfall & Agile SAFe Scrum Kanban Jira Confluence MS Office Suite
+SKILLS_TITLE_3: Technical & Domain Expertise
+SKILLS_DESC_3: Telecom Infrastructure & Networking Cloud Communications (AWS GCP) Managed Connectivity SaaS Implementation SDLC AI Solutions
+SKILLS_TITLE_4: Certifications
+SKILLS_DESC_4: Google Project Management Certified SAFe 6 Agilist Advanced Certified ScrumMaster (A-CSM) Google Cloud Digital Leader AWS Cloud Technical Essentials
+---END_SECTION---
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT:Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company offering innovative technology solutions. Focuses on AI-powered software development and consulting to reinvent industries for top-tier global clients.
+COMPANY_BULLET_1_GLOBANT: Acted as the single point of contact for Royal Caribbean, managing onboard WiFi and guest app projects, ensuring high client satisfaction and on-time delivery.
+COMPANY_BULLET_2_GLOBANT: Managed project scope, timelines, and budgets for diverse clients, creating detailed work plans and delivering status reports to C-level stakeholders, ensuring alignment.
+COMPANY_BULLET_3_GLOBANT: Improved e-commerce platform performance for Dick's Sporting Goods by 40%, leading project execution and coordinating global teams to enhance customer experience.
+COMPANY_BULLET_4_GLOBANT: Led the staffing and development of high-performance teams of 100+ engineers, implementing Scrum of Scrums to manage large-scale banking transformation projects successfully.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm specializing in cloud-native solutions, data analytics, and media streaming services for sports and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Managed end-to-end delivery of media streaming services for Concacaf, coordinating with AWS cloud services to ensure reliable, high-availability broadcasts for major championships.
+COMPANY_BULLET_2_MANGOSOFT: Served as the primary client contact for healthcare projects, overseeing the implementation of voice-to-text and imaging integration solutions, improving physician workflows.
+COMPANY_BULLET_3_MANGOSOFT: Implemented hyper care and production support processes for all released products, significantly reducing issue resolution time and improving overall customer satisfaction scores.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI:Project Manager
+COMPANY_SUMMARY_TIPI: A technology company developing integrated hardware and software solutions for public safety, law enforcement, and healthcare sectors in Latin America.
+COMPANY_BULLET_1_TIPI: Led the full project lifecycle for a bodycam system for the Colombian Police, coordinating hardware deployment and software management for 3,000+ devices.
+COMPANY_BULLET_2_TIPI: Managed deployment of nurse call systems across 10+ hospitals, tracking equipment and supervising workflows to ensure seamless integration and operational readiness.
+COMPANY_BULLET_3_TIPI: Directed the operations and customer support workflow, defining processes that improved response times and ensured high system uptime for mission-critical client operations.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: An entrepreneurial software house that developed and scaled a SaaS-based Point-of-Sale (POS) solution for over 1,000 small businesses.
+COMPANY_BULLET_1_ITBIGBOSS: Directed the full SDLC and implementation of a SaaS POS system for over 1,000 retail and fitness clients, managing all project phases.
+COMPANY_BULLET_2_ITBIGBOSS: Acted as the main point of contact for all client orders and integrations, ensuring custom needs were met and technical issues were promptly resolved.
+COMPANY_BULLET_3_ITBIGBOSS: Led technical and operations support teams, establishing workflows that increased customer retention by ensuring high platform reliability and quick issue resolution.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH:IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, operating over 60 locations across Colombia, Peru, and Chile.
+COMPANY_BULLET_1_BODYTECH: Managed the implementation of enterprise-wide IT infrastructure, including Networking and IP Phoning, across 60+ sites in 3 countries, ensuring reliable connectivity.
+COMPANY_BULLET_2_BODYTECH: Directed CRM & ERP implementation projects, coordinating with vendors and internal teams to streamline billing and customer management, increasing operational efficiency.
+COMPANY_BULLET_3_BODYTECH: Established and led the IT Service Desk, defining support protocols that improved system uptime and user satisfaction scores across the organization.

@@ -1,0 +1,37 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: Optum
+JOB_ROLE: Technical Project Manager
+APPLICATION_DATE: July 31st, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Technical Project Manager at Optum
+CONTENT: 
+Dear Hiring Manager,
+<br><br>
+I am writing to express my strong interest in the Technical Project Manager position at Optum, which I discovered on LinkedIn. Optum's mission to improve health outcomes on a global scale by connecting people with care through technology resonates deeply with my professional background and passion for leveraging technology to solve critical challenges in the healthcare sector.
+<br><br>
+In my previous roles, I have consistently addressed the challenge of integrating complex, disparate systems to improve clinical workflows and data accessibility. For instance, at Mango-Soft, I led a project for several clinics to bridge their existing infrastructure with modern cloud capabilities. My team and I developed and implemented a solution that integrated medical imaging devices with AWS using DICOM standards and enabled patient data retrieval via HL7 V2 protocols. This initiative successfully streamlined data flow, reduced manual entry for clinicians, and provided patients with faster access to their health information through a new portal.
+<br><br>
+My experience managing the full lifecycle of healthcare technology projects, from workflow analysis and requirements gathering with clinical stakeholders to implementation and post-launch support, aligns directly with the responsibilities of this role. While my expertise has been with systems like Salesforce and proprietary healthcare platforms, I am adept at rapidly mastering new technologies. My background in managing system integrations, data conversions, and client-facing implementations has prepared me to quickly become a subject matter expert in Epic's ecosystem and contribute effectively to your team's success.
+<br><br>
+I am confident that my adaptive project management approach and my experience in the healthcare domain would be a valuable asset to Optum. I am eager to discuss how my skills can help advance your EHR services and support your mission.
+
+---END_SECTION---
+
+# CV Content
+CAREER_SUMMARY: Adaptive Technical Project Manager with 10+ years of experience leading complex technology implementations, including system integrations and full SDLC projects in the healthcare sector. Expert in managing project lifecycles, from planning and risk assessment to execution and stakeholder communication for global teams. Skilled in Agile and traditional methodologies, with a focus on translating business requirements into functional solutions to enhance operational efficiency and patient outcomes. Passionate about leveraging technology to solve critical healthcare challenges.
+SKILLS_TITLE_1: Project & Program Management
+SKILLS_DESC_1: SAFe, Scrum, Kanban, Waterfall, Budget Management, Risk Mitigation, Stakeholder Engagement, KPI & OKR Reporting
+SKILLS_TITLE_2: Healthcare & Integration
+SKILLS_DESC_2: Healthcare Technology Implementation, Clinical Workflow Analysis, Patient Portals, Data Migration (HL7, DICOM), System Integration, Conversion Management
+SKILLS_TITLE_3: Technical Acumen
+SKILLS_DESC_3: Cloud Platforms (AWS, GCP), JIRA, Confluence, Java, SQL, AI & GenAI, Salesforce CRM
+SKILLS_TITLE_4: Leadership & Certifications
+SKILLS_DESC_4: Team Leadership (100+), Global Team Management, Vendor Management, A-CSM, CSPO, SAFe 6 Agilist, Google Project Management
+---END_SECTION---
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT:Technical Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company focused on reinventing businesses through innovative technology solutions, specializing in AI-powered software development and global consulting services.
+COMPANY_BULLET_1_GLOBANT: Led a digital transformation for Banco de Chile, staffing and directing 100+ engineers and

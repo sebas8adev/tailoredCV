@@ -1,0 +1,66 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: Montrose Environmental Group
+JOB_ROLE: Senior Air Quality Project Manager
+APPLICATION_DATE: July 31st, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Senior Air Quality Project Manager at Montrose Environmental Group
+CONTENT: Dear Hiring Manager,
+<br><br>
+I am writing to express my strong interest in the Senior Air Quality Project Manager position at Montrose Environmental Group, as advertised on LinkedIn. Your mission to deliver solutions for complex environmental challenges resonates deeply with my professional passion for managing intricate projects and delivering impactful results. I am particularly drawn to Montrose's commitment to optimizing environmental resiliency through technical excellence and strategic decision-making.
+<br><br>
+In my career, I have consistently addressed the core challenge of delivering complex, regulated projects on time and within budget while exceeding client expectations. For instance, while managing a portfolio for Royal Caribbean, the problem was orchestrating multiple digital transformation projects with fixed budgets and tight deadlines across globally distributed teams. My action was to implement an adaptive project management framework, defining clear scopes, managing risks, and facilitating communication between technical teams and C-level stakeholders. The result was the successful on-time delivery of key onboard digital services, including a Google AI chatbot and a new room service platform, enhancing the guest journey and supporting business objectives.
+<br><br>
+Similarly, at Dick's Sporting Goods, I led a project to address lagging e-commerce performance. I managed the scope, budget, and execution of a technical overhaul focused on Core Web Vitals, resulting in a 40% performance improvement. This experience demonstrates my ability to manage technical projects, deliver measurable value, and foster the long-term client relationships and entrepreneurial drive you seek. With a Bachelor's in Systems Engineering and over 10 years of experience managing proposals, budgets, and mentoring teams, I am confident I can quickly master the specifics of the air quality domain and contribute significantly to your team.
+<br><br>
+Thank you for your time and consideration. I am eager to discuss how my extensive project management expertise and adaptive approach can help Montrose Environmental Group achieve its goals in the Gulf Coast Region.
+---END_SECTION---
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience delivering complex, multi-million dollar projects across regulated industries including finance, healthcare, and retail. Expert in full-lifecycle project delivery, from scope and budget development to risk management and final execution. Excels at managing globally distributed teams (100+), fostering long-term client relationships, and translating complex technical requirements into actionable plans. Skilled in ensuring projects are completed on time and within budget while meeting stringent compliance and quality standards.
+SKILLS_TITLE_1: Project & Portfolio Management
+SKILLS_DESC_1: Scope & Budget Development, On-time & On-budget Delivery, Risk Management, Stakeholder Engagement, Quality Control, KPI & OKR Tracking
+SKILLS_TITLE_2: Client Relations & Business Development
+SKILLS_DESC_2: Client Relationship Management, Strategic Account Growth, C-Level Reporting & Communication, RFP & Proposal Development, Team Leadership & Mentoring
+SKILLS_TITLE_3: Technical & Compliance Acumen
+SKILLS_DESC_3: Engineering Fundamentals, Data-Driven Decision Making, Complex System Integration, Full SDLC, Compliance Management, AI-driven Solutions
+SKILLS_TITLE_4: Methodologies & Certifications
+SKILLS_DESC_4: Agile (SAFe Scrum Kanban), Waterfall, Hybrid Models, Jira, Confluence, MS Office Suite, PMP, A-CSM, SAFe 6 Agilist
+---END_SECTION---
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT:Senior Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native consulting company that leverages AI and software development to help organizations reinvent their industries and unlock their full business potential.
+COMPANY_BULLET_1_GLOBANT: Developed project scope and budgets for Royal Caribbean, managing cross-functional teams (15+) to deliver digital guest services on time and within financial constraints.
+COMPANY_BULLET_2_GLOBANT: Fostered key client relationships with Dick's Sporting Goods, leading to a 40% improvement in e-commerce performance and identifying new service opportunities.
+COMPANY_BULLET_3_GLOBANT: Led and mentored 5+ scrum masters at Banco de Chile, establishing delivery frameworks that managed the work of over 100+ engineers across multiple projects.
+COMPANY_BULLET_4_GLOBANT: Drove business growth by leading RFP analysis and proposal creation for clients in retail and travel, securing new projects by defining clear deliverables and roadmaps.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm delivering innovative cloud-based solutions and big data services for the media, sports, and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Managed end-to-end project delivery for Concacaf, scoping media streaming and data services while ensuring adherence to fixed-price contracts and project timelines.
+COMPANY_BULLET_2_MANGOSOFT: Led proposal development and staffed teams (10+) for healthcare clients, delivering voice-to-text and medical imaging integration projects meeting critical industry standards.
+COMPANY_BULLET_3_MANGOSOFT: Implemented adaptive project management methodologies to define and track KPIs, delivering status reports that ensured transparency with clients and internal leadership.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI:Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology company specializing in integrated hardware and software solutions for public safety, law enforcement, and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Directed the full project lifecycle for a law enforcement bodycam solution, managing scope and delivery for over 3,000 units under government contract specifications.
+COMPANY_BULLET_2_TIPI: Scoped and managed the deployment of SaaS solutions for 10+ healthcare clients, ensuring project requirements and timelines were consistently met for operational efficiency.
+COMPANY_BULLET_3_TIPI: Led cross-functional engineering and operations teams, translating client needs into technical specifications and ensuring high-quality product releases and support.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider delivering POS and business management software solutions for over 1,000 small businesses in the retail and wellness sectors.
+COMPANY_BULLET_1_ITBIGBOSS: Oversaw the complete SDLC for a SaaS platform, defining product features and managing development to meet diverse needs of 1,000+ businesses.
+COMPANY_BULLET_2_ITBIGBOSS: Managed project execution for complex system integrations, including payment processors and accounting apps, ensuring seamless operation and high client satisfaction.
+COMPANY_BULLET_3_ITBIGBOSS: Led technical and support teams, establishing workflows that improved issue resolution times and supported continuous product implementation and adaptation for clients.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH:IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, providing comprehensive wellness services to a large and diverse member base.
+COMPANY_BULLET_1_BODYTECH: Managed the technology infrastructure and project portfolio across 60+ sites in three countries, overseeing budget, procurement, and vendor relations for all IT services.
+COMPANY_BULLET_2_BODYTECH: Directed the implementation of a company-wide Dynamics CRM & ERP system, managing the project scope, timeline, and stakeholder communications to enhance business operations.
+COMPANY_BULLET_3_BODYTECH: Established and led the IT Service Desk, implementing support processes that improved system uptime and user satisfaction for critical business and access control systems.

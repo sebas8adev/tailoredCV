@@ -1,0 +1,46 @@
+Status: processed
+Data-Status: complete
+Job board: LinkedIn
+Company Name: PriceSenz
+Role Name: Part-Time Project Manager
+Location: United States
+Type: Remote
+Salary range: Not specified
+Hiring Team: Manu V George
+Application Instructions: LinkedIn Easy Apply
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4283045050&distance=25&f_TPR=r86400&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true&sortBy=DD
+
+Job Description:
+About the job
+Job Title: Part-Time Project Manager
+Work Type: Contract – Part-Time (5–10 hours/week)
+Location: 100% Remote (must reside and work within the United States)
+
+Job Description: We are seeking a highly experienced Project Manager to support ongoing initiatives on a part-time, remote basis. The selected individual will perform advanced-level project management work with considerable autonomy, collaborating with a wide range of stakeholders, including senior leadership across the agency. This role requires solid experience in Agile project frameworks and enterprise content management systems.
+
+Responsibilities:
+Lead and manage multiple concurrent projects with complex integrations and diverse stakeholders.
+Work closely with technical and business teams to deliver projects on time and within scope.
+Plan, track, and report project progress, risks, and milestones to leadership.
+Support implementation and enhancements of enterprise content management systems.
+Ensure alignment with TEA’s project management standards and procedures.
+Communicate clearly and effectively with cross-functional teams and leadership.
+
+Required Qualifications:
+6+ years of experience managing complex projects with multiple stakeholders and systems integration.
+6+ years of experience leading projects involving enterprise content management (ECM) solutions.
+Strong familiarity with Agile methodologies and project management best practices.
+Excellent written and verbal communication skills.
+Ability to work independently with limited supervision.
+
+Preferred Qualifications:
+3+ years of experience working with Texas Education Agency or another state agency.
+Prior experience with TEA’s standard project practices and procedures.
+Hands-on experience managing projects using Alfresco ECM, including enhancement and maintenance work.
+
+
+
+
+
+
+PriceSenz is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, or disability

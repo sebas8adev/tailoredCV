@@ -1,0 +1,58 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: Cupertino Electric, Inc.
+JOB_ROLE: IT Project Manager
+APPLICATION_DATE: July 30th, 2025
+
+# Cover Letter Content
+SUBJECT: Application for IT Project Manager at Cupertino Electric, Inc.
+CONTENT: Dear Hiring Manager,<br><br>I am writing to express my keen interest in the IT Project Manager position at Cupertino Electric, Inc., as advertised on LinkedIn. CEI's 70-year reputation for integrity and delivering complex, high-profile projects that tangibly improve lives is precisely the kind of environment where I thrive. My 10+ years of experience leading major business system and enterprise-wide technology projects align perfectly with the requirements of this role.<br><br>In my previous roles, I faced the challenge of managing diverse project portfolios, each demanding a unique approach to meet specific business needs. For instance, I successfully led projects for clients in highly regulated industries like finance and healthcare. I took action by implementing adaptive project management frameworks, using a classic waterfall model for infrastructure projects and agile methodologies for rapid application development. I constructed detailed work plans, managed scope and budgets, and established clear communication channels with all stakeholders, from technical teams to C-level executives. This resulted in improved delivery predictability, enhanced platform performance by up to 40% in one e-commerce program, and ensured all projects met their strategic and financial goals.<br><br>The role requires a leader who can guide diverse, cross-functional teams and manage vendor relationships effectively. I have a strong record of this, having led global teams of over 100 professionals and managed numerous third-party vendor contracts. I built and motivated these teams by providing clear purpose, direction, and a path for success, which was instrumental in staffing and launching large-scale digital transformations. This leadership ensured projects adhered to scope, schedule, and budget, fostering a collaborative environment that was key to achieving milestones on time.<br><br>CEI’s philosophy that "how we do it is everything" deeply resonates with my professional values. My background in leading projects in critical sectors like public safety and healthcare has instilled in me a profound commitment to quality, creative problem-solving, and doing the right thing. I am confident that my skills in project execution, cross-functional collaboration, and business communication would make me a valuable asset to your seasoned IT team. I am eager to contribute to building great things with great people at Cupertino Electric.
+---END_SECTION---
+
+# CV Content
+CAREER_SUMMARY: Adaptive IT Project Manager with 10+ years of experience leading complex technology projects across diverse industries. Expert in waterfall, agile, and hybrid methodologies, delivering enterprise-wide solutions and business system integrations. Excels in translating business objectives into actionable plans, managing scope and budgets, and leading cross-functional teams of 100+ to achieve project milestones. Skilled in risk mitigation, stakeholder communication, and leveraging PM tools to drive project predictability and success in fast-paced environments.
+SKILLS_TITLE_1: Project Lifecycle Management
+SKILLS_DESC_1: Scope Definition Budgeting & Scheduling Risk Mitigation Resource Planning Vendor Management Stakeholder Reporting
+SKILLS_TITLE_2: Methodologies & Frameworks
+SKILLS_DESC_2: Agile (Scrum Kanban SAFe) Waterfall Hybrid DevOps Environment
+SKILLS_TITLE_3: Technical & Domain Expertise
+SKILLS_DESC_3: Enterprise Systems Integration Cloud (AWS GCP) AI & GenAI Solutions E-commerce & Retail Finance & Banking Healthcare
+SKILLS_TITLE_4: Tools & Certifications
+SKILLS_DESC_4: Jira Confluence Asana MS Project SAFe 6 Agilist A-CSM CSM CSPO Google Project Management Certificate
+---END_SECTION---
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT:IT Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company focusing on reinventing businesses through innovative technology solutions, AI, and software development for global clients in various industries.
+COMPANY_BULLET_1_GLOBANT: Led cross-functional teams of 100+ in delivering complex business systems for financial clients, defining project scope, budget, and schedules to ensure predictable outcomes.
+COMPANY_BULLET_2_GLOBANT: Managed an e-commerce project portfolio for Dick's Sporting Goods, improving platform performance by 40% through an adaptive hybrid-agile development lifecycle and PI Planning.
+COMPANY_BULLET_3_GLOBANT: Directed technology projects for Royal Caribbean, translating business objectives into actionable plans for onboard digital services, including AI chatbots and guest applications.
+COMPANY_BULLET_4_GLOBANT: Implemented full project lifecycle controls, including risk mitigation, quality standards, and C-level stakeholder reporting, ensuring on-time delivery and alignment with strategic goals.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:IT Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm delivering custom technology solutions for media, sports, and healthcare sectors using cloud and data-driven applications.
+COMPANY_BULLET_1_MANGOSOFT: Managed the end-to-end delivery of a media streaming platform for Concacaf, coordinating internal and external resources to launch within scope, schedule, and budget.
+COMPANY_BULLET_2_MANGOSOFT: Led diverse healthcare IT projects, including voice-to-text and medical imaging integrations, establishing processes that improved data accessibility for clinical staff.
+COMPANY_BULLET_3_MANGOSOFT: Drove project execution using a hybrid waterfall-scrum model, creating detailed work plans and communicating milestones to clients, enhancing project predictability and success.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI:Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology company specializing in integrated hardware and software solutions for public safety, law enforcement, and healthcare industries in Colombia.
+COMPANY_BULLET_1_TIPI: Led a complex project for the Colombian Police, delivering an integrated bodycam hardware/software system and managing the entire lifecycle from requirements to deployment.
+COMPANY_BULLET_2_TIPI: Coordinated vendors and internal teams to implement a custom RFID asset tracking system for hospitals, improving operational efficiency and nurse call response times.
+COMPANY_BULLET_3_TIPI: Managed project constraints for government contracts, ensuring on-time delivery under strict regulatory controls and improving public safety operational capabilities.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider that developed and implemented POS and business management software for over 1,000 small businesses in retail and fitness industries.
+COMPANY_BULLET_1_ITBIGBOSS: Directed the full software development lifecycle for a SaaS POS product, leading a team of 30+ and managing integrations with multiple third-party systems.
+COMPANY_BULLET_2_ITBIGBOSS: Oversaw product implementation and support for 1,000+ businesses, adapting the solution to meet diverse customer requirements and improving user retention rates.
+COMPANY_BULLET_3_ITBIGBOSS: Drove product profitability by translating client needs into new features, automating billing processes, and ensuring customer satisfaction for the SaaS model.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH:IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, operating over 60 sites across Colombia, Peru, and Chile.
+COMPANY_BULLET_1_BODYTECH: Managed IT infrastructure and business systems across 60+ locations, leading projects for network, CRM, and ERP implementations to support company growth.
+COMPANY_BULLET_2_BODYTECH: Led the software development lifecycle for a proprietary CRM and billing platform, improving operational efficiency and member data management across the organization.
+COMPANY_BULLET_3_BODYTECH: Directed the implementation of a new IT service desk, establishing processes and controls that improved issue resolution times and internal user satisfaction.

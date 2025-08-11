@@ -1,0 +1,58 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: Lumenalta
+JOB_ROLE: Manager, Product Delivery
+APPLICATION_DATE: July 31st, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Manager, Product Delivery at Lumenalta
+CONTENT: Dear Hiring Manager,<br><br>I am writing to express my strong interest in the Manager, Product Delivery position at Lumenalta, as advertised on LinkedIn. I have followed Lumenalta’s work and am deeply impressed by your commitment to building technology with a significant business impact across diverse industries like healthcare, finance, and consumer goods. Your case studies demonstrate a focus on strategic partnership and tangible results, which aligns perfectly with my professional philosophy.<br><br>In my role as a Senior Project Manager at Globant, I was tasked with navigating complex digital transformations for enterprise clients. One key challenge was enhancing the e-commerce platform for Dick’s Sporting Goods to meet modern web performance standards. I led a cross-functional team of over 30 engineers to strategically execute a roadmap focused on Core Web Vitals. This initiative resulted in a 40% improvement in site performance, directly boosting user experience and client satisfaction.<br><br>Another critical challenge was ensuring seamless delivery and stakeholder alignment for Royal Caribbean's guest-facing applications across globally distributed teams. I acted as a trusted advisor, implementing SAFe and Scrum methodologies to manage project scope, budget, and risks while translating technical progress into clear C-level RAG reports. This leadership ensured the successful on-time launch of new features, including a Google AI-powered chatbot, which significantly enhanced the onboard guest journey and created new revenue opportunities.<br><br>My 15+ years of experience in project and product delivery have equipped me with a strong ability to act as a strategic consultant for clients, manage executive stakeholder expectations, and lead teams to deliver high-value solutions. I am adept at anticipating challenges, optimizing delivery processes, and identifying growth opportunities that drive success for both the client and my organization. I am confident that my background in managing large-scale, high-impact projects makes me an excellent fit for this role and for Lumenalta's mission-driven culture.
+---END_SECTION---
+
+# CV Content
+CAREER_SUMMARY: Adaptive Product Delivery Manager with 15+ years of experience leading complex, large-scale projects and digital transformations for global clients. Expert in acting as a trusted client advisor, managing executive stakeholders, and guiding cross-functional teams (100+) to achieve strategic business objectives. Skilled in optimizing delivery processes using Agile (SAFe Scrum Kanban) and traditional frameworks to drive revenue growth and operational efficiency across the financial, retail, healthcare, and transportation sectors.
+SKILLS_TITLE_1: Product & Project Delivery
+SKILLS_DESC_1: Agile (SAFe Scrum Kanban) Waterfall Risk Management Budgeting & Scope Definition KPI & OKR Tracking Process Optimization
+SKILLS_TITLE_2: Client & Stakeholder Management
+SKILLS_DESC_2: Strategic Advisory Client Relationship Management Executive Reporting (RAG) RFP & Proposal Development Cross-functional Team Leadership (100+)
+SKILLS_TITLE_3: Technical & Domain Acumen
+SKILLS_DESC_3: SDLC Management Cloud Platforms (AWS GCP) AI & Generative AI Solutions System Integrations Data Migration
+SKILLS_TITLE_4: Industry Expertise
+SKILLS_DESC_4: Financial Services Consumer & Retail Healthcare Travel & Hospitality Media Transportation & Logistics
+---END_SECTION---
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT:Senior Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company focused on reinventing businesses through innovative technology solutions, specializing in AI-driven software development and global consulting services.
+COMPANY_BULLET_1_GLOBANT: Acted as a trusted advisor for Royal Caribbean, leading three global teams to deliver high-impact onboard digital services, significantly enhancing the guest journey.
+COMPANY_BULLET_2_GLOBANT: Drove a 40% performance improvement for Dick's Sporting Goods' e-commerce platform by leading the strategic implementation of Core Web Vitals optimizations.
+COMPANY_BULLET_3_GLOBANT: Directed strategic execution for a 150+ member team at Banco de Chile, managing a complex datacenter migration to GCP and launching new mobile app features.
+COMPANY_BULLET_4_GLOBANT: Managed C-level stakeholder expectations across a diverse project portfolio through proactive risk mitigation, transparent KPI reporting, and clear communication frameworks.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software consultancy delivering custom cloud-based solutions, specializing in media streaming, big data, and digital healthcare applications for US clients.
+COMPANY_BULLET_1_MANGOSOFT: Led end-to-end product delivery for Concacaf, launching media, streaming, and news services that expanded fan engagement across North and Central America.
+COMPANY_BULLET_2_MANGOSOFT: Implemented Agile methodologies for healthcare clients, delivering critical integrations for medical imaging and voice-to-text tools that improved clinical workflow efficiency.
+COMPANY_BULLET_3_MANGOSOFT: Managed the complete project lifecycle from RFP to hyper-care support, ensuring on-time delivery and alignment with client business objectives on fixed-price contracts.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI:Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology firm developing integrated hardware and software solutions for public safety, law enforcement, and healthcare sectors in Latin America.
+COMPANY_BULLET_1_TIPI: Directed the full SDLC for a bodycam solution for the Colombian Police, successfully deploying over 3,000 devices and a central management platform.
+COMPANY_BULLET_2_TIPI: Led project execution under strict government contract constraints, ensuring on-time delivery, quality assurance, and full compliance for a critical public safety system.
+COMPANY_BULLET_3_TIPI: Deployed a SaaS-based nurse call system to over 10 hospitals, improving in-patient communication speed and asset tracking with custom RFID devices.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: An entrepreneurial software house that developed and scaled a SaaS-based Point-of-Sale (POS) system for the Latin American small and medium-sized business market.
+COMPANY_BULLET_1_ITBIGBOSS: Led the entire product lifecycle for a POS SaaS platform, from initial development to market adaptation, successfully serving over 1,000 retail and fitness clients.
+COMPANY_BULLET_2_ITBIGBOSS: Provided hands-on technical leadership through coding, code reviews, and release management to deliver key features like payment processing and inventory management.
+COMPANY_BULLET_3_ITBIGBOSS: Drove customer acquisition by integrating the POS with third-party systems, including accounting apps, biometrics, and government tax reporting platforms.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH:IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading chain of health and fitness centers with operations across multiple countries in South America, serving a large and diverse member base.
+COMPANY_BULLET_1_BODYTECH: Managed technology infrastructure and IT operations across 60+ sites in three countries, ensuring high uptime for critical business and member-facing systems.
+COMPANY_BULLET_2_BODYTECH: Led the successful implementation of Microsoft Dynamics CRM and ERP systems, streamlining billing, sales, and customer relationship management processes across the organization.
+COMPANY_BULLET_3_BODYTECH: Directed the full lifecycle of a custom access control system, integrating software with turnstiles and biometrics to enhance facility security and member experience.

@@ -1,0 +1,54 @@
+Status: processed
+Data-Status: complete
+Job board: LinkedIn
+Company Name: 
+Role Name: SAP Project Manager
+Location: United States
+Type: Remote
+Salary range: Not specified
+Hiring Team: Not identified
+Application Instructions: LinkedIn Easy Apply
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4281061682&distance=25&f_TPR=r86400&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true&sortBy=DD
+
+Job Description:
+About the job
+SAP Project Manager – 53208_4499-1
+9 months - $79/hr
+Fully Remote
+
+Role Overview:
+ This role requires strong leadership, excellent organizational skills, and the ability to manage complex, cross-functional initiatives. We have initiated SAP access segregation activities as part of an NDA project. We are in need of a Project Manager to support various ongoing SAP activities, including onboarding contractors, program management, project planning, and coordination.
+  Core Responsibilities:
+Manage the program/project scope, objectives, and deliverables in alignment with organizational goals and leadership requirements.
+Develop and maintain a detailed program/project plan, including timelines, milestones, and resource allocation.
+Coordinate and oversee the execution, ensuring they are completed on time and within budget.
+Ensure program/project metrics are established according to the methodology used.
+Monitor performance, identifying and addressing any issues or risks that may impact delivery.
+Facilitate communication and collaboration among project teams, stakeholders, and senior leadership.
+Ensure program governance processes are followed, including regular status updates and decision-making forums.
+Drive continuous improvement in program management practices and methodologies.
+Optimize resource allocation across the program to maximize efficiency and effectiveness.
+Manage stakeholder relationships, ensuring clear communication and alignment with business objectives.
+
+ Key Deliverables:
+Comprehensive program/project plan with clearly defined objectives, timelines, and resource requirements.
+Comprehensive budget management plan that clearly identifies all financials tracked monthly.
+Regular program performance reports and dashboards for executive review.
+Effective resource allocation plans and capacity management strategies.
+Risk management plans and mitigation strategies for program-level risks.
+Documentation of program governance processes and decision-making criteria.
+Stakeholder engagement and communication plans to ensure alignment and transparency.
+Foster a culture of continuous improvement to enhance program management effectiveness.
+
+ Preferred Skills and Capabilities:
+Strong understanding of program and project management methodologies (e.g., PMI, MSP, Agile).
+Program Planning: Expertise in developing and managing comprehensive program plans.
+Risk Management: Proficiency in identifying, assessing, and mitigating program risks.
+Budget Management: Strong skills in managing program budgets and financials.
+Change Management: Ability to manage and lead change within the program.
+Stakeholder Engagement: Excellent skills in managing and engaging stakeholders at all levels.
+Performance Monitoring: Ability to track and report on program performance metrics.
+Ability to navigate and influence in a complex, matrixed organization.
+Excellent communication and interpersonal skills (e.g., leadership, conflict resolution, negotiation, time management)
+Strong problem-solving abilities and a proactive approach to managing challenges.
+Proficiency in program management tools and software (e.g., Microsoft Project, SharePoint, MS Teams, Azure DevOps).

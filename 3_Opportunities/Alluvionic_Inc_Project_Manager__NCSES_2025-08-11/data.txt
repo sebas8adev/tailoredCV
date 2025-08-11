@@ -1,0 +1,58 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: Alluvionic Inc.
+JOB_ROLE: Project Manager - NCSES
+APPLICATION_DATE: July 30th, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Project Manager - NCSES at Alluvionic Inc.
+CONTENT: Dear Hiring Manager,<br><br>I am writing to express my strong interest in the Project Manager - NCSES position at Alluvionic Inc., which I discovered on LinkedIn. My extensive background in managing complex projects, particularly in data-intensive and regulated environments, aligns perfectly with the requirements for supporting the National Center for Science and Engineering Statistics.<br><br>In my role at Globant, I was tasked with overseeing large-scale projects with strict timelines and multiple dependencies, similar to the challenges faced by NCSES. I led the planning, scheduling, and execution for a portfolio of digital products for clients like Royal Caribbean and Banco de Chile. By implementing hybrid project management methodologies and using tools like Jira and Confluence for progress tracking, I successfully managed project constraints, dependencies, and stakeholder communications for teams of over 100 people. This resulted in the consistent on-time delivery of quarterly roadmaps and a 40% improvement in e-commerce platform performance for one retail client.<br><br>The position requires a professional who can coordinate with numerous internal teams and external stakeholders to define scope and ensure timely dissemination of products. I have a history of fostering collaboration across globally distributed teams and contractors. I developed and presented KPI dashboards and status reports to C-level executives, translating complex technical execution into clear business-centric updates. This skill is directly transferable to managing reviews, deliverables, and communications within the NCSES environment.<br><br>I am proficient in various project management systems, including MS Project, Jira, and Asana, and as a quick learner, I am confident in my ability to master Smartsheet to effectively manage schedules and tasks as required. My experience with a government client (Colombian Police) has also prepared me for navigating contract regulations and policies.<br><br>I am particularly drawn to Alluvionic's values of Professionalism, Integrity, and Organization. The opportunity to apply my project management expertise to a critical public mission with the NCSES, supported by a woman-owned firm dedicated to project excellence, is incredibly motivating. I am eager to contribute to your team and help drive your projects forward.
+---END_SECTION---
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading cross-functional teams and delivering complex projects in data-intensive and regulated sectors. Expert in structured (Waterfall, Hybrid) and Agile methodologies, managing the full project lifecycle from planning and scheduling to execution and reporting. Skilled in resource management, risk mitigation, and stakeholder engagement, with a strong ability to master new tools like Smartsheet to drive project success for critical national initiatives.
+SKILLS_TITLE_1: Project Management & Methodologies
+SKILLS_DESC_1: Project Planning Scheduling Scope Definition Risk Assessment Budget Management Waterfall Hybrid
+SKILLS_TITLE_2: Tools & Reporting
+SKILLS_DESC_2: Smartsheet MS Project Jira Asana Confluence Status Reporting KPI & OKR Dashboards
+SKILLS_TITLE_3: Stakeholder & Team Management
+SKILLS_DESC_3: Stakeholder Engagement Executive Reporting Resource Management Cross-functional Team Leadership 100+ Vendor Management
+SKILLS_TITLE_4: Certifications & Domain Expertise
+SKILLS_DESC_4: Google Project Management Microsoft Project Management SAFe 6 Agilist A-CSM Data & Research AI Integration
+---END_SECTION---
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT:Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company focusing on reinventing business through innovative technology solutions, AI, and comprehensive software development consulting for global enterprises.
+COMPANY_BULLET_1_GLOBANT: Directed project lifecycles for clients like Banco de Chile, managing plans, schedules, and deliverables for 100+ member teams using hybrid methodologies.
+COMPANY_BULLET_2_GLOBANT: Managed project constraints including scope, budget, and resources for Royal Caribbean, ensuring on-time delivery of digital products through meticulous progress tracking.
+COMPANY_BULLET_3_GLOBANT: Created comprehensive status reports and KPI dashboards for C-level stakeholders, translating complex project data into clear RAG indicators for informed decision-making.
+COMPANY_BULLET_4_GLOBANT: Led the planning and execution of quarterly roadmaps for Dick's Sporting Goods, improving e-commerce platform performance by 40% through effective dependency management.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm delivering custom solutions in cloud services, big data, and media streaming for North American clients.
+COMPANY_BULLET_1_MANGOSOFT: Executed end-to-end project plans for data-intensive media applications for Concacaf, managing schedules and deliverables for fixed-price contracts with AWS cloud technologies.
+COMPANY_BULLET_2_MANGOSOFT: Coordinated project requirements and stakeholder communications for healthcare clients, delivering critical integrations for imaging, patient data (HL7), and AWS-based services on schedule.
+COMPANY_BULLET_3_MANGOSOFT: Staffed and led a 10+ person technical team, implementing a hybrid waterfall/scrum approach to ensure timely project completion and post-launch support.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI:Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology company specializing in integrated hardware and software solutions for public safety, law enforcement, and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Led project delivery for the Colombian Police, managing government contract requirements for a bodycam system, including planning, quality control, and on-time deployment.
+COMPANY_BULLET_2_TIPI: Directed the full software development lifecycle for integrated hardware/software products, ensuring projects adhered to strict timelines and technical specifications.
+COMPANY_BULLET_3_TIPI: Managed operational support workflows and deployments for over 3,000 devices, mitigating risks and ensuring system stability in a high-stakes environment.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider developing and implementing Point-of-Sale (POS) and business management software for over 1,000 small businesses in Latam.
+COMPANY_BULLET_1_ITBIGBOSS: Oversaw the full product lifecycle for a SaaS platform, defining project scope and managing development schedules to meet diverse client requirements.
+COMPANY_BULLET_2_ITBIGBOSS: Led technical teams hands-on, managing project execution, code reviews, and releases to ensure product quality and adherence to project plans.
+COMPANY_BULLET_3_ITBIGBOSS: Coordinated over 1,000 implementations, adapting the core product and managing integrations with third-party hardware and software systems under a SaaS model.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH:IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, providing comprehensive wellness services to a large member base.
+COMPANY_BULLET_1_BODYTECH: Managed the complete lifecycle for enterprise system implementations, including a company-wide Dynamics CRM & ERP, overseeing planning, execution, and vendor coordination.
+COMPANY_BULLET_2_BODYTECH: Directed IT infrastructure projects across 60+ sites in three countries, managing network, telephony, and security system rollouts from planning to completion.
+COMPANY_BULLET_3_BODYTECH: Established and led the IT Service Desk, developing processes and tracking metrics to improve support resolution times and system uptime across the organization.

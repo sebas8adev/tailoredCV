@@ -1,0 +1,68 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: Diamond Peak Recruiting
+JOB_ROLE: Mechanical (MEP) Construction Project Manager
+APPLICATION_DATE: July 31st, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Mechanical (MEP) Construction Project Manager at Diamond Peak Recruiting
+CONTENT: Dear Hiring Manager,
+<br><br>
+I am writing to express my strong interest in the Traveling Mechanical Project Manager position I discovered on LinkedIn. While my background is rooted in leading complex technical projects in the software and IT sectors, the core of my expertise lies in the rigorous, results-driven project management discipline required to successfully deliver large-scale initiatives—a skill set I am confident is directly transferable and highly valuable for the construction industry.
+<br><br>
+In my previous role, a recurring challenge was managing multi-million dollar projects with large, globally distributed teams and stringent constraints for clients like Royal Caribbean and Dick's Sporting Goods. The problem was ensuring that dozens of specialized teams, similar to trades in construction, worked in a coordinated and efficient manner to meet tight deadlines and budgets.
+<br><br>
+My action was to implement and lead a hybrid project management framework, establishing detailed project plans, managing scope, and overseeing budgets and schedules. I coordinated all cross-functional activities, managed subcontractor and vendor relationships, and provided transparent progress reporting to C-level stakeholders, ensuring all parties were aligned and potential issues were mitigated proactively.
+<br><br>
+The result of this adaptive approach was consistent on-time, on-budget delivery and a 40% improvement in operational efficiency on key projects. This demonstrates my capability to quickly master complex domains, lead diverse teams, and manage the critical constraints of time, budget, and quality that are paramount in any large-scale project, including commercial construction.
+<br><br>
+My leadership abilities, problem-solving skills, and full commitment to the 100% travel requirement make me an excellent candidate to take on the challenges of this field-forward role. I am eager to apply my robust project management experience to a new industry and contribute to the success of your national team. Thank you for your time and consideration.
+---END_SECTION---
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading complex, large-scale projects and cross-functional teams across diverse industries. Expert in full lifecycle project management, including budget oversight, schedule adherence, stakeholder communication, and risk mitigation. Skilled in managing projects with multi-million dollar budgets and leading teams of 100+ personnel. Eager to apply a robust project management skill set to the challenges of the commercial construction sector.
+SKILLS_TITLE_1: Project & Program Management
+SKILLS_DESC_1: Full Project Lifecycle Scope & Schedule Management Budget & Cost Control Risk & Quality Management
+SKILLS_TITLE_2: Leadership & Coordination
+SKILLS_DESC_2: Cross-Functional Team Leadership (100+) Stakeholder & Vendor Management C-Level Reporting & Communication
+SKILLS_TITLE_3: Methodologies & Frameworks
+SKILLS_DESC_3: Agile (Scrum Kanban SAFe) Waterfall & Hybrid Models OKR & KPI Tracking
+SKILLS_TITLE_4: Technical Acumen & Tools
+SKILLS_DESC_4: Microsoft Project Jira & Confluence RFP & Proposal Management Contract Adherence
+---END_SECTION---
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT:Project Manager
+COMPANY_SUMMARY_GLOBANT: A digitally native company offering innovative technology solutions and software development, focusing on AI-driven transformations for global clients across multiple industries.
+COMPANY_BULLET_1_GLOBANT: Managed the full project lifecycle for large-scale programs for clients like Royal Caribbean, ensuring adherence to budget, scope, and quality standards.
+COMPANY_BULLET_2_GLOBANT: Led cross-functional teams of 100+ engineers, coordinating deliverables across multiple workstreams to ensure seamless integration and on-time project completion.
+COMPANY_BULLET_3_GLOBANT: Directed budget and cost control for multi-million dollar projects, improving performance and cost efficiency by 40% through rigorous KPI tracking and resource management.
+COMPANY_BULLET_4_GLOBANT: Facilitated stakeholder communication and C-level reporting, translating complex project status into clear RAG indicators and managing client expectations throughout project execution.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software consulting firm specializing in cloud services, big data solutions, and custom applications for the media and healthcare sectors.
+COMPANY_BULLET_1_MANGOSOFT: Oversaw end-to-end project delivery for fixed-price contracts, from initial RFP review and proposal creation to final implementation and support.
+COMPANY_BULLET_2_MANGOSOFT: Coordinated project teams and external vendors for clients like Concacaf, ensuring successful integration of complex systems under tight deadlines and budgets.
+COMPANY_BULLET_3_MANGOSOFT: Implemented adaptive project management methodologies that improved delivery predictability and client satisfaction for complex data-intensive projects in healthcare and media.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI:Technical Project Manager
+COMPANY_SUMMARY_TIPI: Developed integrated hardware and software solutions, including mobile devices and management platforms, for public safety and healthcare clients.
+COMPANY_BULLET_1_TIPI: Led project planning and execution for government contracts, including the deployment of 3,000+ bodycam units, ensuring strict compliance with all specifications.
+COMPANY_BULLET_2_TIPI: Managed the entire project life cycle and coordinated with hardware teams to ensure seamless integration and functionality of the final product.
+COMPANY_BULLET_3_TIPI: Directed project operations and customer support workflows, leading to successful deployments and high client satisfaction across 10+ hospitals and clinics.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: Provided SaaS-based Point-of-Sale (POS) and business management software solutions for over 1,000 small businesses in the LATAM market.
+COMPANY_BULLET_1_ITBIGBOSS: Directed the complete product lifecycle for a flagship SaaS platform, from hands-on coordination and quality control to release and operational support.
+COMPANY_BULLET_2_ITBIGBOSS: Led a team of 30+ professionals in a hybrid waterfall-kanban environment, delivering customized software solutions for diverse business needs across retail and fitness.
+COMPANY_BULLET_3_ITBIGBOSS: Managed technical integrations with third-party hardware like biometrics and printers, ensuring system compatibility and reliability which improved client retention.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH:IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, providing comprehensive wellness services across Colombia, Peru, and Chile.
+COMPANY_BULLET_1_BODYTECH: Managed IT infrastructure projects across 60+ sites, including networking, security, and CCTV systems, ensuring operational uptime and business continuity.
+COMPANY_BULLET_2_BODYTECH: Led the implementation of large-scale systems like Dynamics CRM & ERP, coordinating with vendors and internal teams to meet business requirements on-time.
+COMPANY_BULLET_3_BODYTECH: Established and led the IT Service Desk, developing support protocols and managing the lifecycle of access control systems for all locations.

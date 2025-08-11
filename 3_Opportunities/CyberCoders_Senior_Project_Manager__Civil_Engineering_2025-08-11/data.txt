@@ -1,0 +1,68 @@
+# Global Information
+HIRING_MANAGER: Charlie Payne
+COMPANY_NAME: CyberCoders
+JOB_ROLE: Senior Project Manager - Civil Engineering
+COMPANY_NAME: CyberCoders
+APPLICATION_DATE: July 31st, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Senior Project Manager - Civil Engineering at CyberCoders
+CONTENT: 
+Dear Charlie Payne,
+<br><br>
+I am writing to express my strong interest in the Senior Project Manager - Civil Engineering position, as advertised on LinkedIn. With over 10 years of experience leading complex, large-scale projects from conception to completion, I am confident in my ability to deliver exceptional results and drive project success for your client.
+<br><br>
+In my recent role at Globant, a key challenge was managing large, globally distributed teams to deliver projects with strict budget and timeline constraints for clients like Royal Caribbean and Dick's Sporting Goods. I implemented an adaptive project management framework, combining SAFe and Scrum methodologies, to establish clear quarterly roadmaps, KPIs, and risk mitigation plans. This action resulted in a 40% improvement in e-commerce platform performance and consistently met on-time, on-budget delivery targets for multiple concurrent projects.
+<br><br>
+My career has been dedicated to mastering the art of project management, whether for digital infrastructure or integrated hardware-software systems. My expertise lies in managing all project constraints—scope, schedule, cost, and quality—while ensuring transparent communication with architects, contractors, and executive stakeholders. I am passionate about leading projects that build and shape our environments, and I am eager to apply my robust project leadership skills to the tangible, impactful world of civil engineering and land development.
+<br><br>
+I am enthusiastic about the opportunity to contribute my comprehensive project management expertise to your client's infrastructure projects. Thank you for your time and consideration. I look forward to discussing how my experience can benefit your team.
+---END_SECTION---
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading global teams and delivering complex, large-scale projects across diverse industries. Expert in managing the full project lifecycle, from initial conception, planning, and cost estimation to execution and completion. Skilled in risk management, stakeholder coordination, and resource allocation to ensure projects are delivered on time and within budget. Strengths in executive reporting, financial oversight, and mentoring high-performing teams.
+SKILLS_TITLE_1: Project & Program Management
+SKILLS_DESC_1: End-to-End Project Lifecycle, Scope & Cost Management, Risk Assessment & Mitigation, Stakeholder Management, PI Planning, KPI & OKR Reporting
+SKILLS_TITLE_2: Leadership & Team Management
+SKILLS_DESC_2: Cross-Functional Team Leadership (100+), C-Level Communication, Resource Planning & Staffing, Mentoring & Coaching, Vendor Management
+SKILLS_TITLE_3: Methodologies & Frameworks
+SKILLS_DESC_3: SAFe, Scrum, Kanban, Scrum of Scrums, Waterfall, Hybrid Models
+SKILLS_TITLE_4: Certifications & Tools
+SKILLS_DESC_4: SAFe 6, A-CSM, CSM, PMP-aligned practices, Jira, Confluence, MS Teams
+---END_SECTION---
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT:Senior Project Manager
+COMPANY_SUMMARY_GLOBANT: A global AI-focused digital transformation consultancy, delivering innovative software and cognitive solutions for top-tier clients in retail, banking, and travel.
+COMPANY_BULLET_1_GLOBANT: Led end-to-end project execution for clients like Royal Caribbean, managing scope, schedule, and budget to enhance the onboard digital guest experience.
+COMPANY_BULLET_2_GLOBANT: Drove a 40% performance improvement for Dick's Sporting Goods' e-commerce platform by optimizing project delivery and managing cross-functional teams of 30+ engineers.
+COMPANY_BULLET_3_GLOBANT: Directed program-level initiatives for Banco de Chile, leading 5+ scrum masters and coordinating a 100+ person team to achieve quarterly roadmap goals.
+COMPANY_BULLET_4_GLOBANT: Managed stakeholder communications and C-level reporting, translating complex project data into clear RAG status indicators to ensure strategic alignment and decision-making.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: Software development firm specializing in cloud-native applications, media streaming, and complex data solutions for the sports and healthcare industries.
+COMPANY_BULLET_1_MANGOSOFT: Managed project lifecycles for Concacaf and MLS teams, from RFP analysis and cost estimation to final delivery of media and streaming platforms.
+COMPANY_BULLET_2_MANGOSOFT: Led the implementation of integrated imaging and data systems for multiple hospitals, ensuring compliance with industry standards like DICOM and HL7 V2.
+COMPANY_BULLET_3_MANGOSOFT: Directed project planning and resource allocation, successfully staffing and launching technical teams to deliver multiple fixed-price projects on schedule.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI:Technical Project Manager
+COMPANY_SUMMARY_TIPI: Technology provider delivering integrated hardware and software solutions for public safety, law enforcement, and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Directed projects for the Colombian Police, ensuring all deliverables met strict government contract requirements for a 3,000-unit bodycam system deployment.
+COMPANY_BULLET_2_TIPI: Led the full hardware and software lifecycle, from firmware development to web application management, coordinating technical teams and operational support.
+COMPANY_BULLET_3_TIPI: Managed stakeholder relationships and oversaw deployment and support workflows for mission-critical systems in more than 10 clinics and hospitals.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: Provided SaaS-based Point-of-Sale (POS) and business management solutions for over 1,000 small businesses in the LATAM market.
+COMPANY_BULLET_1_ITBIGBOSS: Directed the entire SDLC for a complex POS product, including hands-on technical leadership in coding, quality assurance, and release management.
+COMPANY_BULLET_2_ITBIGBOSS: Led the successful implementation and customization of the SaaS platform for over 1,000 businesses, demonstrating high adaptability to diverse client needs.
+COMPANY_BULLET_3_ITBIGBOSS: Managed and scaled technical and operations teams to support a growing client base, ensuring high system uptime and customer satisfaction.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH:IT Manager
+COMPANY_SUMMARY_BODYTECH: Leading health and fitness center chain in Latin America, operating over 60 sites across Colombia, Peru, and Chile.
+COMPANY_BULLET_1_BODYTECH: Managed the full lifecycle for business-critical systems, including CRM and billing software, supporting a multi-national 60-site operation.
+COMPANY_BULLET_2_BODYTECH: Led the implementation of an enterprise-wide IT Service Desk, establishing formal processes that improved issue resolution times across the organization.
+COMPANY_BULLET_3_BODYTECH: Directed key infrastructure projects, including networking, telephony, and security systems, to support the successful launch and operation of new facilities.

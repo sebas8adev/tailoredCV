@@ -1,0 +1,69 @@
+# Global Information
+HIRING_MANAGER: Harinii Suriyakumar
+COMPANY_NAME: Falcon Smart IT
+JOB_ROLE: Oracle Fusion Project Manager
+APPLICATION_DATE: July 31st, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Oracle Fusion Project Manager at Falcon Smart IT
+CONTENT: 
+Dear Harinii Suriyakumar,
+<br><br>
+I am writing to express my strong interest in the Oracle Fusion Project Manager position at Falcon Smart IT, which I discovered on LinkedIn. With over 10 years of experience leading complex, full-cycle system implementations and digital transformations for global enterprises, I am confident that my background in managing large-scale projects aligns perfectly with the requirements of this role.
+<br><br>
+In a previous role, I addressed the challenge of a major financial institution, Banco de Chile, needing to overhaul its core data infrastructure. I led a program to migrate their datacenter to GCP and implement a new data warehouse, managing a cross-functional team of over 100 engineers. By implementing a hybrid Scrum methodology and rigorous KPI tracking, we successfully delivered the complex platform on schedule, ensuring business continuity and enhancing data capabilities.
+<br><br>
+My experience extends directly to ERP implementation. As IT Manager at Bodytech, I was the technical leader for the company-wide Microsoft Dynamics CRM & ERP implementation across more than 60 sites in three countries. I managed the entire project lifecycle, from planning and vendor management to cutover and post-production support. This initiative successfully unified business operations, centralized financial data, and provided a scalable platform for future growth.
+<br><br>
+While my direct experience is with systems like Dynamics and Salesforce, my core expertise lies in the platform-agnostic principles of ERP project management: developing project plans, managing budgets, coordinating with stakeholders to define scope, leading data migration and integration efforts, and mitigating risks to ensure on-time, high-quality delivery. I am adept at leading the cross-functional teams required to make any ERP implementation, including Oracle Fusion, a success.
+<br><br>
+I am eager to bring my adaptive project management approach and experience in large-scale system delivery to your team. Thank you for your time and consideration. I look forward to discussing how my skills can contribute to your projects.
+---END_SECTION---
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading complex ERP and digital transformation projects across finance, retail, and healthcare. Expert in full-cycle system implementations, including data migration, integration, and post-production support. Excels at managing project scope, budget, and timelines for global cross-functional teams. Delivers projects on-time by identifying and mitigating risks and ensuring clear stakeholder communication. Skilled in both Agile and traditional methodologies, driving project success and business value.
+SKILLS_TITLE_1: Project & Program Management
+SKILLS_DESC_1: Full-Cycle ERP Implementation, Budget & Scope Management, Risk Mitigation, Stakeholder Reporting, Cutover Planning, Resource Allocation, Quality Assurance
+SKILLS_TITLE_2: Methodologies & Frameworks
+SKILLS_DESC_2: SAFe, Scrum, Kanban, Waterfall, Hybrid Models, PMP PMI Practices, UAT
+SKILLS_TITLE_3: Technical & Platform Acumen
+SKILLS_DESC_3: ERP & CRM Systems (Dynamics, Salesforce), Data Migration & Integration, Cloud Platforms (AWS, GCP), SDLC, AI & GenAI Solutions, SQL
+SKILLS_TITLE_4: Certifications & Domains
+SKILLS_DESC_4: SAFe 6 Agilist, A-CSM, Google Project Management, Finance, HCM, SCM, Retail, Healthcare
+---END_SECTION---
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT:Project Manager
+COMPANY_SUMMARY_GLOBANT: A digital consulting firm specializing in AI-powered software development and transformative technology solutions for global enterprises in finance, retail, and travel.
+COMPANY_BULLET_1_GLOBANT: Led a large-scale data platform migration for Banco de Chile, managing 100+ engineers to deliver a new datawarehouse, meeting all quarterly OKRs.
+COMPANY_BULLET_2_GLOBANT: Managed full-cycle Salesforce CRM implementation for Abastible, defining scope, budget, and timelines, leading to a successful end-to-end platform launch on schedule.
+COMPANY_BULLET_3_GLOBANT: Directed cross-functional teams in delivering e-commerce solutions for Dick's Sporting Goods, improving platform performance by 40% through rigorous project controls.
+COMPANY_BULLET_4_GLOBANT: Served as the main client contact for Royal Caribbean, defining project deliverables and managing releases for multiple guest-facing onboard digital services.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development firm creating custom cloud-based solutions for media, sports, and healthcare industries with a focus on data and streaming.
+COMPANY_BULLET_1_MANGOSOFT: Managed a full-cycle project to implement a media management and streaming platform for Concacaf, delivering the product from definition to post-production support.
+COMPANY_BULLET_2_MANGOSOFT: Oversaw the integration of medical imaging systems for multiple hospitals, managing data migration to improve clinical workflows and physician access to information.
+COMPANY_BULLET_3_MANGOSOFT: Led cross-functional teams to develop AWS-based voice-to-text applications, successfully delivering projects on a fixed-price basis while meeting all client deliverables.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI:Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology company developing integrated hardware and software solutions for public safety, law enforcement, and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Led the full SDLC for a bodycam system for the Colombian Police, managing project constraints and overseeing deployment for over 3,000 devices.
+COMPANY_BULLET_2_TIPI: Directed software development and integration of RFID asset tracking systems in 10+ hospitals, improving operational efficiency and asset management.
+COMPANY_BULLET_3_TIPI: Managed firmware development and release cycles for Android-based devices, coordinating hardware and software teams to ensure timely delivery under government contract regulations.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A SaaS provider developing POS and business management software solutions for small and medium businesses in the retail and wellness industries.
+COMPANY_BULLET_1_ITBIGBOSS: Directed the entire SDLC for a flagship POS product, successfully implementing the SaaS solution for over 1,000 businesses across Latin America.
+COMPANY_BULLET_2_ITBIGBOSS: Managed integrations with third-party systems including accounting software and payment processors, expanding product functionality and increasing market adoption.
+COMPANY_BULLET_3_ITBIGBOSS: Led technical and operations teams, providing hands-on coding, code-review, and release management to ensure product stability and high customer satisfaction.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH:IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, focused on providing wellness services through a large network of clubs.
+COMPANY_BULLET_1_BODYTECH: Led the technical implementation of Microsoft Dynamics CRM & ERP across 60+ sites, unifying business operations and centralizing data management for the enterprise.
+COMPANY_BULLET_2_BODYTECH: Managed the full lifecycle of a custom billing and CRM software, automating key financial processes and improving member data accuracy by 30%.
+COMPANY_BULLET_3_BODYTECH: Directed the IT Service Desk and infrastructure management, ensuring 99.8% system uptime and providing post-production support for all corporate technology platforms.

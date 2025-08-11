@@ -1,0 +1,71 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: CEI Engineering Associates, Inc.
+JOB_ROLE: Civil Project Manager
+APPLICATION_DATE: July 30th, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Civil Project Manager at CEI Engineering Associates, Inc.
+CONTENT: 
+Dear Hiring Manager,
+<br><br>
+I am writing to express my enthusiastic interest in the Civil Project Manager position at CEI Engineering Associates, Inc., which I discovered on LinkedIn. Your firm’s reputation for helping clients streamline processes, create efficiencies, and drive revenue aligns perfectly with my professional dedication to delivering projects that are not only successful but also add significant value.
+<br><br>
+In my previous role, a key challenge was managing a large-scale datacenter migration from on-premise to the cloud for a major financial institution. This project required meticulous coordination of physical infrastructure, utilities, and diverse technical teams under a strict budget and timeline, similar to the demands of complex land development projects.
+<br><br>
+As the lead Project Manager, I developed the complete project plan, defining the scope, schedule, and budget. I served as the primary liaison between executive stakeholders, engineering teams, and external vendors, ensuring clear communication and managing expectations throughout the project lifecycle. I implemented rigorous quality control checks and proactive risk mitigation strategies to navigate unforeseen challenges.
+<br><br>
+My leadership ensured the project was completed on schedule and 10% under budget, with a seamless transition that guaranteed zero downtime for critical banking operations. This success underscores my ability to manage complex, multi-faceted projects and deliver quality outcomes.
+<br><br>
+I am particularly drawn to CEI’s commitment to fostering a supportive environment where employees can excel and grow. My adaptive project management approach, combining structured planning with agile execution, would enable me to effectively lead your land development projects from conception to completion, ensuring client satisfaction and fostering the repeat business that is a hallmark of CEI's success.
+<br><br>
+Thank you for considering my application. I am confident that my extensive experience in project management and team leadership makes me an excellent candidate for this role and I look forward to discussing how I can contribute to your team.
+---END_SECTION---
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading complex, large-scale infrastructure and systems implementation projects. Expert in managing the full project lifecycle—from conceptual design to completion—ensuring strict adherence to scope, schedule, and budget. Excels at client relations, stakeholder communication, and quality control, with a history of driving efficiency and developing repeat business. Skilled in guiding cross-functional teams to successfully deliver high-value projects across diverse industries, including finance, retail, and public safety.
+SKILLS_TITLE_1: Project & Program Management
+SKILLS_DESC_1: Scope Schedule & Budget Control, Quality Control, Risk Management, Stakeholder Communication, Client Relations, Progressive Project Management
+SKILLS_TITLE_2: Project Lifecycle & Methodologies
+SKILLS_DESC_2: Conceptual Design, Planning, Bidding & Proposals, Construction Oversight, Project Completion, SAFe, Scrum, Waterfall, Kanban
+SKILLS_TITLE_3: Technical & Domain Expertise
+SKILLS_DESC_3: Large-Scale Infrastructure Projects, Systems Integration, Utilities Management, RFP Analysis, Contract Management, Microsoft Office Suite
+SKILLS_TITLE_4: Leadership & Certifications
+SKILLS_DESC_4: Cross-Functional Team Leadership (100+), Vendor Management, Executive Reporting, SAFe 6 Agilist, A-CSM, Google Project Management Certificate
+---END_SECTION---
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT:Technical Project Manager
+COMPANY_SUMMARY_GLOBANT: A digital-native consulting firm reinventing businesses through innovative technology solutions, AI, and software development for global enterprise clients across various industries.
+COMPANY_BULLET_1_GLOBANT: Drove program performance for clients like Royal Caribbean, managing the full lifecycle for digital guest services to enhance the onboard experience on schedule.
+COMPANY_BULLET_2_GLOBANT: Led a major e-commerce platform overhaul for Dick's Sporting Goods, improving site performance by 40% through meticulous quality control and adaptive quarterly roadmaps.
+COMPANY_BULLET_3_GLOBANT: Oversaw a large-scale datacenter migration to GCP for Banco de Chile, managing project scope, budget, and coordination for a team of 100+.
+COMPANY_BULLET_4_GLOBANT: Fostered client satisfaction and repeat business by establishing clear communication channels and delivering executive-level reports on project scope, schedule, and budget.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT:Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A boutique software development firm delivering custom cloud, data-driven, and AI solutions for clients in media, sports, and healthcare.
+COMPANY_BULLET_1_MANGOSOFT: Directed end-to-end development of media platforms for Concacaf, managing project scope and budget to ensure successful, on-time launches for major championships.
+COMPANY_BULLET_2_MANGOSOFT: Spearheaded healthcare systems integrations, implementing voice-to-text and medical imaging solutions that improved procedural efficiency for multiple hospital clients.
+COMPANY_BULLET_3_MANGOSOFT: Managed the full project delivery cycle, from RFP analysis and proposal creation to staffing and ensuring quality outcomes under fixed-price contracts.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI:Technical Project Manager
+COMPANY_SUMMARY_TIPI: A technology firm specializing in integrated hardware and software solutions for public safety, law enforcement, and healthcare sectors.
+COMPANY_BULLET_1_TIPI: Led a complex project for the Colombian Police, delivering 3,000+ bodycam units by overseeing hardware deployment, software lifecycle, and stakeholder relations.
+COMPANY_BULLET_2_TIPI: Managed implementation of asset tracking and nurse-call systems for 10+ clinics, coordinating site installations and ensuring system quality and performance.
+COMPANY_BULLET_3_TIPI: Served as the key point of contact for government and healthcare clients, leading project planning, execution, and support under regulated, fixed-price contracts.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS:Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: Co-founded a SaaS provider that developed and implemented POS and business management software for over 1,000 small to mid-sized businesses.
+COMPANY_BULLET_1_ITBIGBOSS: Directed the full software development lifecycle for a multi-faceted POS system, managing all project phases from conception to market release and support.
+COMPANY_BULLET_2_ITBIGBOSS: Led technical implementations and client-side integrations for 1,000+ businesses, tailoring solutions and managing operations to achieve high customer satisfaction and retention.
+COMPANY_BULLET_3_ITBIGBOSS: Drove business growth and market penetration by managing team leadership, quality control, customer support workflows, and strategic planning.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH:IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness center chain in Latin America, operating over 60 locations across Colombia, Peru, and Chile.
+COMPANY_BULLET_1_BODYTECH: Managed technology infrastructure and systems implementation across 60+ new sites, coordinating multi-location rollouts of networks, hardware, and operational software.
+COMPANY_BULLET_2_BODYTECH: Led the full lifecycle for a new access control system, including software, turnstiles, and biometrics, overseeing planning, installation, and operational readiness.
+COMPANY_BULLET_3_BODYTECH: Directed the IT service desk and company-wide CRM/ERP implementations, managing project scope, vendor relations, and ensuring high system uptime.
