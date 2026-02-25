@@ -1,5 +1,5 @@
-Status: pending
-Data-Status: error
+Status: processed
+Data-Status: complete
 Job board: LinkedIn
 Company Name: Jobot
 Role Name: Senior Project Manager, Federal Buildings

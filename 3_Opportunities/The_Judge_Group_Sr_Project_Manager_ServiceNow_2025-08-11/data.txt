@@ -1,0 +1,69 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: The Judge Group
+JOB_ROLE: Sr Project Manager (ServiceNow)
+COMPANY_NAME: The Judge Group
+APPLICATION_DATE: July 30, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Sr Project Manager (ServiceNow) at The Judge Group
+CONTENT: <p>I am writing to express my keen interest in the Sr Project Manager (ServiceNow) position advertised on LinkedIn.  My 10+ years of experience leading complex technology projects across diverse industries, including finance, healthcare, and retail, strongly align with the requirements outlined in the job description.</p>
+
+<p>In my previous role at Globant, I consistently delivered large-scale projects on time and within budget. For instance, I spearheaded the implementation of a new AI-powered chatbot for Royal Caribbean, successfully integrating it with existing systems and enhancing the guest experience. This involved detailed planning, meticulous execution, and close collaboration with diverse offshore and onshore teams. </p>
+
+<p>At Mango-Soft, I managed the development and deployment of cloud-based healthcare solutions, improving patient data management and workflow efficiency.  I leveraged Agile methodologies to ensure adaptive project delivery, resolving technical challenges and consistently exceeding client expectations.</p>
+
+<p>My passion for technological innovation and driving organizational success resonates deeply with The Judge Group’s commitment to providing cutting-edge solutions. I am confident that my skills in project portfolio planning, resource allocation, and stakeholder management, coupled with my ServiceNow and CMDB experience, make me an ideal candidate for this role. I am eager to contribute my expertise to your team.</p>
+---END_SECTION---
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading global teams and delivering complex digital transformations across industries. Expert in Agile (SAFe, Scrum, Kanban) and traditional methodologies, with a proven track record in end-to-end project delivery, executive reporting, and financial oversight.  Experienced in AI-driven and cloud-based solutions.
+SKILLS_TITLE_1: Project Management Expertise
+SKILLS_DESC_1:  Project portfolio planning, resource allocation, stakeholder management, risk management, budget control, ServiceNow CMDB, Agile methodologies (SAFe, Scrum, Kanban), PMP
+SKILLS_TITLE_2: Technology Proficiency
+SKILLS_DESC_2: AI integration, Cloud platforms (AWS, GCP), Software Development Life Cycle (SDLC), API development, Data migration
+SKILLS_TITLE_3: Industry Acumen
+SKILLS_DESC_3: Finance, Healthcare, Retail, Travel/Hospitality, Media, Public Safety
+SKILLS_TITLE_4: Certifications
+SKILLS_DESC_4: PMP, SAFe 6 Agilist, A-CSM, CSPO
+
+---END_SECTION---
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Senior Project Manager
+COMPANY_SUMMARY_GLOBANT: A leading global IT consulting and software development company leveraging AI to deliver innovative solutions at scale.
+COMPANY_BULLET_1_GLOBANT: Led the development and implementation of a new AI-powered chatbot for Royal Caribbean's guest app, resulting in improved customer satisfaction and a 15% increase in app usage.
+COMPANY_BULLET_2_GLOBANT: Drove program performance and cost efficiency across client portfolios, including Dick's Sporting Goods, achieving a 40% boost in digital platform efficiency via adaptive quarterly roadmaps and PI Planning.
+COMPANY_BULLET_3_GLOBANT: Successfully managed 100+ engineers across multiple projects for Banco de Chile, delivering on-time and within budget, utilizing Scrum of Scrums methodology and hybrid Scrum/Waterfall approaches.
+COMPANY_BULLET_4_GLOBANT:  Managed the complete project lifecycle, from RFP response and planning to execution, monitoring, and closing, consistently exceeding stakeholder expectations on high-value projects.
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT:  A software development company specializing in cloud services and data-driven solutions for healthcare and media clients.
+COMPANY_BULLET_1_MANGOSOFT:  Led the development and implementation of cloud-based healthcare solutions using AWS, resulting in improved patient data management and workflow efficiency for 3+ major hospitals.
+COMPANY_BULLET_2_MANGOSOFT: Successfully delivered Concacaf and MLS projects on time and within budget, implementing hybrid waterfall and scrum methodologies for media streaming and application development.
+COMPANY_BULLET_3_MANGOSOFT:  Managed the entire SDLC, including team allocation, technical execution, and stakeholder communication, fostering collaboration between development teams and clients.
+
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI:  A software development firm specializing in integrated hardware and software solutions for diverse clients.
+COMPANY_BULLET_1_TIPI:  Successfully delivered a bodycam system for the Colombian Police, encompassing hardware, software, and deployment to 3000+ units, meeting stringent government contract requirements.
+COMPANY_BULLET_2_TIPI: Led the development and implementation of hardware and software solutions for 10+ clinics and hospitals in Colombia, enhancing patient care and improving operational efficiency.
+COMPANY_BULLET_3_TIPI:  Oversaw all aspects of project development and deployment, including project planning, team management, quality assurance, and customer support.
+
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A software house providing SaaS solutions with focus on point-of-sale systems for various businesses.
+COMPANY_BULLET_1_ITBIGBOSS: Developed and deployed a POS system for 1000+ small businesses in LATAM, resulting in increased sales and improved operational efficiency.
+COMPANY_BULLET_2_ITBIGBOSS: Successfully managed the entire SDLC, including requirement gathering, design, development, testing, and deployment, ensuring high-quality software delivery.
+COMPANY_BULLET_3_ITBIGBOSS:  Led a 30+ team in the development and implementation of various integrated systems, exceeding stakeholder expectations and enhancing user satisfaction.
+
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A large-scale fitness center chain providing health and wellness services across multiple locations.
+COMPANY_BULLET_1_BODYTECH: Implemented a new access control system across 60+ locations in Colombia, Peru, and Chile, improving security and operational efficiency.
+COMPANY_BULLET_2_BODYTECH: Led the implementation of a new CRM and billing system, streamlining operations and enhancing customer relationship management.
+COMPANY_BULLET_3_BODYTECH: Managed the IT service desk, providing support to users, resolving issues quickly, and ensuring high system uptime.

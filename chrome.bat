@@ -1,1 +1,1 @@
-"C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222 --user-data-dir="C:\MyChromeDebugProfile"
+"C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222 --user-data-dir="I:\Playground\techguys\tailoredCV\ChromeDebugProfile" --window-name="Chrome Personal LinkedIn Debugger"

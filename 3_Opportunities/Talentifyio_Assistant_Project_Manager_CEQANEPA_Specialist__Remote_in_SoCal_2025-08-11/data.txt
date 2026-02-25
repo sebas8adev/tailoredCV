@@ -1,0 +1,63 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: Montrose
+JOB_ROLE: Assistant Project Manager, CEQA/NEPA Specialist
+COMPANY_NAME: Montrose
+APPLICATION_DATE: July 30, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Assistant Project Manager, CEQA/NEPA Specialist at Montrose
+CONTENT: <p>Dear Hiring Manager,</p><p>I am writing to express my keen interest in the Assistant Project Manager, CEQA/NEPA Specialist position at Montrose, as advertised on LinkedIn.  Montrose's commitment to environmental sustainability and its collaborative approach deeply resonate with my professional values and experience.</p><p>Throughout my 10+ years of experience leading complex projects across diverse industries, including healthcare, finance, and retail, I have consistently delivered impactful results within budget and on schedule.  My adaptive project management approach, honed through extensive experience with Agile (Scrum, Kanban, SAFe) and traditional methodologies, allows me to effectively navigate complex projects and deliver exceptional outcomes.  For example, at Globant, I spearheaded the development of an AI-powered chatbot for Royal Caribbean's Guest App, resulting in a 15% increase in customer engagement.</p><p>My expertise in environmental compliance is indirectly applicable. My experience managing large-scale projects that involved multiple stakeholders, intricate integrations, and strict regulatory compliance translates effectively to the demands of this role. The experience of leading teams, navigating complex technical details, and delivering solutions on time and within budget directly correlates to the requirements. I have a proven ability to manage multiple simultaneous projects, meet tight deadlines, and build strong relationships with clients and regulatory agencies, similar to what is needed in this role.  My success at successfully working on projects across various lifecycle phases demonstrates my readiness to handle the responsibilities of this position.
+</p><p>I am confident my skills and experience in project management and my understanding of complex regulatory frameworks make me a strong candidate. My passion for environmental responsibility further aligns perfectly with Montrose's mission. I am eager to learn more about this opportunity and discuss how my skills can benefit your team.</p>
+---END_SECTION---
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Manager with 10+ years of experience leading global teams and delivering complex digital transformations across diverse industries.  Expert in Agile (SAFe, Scrum, Kanban) and traditional methodologies, with strengths in end-to-end project delivery, executive reporting, and financial oversight.  Experience includes AI-driven solutions and managing 100+ person teams.
+SKILLS_TITLE_1: Project Management Expertise
+SKILLS_DESC_1:  Project planning, execution, monitoring, risk management, budget management, stakeholder management, scope definition, agile methodologies (SAFe, Scrum, Kanban), PMP/PMI principles.
+SKILLS_TITLE_2: Technical Proficiency
+SKILLS_DESC_2:  AWS, GCP, Azure, AI integration, API development, data migration, software development lifecycle (SDLC), various programming languages (Java, Python, .NET).
+SKILLS_TITLE_3:  Certifications
+SKILLS_DESC_3: SAFe 6 Agilist, A-CSM, CSM, CSPO, Google Project Management Certificate.
+SKILLS_TITLE_4: Industry Experience
+SKILLS_DESC_4:  Finance, Healthcare, Retail, Travel/Hospitality, Media, Public Safety.
+---END_SECTION---
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Senior Project Manager
+COMPANY_SUMMARY_GLOBANT: A global IT consulting and software development company delivering innovative digital solutions leveraging AI across diverse sectors.
+COMPANY_BULLET_1_GLOBANT: Led a 30+ person team in delivering the Royal Caribbean Guest App featuring an AI-powered chatbot, resulting in a 15% increase in customer engagement.
+COMPANY_BULLET_2_GLOBANT: Managed the Dick's Sporting Goods e-commerce project, improving platform performance by 40% through strategic roadmap adjustments and PI planning.
+COMPANY_BULLET_3_GLOBANT: Successfully managed multiple projects simultaneously across different methodologies (Scrum, SAFe, Kanban) for clients in finance, retail, and travel industries ensuring on-time and within budget project delivery.
+
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development company specializing in cloud-based solutions across diverse sectors such as healthcare and media.
+COMPANY_BULLET_1_MANGOSOFT:  Delivered Concacaf and MLS app solutions using AWS cloud services, achieving a 98% uptime and exceeding stakeholder expectations.
+COMPANY_BULLET_2_MANGOSOFT: Successfully implemented voice-to-text technology in multiple healthcare facilities, improving efficiency and patient care while delivering the project on time and within budget.
+COMPANY_BULLET_3_MANGOSOFT: Managed all aspects of a big data project for a healthcare client successfully migrated patient data to AWS resulting in seamless data access and improved patient care.
+
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A software house focused on customized solutions for clients in the Public Safety and Healthcare.
+COMPANY_BULLET_1_TIPI:  Successfully delivered 3000+ bodycams to the Colombian Police, integrated with a web application for real-time video streaming and face recognition on time.
+COMPANY_BULLET_2_TIPI: Managed the development and deployment of Bluetooth nurse-call and RFID asset-tracking systems across 10+ healthcare facilities.
+COMPANY_BULLET_3_TIPI: Successfully delivered on a tight schedule a software and hardware solution for tracking patients that reduced patient wait times by 20% while working closely with the client.
+
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A software house developing and implementing POS systems for small businesses across Latin America.
+COMPANY_BULLET_1_ITBIGBOSS: Developed and implemented a POS system for over 1000+ businesses, improving sales transaction processing efficiency and increasing customer satisfaction.
+COMPANY_BULLET_2_ITBIGBOSS: Managed software development lifecycle for the POS system, integrating various payment gateways and peripherals.
+COMPANY_BULLET_3_ITBIGBOSS: Led the development of 1000+ POS systems for LatAm businesses.
+
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading fitness center chain in Latin America, offering comprehensive wellness services and solutions.
+COMPANY_BULLET_1_BODYTECH: Implemented a new access control system across 60+ sites, improving security and member experience.
+COMPANY_BULLET_2_BODYTECH: Led the development and implementation of a CRM and billing software improving operational efficiency and customer engagement.
+COMPANY_BULLET_3_BODYTECH: Successfully managed and implemented Dynamics CRM & ERP across the company, increasing data accuracy and reporting efficiency.

@@ -19,3 +19,5 @@ Thumbs.db
 # This is crucial for your project to prevent Google OAuth tokens from being committed.
 token.json
 credentials.json
+
+ChromeDebugProfile

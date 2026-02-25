@@ -1,0 +1,59 @@
+# Global Information
+HIRING_MANAGER: Mangal Rajak
+COMPANY_NAME: Pyramid Consulting Inc
+JOB_ROLE: Engagement Leader – Program Manager
+COMPANY_NAME: Pyramid Consulting Inc
+APPLICATION_DATE: July 30, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Engagement Leader – Program Manager at Pyramid Consulting Inc
+CONTENT: <p>Dear Mangal Rajak,</p><p>I am writing to express my keen interest in the Engagement Leader – Program Manager position at Pyramid Consulting Inc, as advertised via email.  With 10+ years of experience leading complex, global technology projects, I am confident my adaptive approach and proven ability to deliver exceptional results align perfectly with your needs.</p><p>Throughout my career, I've consistently faced challenges in delivering innovative AI-driven solutions within demanding timelines and budgetary constraints. For example, at Globant, I spearheaded the implementation of a Google AI chatbot for Royal Caribbean Group's guest app, navigating complex technical integrations and cross-functional team dynamics to deliver a solution that improved guest engagement. At Mango-Soft, I led the development of a voice-to-text application for healthcare professionals, streamlining procedures and enhancing patient care.  In my role at TIPI, I oversaw the delivery of a bodycam system for the Colombian Police, managing the end-to-end process from software development and hardware integration to on-site deployment and client support.</p><p>My passion for driving digital transformation within organizations, especially those leveraging cutting-edge AI and cloud technologies, resonates deeply with Pyramid Consulting Inc’s mission. I am particularly drawn to your focus on conversational AI and analytics in the contact center space, an area where my expertise in Agile methodologies (SAFe, Scrum, Kanban), cloud platforms (AWS, GCP, Azure), and AI integration can significantly contribute. </p><p>My proven ability to manage large-scale projects, communicate effectively with stakeholders, and deliver exceptional results makes me a strong candidate.  I am eager to discuss how my skills and experience can benefit your team.</p>---END_SECTION---
+
+# CV Content
+CAREER_SUMMARY: Adaptive Program Manager with 10+ years of experience leading global teams and delivering complex digital transformations across diverse industries, including Finance, Healthcare, Retail, Travel, and Public Safety. Expert in AI-driven solutions and cloud-based technologies, with a strong track record of exceeding project goals and managing 100+ person teams.
+SKILLS_TITLE_1: Project Management
+SKILLS_DESC_1: Program Management, Project Planning, Execution, Stakeholder Management, Risk Management, Budget Management, Agile Methodologies (SAFe, Scrum, Kanban), Waterfall,  Project Delivery, Scope Definition
+SKILLS_TITLE_2: Technology & Platforms
+SKILLS_DESC_2: AI Integration, Conversational AI, Analytics, Cloud Platforms (AWS, GCP, Azure), Software Development Life Cycle (SDLC), API Development, Data Migration
+SKILLS_TITLE_3: Certifications
+SKILLS_DESC_3: SAFe 6 Agilist, A-CSM, Google Cloud Digital Leader
+SKILLS_TITLE_4: Industries
+SKILLS_DESC_4: Financial Services, Healthcare, Retail, Travel/Hospitality, Public Safety
+---END_SECTION---
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Senior Project Manager
+COMPANY_SUMMARY_GLOBANT: A leading global IT consulting and software development company, specializing in AI and digital transformation solutions at scale.
+COMPANY_BULLET_1_GLOBANT: Led the technical project management and Scrum Master roles for Royal Caribbean Group's guest app, implementing a Google AI chatbot that enhanced the guest experience and streamlined onboard services.
+COMPANY_BULLET_2_GLOBANT: Drove a 40% improvement in ecommerce performance for Dick's Sporting Goods by optimizing Core Web Vitals using adaptive roadmaps and Agile methodologies.
+COMPANY_BULLET_3_GLOBANT: Successfully managed the full SDLC for multiple projects, including cloud migration initiatives, across diverse global teams (100+), exceeding stakeholder expectations and delivering projects within budget and time constraints.
+COMPANY_BULLET_4_GLOBANT:  Oversaw the implementation of AI-driven solutions across various client projects (Royal Caribbean, Dick's Sporting Goods), resulting in improved efficiency, customer satisfaction and on-time delivery.
+
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT: A software development company specializing in cloud-based solutions for healthcare and media.
+COMPANY_BULLET_1_MANGOSOFT: Led the development and implementation of a voice-to-text application for healthcare professionals, improving efficiency and accuracy in medical documentation.
+COMPANY_BULLET_2_MANGOSOFT: Managed the migration of medical imaging data to AWS, ensuring data integrity and compliance with industry regulations.
+COMPANY_BULLET_3_MANGOSOFT: Successfully delivered multiple projects, integrating various technologies and platforms (AWS, Neo4j, MySQL) to improve patient care and operational workflows.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A software development company focused on solutions for law enforcement and healthcare.
+COMPANY_BULLET_1_TIPI: Led the full software development lifecycle for a bodycam system, incorporating hardware and software components, for the Colombian Police.
+COMPANY_BULLET_2_TIPI: Managed the deployment and support of 3000+ bodycams across multiple cities, ensuring operational efficiency and client satisfaction.
+COMPANY_BULLET_3_TIPI: Developed and implemented a comprehensive project plan that ensured the successful and timely delivery of the project while meeting budget and quality standards.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A software house specializing in SaaS point-of-sale systems for various industries.
+COMPANY_BULLET_1_ITBIGBOSS: Developed and implemented a POS system for 1000+ small businesses across Latin America, providing comprehensive sales, inventory, and customer management capabilities.
+COMPANY_BULLET_2_ITBIGBOSS: Led the integration of multiple third-party systems (biometrics, payment gateways), streamlining business operations for clients in the retail, food, and fitness sectors.
+COMPANY_BULLET_3_ITBIGBOSS: Managed the entire SDLC for the POS system, ensuring high-quality software and effective client support.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness company operating multiple sites in Latin America.
+COMPANY_BULLET_1_BODYTECH: Managed the implementation of a new access control system across 60+ sites, improving security and operational efficiency.
+COMPANY_BULLET_2_BODYTECH: Led the development and implementation of a CRM and billing system, enhancing customer relationships and streamlining revenue management.
+COMPANY_BULLET_3_BODYTECH: Oversaw the IT infrastructure for the company, managing network, telephony, printing, and CCTV systems.

@@ -1,0 +1,28 @@
+Status: processed
+Data-Status: complete
+Job board: Manual Entry
+Company Name: Pyramid Consulting Inc
+Role Name: Engagement Leader – Program Manager
+Location: Remote
+Type: Remote
+Salary range: $100.000
+Hiring Team: Mangal Rajak
+Application Instructions: Associate Manager Resourcing
+Job post URL: Mangal.Rajak@pyramidci.com
+
+Job Description:
+Job Title: Engagement Leader – Program Manager
+
+Location: Remote
+
+Duration: Full Time
+
+ 
+
+Job Description
+
+• Lead end-to-end client engagements for the deployment, managing project delivery from requirements gathering through successful implementation within enterprise accounts.
+• Serve as the primary liaison between clients, translating business needs into technical solutions and ensuring seamless integration of conversational AI and analytics technologies.
+• Oversee project planning, execution, and stakeholder communication, driving adoption and maximizing the value of end customers platforms in complex contact center environments.
+• Collaborate cross-functionally with technical, product, and customer success teams to ensure high client satisfaction, resolve issues, and identify opportunities for platform expansion.
+• Present project outcomes and strategic recommendations to client leadership, fostering long-term partnerships and supporting digital transformation initiatives.

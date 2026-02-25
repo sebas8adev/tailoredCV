@@ -1,0 +1,70 @@
+# Global Information
+HIRING_MANAGER: Hiring Manager
+COMPANY_NAME: Eagle Family Foods
+JOB_ROLE: Manager, Project Management & Portfolio
+COMPANY_NAME: Eagle Family Foods
+APPLICATION_DATE: July 30, 2025
+
+# Cover Letter Content
+SUBJECT: Application for Manager, Project Management & Portfolio at Eagle Family Foods
+CONTENT: <p>I am writing to express my keen interest in the Manager, Project Management & Portfolio position at Eagle Family Foods, as advertised on LinkedIn.  Eagle Family Foods' commitment to innovation and excellence in the food industry deeply resonates with my passion for driving impactful projects and fostering high-performing teams.</p>
+
+<p>Throughout my 10+ years of experience leading complex projects across diverse industries—including  finance, healthcare, retail, travel/hospitality, and media—I have consistently delivered exceptional results while adhering to strict budgets and timelines.  My adaptive approach to project management, leveraging both Agile (SAFe, Scrum, Kanban) and traditional methodologies, allows me to tailor strategies to various project needs and company cultures.</p>
+
+<p>For example, at Globant, I spearheaded the development and launch of several critical features for Royal Caribbean's Guest App, resulting in on-time and within-budget project delivery.  This involved managing 100+ engineers across various global locations using SAFe and Scrum, ensuring seamless collaboration and effective communication with C-level stakeholders.</p>
+
+<p>Similarly, at Mango-Soft, I oversaw the implementation of cloud-based solutions for several healthcare clients, improving their operational efficiency significantly. This involved managing the entire software development life cycle, from concept to deployment, while adhering to strict regulatory compliance.</p>
+
+<p>My experience managing large-scale projects and fostering cross-functional collaboration, coupled with my proven ability to mentor junior team members, aligns perfectly with the requirements of this role. I am confident in my ability to successfully lead and manage your team while contributing to Eagle Family Foods' continued growth and innovation.</p>
+
+---END_SECTION---
+
+# CV Content
+CAREER_SUMMARY: Adaptive Project Management professional with 10+ years of experience leading global teams and delivering complex digital transformations across various industries, including CPG.  Expert in Agile and traditional methodologies, with a proven track record of improving performance and managing large-scale staffing and project portfolios.
+SKILLS_TITLE_1: Project Management Expertise
+SKILLS_DESC_1: Agile (SAFe, Scrum, Kanban), Waterfall, Stage-Gate, PMP, Risk Management, Budget Management, Scope Definition, Stakeholder Management, Portfolio Management, Cross-functional Collaboration
+SKILLS_TITLE_2: Technology & Platforms
+SKILLS_DESC_2: Cloud (AWS, GCP, Azure), AI Integration, Data Migration, Software Development Lifecycle (SDLC), Smartsheet, Power BI, Microsoft Project
+SKILLS_TITLE_3: Leadership & Communication
+SKILLS_DESC_3: Team Leadership, Mentoring, Executive Reporting, Presentation Skills, Communication Strategy, Process Improvement, Capacity Planning, Decision-Making
+SKILLS_TITLE_4: Certifications
+SKILLS_DESC_4: PMP, SAFe 6 Agilist, A-CSM, CSPO
+
+---END_SECTION---
+
+# Work Experience - Globant
+JOB_TITLE_GLOBANT: Senior Project Manager
+COMPANY_SUMMARY_GLOBANT: A global leader in AI-powered software development and digital transformation consulting, serving 1000+ clients worldwide.
+COMPANY_BULLET_1_GLOBANT: Led the technical project management and Scrum Master function for Royal Caribbean's Guest App development. Managed 30+ engineers across multiple global locations, delivering all features on-time and within budget.
+COMPANY_BULLET_2_GLOBANT: Drove a 40% performance improvement in Dick's Sporting Goods' ecommerce platform by implementing Core Web Vitals optimizations. Led the Scrum of Scrums, managing 30+ engineers.
+COMPANY_BULLET_3_GLOBANT: Successfully managed the full project lifecycle for Banco de Chile's Metaverse Branch project, including team allocation for 100+ resources and effective stakeholder management.
+COMPANY_BULLET_4_GLOBANT: Defined and implemented the AI Agent model for British Airlines' mobile app, including initial estimation, roadmap creation, and initial backlog for 10 sprints.
+
+
+# Work Experience - Mango-soft
+JOB_TITLE_MANGOSOFT: Technical Project Manager
+COMPANY_SUMMARY_MANGOSOFT:  A software development firm specializing in cloud-based solutions for healthcare and media.
+COMPANY_BULLET_1_MANGOSOFT: Implemented cloud-based solutions (AWS) for Concacaf and MLS, delivering streaming services and news platforms on time and within budget.  Managed 10+ engineers.
+COMPANY_BULLET_2_MANGOSOFT: Developed and deployed a voice-to-text system for several Colombian healthcare clients, enhancing the speed and efficiency of clinical documentation.  Managed 10+ engineers.
+COMPANY_BULLET_3_MANGOSOFT:  Successfully managed the integration of medical imaging systems with AWS, improving patient data access and operational workflows for multiple healthcare clients.
+
+# Work Experience - TIPI
+JOB_TITLE_TIPI: Technical Project Manager
+COMPANY_SUMMARY_TIPI: A software and hardware solutions provider for government and healthcare.
+COMPANY_BULLET_1_TIPI: Led the development and deployment of a bodycam system for the Colombian Police, managing 10+ engineers and delivering a fully functional system for 3000+ devices.
+COMPANY_BULLET_2_TIPI: Successfully implemented a nurse-call and asset-tracking system across 10+ clinics, improving communication and resource management. Managed 10+ engineers.
+COMPANY_BULLET_3_TIPI: Developed a patient flow tracking board, integrating with existing hospital systems to improve patient throughput and reduce wait times.
+
+# Work Experience - itBigBoss
+JOB_TITLE_ITBIGBOSS: Technical Project Manager
+COMPANY_SUMMARY_ITBIGBOSS: A software house providing SaaS POS solutions for various industries.
+COMPANY_BULLET_1_ITBIGBOSS: Developed and deployed a POS system for 1000+ small businesses across Latin America, managing 30+ engineers and optimizing operations for diverse clients.
+COMPANY_BULLET_2_ITBIGBOSS:  Led the full SDLC for the POS system, integrating diverse technologies including biometrics and payment processing systems.
+COMPANY_BULLET_3_ITBIGBOSS: Successfully managed the operational support and workflow for the POS system, ensuring smooth operations for a large customer base.
+
+# Work Experience - Bodytech
+JOB_TITLE_BODYTECH: IT Manager
+COMPANY_SUMMARY_BODYTECH: A leading health and fitness company with multiple locations in Colombia, Peru and Chile.
+COMPANY_BULLET_1_BODYTECH: Managed the implementation of an access control system across 60+ sites, improving security and operational efficiency.
+COMPANY_BULLET_2_BODYTECH: Led the development and deployment of a CRM and billing system, enhancing customer management and revenue tracking.
+COMPANY_BULLET_3_BODYTECH: Successfully implemented and managed an IT service desk, providing technical support to users across multiple sites.

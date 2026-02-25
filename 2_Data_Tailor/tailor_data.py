@@ -4,6 +4,7 @@ import os
 import sys
 import re
 import google.generativeai as genai
+from google.generativeai.types import HarmCategory, HarmBlockThreshold
 
 # --- Dynamic Path Configuration ---
 SCRIPT_DIR = os.path.dirname(os.path.realpath(__file__))
@@ -18,7 +19,6 @@ def get_specific_status(file_path, status_key):
         with open(file_path, 'r', encoding='utf-8') as f:
             for line in f:
                 if line.lower().strip().startswith(status_key.lower() + ":"):
-                    # --- THIS IS THE CORRECTED LINE ---
                     return line.split(":", 1)[1].strip().lower()
     except FileNotFoundError:
         return "not_found"
@@ -48,8 +48,10 @@ def main():
     if not api_key:
         print("ERROR: GOOGLE_API_KEY environment variable not found."); sys.exit(1)
     genai.configure(api_key=api_key)
-    model = genai.GenerativeModel('gemini-2.5-pro')
-    print("Successfully configured Google AI with model 'gemini-2.5-pro'.")
+    
+    # --- FIX 1: Use a confirmed, stable model name ---
+    model = genai.GenerativeModel('gemini-1.5-flash-latest')
+    print("Successfully configured Google AI with model 'gemini-1.5-flash-latest'.")
 
     try:
         with open(PREPROMPT_PATH, 'r', encoding='utf-8') as f: preprompt = f.read()
@@ -79,7 +81,18 @@ def main():
                     final_prompt = f"{preprompt}\n\n{main_prompt}\n\n--- JOB DESCRIPTION ---\n\n{job_description_content}"
                     
                     print("  > Sending prompt to Google AI...")
-                    response = model.generate_content(final_prompt)
+                    
+                    # --- FIX 2: Add safety settings to prevent the model from blocking the response ---
+                    safety_settings = {
+                        HarmCategory.HARM_CATEGORY_HARASSMENT: HarmBlockThreshold.BLOCK_NONE,
+                        HarmCategory.HARM_CATEGORY_HATE_SPEECH: HarmBlockThreshold.BLOCK_NONE,
+                        HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: HarmBlockThreshold.BLOCK_NONE,
+                        HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: HarmBlockThreshold.BLOCK_NONE,
+                    }
+
+                    response = model.generate_content(final_prompt, safety_settings=safety_settings)
+                    
+                    # Accessing text after confirming the response is valid
                     ai_output = re.sub(r'```(text|markdown|)?', '', response.text).strip()
 
                     data_txt_path = os.path.join(opportunity_path, 'data.txt')

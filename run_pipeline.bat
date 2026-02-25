@@ -13,6 +13,18 @@ echo  STARTING JOB APPLICATION PIPELINE AT %TIME%
 echo =================================================
 echo.
 
+:validate_chrome
+echo.
+echo "--- Checking for Chrome Scrapper Debugger instance ---"
+tasklist /FI "WINDOWTITLE eq Chrome Personal LinkedIn Debugger*" | find "chrome.exe" > nul
+IF ERRORLEVEL 1 (
+    echo "  - Starting new Chrome instance..."
+    START "Chrome Scrapper Debugger" chrome.bat
+    timeout /t 10 /nobreak > nul
+) ELSE (
+    echo "  - Chrome is already running."
+)
+
 :: --- STEP 0: ACTIVATE THE VIRTUAL ENVIRONMENT ---
 echo [STEP 0] Activating the Python virtual environment...
 
@@ -28,6 +40,21 @@ call "venv\Scripts\activate.bat"
 echo [STEP 0] Virtual environment activated.
 echo.
 
+:: --- PHASE 0: SCRAPE LINKEDIN FOR NETWORKING ---
+echo [PHASE 0] Running the Linkedin Networking Bot...
+:: Now that venv is active, we just use 'python'
+python "0_LinkedIn_Networking\scrape_linkedin_networking_bot.py"
+
+if %errorlevel% neq 0 (
+    echo [ERROR] The Networking Scraper script failed. Aborting the pipeline.
+    goto end
+)
+echo [PHASE 0] Scraper completed.
+echo.
+
+::Temporary debug break
+goto end
+
 
 :: --- PHASE 1: SCRAPE LINKEDIN FOR NEW OPPORTUNITIES ---
 echo [PHASE 1] Running the LinkedIn Scraper...
@@ -40,6 +67,8 @@ if %errorlevel% neq 0 (
 )
 echo [PHASE 1] Scraper completed.
 echo.
+
+
 
 
 :: --- PHASE 2: TAILOR DATA WITH GOOGLE AI ---
