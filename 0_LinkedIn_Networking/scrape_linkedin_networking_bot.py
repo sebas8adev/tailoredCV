@@ -4,6 +4,7 @@ import os
 import time
 import json
 import datetime
+import pytz
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
@@ -115,6 +116,20 @@ def connect_to_chrome():
 
 def wish_birthdays(driver):
     """Navigates to the birthday page and sends wishes."""
+    # --- Timezone Check ---
+    try:
+        est_tz = pytz.timezone('America/New_York')
+        now_est = datetime.datetime.now(est_tz)
+        
+        start_hour = 9
+        end_hour = 17
+
+        if not (start_hour <= now_est.hour < end_hour):
+            print(f"Current time ({now_est.strftime('%H:%M:%S %Z')}) is outside the operational window ({start_hour}:00 to {end_hour}:00 EST). Skipping birthday wishes.")
+            return
+    except Exception as e:
+        print(f"Could not perform timezone check due to an error: {e}. Proceeding with caution.")
+        
     print("--- Phase 0: Wishing Birthdays ---")
     driver.get(BIRTHDAY_URL)
     print("Navigated to birthdays page. Waiting for 5 seconds...")
