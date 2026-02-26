@@ -20,6 +20,7 @@ PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
 BIRTHDAY_LOG_FILE_JSON = os.path.join(PROJECT_ROOT, 'birthday_log.json')
 NEWS_LOG_FILE_JSON = os.path.join(PROJECT_ROOT, 'news_log.json')
 LIKED_POSTS_LOG_JSON = os.path.join(PROJECT_ROOT, 'liked_posts_log.json')
+CONNECTION_LOG_FILE_JSON = os.path.join(PROJECT_ROOT, 'connection_log.json')
 BIRTHDAY_LOG_FILE_OLD = os.path.join(PROJECT_ROOT, 'birthday_log.txt')
 BIRTHDAY_URL = "https://www.linkedin.com/mynetwork/catch-up/birthday/"
 
@@ -69,17 +70,48 @@ def save_liked_posts_log(log_data):
     with open(LIKED_POSTS_LOG_JSON, 'w', encoding='utf-8') as f:
         json.dump(log_data, f, indent=4, ensure_ascii=False)
 
-def connect_to_chrome():
-    """Establishes a connection to the running Chrome debugger instance."""
+def load_connection_log():
+    """Loads connection log from JSON file. Returns a list of log entry dicts."""
+    if not os.path.exists(CONNECTION_LOG_FILE_JSON):
+        return []
     try:
-        chrome_options = Options()
-        chrome_options.add_experimental_option("debuggerAddress", "127.0.0.1:9222")
-        driver = webdriver.Chrome(options=chrome_options)
-        print("Successfully connected to the browser.")
-        return driver
-    except Exception as e:
-        print(f"FATAL: Could not connect to Chrome. Error: {e}")
-        return None
+        with open(CONNECTION_LOG_FILE_JSON, 'r', encoding='utf-8') as f:
+            # Handle empty file case
+            content = f.read()
+            if not content:
+                return []
+            return json.loads(content)
+    except (json.JSONDecodeError, FileNotFoundError):
+        return []
+
+def save_connection_log(log_data):
+    """Saves the entire log data list (of dicts) to the JSON file."""
+    with open(CONNECTION_LOG_FILE_JSON, 'w', encoding='utf-8') as f:
+        json.dump(log_data, f, indent=4, ensure_ascii=False)
+
+def connect_to_chrome():
+    """Establishes a connection to the running Chrome debugger instance with retries."""
+    print("Attempting to connect to Chrome...")
+    retries = 10
+    wait_time = 3 # seconds
+    for i in range(retries):
+        try:
+            chrome_options = Options()
+            chrome_options.add_experimental_option("debuggerAddress", "127.0.0.1:9222")
+            driver = webdriver.Chrome(options=chrome_options)
+            
+            # Verify the connection is stable
+            _ = driver.title
+            print(f"Successfully connected to browser with title: '{driver.title}'")
+            return driver
+        except Exception as e:
+            print(f"Connection attempt {i+1}/{retries} failed.")
+            if i < retries - 1:
+                print(f"Retrying in {wait_time} seconds...")
+                time.sleep(wait_time)
+            else:
+                print(f"FATAL: Could not connect to Chrome after multiple retries. Error: {e}")
+                return None
 
 def wish_birthdays(driver):
     """Navigates to the birthday page and sends wishes."""
@@ -93,8 +125,6 @@ def wish_birthdays(driver):
     print(f"Loaded {len(log_data)} log entries.")
     
     actions = ActionChains(driver)
-    # driver.find_element(By.TAG_NAME, 'body').click()
-    time.sleep(1)
 
     wished_count = 0
     max_tabs_without_finding_new_person = 150 
@@ -210,8 +240,6 @@ def like_job_changes(driver):
     time.sleep(5)
 
     actions = ActionChains(driver)
-    # driver.find_element(By.TAG_NAME, 'body').click()
-    time.sleep(1)
 
     liked_count = 0
     max_tabs_without_finding_new_card = 150
@@ -271,8 +299,6 @@ def like_work_anniversaries(driver):
     time.sleep(5)
 
     actions = ActionChains(driver)
-    # driver.find_element(By.TAG_NAME, 'body').click()
-    # time.sleep(1)
 
     liked_count = 0
     max_tabs_without_finding_new_card = 150
@@ -332,8 +358,6 @@ def like_education_updates(driver):
     time.sleep(5)
 
     actions = ActionChains(driver)
-    # driver.find_element(By.TAG_NAME, 'body').click() # Assuming similar behavior to anniversaries page
-    # time.sleep(1)
 
     liked_count = 0
     max_tabs_without_finding_new_card = 150
@@ -378,8 +402,87 @@ def like_education_updates(driver):
 
     print("--- Education update liking complete ---")
 
+
+def view_connection_profiles(driver, base_search_url, keyword):
+    """
+    Navigates through paginated search results for a given keyword to find, and view new profiles.
+    """
+    print(f"--- Phase 4: Viewing Profiles for keyword '{keyword}' ---")
+    
+    profile_urls_to_visit = []
+    
+    # Load the full log data, and create a set of just the URLs for efficient checking
+    processed_log_data = load_connection_log()
+    processed_urls = {entry['url'] for entry in processed_log_data}
+    
+    # 1. Iterate through pages to find new people
+    print("Scanning search result pages for new profiles...")
+    for page_num in range(1, 6): # Pages 1 to 5
+        if len(profile_urls_to_visit) >= 15:
+            break
+        print(f"Scanning page {page_num}...")
+        driver.get(base_search_url + str(page_num))
+        time.sleep(5)
+        profile_cards = driver.find_elements(By.CSS_SELECTOR, "div[data-view-name='search-entity-result-universal-template']")
+
+        for card in profile_cards:
+            if len(profile_urls_to_visit) >= 15:
+                break
+            try:
+                card.find_element(By.CSS_SELECTOR, "button[aria-label*='Invite']")
+                profile_link_element = card.find_element(By.CSS_SELECTOR, "a[href*='/in/']")
+                profile_url = profile_link_element.get_attribute('href').split('?')[0]
+                if profile_url not in processed_urls and profile_url not in profile_urls_to_visit:
+                    profile_urls_to_visit.append(profile_url)
+            except NoSuchElementException:
+                continue
+
+    print(f"Finished scanning. Found {len(profile_urls_to_visit)} new profiles to visit.")
+
+    # 2. Visit pages, scrape data, and log
+    viewed_count = 0
+    for url in profile_urls_to_visit:
+        print(f"Viewing and scraping profile {viewed_count + 1}/{len(profile_urls_to_visit)}: {url}")
+        driver.get(url)
+        time.sleep(5) # Wait for page to load
+
+        # --- Scrape data ---
+        name, role, about_text, company = None, None, None, None
+
+        # Per user request, we are temporarily disabling the complex scraping logic 
+        # to focus on just visiting and logging the URL and timestamp.
+        name, role, about_text, company = None, None, None, None
+
+        # Create the new log entry object
+        new_log_entry = {
+            "url": url,
+            "dateTimeVisited": datetime.datetime.now().isoformat(),
+            "name": name,
+            "role": role,
+            "company": company, # Intentionally left null for now
+            "about": about_text,
+            "connectionSent": False
+        }
+        
+        processed_log_data.append(new_log_entry)
+        save_connection_log(processed_log_data)
+        viewed_count += 1
+        print(f"Logged scraped data for {url}. Now starting wait period.")
+
+        wait_time_seconds = 75
+        print(f"Waiting for {wait_time_seconds} seconds...")
+        time.sleep(wait_time_seconds)
+
+    if viewed_count > 0:
+        print(f"Successfully viewed and scraped {viewed_count} profiles.")
+    else:
+        print("No new profiles to view/scrape were found within the first 5 pages.")
+        
+    print("--- Profile viewing and scraping complete ---")
+
+
 def share_linkedin_news(driver):
-    print("--- Phase 4: Sharing LinkedIn News ---")
+    print("--- Phase 5: Sharing LinkedIn News ---")
     driver.get("https://www.linkedin.com/feed/")
     print("Navigated to LinkedIn feed. Waiting for 5 seconds...")
     time.sleep(5)
@@ -456,7 +559,7 @@ def share_linkedin_news(driver):
     print("--- LinkedIn News sharing complete ---")
 
 def like_search_results(driver, search_url, keyword):
-    print(f"--- Phase 5: Liking from Search Results for '{keyword}' ---")
+    print(f"--- Phase 6: Liking from Search Results for '{keyword}' ---")
     
     # 1. Navigate to URL
     driver.get(search_url)
@@ -464,8 +567,7 @@ def like_search_results(driver, search_url, keyword):
     time.sleep(7) # Give it a bit more time for posts to load
 
     actions = ActionChains(driver)
-    driver.find_element(By.TAG_NAME, 'body').click()
-    time.sleep(1)
+
     processed_urns = load_liked_posts_log()
     liked_this_session = 0
     
@@ -507,7 +609,7 @@ def like_search_results(driver, search_url, keyword):
                 time.sleep(5) # Per user request
                 
                 liked_this_session += 1
-                if liked_this_session >= 20: # Safety break for the session
+                if liked_this_session >= 5: # Safety break for the session
                     print(f"Liked 20 posts for '{keyword}' this session. Stopping.")
                     break
                     
@@ -538,24 +640,32 @@ def main():
     like_job_changes(driver)
     like_work_anniversaries(driver)
     like_education_updates(driver)
+    
+    search_tasks = {
+        "project manager": "https://www.linkedin.com/search/results/people/?keywords=project%20manager&network=%5B%22S%22%5D&origin=FACETED_SEARCH&page=",
+        "hiring": "https://www.linkedin.com/search/results/people/?keywords=hiring&network=%5B%22S%22%5D&origin=FACETED_SEARCH&page=",
+        "recruiter": "https://www.linkedin.com/search/results/people/?keywords=recruiter&network=%5B%22S%22%5D&origin=GLOBAL_SEARCH_HEADER&page=",
+        "scrum": "https://www.linkedin.com/search/results/people/?keywords=scrum&network=%5B%22S%22%5D&origin=GLOBAL_SEARCH_HEADER&page=",
+        "safe": "https://www.linkedin.com/search/results/people/?keywords=safe&network=%5B%22S%22%5D&origin=GLOBAL_SEARCH_HEADER&page="
+    }
+    
+    for keyword, url in search_tasks.items():
+        view_connection_profiles(driver, url, keyword)
     # share_linkedin_news(driver)
 
-    search_url_ai = "https://www.linkedin.com/search/results/content/?keywords=AI%25&origin=FACETED_SEARCH&sid=0Q4&sortBy=%22date_posted%22"
-    search_url_tech = "https://www.linkedin.com/search/results/content/?keywords=tech%25&origin=FACETED_SEARCH&sid=0Q4&sortBy=%22date_posted%22"
-    search_url_pmp = "https://www.linkedin.com/search/results/content/?keywords=pmp%25&origin=FACETED_SEARCH&sid=0Q4&sortBy=%22date_posted%22"
-    search_url_project_manager = "https://www.linkedin.com/search/results/content/?keywords=project%25Bmanager&origin=FACETED_SEARCH&sid=0Q4&sortBy=%22date_posted%22"
-    search_url_product_management = "https://www.linkedin.com/search/results/content/?keywords=product%25Bmanagement&origin=FACETED_SEARCH&sid=0Q4&sortBy=%22date_posted%22"
-    search_url_agile = "https://www.linkedin.com/search/results/content/?keywords=agile%25&origin=FACETED_SEARCH&sid=0Q4&sortBy=%22date_posted%22"
-    search_url_safe = "https://www.linkedin.com/search/results/content/?keywords=safe%25&origin=FACETED_SEARCH&sid=0Q4&sortBy=%22date_posted%22"
+    like_tasks = {
+        "ai": "https://www.linkedin.com/search/results/content/?keywords=AI%25&origin=FACETED_SEARCH&sid=0Q4&sortBy=%22date_posted%22",
+        "tech": "https://www.linkedin.com/search/results/content/?keywords=tech%25&origin=FACETED_SEARCH&sid=0Q4&sortBy=%22date_posted%22",
+        "pmp": "https://www.linkedin.com/search/results/content/?keywords=pmp%25&origin=FACETED_SEARCH&sid=0Q4&sortBy=%22date_posted%22",
+        "project manager": "https://www.linkedin.com/search/results/content/?keywords=project%25manager&origin=FACETED_SEARCH&sid=0Q4&sortBy=%22date_posted%22",
+        "product management": "https://www.linkedin.com/search/results/content/?keywords=product%25management&origin=FACETED_SEARCH&sid=0Q4&sortBy=%22date_posted%22",
+        "agile": "https://www.linkedin.com/search/results/content/?keywords=agile%25&origin=FACETED_SEARCH&sid=0Q4&sortBy=%22date_posted%22",
+        "safe": "https://www.linkedin.com/search/results/content/?keywords=safe%25&origin=FACETED_SEARCH&sid=0Q4&sortBy=%22date_posted%22",
+        "scrum": "https://www.linkedin.com/search/results/content/?keywords=scrum%25&origin=FACETED_SEARCH&sid=0Q4&sortBy=%22date_posted%22",
+    }
 
-    # For debugging, let's just run the new one.
-    like_search_results(driver, search_url_ai, "ai")
-    like_search_results(driver, search_url_tech, "tech")
-    like_search_results(driver, search_url_pmp, "pmp")
-    like_search_results(driver, search_url_project_manager, "pm")
-    like_search_results(driver, search_url_product_management, "pmm")
-    like_search_results(driver, search_url_agile, "agile")
-    like_search_results(driver, search_url_safe, "safe")
+    for keyword, url in like_tasks.items():
+        like_search_results(driver, url, keyword)
     
     print("--- LinkedIn Networking Bot Finished ---")
 

@@ -1,44 +1,28 @@
-@echo off
-:: ============================================================================
-:: Master Pipeline Script for the Job Application Automator
-:: ============================================================================
-:: This script now ACTIVATES the virtual environment before running the pipeline.
-:: ============================================================================
+I:\Playground\techguys\tailoredCV\run_pipeline.bat@echo off
+REM --- FIX 1: Force the script to look in the correct folder ---
+cd /d "I:\Playground\techguys\tailoredCV\"
 
-:: Change the directory to the location of this batch file.
-cd /d "%~dp0"
+SETLOCAL
 
-echo =================================================
-echo  STARTING JOB APPLICATION PIPELINE AT %TIME%
-echo =================================================
-echo.
-
-:validate_chrome
-echo.
-echo "--- Checking for Chrome Scrapper Debugger instance ---"
-tasklist /FI "WINDOWTITLE eq Chrome Personal LinkedIn Debugger*" | find "chrome.exe" > nul
-IF ERRORLEVEL 1 (
-    echo "  - Starting new Chrome instance..."
-    START "Chrome Scrapper Debugger" chrome.bat
-    timeout /t 10 /nobreak > nul
-) ELSE (
-    echo "  - Chrome is already running."
+REM Check if the virtual environment directory exists.
+IF NOT EXIST .venv (
+    echo "Creating virtual environment..."
+    python -m venv .venv
+    IF ERRORLEVEL 1 (
+        echo "ERROR: Failed to create virtual environment. Exiting."
+        exit /b 1
+    )
 )
 
-:: --- STEP 0: ACTIVATE THE VIRTUAL ENVIRONMENT ---
-echo [STEP 0] Activating the Python virtual environment...
+echo "Activating virtual environment..."
+CALL .venv\Scripts\activate.bat
 
-:: Check if the venv exists
-if not exist "venv\Scripts\activate.bat" (
-    echo [ERROR] Virtual environment not found at ".\venv\".
-    echo Please create the venv first using: python -m venv venv
-    goto end
-)
+echo "Installing dependencies..."
+pip install --upgrade -r requirements.txt
 
-:: Activate the venv. The 'call' command is crucial.
-call "venv\Scripts\activate.bat"
-echo [STEP 0] Virtual environment activated.
 echo.
+echo "--- Validation Step: Checking for Chrome ---"
+CALL :validate_chrome
 
 :: --- PHASE 0: SCRAPE LINKEDIN FOR NETWORKING ---
 echo [PHASE 0] Running the Linkedin Networking Bot...
@@ -51,6 +35,18 @@ if %errorlevel% neq 0 (
 )
 echo [PHASE 0] Scraper completed.
 echo.
+
+:validate_chrome
+echo.
+echo "--- Checking for Chrome Scrapper Debugger instance ---"
+tasklist /FI "WINDOWTITLE eq Chrome Personal LinkedIn Debugger*" | find "chrome.exe" > nul
+IF ERRORLEVEL 1 (
+    echo "  - Starting new Chrome instance..."
+    START "Chrome Scrapper Debugger" chrome.bat
+) ELSE (
+    echo "  - Chrome is already running."
+)
+
 
 ::Temporary debug break
 goto end
