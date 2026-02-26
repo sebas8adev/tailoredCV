@@ -662,6 +662,12 @@ def main():
         "agile": "https://www.linkedin.com/search/results/content/?keywords=agile%25&origin=FACETED_SEARCH&sid=0Q4&sortBy=%22date_posted%22",
         "safe": "https://www.linkedin.com/search/results/content/?keywords=safe%25&origin=FACETED_SEARCH&sid=0Q4&sortBy=%22date_posted%22",
         "scrum": "https://www.linkedin.com/search/results/content/?keywords=scrum%25&origin=FACETED_SEARCH&sid=0Q4&sortBy=%22date_posted%22",
+        "systems": "https://www.linkedin.com/search/results/content/?keywords=systems%25&origin=FACETED_SEARCH&sid=0Q4&sortBy=%22date_posted%22",
+        "robot": "https://www.linkedin.com/search/results/content/?keywords=robot%25&origin=FACETED_SEARCH&sid=0Q4&sortBy=%22date_posted%22",
+        "future": "https://www.linkedin.com/search/results/content/?keywords=future%25&origin=FACETED_SEARCH&sid=0Q4&sortBy=%22date_posted%22",
+        "innovation": "https://www.linkedin.com/search/results/content/?keywords=innovation%25&origin=FACETED_SEARCH&sid=0Q4&sortBy=%22date_posted%22",
+        "digital": "https://www.linkedin.com/search/results/content/?keywords=digital%25&origin=FACETED_SEARCH&sid=0Q4&sortBy=%22date_posted%22",
+        "transformation": "https://www.linkedin.com/search/results/content/?keywords=transformation%25&origin=FACETED_SEARCH&sid=0Q4&sortBy=%22date_posted%22",
     }
 
     for keyword, url in like_tasks.items():
