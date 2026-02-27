@@ -4,6 +4,7 @@ import os
 import time
 import json
 import datetime
+import random
 import pytz
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -132,8 +133,8 @@ def wish_birthdays(driver):
         
     print("--- Phase 0: Wishing Birthdays ---")
     driver.get(BIRTHDAY_URL)
-    print("Navigated to birthdays page. Waiting for 5 seconds...")
-    time.sleep(5)
+    print("Navigated to birthdays page. Waiting for a random time...")
+    time.sleep(random.uniform(3, 7))
     
     log_data = load_log()
     processed_today_set = {(entry['fullName'], entry['date']) for entry in log_data}
@@ -141,14 +142,42 @@ def wish_birthdays(driver):
     
     actions = ActionChains(driver)
 
+    same_day_messages = [
+        "Happy Birthday, [Name]! Wishing you a fantastic day and a highly successful year ahead.",
+        "Wishing you the happiest of birthdays, [Name]! Hope you get some time to unplug and celebrate today.",
+        "Happy Birthday, [Name]! Always great having you in my network. Have a wonderful day!",
+        "Have a fantastic birthday, [Name]! Wishing you all the best both personally and professionally this year.",
+        "Happy Birthday! Hope you get to enjoy some great food and good company today, [Name].",
+        "Wishing you a very happy birthday, [Name]! Hope this next year brings you lots of great opportunities.",
+        "Happy Birthday, [Name]! Make sure you take some time to celebrate yourself today.",
+        "Have a wonderful birthday, [Name]! Hope this next trip around the sun is your best one yet.",
+        "Happy Birthday, [Name]! Wishing you a great day and a year full of big wins.",
+        "Wishing you a fantastic birthday today, [Name]! Keep up the great work this year."
+    ]
+
+    belated_messages = [
+        "Happy belated birthday, [Name]! I hope you had a wonderful time celebrating.",
+        "Happy belated, [Name]! Sorry I missed the actual day, but I hope it was a great one.",
+        "Wishing you a happy belated birthday, [Name]! I hope the celebrations are still going strong.",
+        "Happy belated birthday, [Name]! Hope you got to take some time offline to enjoy it.",
+        "Sorry to miss the big day, but happy belated birthday, [Name]! Wishing you a fantastic year ahead.",
+        "Happy belated birthday,[Name]! I’m a little late to the party, but wishing you nothing but the best this year.",
+        "Wishing you a happy belated birthday, [Name]! Hope this coming year is full of great projects and personal wins.",
+        "Happy belated, [Name]! Always great being connected here. Hope you had a fantastic time celebrating.",
+        "Happy belated birthday, [Name]! Hope it was a memorable one and that you have a great year ahead.",
+        "Wishing you a happy belated birthday, [Name]! Hope you had a great day surrounded by friends and family."
+    ]
+
     wished_count = 0
-    max_tabs_without_finding_new_person = 150 
+    daily_limit = random.randint(1, 8)
+    print(f"Today's birthday wish limit is set to {daily_limit}.")
+    max_tabs_without_finding_new_person = random.randint(50, 150)
     tabs_count = 0
 
     while tabs_count < max_tabs_without_finding_new_person:
         actions.send_keys(Keys.TAB).perform()
         tabs_count += 1
-        time.sleep(0.2)
+        time.sleep(random.uniform(0.5, 0.9))
 
         try:
             active_element = driver.switch_to.active_element
@@ -166,46 +195,50 @@ def wish_birthdays(driver):
                     print(f"Skipping {name}, already wished today ({today_str}).")
                     continue
 
-                if wished_count >= 20:
-                    print("Reached the processing limit of 20 people for this run. Stopping.")
+                if wished_count >= daily_limit:
+                    print(f"Reached the processing limit of {daily_limit} people for this run. Stopping.")
                     break
 
                 print(f"Found unprocessed birthday for: {name}")
                 tabs_count = 0 # Reset counter
 
-                birthday_type = "birthday"
                 first_name = name.split()[0]
-                new_message = f"Wishing you a very Happy Birthday, {first_name}! I hope you’re taking some well-deserved time to celebrate. Here’s to a year of great projects and continued success!"
                 
                 if "belated" in aria_label.lower():
                     birthday_type = "belated birthday"
-                    new_message = f"Happy belated birthday, {first_name}! Hope you had a fantastic day. I’m looking forward to seeing all the great things you and your team accomplish this year!"
+                    message_template = random.choice(belated_messages)
+                    new_message = message_template.replace("[Name]", first_name)
                     print("Identified as a belated birthday.")
+                else:
+                    birthday_type = "birthday"
+                    message_template = random.choice(same_day_messages)
+                    new_message = message_template.replace("[Name]", first_name)
+
 
                 active_element.send_keys(Keys.ENTER)
                 print("Pressed Enter. Waiting for message dialog to appear...")
-                time.sleep(5)
+                time.sleep(random.uniform(1, 3))
 
                 try:
                     print("Assuming focus is now on the message box.")
                     actions.key_down(Keys.CONTROL).send_keys('a').key_up(Keys.CONTROL).send_keys(Keys.DELETE).perform()
                     print("Cleared default message.")
-                    time.sleep(1)
+                    time.sleep(random.uniform(1, 3))
                     
                     actions.send_keys(new_message).perform()
                     print(f"Typed new message: '{new_message}'")
-                    time.sleep(5)
+                    time.sleep(random.uniform(1, 3))
 
                     print("Following hardcoded tabbing strategy...")
                     send_button_found = False
                     
                     for i in range(5):
                         actions.send_keys(Keys.TAB).perform()
-                        time.sleep(0.2)
+                        time.sleep(random.uniform(0.5, 0.9))
                         print(f"Tab {i+1}/5")
                     
                     print("Now focused on the presumed 'Send' button. Waiting 5 seconds...")
-                    time.sleep(5)
+                    time.sleep(random.uniform(1, 3))
                     
                     actions.send_keys(Keys.ENTER).perform()
                     print("Sent Enter key.")
@@ -220,17 +253,17 @@ def wish_birthdays(driver):
                     processed_today_set.add((name, today_str))
                     print(f"Logged {name} as processed for {today_str}.")
                     wished_count += 1
-                    time.sleep(10)
+                    time.sleep(random.randint(480, 1080))
 
                     print("Message sent. Reloading birthdays page to refresh the list...")
                     driver.get(BIRTHDAY_URL)
                     print("Page reloaded. Waiting 5 seconds to load...")
-                    time.sleep(5)
+                    time.sleep(random.uniform(3, 7))
 
                 except Exception as e:
                     print(f"Error: An error occurred while handling the message dialog for {name}: {e}")
                     driver.find_element(By.TAG_NAME, 'body').send_keys(Keys.ESCAPE)
-                    time.sleep(2)
+                    time.sleep(random.uniform(1, 3))
 
         except NoSuchElementException:
             continue
@@ -251,19 +284,21 @@ def like_job_changes(driver):
     print("--- Phase 1: Liking Job Changes ---")
     job_changes_url = "https://www.linkedin.com/mynetwork/catch-up/job_changes/"
     driver.get(job_changes_url)
-    print("Navigated to job changes page. Waiting for 5 seconds...")
-    time.sleep(5)
+    print("Navigated to job changes page. Waiting for a random time...")
+    time.sleep(random.uniform(3, 7))
 
     actions = ActionChains(driver)
 
     liked_count = 0
-    max_tabs_without_finding_new_card = 150
+    daily_limit = random.randint(1, 3)
+    print(f"Today's job change like limit is set to {daily_limit}.")
+    max_tabs_without_finding_new_card = random.randint(50, 150)
     tabs_count = 0
 
     while tabs_count < max_tabs_without_finding_new_card:
         actions.send_keys(Keys.TAB).perform()
         tabs_count += 1
-        time.sleep(0.2)
+        time.sleep(random.uniform(0.5, 0.9))
 
         try:
             active_element = driver.switch_to.active_element
@@ -278,14 +313,14 @@ def like_job_changes(driver):
                 tabs_count = 0  # Reset counter
 
                 # SAFETY LIMIT: Stop after processing 20 people in a single run.
-                if liked_count >= 20:
-                    print("Reached the processing limit of 20 likes for this run. Stopping.")
+                if liked_count >= daily_limit:
+                    print(f"Reached the processing limit of {daily_limit} likes for this run. Stopping.")
                     break
 
                 active_element.send_keys(Keys.ENTER)
                 print("Pressed Enter to like the post.")
                 liked_count += 1
-                time.sleep(2)  # Wait a bit before continuing
+                time.sleep(random.uniform(1, 3))  # Wait a bit before continuing
 
             except NoSuchElementException:
                 # This active element doesn't contain the like button we're looking for.
@@ -310,19 +345,21 @@ def like_work_anniversaries(driver):
     print("--- Phase 2: Liking Work Anniversaries ---")
     work_anniversaries_url = "https://www.linkedin.com/mynetwork/catch-up/work_anniversaries/"
     driver.get(work_anniversaries_url)
-    print("Navigated to work anniversaries page. Waiting for 5 seconds...")
-    time.sleep(5)
+    print("Navigated to work anniversaries page. Waiting for a random time...")
+    time.sleep(random.uniform(3, 7))
 
     actions = ActionChains(driver)
 
     liked_count = 0
-    max_tabs_without_finding_new_card = 150
+    daily_limit = random.randint(2, 6)
+    print(f"Today's work anniversary like limit is set to {daily_limit}.")
+    max_tabs_without_finding_new_card = random.randint(50, 150)
     tabs_count = 0
 
     while tabs_count < max_tabs_without_finding_new_card:
         actions.send_keys(Keys.TAB).perform()
         tabs_count += 1
-        time.sleep(0.2)
+        time.sleep(random.uniform(0.5, 0.9))
 
         try:
             active_element = driver.switch_to.active_element
@@ -337,14 +374,14 @@ def like_work_anniversaries(driver):
                 tabs_count = 0  # Reset counter
 
                 # SAFETY LIMIT: Stop after processing 20 people in a single run.
-                if liked_count >= 20:
-                    print("Reached the processing limit of 20 likes for this run. Stopping.")
+                if liked_count >= daily_limit:
+                    print(f"Reached the processing limit of {daily_limit} likes for this run. Stopping.")
                     break
 
                 active_element.send_keys(Keys.ENTER)
                 print("Pressed Enter to like the post.")
                 liked_count += 1
-                time.sleep(2)  # Wait a bit before continuing
+                time.sleep(random.uniform(1, 3))  # Wait a bit before continuing
 
             except NoSuchElementException:
                 # This active element doesn't contain the like button we're looking for.
@@ -369,19 +406,21 @@ def like_education_updates(driver):
     print("--- Phase 3: Liking Education Updates ---")
     education_updates_url = "https://www.linkedin.com/mynetwork/catch-up/education/"
     driver.get(education_updates_url)
-    print("Navigated to education updates page. Waiting for 5 seconds...")
-    time.sleep(5)
+    print("Navigated to education updates page. Waiting for a random time...")
+    time.sleep(random.uniform(3, 7))
 
     actions = ActionChains(driver)
 
     liked_count = 0
-    max_tabs_without_finding_new_card = 150
+    daily_limit = random.randint(1, 3)
+    print(f"Today's education update like limit is set to {daily_limit}.")
+    max_tabs_without_finding_new_card = random.randint(50, 150)
     tabs_count = 0
 
     while tabs_count < max_tabs_without_finding_new_card:
         actions.send_keys(Keys.TAB).perform()
         tabs_count += 1
-        time.sleep(0.2)
+        time.sleep(random.uniform(0.5, 0.9))
 
         try:
             active_element = driver.switch_to.active_element
@@ -392,14 +431,14 @@ def like_education_updates(driver):
                 print("Found an un-liked education update.")
                 tabs_count = 0  # Reset counter
 
-                if liked_count >= 20:
-                    print("Reached the processing limit of 20 likes for this run. Stopping.")
+                if liked_count >= daily_limit:
+                    print(f"Reached the processing limit of {daily_limit} likes for this run. Stopping.")
                     break
 
                 active_element.send_keys(Keys.ENTER)
                 print("Pressed Enter to like the post.")
                 liked_count += 1
-                time.sleep(2)  # Wait a bit before continuing
+                time.sleep(random.uniform(1, 3))  # Wait a bit before continuing
 
             except NoSuchElementException:
                 continue
@@ -509,7 +548,7 @@ def share_linkedin_news(driver):
     print("Tabbing to find LinkedIn News module...")
     for i in range(200): # Safety limit
         actions.send_keys(Keys.TAB).perform()
-        time.sleep(0.2)
+        time.sleep(random.randint(1, 9))
         try:
             active_element = driver.switch_to.active_element
             # Check if we've landed inside the news module
@@ -551,7 +590,7 @@ def share_linkedin_news(driver):
     share_button_found = False
     for i in range(150): # Safety limit
         actions.send_keys(Keys.TAB).perform()
-        time.sleep(0.2)
+        time.sleep(random.randint(8, 38))
         try:
             active_element = driver.switch_to.active_element
             if active_element.get_attribute("aria-label") == "Open share menu":
@@ -589,7 +628,7 @@ def like_search_results(driver, search_url, keyword):
     # Main tabbing loop
     for i in range(500): # Generous tabbing limit
         actions.send_keys(Keys.TAB).perform()
-        time.sleep(0.2)
+        time.sleep(random.randint(8, 38))
         
         try:
             active_element = driver.switch_to.active_element
@@ -651,10 +690,21 @@ def main():
     if not driver:
         return
 
-    wish_birthdays(driver)
-    like_job_changes(driver)
-    like_work_anniversaries(driver)
-    like_education_updates(driver)
+    tasks = [
+        wish_birthdays,
+        like_job_changes,
+        like_work_anniversaries,
+        like_education_updates
+    ]
+
+    random.shuffle(tasks)
+
+    for i, task in enumerate(tasks):
+        task(driver)
+        if i < len(tasks) - 1:  # Don't sleep after the last task
+            sleep_time = random.randint(180, 900)
+            print(f"Waiting for {sleep_time // 60} minutes and {sleep_time % 60} seconds before the next task...")
+            time.sleep(sleep_time)
     
     search_tasks = {
         "project manager": "https://www.linkedin.com/search/results/people/?keywords=project%20manager&network=%5B%22S%22%5D&origin=FACETED_SEARCH&page=",
@@ -664,9 +714,9 @@ def main():
         "safe": "https://www.linkedin.com/search/results/people/?keywords=safe&network=%5B%22S%22%5D&origin=GLOBAL_SEARCH_HEADER&page="
     }
     
-    for keyword, url in search_tasks.items():
-        view_connection_profiles(driver, url, keyword)
-    # share_linkedin_news(driver)
+    # for keyword, url in search_tasks.items():
+    #     view_connection_profiles(driver, url, keyword)
+    # # share_linkedin_news(driver)
 
     like_tasks = {
         "ai": "https://www.linkedin.com/search/results/content/?keywords=AI%25&origin=FACETED_SEARCH&sid=0Q4&sortBy=%22date_posted%22",
@@ -685,8 +735,8 @@ def main():
         "transformation": "https://www.linkedin.com/search/results/content/?keywords=transformation%25&origin=FACETED_SEARCH&sid=0Q4&sortBy=%22date_posted%22",
     }
 
-    for keyword, url in like_tasks.items():
-        like_search_results(driver, url, keyword)
+    # for keyword, url in like_tasks.items():
+    #     like_search_results(driver, url, keyword)
     
     print("--- LinkedIn Networking Bot Finished ---")
 

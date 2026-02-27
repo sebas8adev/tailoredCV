@@ -1,9 +1,0 @@
-# Global Information
-HIRING_MANAGER: Hiring Manager
-COMPANY_NAME: Baylor Genetics
-JOB_ROLE: Project Manager - Product
-APPLICATION_DATE: July 30th, 2025
-
-# Cover Letter Content
-SUBJECT: Application for Project Manager - Product at Baylor Genetics
-CONTENT: Dear Hiring Manager,<br><br>I am writing to express my enthusiastic interest in the Project Manager - Product position at Baylor Genetics, as advertised on LinkedIn. Your mission to deliver innovative genetic testing solutions resonates deeply with my professional experience in leading complex technical projects within the healthcare sector.<br><br>
