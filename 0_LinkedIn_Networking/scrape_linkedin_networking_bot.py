@@ -169,7 +169,7 @@ def wish_birthdays(driver):
     ]
 
     wished_count = 0
-    daily_limit = random.randint(1, 8)
+    daily_limit = random.randint(3, 8)
     print(f"Today's birthday wish limit is set to {daily_limit}.")
     max_tabs_without_finding_new_person = random.randint(50, 150)
     tabs_count = 0
@@ -351,7 +351,7 @@ def like_work_anniversaries(driver):
     actions = ActionChains(driver)
 
     liked_count = 0
-    daily_limit = random.randint(2, 6)
+    daily_limit = random.randint(3, 6)
     print(f"Today's work anniversary like limit is set to {daily_limit}.")
     max_tabs_without_finding_new_card = random.randint(80, 350)
     tabs_count = 0
@@ -412,7 +412,7 @@ def like_education_updates(driver):
     actions = ActionChains(driver)
 
     liked_count = 0
-    daily_limit = random.randint(1, 3)
+    daily_limit = random.randint(3, 7)
     print(f"Today's education update like limit is set to {daily_limit}.")
     max_tabs_without_finding_new_card = random.randint(80, 350)
     tabs_count = 0
@@ -690,16 +690,16 @@ def main():
     if not driver:
         return
     
-    tasks = [
-        like_job_changes,
-    ]
-
     #tasks = [
-    #    wish_birthdays,
     #    like_job_changes,
-    #    like_work_anniversaries,
-    #    like_education_updates
     #]
+
+    tasks = [
+        wish_birthdays,
+        like_job_changes,
+        like_work_anniversaries,
+        like_education_updates
+    ]
 
     random.shuffle(tasks)
 
