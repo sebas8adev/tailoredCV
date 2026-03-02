@@ -177,7 +177,7 @@ def wish_birthdays(driver):
     while tabs_count < max_tabs_without_finding_new_person:
         actions.send_keys(Keys.TAB).perform()
         tabs_count += 1
-        time.sleep(random.uniform(0.5, 0.9))
+        time.sleep(random.uniform(0.52, 0.99))
 
         try:
             active_element = driver.switch_to.active_element
@@ -234,7 +234,7 @@ def wish_birthdays(driver):
                     
                     for i in range(5):
                         actions.send_keys(Keys.TAB).perform()
-                        time.sleep(random.uniform(0.5, 0.9))
+                        time.sleep(random.uniform(0.52, 0.99))
                         print(f"Tab {i+1}/5")
                     
                     print("Now focused on the presumed 'Send' button. Waiting 5 seconds...")
@@ -290,15 +290,15 @@ def like_job_changes(driver):
     actions = ActionChains(driver)
 
     liked_count = 0
-    daily_limit = random.randint(1, 3)
+    daily_limit = random.randint(3, 6)
     print(f"Today's job change like limit is set to {daily_limit}.")
-    max_tabs_without_finding_new_card = random.randint(50, 150)
+    max_tabs_without_finding_new_card = random.randint(80, 350)
     tabs_count = 0
 
     while tabs_count < max_tabs_without_finding_new_card:
         actions.send_keys(Keys.TAB).perform()
         tabs_count += 1
-        time.sleep(random.uniform(0.5, 0.9))
+        time.sleep(random.uniform(0.52, 0.99))
 
         try:
             active_element = driver.switch_to.active_element
@@ -317,8 +317,8 @@ def like_job_changes(driver):
                     print(f"Reached the processing limit of {daily_limit} likes for this run. Stopping.")
                     break
 
-                active_element.send_keys(Keys.ENTER)
-                print("Pressed Enter to like the post.")
+                active_element.send_keys(Keys.SPACE)
+                print("Pressed Space to like the post.")
                 liked_count += 1
                 time.sleep(random.uniform(1, 3))  # Wait a bit before continuing
 
@@ -353,13 +353,13 @@ def like_work_anniversaries(driver):
     liked_count = 0
     daily_limit = random.randint(2, 6)
     print(f"Today's work anniversary like limit is set to {daily_limit}.")
-    max_tabs_without_finding_new_card = random.randint(50, 150)
+    max_tabs_without_finding_new_card = random.randint(80, 350)
     tabs_count = 0
 
     while tabs_count < max_tabs_without_finding_new_card:
         actions.send_keys(Keys.TAB).perform()
         tabs_count += 1
-        time.sleep(random.uniform(0.5, 0.9))
+        time.sleep(random.uniform(0.52, 0.99))
 
         try:
             active_element = driver.switch_to.active_element
@@ -414,13 +414,13 @@ def like_education_updates(driver):
     liked_count = 0
     daily_limit = random.randint(1, 3)
     print(f"Today's education update like limit is set to {daily_limit}.")
-    max_tabs_without_finding_new_card = random.randint(50, 150)
+    max_tabs_without_finding_new_card = random.randint(80, 350)
     tabs_count = 0
 
     while tabs_count < max_tabs_without_finding_new_card:
         actions.send_keys(Keys.TAB).perform()
         tabs_count += 1
-        time.sleep(random.uniform(0.5, 0.9))
+        time.sleep(random.uniform(0.52, 0.99))
 
         try:
             active_element = driver.switch_to.active_element
@@ -689,13 +689,17 @@ def main():
     driver = connect_to_chrome()
     if not driver:
         return
-
+    
     tasks = [
-        wish_birthdays,
         like_job_changes,
-        like_work_anniversaries,
-        like_education_updates
     ]
+
+    #tasks = [
+    #    wish_birthdays,
+    #    like_job_changes,
+    #    like_work_anniversaries,
+    #    like_education_updates
+    #]
 
     random.shuffle(tasks)
 
