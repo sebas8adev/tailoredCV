@@ -1,0 +1,55 @@
+Status: pending
+Data-Status: pending
+Job board: LinkedIn
+Company Name: Pinnacle Method Consulting
+Role Name: Scrum Master
+Location: United States
+Type: Not specified
+Salary range: Not specified
+Hiring Team: Not identified
+Application Instructions: See Job Post URL
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4379442174&distance=25&f_TPR=r86400&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true&sortBy=DD
+
+Job Description:
+About the job
+Pinnacle Method Consulting's mission is to help job seekers reach their career peak by accessing top-tier opportunities. We are not a staffing firm or agency. Pinnacle Method does not hire for these roles—we systematically source and verify them from premier employers.
+
+Employer Industry: Oncology Research and Clinical Trials
+
+Why Consider This Job Opportunity
+
+ Competitive compensation package with additional bonuses and long-term incentive opportunities
+ Opportunity for career advancement within one of the largest community-based cancer programs
+ Focus on innovative and impactful work in cancer treatment and research
+ Supportive and collaborative work environment with a commitment to employee well-being
+ Comprehensive benefits package to support physical, mental, and financial health
+ Join a mission-driven team dedicated to making a difference in patients' lives
+
+What To Expect (Job Responsibilities)
+
+ Facilitate Scrum ceremonies for multiple application teams within the organization
+ Enhance reporting processes to ensure timely delivery of metrics and updates for leadership
+ Manage and optimize the backlog for non-project related work, including triage and prioritization
+ Identify and remove impediments to team progress, escalating issues as necessary
+ Coach teams on Agile principles and practices, adapting approaches to fit the unique needs of the organization
+
+What Is Required (Qualifications)
+
+ Bachelor's degree in Computer Science, Information Technology, or a related field
+ Minimum of 3 years in Agile delivery roles, with experience in research or clinical technology environments
+ Deep understanding of Agile methodologies and the Scrum framework
+ Excellent facilitation, communication, and organizational skills
+ Proficiency in JIRA and Agile reporting tools, along with experience in managing multiple priorities
+
+How To Stand Out (Preferred Qualifications)
+
+ Experience with intake management and IT reporting
+ Background in supporting research or clinical technology environments
+ Ability to drive process improvements within Agile frameworks
+ Familiarity with SCRI IT systems and standards
+
+#OncologyResearch #AgileDelivery #ClinicalTrials #CareerGrowth #HealthcareInnovation
+
+"We prioritize candidate privacy and champion equal-opportunity employment. Central to our mission is our partnership with companies that share this commitment. We aim to foster a fair, transparent, and secure hiring environment for all. If you encounter any employer not adhering to these principles, please bring it to our attention immediately. We are not the EOR (Employer of Record) for this position. Our role in this specific opportunity is to connect outstanding candidates with a top-tier employer."
+
+#PinnacleMethodConsulting

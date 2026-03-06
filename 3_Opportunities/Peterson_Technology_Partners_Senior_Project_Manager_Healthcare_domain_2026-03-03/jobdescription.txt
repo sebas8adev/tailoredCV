@@ -1,0 +1,103 @@
+Status: pending
+Data-Status: pending
+Job board: LinkedIn
+Company Name: Peterson Technology Partners
+Role Name: Senior Project Manager (Healthcare domain)
+Location: United States
+Type: Not specified
+Salary range: Not specified
+Hiring Team: Not identified
+Application Instructions: LinkedIn Easy Apply
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4379442608&distance=25&f_TPR=r86400&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true&sortBy=DD
+
+Job Description:
+About the job
+***Must be able to work Pacific Time hours
+
+We are seeking an experienced Senior Project Manager with strong healthcare payer expertise to lead clinical reporting initiatives within a Utilization Management (UM) environment. This role requires deep understanding of medical claims and Prior Authorization (PA) data, combined with strong Agile delivery leadership and cross-functional coordination skills.
+The ideal candidate is comfortable operating independently, managing multiple workstreams, mitigating risks proactively, and driving alignment across business and technical stakeholders. This position requires availability to work Pacific Time (California hours).
+
+Key Responsibilities:
+Program & Project Leadership:
+Build, manage, and maintain integrated project plans across multiple workstreams (clinical, reporting, data, engineering).
+Lead end-to-end delivery of clinical reporting initiatives within Utilization Management.
+Manage release planning, stakeholder communication cadence, and executive reporting.
+Drive alignment between business priorities and technical execution, balancing scope, timeline, and quality tradeoffs.
+Healthcare Domain Execution:
+Apply strong knowledge of healthcare payer operations, including Utilization Management workflows.
+Oversee initiatives involving medical claims data and Prior Authorization datasets.
+Ensure accurate reporting logic, KPI alignment, and data integrity across clinical reporting solutions.
+Agile & Scrum Delivery:
+Independently facilitate Scrum ceremonies (Sprint Planning, Daily Standups, Reviews, Retrospectives).
+Manage sprint cycles, backlog prioritization, and roadmap planning.
+Partner with Product Owners and technical leads to ensure clear requirements and delivery transparency.
+Risk & Governance:
+Own RAID (Risks, Assumptions, Issues, Dependencies) management.
+Proactively identify, track, and mitigate risks to maintain delivery timelines.
+Communicate tradeoffs and impacts clearly to stakeholders.
+Required Qualifications:
+8+ years of project management experience within healthcare payer environments.
+Proven experience supporting clinical reporting initiatives within Utilization Management (UM).
+Strong understanding of:
+Medical claims data structures
+Prior Authorization workflows and reporting
+Demonstrated experience building and managing integrated project plans across multiple teams.
+Hands-on RAID management and risk mitigation expertise.
+Experience independently leading Scrum ceremonies and managing Agile sprint cycles.
+Strong stakeholder management and executive communication skills.
+Ability to manage delivery tradeoffs between business and technical teams.
+Must be able to work California (Pacific Time) business hours.
+Preferred Qualifications:
+PMP, PMI-ACP, or Scrum Master certification.
+Experience working with data/analytics and reporting platforms (e.g., Power BI, Tableau, SQL-based reporting).
+Experience in regulated healthcare environments.
+
+Salary/Rate: $55-/$70/HR (depends on experience level). This is a contract position with candidates expected to work 40 hours/ week.
+
+About The Company
+Peterson Technology Partners (PTP) is an Equal Opportunity Employer committed to creating a transparent, inclusive, and human-centered hiring experience.
+For more than 28 years, PTP has operated as one of the top IT staffing and recruiting firms in the USA—built on trust, long-term partnerships, and technical excellence.
+Based in the Chicago suburb of Park Ridge, IL, our team of more than 500 employees and consultants is dedicated to:
+Helping every client make the best hiring decisions possible
+Matching professionals with the right IT jobs and career opportunities
+As part of that commitment, we believe in providing clear information about how our hiring technologies work and how your data is used. The following section outlines our AI-assisted interview process and your rights as a candidate.
+AI-Assisted Interview Experience (Pete & Gabi – Rebecca)
+To provide a consistent, fair, and flexible experience for all candidates, we use AI-assisted tools to support parts of the interview process. This includes our proprietary AI platform Pete & Gabi, which includes AI recruiter Rebecca.
+These AI hiring tools help us:
+Transcribe interviews
+Summarize candidate responses
+Generate job-related insights
+Streamline communication and scheduling
+Please note that:
+The AI does NOT make hiring decisions; all decisions are made by our human recruiters, hiring managers, or client partners.
+The AI does not evaluate facial expressions, emotions, or physical traits; it is used only to support fairness, consistency, and efficiency.
+If you prefer a non-AI interview format, we will gladly provide an alternative.
+Technical or Case Interviews (Role-Dependent):
+When applying for certain tech jobs, you may participate in:
+A technical interview
+A coding challenge
+A case study
+A client-specific assessment
+We will always explain what to expect in advance so you can prepare with confidence.
+Human Review & Selection:
+Every candidate's profile—including interviews, conversations, and assessments—is reviewed by experienced recruiters and hiring leaders.
+AI insights may assist with organization and evaluation, but final decisions are always human-driven.
+Your Rights as a Candidate:
+At PTP, every candidate has the right to:
+Request a non-AI interview path
+Ask how your data is being used
+Request access to transcripts or interview recordings
+Request deletion of your AI-recorded interview
+Receive clear, timely communication
+Our goal is to ensure you feel respected, informed, and supported throughout your experience.
+Our Commitment:
+For more than 28 years, PTP has focused on putting people first—candidates, consultants, employees, and clients.
+We're committed to a hiring process that is:
+Transparent
+Compliant
+Equitable
+Powered by innovative technology that enhances—not replaces—human judgment
+Welcome to the future of hiring at Peterson Technology Partners.
+We're excited to learn more about you.
+Equal Employment Opportunity:
+Peterson Technology Partners is an Equal Opportunity Employer. All qualified applicants will receive consideration without regard to race, color, religion, national origin, gender identity, sexual orientation, disability, veteran status, or any other protected characteristic.

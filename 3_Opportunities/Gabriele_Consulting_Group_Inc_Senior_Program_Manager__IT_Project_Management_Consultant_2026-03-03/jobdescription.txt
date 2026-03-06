@@ -1,0 +1,84 @@
+Status: pending
+Data-Status: pending
+Job board: LinkedIn
+Company Name: Gabriele Consulting Group Inc.
+Role Name: Senior Program Manager / IT Project Management Consultant
+Location: United States
+Type: Remote
+Salary range: Not specified
+Hiring Team: Hope Kahan
+Application Instructions: See Job Post URL
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4380523619&distance=25&f_TPR=r86400&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true&sortBy=DD
+
+Job Description:
+About the job
+About GCG
+
+For more than 20 years, Gabriele Consulting Group Inc. (GCG) has provided mid-size and large organizations, including companies in the Fortune 100, with strategic guidance and hands-on support in solving their most complex challenges where technology intersects with transformational business objectives. With deep expertise in mergers, acquisitions and divestitures, data governance, legal sourcing and eDiscovery services, GCG is uniquely positioned to bridge the gap between tech teams and business unit leaders to improve performance, mitigate risk, and realize significant cost savings. Our goal is to provide clients with sustainable strategies, technical solutions and optimized processes, which drive profitability and competitiveness.
+
+GCG is guided by our mission, vision, and values which unite us through a common goal, and exist to multiply the impact our clients have in the world by removing the obstacles that stand in the way of achieving their greatest potential.
+
+Mission: Through a hands-on consulting approach, we solve complex problems and build sustainable capabilities for our clients.
+
+Vision: We are a deeply integrated, trusted partner for a select few of the world’s most impactful companies.
+
+Core Values: 
+
+Hands-on- We differentiate from others in the consulting industry by rolling up our sleeves to get the work done, not just making recommendations without follow-through.
+Human-Centric - We understand the competing priorities within organizations and across departments and we customize our solutions, taking into account the unique needs of all of the people involved.
+Integrated - We don’t just operate as an outside consultant; our model of internal consulting allows us to embed our team members in our client organizations, improving our ability to deeply understand the needs, develop customized solutions and implement sustainable improvements.
+Accuracy - We take pride in tending to the details because we know our clients need to focus on the big picture, and we know accuracy is key to building trust.
+Sustainable Growth - We help our clients build sustainable capabilities by teaching them how to maintain the solutions we develop, thus reducing their dependence on us, and we sustain our own growth by identifying new ways to add value.
+
+Learn more about us: GCGstrategy.com
+
+Position Summary:
+
+We are seeking a skilled program manager with IT program and project management experience to serve as the critical link between business managers and technical teams. This role does not require deep technical expertise (such as coding), but it does require the ability to understand the intersection between interrelated tech applications and business goals, exceptional organizational skills, clear communication, and the ability to keep projects on track in a complex environment with multiple stakeholders.
+
+The successful candidate will be adept at translating business requirements into actionable project plans, ensuring all parties are aligned on goals, timelines, and deliverables, and proactively addressing roadblocks to maintain project momentum.
+
+As examples of the types of projects this position could work on, here are several projects we have been or are currently involved in with our current client:
+
+Project management of very large unstructured data governance initiative, including managing unstructured data separation strategy and execution for a large-scale spinoff
+Project management of a large-scale migration from prior versions of SAP and JDE ERPs to SAP S/4 HANA.
+Program management of the ingestion of data into the company’s Common Data Layer (CDL), which is a massive data repository, housing data from hundreds of apps and tens of thousands of tables.
+
+Why Join Us
+
+At GCG, you’ll have the opportunity to experience the best of both worlds—the agility and camaraderie of a small, collaborative team combined with the resources, scale, and challenges of working with a Fortune 100 company. You’ll be trusted with the autonomy to move projects forward and make an impact.
+
+We offer flexible hours and remote work to support a healthy work–life balance, while giving you the chance to sharpen your project management and stakeholder communication skills in a fast-paced, high-visibility environment. Every day brings fresh variety, meaningful challenges, and the satisfaction of seeing your work influence high-profile IT initiatives that matter.
+
+Key Responsibilities:
+
+Act as the liaison between business stakeholders and technical teams to ensure clear, shared understanding of goals, priorities, and deliverables.
+Develop and maintain detailed project plans, schedules, and progress reports.
+Coordinate meetings, document action items, and track follow-up to ensure commitments are met.
+Manage dependencies, risks, and issues, escalating when needed to keep work on track.
+Facilitate effective communication across business and technical teams, ensuring information flows accurately and on time.
+Monitor project progress against agreed timelines and adjust plans as needed.
+Ensure all stakeholders are informed of status, upcoming milestones, and potential impacts to timelines or scope.
+Support change management processes to ensure smooth implementation of new systems or processes.
+
+Education and Experience:
+
+Bachelor’s degree in business, project management, information systems, or a related field (or equivalent experience); a Masters degree is a plus
+5+ years of post-graduate experience in consulting and/or project management, preferably in IT or enterprise environments
+Experience working with cross-functional teams and managing projects involving multiple stakeholders
+Proficiency in project management tools (e.g., Microsoft Project, Jira, Trello, Asana) and collaboration platforms (e.g., MS Teams, SharePoint)
+PMP, CSM, or similar certification a plus, but not required
+
+Skills and Character Traits:
+
+Highest personal and professional integrity and work ethics; ability to handle highly confidential information discreetly and responsibly
+Strong organizational and time management skills; able to manage multiple priorities simultaneously
+Excellent verbal and written communication skills, with the ability to adapt messaging to different audiences
+Skilled at fostering collaboration and building consensus without direct authority
+Comfortable navigating large corporate structures while representing a nimble consulting team
+Tech savvy; someone who enjoys figuring out new technology and utilizing technology for process efficiency and data visualization
+Advanced skills in Excel and PowerPoint
+Ability to get to the heart of the problem, develop a game plan, and engage diverse stakeholders in a solution
+Natural inclination toward viewing challenging situations as puzzles to solve
+
+We value diversity and commit to making hiring decisions based on the skills and traits needed to be successful in this role. We are an equal opportunity employer and we welcome your application!

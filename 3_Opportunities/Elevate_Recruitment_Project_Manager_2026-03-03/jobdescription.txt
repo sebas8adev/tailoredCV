@@ -1,0 +1,49 @@
+Status: pending
+Data-Status: pending
+Job board: LinkedIn
+Company Name: Elevate Recruitment
+Role Name: Project Manager
+Location: NAMER
+Type: Remote
+Salary range: Not specified
+Hiring Team: Not identified
+Application Instructions: See Job Post URL
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4380515264&distance=25&f_TPR=r86400&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true&sortBy=DD
+
+Job Description:
+About the job
+Role: Project Manager
+Location: 100% Remote (Global)
+
+About the Opportunity
+One of our clients is building advanced human data infrastructure to power next-generation AI systems. Their platform enables leading AI labs and enterprises to source, evaluate, and deploy expert talent into AI training workflows at scale.
+They are growing rapidly and are looking for a Junior Project Manager to support cross-functional product and engineering initiatives.
+
+Role Overview
+We are seeking a highly organized and proactive Junior Project Manager to support planning, coordination, and execution across product and engineering teams. This role is ideal for someone early in their career who wants hands-on exposure to real product development in a fast-paced startup environment.
+You will collaborate closely with Product Managers, Engineers, Designers, and Operations teams to help ensure projects are well-scoped, tracked clearly, and delivered on time.
+
+Key Responsibilities
+Support project planning and execution across product and engineering teams
+Break down requirements into actionable tasks and maintain sprint boards and backlogs
+Track deadlines and follow up with stakeholders to ensure timely delivery
+Document project decisions, updates, and action items
+Identify blockers early and escalate appropriately
+Coordinate meetings, stand-ups, and sprint ceremonies
+Maintain project dashboards and reporting for leadership visibility
+Help ensure alignment between product, design, and engineering teams
+
+Required Qualifications
+0–2 years of experience in project coordination, operations, or related roles
+Strong organizational and time management skills
+Excellent written and verbal communication in English
+Ability to manage multiple priorities while maintaining attention to detail
+Comfort operating in fast-moving environments
+Proactive mindset with strong ownership mentality
+Familiarity with Agile and Waterfall methodologies
+Experience with tools such as Jira, Linear, Notion, monday.com, or Slack
+
+Preferred Qualifications
+Experience in a startup, product, or engineering environment
+Basic understanding of the software development lifecycle (SDLC)
+Interest in AI, SaaS, or technology products

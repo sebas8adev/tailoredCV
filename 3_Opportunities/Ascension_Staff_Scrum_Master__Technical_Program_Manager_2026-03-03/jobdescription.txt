@@ -1,0 +1,78 @@
+Status: pending
+Data-Status: pending
+Job board: LinkedIn
+Company Name: Ascension
+Role Name: Staff Scrum Master / Technical Program Manager
+Location: United States
+Type: Remote
+Salary range: $133,390.00 - $185,938.00
+Hiring Team: Not identified
+Application Instructions: See Job Post URL
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4377633746&distance=25&f_TPR=r86400&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true&sortBy=DD
+
+Job Description:
+About the job
+Your future role at a glance
+
+Location: Remote
+
+Department: Studio Engagement Product Delivery
+
+Schedule: Full-Time, Days
+
+Salary range: $133,390.00 - $185,938.00 per year
+
+Life at Ascension: Where purpose meets opportunity
+
+Ascension is a leading nonprofit Catholic health system with a culture and associate experience grounded in service, growth, care and connection. We empower our 99,000+ associates to bring their skills and expertise every day to reimagining healthcare, together. Recognized as one of the Best 150+ Places to Work in Healthcare and a Military-Friendly Gold Employer, you’ll find an inclusive and supportive environment where your contributions truly matter.
+
+Benefits that help you thrive
+
+Comprehensive health coverage: medical, dental, vision, prescription coverage and HSA/FSA options
+Financial security & retirement: employer-matched 403(b), planning and hardship resources, disability and life insurance 
+Time to recharge: pro-rated paid time off (PTO) and holidays
+Career growth: Ascension-paid tuition (Vocare), reimbursement, ongoing professional development and online learning
+Emotional well-being: Employee Assistance Program, counseling and peer support, spiritual care and stress management resources
+Family support: parental leave, adoption assistance and family benefits
+Other benefits: optional legal and pet insurance, transportation savings and more
+
+Benefit options and eligibility vary by position, scheduled hours and location. Benefits are subject to change at any time. Your recruiter will provide the most up-to-date details during the hiring process.
+
+How you’ll make an impact in this role
+
+Lead Enterprise-Scale Technical Programs: Own and orchestrate complex, multi-pod initiatives spanning discovery, architecture, delivery, production launch, and post-launch stabilization. Define technical milestones, sequencing, and execution plans aligned to enterprise strategy, PI planning, and annual roadmaps.
+Drive Cross-Tile Technical Alignment & Dependency Resolution: Partner closely with Engineering, Architecture, Product, UX, DevOps, and Enterprise Technology teams to ensure scalable, compliant, and resilient system design. Proactively identify and resolve cross-functional dependencies across backend, frontend, mobile, and platform domains.
+Engineer Structured Release & Production Readiness Management: Direct end-to-end release coordination across pods and partner systems, leading production readiness reviews, rollback planning, defect triage, and risk assessments. Ensure adherence to ServiceNow, CAB, security, and enterprise governance standards within a regulated healthcare environment.
+Mitigate Program Risk Through Data-Driven Escalation: Establish structured risk identification, mitigation, and escalation frameworks. Surface trade-offs early, serve as the escalation point for complex integration challenges, and drive clarity and accountability when scope, timeline, or quality risks emerge.
+Elevate Delivery Excellence Through Actionable Metrics: Define and own program-level KPIs (Cycle Time, Dependency Resolution Time, Release Predictability). Build leadership-facing dashboards that provide transparent visibility into program health while identifying systemic bottlenecks to improve forecast accuracy and operational reliability.
+Enable Scaled Agile Execution & Systems Thinking: Lead Scrum of Scrums and scaled Agile forums to ensure coordination across pods within SAFe constructs. Support PI Planning with technical sequencing and dependency validation, aligning discovery, architecture, and delivery workflows to improve predictability and engineering standards.
+
+Education
+
+What minimum requirements you’ll need
+
+High school diploma/GED with 2 years of experience, or Associate's degree, or Bachelor's degree required.
+
+Work Experience
+
+3 years of experience required.
+5 years of experience preferred.
+1 year of leadership or management experience preferred.
+
+What Additional Preferences We're Seeking
+
+Strong technical fluency in distributed systems, APIs, cloud-native architecture, and production operations (without necessarily being hands-on coding).
+Proven program leadership experience (5–8+ years) managing complex, cross-functional initiatives in enterprise or regulated environments; Healthcare experience preferred.
+Influence-driven leadership style, with strong executive communication skills, structured problem-solving ability, and comfort operating in ambiguity; Agile or TPM certifications are a plus.
+
+Equal employment opportunity employer
+
+Ascension provides Equal Employment Opportunities (EEO) to all associates and applicants for employment without regard to race, color, religion, sex/gender, sexual orientation, gender identity or expression, pregnancy, childbirth, and related medical conditions, lactation, breastfeeding, national origin, citizenship, age, disability, genetic information, veteran status, marital status, all as defined by applicable law, and any other legally protected status or characteristic in accordance with applicable federal, state and local laws. For further information, view the  EEO Know Your Rights (English)  poster or  EEO Know Your Rights (Spanish)  poster.
+
+Fraud prevention notice
+
+Prospective applicants should be vigilant against fraudulent job offers and interview requests. Scammers may use sophisticated tactics to impersonate Ascension employees. To ensure your safety, please remember: Ascension will never ask for payment or to provide banking or financial information as part of the job application or hiring process. Our legitimate email communications will always come from an @ascension.org email address; do not trust other domains, and an official offer will only be extended to candidates who have completed a job application through our authorized applicant tracking system.
+
+E-Verify statement
+
+Employer participates in the Electronic Employment Verification Program. Please click  here  for more information.

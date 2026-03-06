@@ -1,0 +1,42 @@
+Status: pending
+Data-Status: pending
+Job board: LinkedIn
+Company Name: Flexton Inc.
+Role Name: Project Manager
+Location: United States
+Type: Remote
+Salary range: Not specified
+Hiring Team: Kamran Khan
+Application Instructions: LinkedIn Easy Apply
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4380500494&distance=25&f_TPR=r86400&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true&sortBy=DD
+
+Job Description:
+About the job
+Job Title: Project Manager (warehouse, transportation)
+Duration: 6 Month(s) 
+Location: Cincinnati, OH/Remote
+
+Information
+Length of Contract – 6 months, but this is a multi year program - there is possibility to extend
+Project person will be supporting – warehouse and transportation management, foundational system swapping
+Work Location (in office, hybrid, remote) – Remote but potential to attend period meetings in Cincinnati; potential to attend program-related events at plants, Distribution Centers etc
+Interview process – 30 min with HM, might include another member from the team
+Standard Prescreening
+
+Role description: 
+Lead programs/ program workstreams for supply chain and manufacturing technology transformation initiatives
+Critical skills:
+Partner with Product, Engineering, and 3rd party partners to plan and implement critical supply chain and manufacturing systems
+Facilitate integrated planning across multiple workstreams
+Dependency and critical‑path management
+Change control discipline (scope, timeline, budget, sequencing)
+Cutover and go‑live orchestration (not execution, but integration and readiness)
+
+Key Responsibilities
+Nice to haves: 
+Prior experience supporting projects in warehouse, transportation, yard, labor, or manufacturing operations
+Familiarity with facility operations (DCs, plants, fulfillment centers), even at a conceptual level
+Experience working in product‑led or hybrid agile environments
+Experience delivering programs with third‑party software vendors or systems integrators
+Ability to navigate vendor‑led planning while maintaining enterprise governance
+Familiarity with SOW‑driven delivery models and shared accountability

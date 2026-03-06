@@ -1,0 +1,93 @@
+Status: pending
+Data-Status: pending
+Job board: LinkedIn
+Company Name: CoEnterprise
+Role Name: Senior Project Manager - Professional Services/Technology
+Location: United States
+Type: Not specified
+Salary range: Not specified
+Hiring Team: Not identified
+Application Instructions: See Job Post URL
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4380515050&distance=25&f_TPR=r86400&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true&sortBy=DD
+
+Job Description:
+About the job
+About CoEnterprise
+
+CoEnterprise is an award-winning B2B software and professional services company founded in 2010. A leader in supply chain and business analytics, CoEnterprise delivers innovative solutions that help organizations connect data, gain visibility, and make faster, smarter decisions. Its industry-leading AI-enabled supply chain platform, Syncrofy, provides actionable, data-driven insights without requiring advanced technical expertise. Fueled by a commitment to people and long-term partnerships, CoEnterprise has supported more than 850 customers across 6,000+ projects.
+
+Role Overview
+
+We are seeking an experienced Senior Project Manager to lead the planning and execution of external client facing enterprise technology based initiatives. This role is responsible for end-to-end project delivery, coordination across business and technical teams, and ensuring predictable outcomes for complex programs.
+
+The Project Manager will work closely with architects, developers, and vendors supporting the IBM Sterling suite and other integration platforms. This is not a technical lead or hands-on configuration role. The position requires sufficient technical fluency to manage scope, risk, and dependencies—while remaining accountable for timelines, communication, and delivery.
+
+Key Responsibilities
+
+Project Planning & Execution
+
+Develop and manage project plans, schedules, budgets, milestones, and resource dependencies.
+Execute projects using Waterfall methodologies, with clear governance and delivery controls.
+Manage change requests, track progress, and provide regular status reporting to leadership and stakeholders.
+
+Stakeholder, Vendor & Partner Management
+
+Act as the primary liaison between business teams, IT, vendors, and external trading partners.
+Facilitate requirements discussions and ensure business needs are clearly captured and prioritized.
+Coordinate work across multiple teams supporting IBM Sterling and related integration platforms.
+Manage vendor deliverables and ensure alignment with project timelines and SLAs.
+
+Technical Coordination & Oversight (Non-Hands-On)
+
+Coordinate delivery across the IBM Sterling ecosystem, including:
+Sterling B2B Integrator (B2Bi)
+Sterling File Gateway (SFG)
+Managed File Transfer (MFT)
+Sterling Control Center
+Manage projects involving on-prem and cloud-based platforms, including migration initiatives to Azure Logic Apps or equivalent cloud integration services.
+Oversee testing, cutover planning, and production readiness without owning technical design or build decisions.
+Risk, Quality & Delivery Management
+
+Identify and manage project risks, dependencies, and delivery constraints, including impacts to upstream and downstream systems.
+Drive issue resolution and escalation in partnership with technical and operational teams.
+Ensure data integrity, security requirements, and operational SLAs are met.
+Coordinate UAT, certification, and go-live readiness activities.
+
+Documentation, Governance & Process Improvement
+
+Ensure consistent creation and maintenance of project artifacts, including project plans, RAID logs, schedules, and stakeholder communications.
+Partner with technical teams to ensure mapping specifications and standards documentation are complete and approved.
+Identify opportunities to improve delivery processes, partner onboarding efficiency, automation, and scalability across the EDI landscape.
+
+Experience
+
+Qualifications & Skills
+
+8+ years of experience as a Project Manager delivering integration-focused initiatives.
+Proven ability to manage complex, cross-functional technology projects involving multiple platforms and stakeholders.
+Experience delivering projects across the IBM Sterling suite (B2Bi, SFG, MFT, Control Center) strongly preferred.
+Demonstrated success leading migration, upgrade, and integration programs.
+
+EDI & Integration Knowledge (For Oversight)
+
+Strong working knowledge of EDI standards (ANSI X12, EDIFACT; HIPAA preferred).
+Familiarity with integration and middleware platforms such as:
+IBM Sterling (B2Bi, SFG, MFT, Control Center)
+Azure Logic Apps, BizTalk, MuleSoft, Boomi, or similar
+Understanding of:
+Data mapping and translation concepts
+APIs and common integration patterns
+File transfer protocols (AS2, SFTP, VAN)
+Basic database concepts (SQL)
+This knowledge is required to manage scope, risk, and communication—not to perform technical design or development.
+
+Project Management Skills
+
+Strong command of Waterfall methodologies.
+Excellent planning, prioritization, and execution discipline.
+Exceptional communication and stakeholder management skills.
+Ability to translate technical complexity into clear project impacts, timelines, and decisions.
+
+Education
+
+Bachelor’s degree in Computer Science, Information Systems, or a related field (or equivalent experience).

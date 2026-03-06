@@ -123,7 +123,7 @@ def wish_birthdays(driver):
         now_est = datetime.datetime.now(est_tz)
         
         start_hour = 9
-        end_hour = 17
+        end_hour = 18
 
         if not (start_hour <= now_est.hour < end_hour):
             print(f"Current time ({now_est.strftime('%H:%M:%S %Z')}) is outside the operational window ({start_hour}:00 to {end_hour}:00 EST). Skipping birthday wishes.")
@@ -169,9 +169,9 @@ def wish_birthdays(driver):
     ]
 
     wished_count = 0
-    daily_limit = random.randint(2, 6)
+    daily_limit = random.randint(5, 15)
     print(f"Today's birthday wish limit is set to {daily_limit}.")
-    max_tabs_without_finding_new_person = random.randint(50, 150)
+    max_tabs_without_finding_new_person = random.randint(150, 550)
     tabs_count = 0
 
     while tabs_count < max_tabs_without_finding_new_person:
@@ -221,7 +221,10 @@ def wish_birthdays(driver):
 
                 try:
                     print("Assuming focus is now on the message box.")
-                    actions.key_down(Keys.CONTROL).send_keys('a').key_up(Keys.CONTROL).send_keys(Keys.DELETE).perform()
+                    for _ in range(random.randint(30, 50)):
+                        actions.send_keys(Keys.BACK_SPACE)
+                    actions.perform()
+
                     print("Cleared default message.")
                     time.sleep(random.uniform(1, 3))
                     
@@ -290,9 +293,9 @@ def like_job_changes(driver):
     actions = ActionChains(driver)
 
     liked_count = 0
-    daily_limit = random.randint(2, 6)
+    daily_limit = random.randint(8, 18)
     print(f"Today's job change like limit is set to {daily_limit}.")
-    max_tabs_without_finding_new_card = random.randint(80, 350)
+    max_tabs_without_finding_new_card = random.randint(180, 580)
     tabs_count = 0
 
     while tabs_count < max_tabs_without_finding_new_card:
@@ -351,9 +354,9 @@ def like_work_anniversaries(driver):
     actions = ActionChains(driver)
 
     liked_count = 0
-    daily_limit = random.randint(2, 6)
+    daily_limit = random.randint(8, 18)
     print(f"Today's work anniversary like limit is set to {daily_limit}.")
-    max_tabs_without_finding_new_card = random.randint(80, 350)
+    max_tabs_without_finding_new_card = random.randint(260, 660)
     tabs_count = 0
 
     while tabs_count < max_tabs_without_finding_new_card:
@@ -412,9 +415,9 @@ def like_education_updates(driver):
     actions = ActionChains(driver)
 
     liked_count = 0
-    daily_limit = random.randint(2, 6)
+    daily_limit = random.randint(8, 18)
     print(f"Today's education update like limit is set to {daily_limit}.")
-    max_tabs_without_finding_new_card = random.randint(80, 350)
+    max_tabs_without_finding_new_card = random.randint(330, 730)
     tabs_count = 0
 
     while tabs_count < max_tabs_without_finding_new_card:

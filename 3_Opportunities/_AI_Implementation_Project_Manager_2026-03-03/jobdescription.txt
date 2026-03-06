@@ -1,0 +1,26 @@
+Status: pending
+Data-Status: pending
+Job board: LinkedIn
+Company Name: 
+Role Name: AI Implementation Project Manager
+Location: United States
+Type: Remote
+Salary range: Not specified
+Hiring Team: Toy O.
+Application Instructions: LinkedIn Easy Apply
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4380523616&distance=25&f_TPR=r86400&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true&sortBy=DD
+
+Job Description:
+About the job
+Company Description
+ The Luna Group LLC is a dynamic organization focused on driving innovation and excellence across industries. Dedicated to leveraging cutting-edge technologies, we work to deliver outstanding solutions tailored to our clients' unique needs. With a commitment to fostering collaboration and achieving impactful results, The Luna Group LLC strives to create a positive and inclusive work environment. Join us to be a part of a team shaping the future through technology and strategy.
+ Role Description
+ This is a full-time, remote role for an AI Implementation Project Manager. The individual in this role will oversee the end-to-end implementation of AI software solutions, ensuring on-time and efficient delivery. They will act as the primary point of contact for clients, managing communication, setting expectations, and ensuring customer satisfaction. Responsibilities include developing project plans, coordinating with cross-functional teams, monitoring project progress, resolving implementation challenges, and achieving optimal results for clients.
+ Qualifications
+  Strong analytical skills to evaluate project performance and provide data-driven insights
+Proven experience in project implementation and software implementation
+Excellent communication skills to manage client relationships and internal and external stakeholders
+Ability to ensure customer satisfaction and deliver exceptional client experiences
+Strong organizational, problem-solving, and team management capabilities
+Experience in AI technologies or SaaS-based solutions is a plus
+Bachelor's degree in Information Technology, Business Management, or a related field; certifications in project management methodologies (e.g., PMP, Agile) are advantageous

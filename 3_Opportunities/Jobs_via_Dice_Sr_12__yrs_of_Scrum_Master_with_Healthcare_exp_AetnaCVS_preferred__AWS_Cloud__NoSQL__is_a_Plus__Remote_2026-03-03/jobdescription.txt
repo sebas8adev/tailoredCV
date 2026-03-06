@@ -1,0 +1,31 @@
+Status: pending
+Data-Status: pending
+Job board: LinkedIn
+Company Name: Jobs via Dice
+Role Name: Sr 12 + yrs of Scrum Master with Healthcare exp (Aetna/CVS preferred) / AWS Cloud / NoSQL ( is a Plus) - Remote
+Location: United States
+Type: Remote
+Salary range: Not specified
+Hiring Team: Not identified
+Application Instructions: See Job Post URL
+Job post URL: https://www.linkedin.com/jobs/search/?currentJobId=4379444661&distance=25&f_TPR=r86400&geoId=90000596&keywords=Scrum%20master&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true&sortBy=DD
+
+Job Description:
+About the job
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, Optimus Labs USA, is seeking the following. Apply via Dice today!
+
+Sr 12 + yrs of Scrum Master with Healthcare exp (Aetna/CVS preferred) / AWS Cloud / NoSQL ( is a Plus)
+
+Remote
+
+Note : this is for Implementation Partner .. not for my direct client ..
+
+Strong Scrum Master experience who can work with tech teams in hybrid Agile environment and has hands on experience with tools like JIRA, Confluence, MS-project
+
+Project and program management background needed as candidate needs to work in PMO structure
+
+Strong experience in planning, execution, executive communication and navigating complex ambiguous situations
+
+Healthcare Domain Experience (Aetna/CVS Preferred)
+
+Technical understanding of AWS Cloud and NoSQL DB (Marklogic and/or MongoDB) is a strong plus
