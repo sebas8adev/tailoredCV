@@ -209,7 +209,7 @@ def wish_birthdays(driver):
                     print("Sent Enter key.")
 
                     wished_count += 1
-                    time.sleep(random.randint(80, 18))
+                    time.sleep(random.randint(480, 880))
 
                     print("Message sent. Reloading birthdays page to refresh the list...")
                     driver.get(BIRTHDAY_URL)
