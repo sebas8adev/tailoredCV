@@ -106,7 +106,7 @@ def wish_birthdays(driver):
         now_est = datetime.datetime.now(est_tz)
         
         start_hour = 9
-        end_hour = 18
+        end_hour = 19
 
         if not (start_hour <= now_est.hour < end_hour):
             print(f"Current time ({now_est.strftime('%H:%M:%S %Z')}) is outside the operational window ({start_hour}:00 to {end_hour}:00 EST). Skipping birthday wishes.")
@@ -140,7 +140,7 @@ def wish_birthdays(driver):
         "Wishing you a happy belated birthday, [Name]! I hope the celebrations are still going strong.",
         "Happy belated birthday, [Name]! Hope you got to take some time offline to enjoy it.",
         "Sorry to miss the big day, but happy belated birthday, [Name]! Wishing you a fantastic year ahead.",
-        "Happy belated birthday,[Name]! I’m a little late to the party, but wishing you nothing but the best this year.",
+        "Happy belated birthday, [Name]! I’m a little late to the party, but wishing you nothing but the best this year.",
         "Wishing you a happy belated birthday, [Name]! Hope this coming year is full of great projects and personal wins.",
         "Happy belated, [Name]! Always great being connected here. Hope you had a fantastic time celebrating.",
         "Happy belated birthday, [Name]! Hope it was a memorable one and that you have a great year ahead.",
@@ -203,23 +203,31 @@ def wish_birthdays(driver):
                     print(f"Typed new message: '{new_message}'")
                     time.sleep(random.uniform(1, 3))
 
-                    print("Following hardcoded tabbing strategy...")
-                    send_button_found = False
-                    
-                    for i in range(5):
+                    print("Determining conversation type for tabbing strategy...")
+                    is_existing_conversation = False
+                    try:
+                        # A new conversation will have a "New message" header.
+                        driver.find_element(By.XPATH, "//h2[text()='New message']")
+                        is_existing_conversation = False
+                        print("Conversation appears to be new (found 'New message' header).")
+                    except NoSuchElementException:
+                        # If the "New message" header isn't found, it's an existing conversation.
+                        is_existing_conversation = True
+                        print("Conversation appears to be existing.")
+
+                    tabs_to_send_button = 6 if is_existing_conversation else 5
+                    print(f"Using {tabs_to_send_button} tabs to find the 'Send' button.")
+
+                    for i in range(tabs_to_send_button):
                         actions.send_keys(Keys.TAB).perform()
                         time.sleep(random.uniform(0.52, 0.99))
-                        print(f"Tab {i+1}/5")
-                    
-                    print("Now focused on the presumed 'Send' button. Waiting 5 seconds...")
+                        print(f"Tab {i+1}/{tabs_to_send_button}")
+
+                    print("Now focused on the presumed 'Send' button. Waiting a bit...")
                     time.sleep(random.uniform(1, 3))
                     
                     actions.send_keys(Keys.ENTER).perform()
                     print("Sent Enter key.")
-                    send_button_found = True 
-
-                    if not send_button_found:
-                        raise Exception("Hardcoded tabbing strategy failed.")
 
                     wished_count += 1
                     time.sleep(random.randint(480, 1080))
