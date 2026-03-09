@@ -203,34 +203,13 @@ def wish_birthdays(driver):
                     print(f"Typed new message: '{new_message}'")
                     time.sleep(random.uniform(1, 3))
 
-                    print("Determining conversation type for tabbing strategy...")
-                    is_existing_conversation = False
-                    try:
-                        # A new conversation will have a "New message" header.
-                        driver.find_element(By.XPATH, "//h2[text()='New message']")
-                        is_existing_conversation = False
-                        print("Conversation appears to be new (found 'New message' header).")
-                    except NoSuchElementException:
-                        # If the "New message" header isn't found, it's an existing conversation.
-                        is_existing_conversation = True
-                        print("Conversation appears to be existing.")
-
-                    tabs_to_send_button = 6 if is_existing_conversation else 5
-                    print(f"Using {tabs_to_send_button} tabs to find the 'Send' button.")
-
-                    for i in range(tabs_to_send_button):
-                        actions.send_keys(Keys.TAB).perform()
-                        time.sleep(random.uniform(0.52, 0.99))
-                        print(f"Tab {i+1}/{tabs_to_send_button}")
-
-                    print("Now focused on the presumed 'Send' button. Waiting a bit...")
-                    time.sleep(random.uniform(1, 3))
-                    
+                    print("Waiting 5 seconds before sending message with Enter key...")
+                    time.sleep(5)
                     actions.send_keys(Keys.ENTER).perform()
                     print("Sent Enter key.")
 
                     wished_count += 1
-                    time.sleep(random.randint(480, 1080))
+                    time.sleep(random.randint(80, 18))
 
                     print("Message sent. Reloading birthdays page to refresh the list...")
                     driver.get(BIRTHDAY_URL)
