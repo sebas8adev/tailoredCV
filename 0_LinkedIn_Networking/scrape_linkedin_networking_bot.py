@@ -19,28 +19,11 @@ from selenium.webdriver.common.keys import Keys
 SCRIPT_DIR = os.path.dirname(os.path.realpath(__file__))
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
 # Switched to JSON format for richer logging
-BIRTHDAY_LOG_FILE_JSON = os.path.join(PROJECT_ROOT, 'birthday_log.json')
 NEWS_LOG_FILE_JSON = os.path.join(PROJECT_ROOT, 'news_log.json')
 LIKED_POSTS_LOG_JSON = os.path.join(PROJECT_ROOT, 'liked_posts_log.json')
 CONNECTION_LOG_FILE_JSON = os.path.join(PROJECT_ROOT, 'connection_log.json')
 BIRTHDAY_LOG_FILE_OLD = os.path.join(PROJECT_ROOT, 'birthday_log.txt')
 BIRTHDAY_URL = "https://www.linkedin.com/mynetwork/catch-up/birthday/"
-
-def load_log():
-    """Loads birthday log from JSON file. Returns a list of log entries."""
-    if not os.path.exists(BIRTHDAY_LOG_FILE_JSON):
-        return []
-    try:
-        with open(BIRTHDAY_LOG_FILE_JSON, 'r', encoding='utf-8') as f:
-            return json.load(f)
-    except (json.JSONDecodeError, FileNotFoundError):
-        # If file is empty, corrupted, or not found, start with a fresh log
-        return []
-
-def save_log(log_data):
-    """Saves the entire log data list to the JSON file."""
-    with open(BIRTHDAY_LOG_FILE_JSON, 'w', encoding='utf-8') as f:
-        json.dump(log_data, f, indent=4, ensure_ascii=False)
 
 def load_news_log():
     """Loads news log from JSON file. Returns a list of URLs."""
@@ -136,10 +119,6 @@ def wish_birthdays(driver):
     print("Navigated to birthdays page. Waiting for a random time...")
     time.sleep(random.uniform(3, 7))
     
-    log_data = load_log()
-    processed_today_set = {(entry['fullName'], entry['date']) for entry in log_data}
-    print(f"Loaded {len(log_data)} log entries.")
-    
     actions = ActionChains(driver)
 
     same_day_messages = [
@@ -171,7 +150,7 @@ def wish_birthdays(driver):
     wished_count = 0
     daily_limit = random.randint(5, 15)
     print(f"Today's birthday wish limit is set to {daily_limit}.")
-    max_tabs_without_finding_new_person = random.randint(150, 550)
+    max_tabs_without_finding_new_person = random.randint(150, 850)
     tabs_count = 0
 
     while tabs_count < max_tabs_without_finding_new_person:
@@ -181,19 +160,11 @@ def wish_birthdays(driver):
 
         try:
             active_element = driver.switch_to.active_element
+            aria_label = active_element.get_attribute("aria-label")
             
-            if active_element.tag_name == 'a' and active_element.get_attribute('data-view-name') == 'nurture-card-primary-button':
-                
-                aria_label = active_element.get_attribute("aria-label")
-                if not aria_label or not aria_label.startswith("Message "):
-                    continue
+            if active_element.tag_name == 'a' and aria_label and aria_label.startswith("Message ") and 'birthday' in aria_label:
                 
                 name = aria_label.split(':')[0].replace("Message ", "").strip()
-                today_str = datetime.date.today().isoformat()
-
-                if (name, today_str) in processed_today_set:
-                    print(f"Skipping {name}, already wished today ({today_str}).")
-                    continue
 
                 if wished_count >= daily_limit:
                     print(f"Reached the processing limit of {daily_limit} people for this run. Stopping.")
@@ -250,11 +221,6 @@ def wish_birthdays(driver):
                     if not send_button_found:
                         raise Exception("Hardcoded tabbing strategy failed.")
 
-                    new_log_entry = {"fullName": name, "date": today_str, "type": birthday_type}
-                    log_data.append(new_log_entry)
-                    save_log(log_data)
-                    processed_today_set.add((name, today_str))
-                    print(f"Logged {name} as processed for {today_str}.")
                     wished_count += 1
                     time.sleep(random.randint(480, 1080))
 
@@ -295,7 +261,7 @@ def like_job_changes(driver):
     liked_count = 0
     daily_limit = random.randint(8, 18)
     print(f"Today's job change like limit is set to {daily_limit}.")
-    max_tabs_without_finding_new_card = random.randint(180, 580)
+    max_tabs_without_finding_new_card = random.randint(180, 880)
     tabs_count = 0
 
     while tabs_count < max_tabs_without_finding_new_card:
@@ -356,7 +322,7 @@ def like_work_anniversaries(driver):
     liked_count = 0
     daily_limit = random.randint(8, 18)
     print(f"Today's work anniversary like limit is set to {daily_limit}.")
-    max_tabs_without_finding_new_card = random.randint(260, 660)
+    max_tabs_without_finding_new_card = random.randint(260, 860)
     tabs_count = 0
 
     while tabs_count < max_tabs_without_finding_new_card:
@@ -417,7 +383,7 @@ def like_education_updates(driver):
     liked_count = 0
     daily_limit = random.randint(8, 18)
     print(f"Today's education update like limit is set to {daily_limit}.")
-    max_tabs_without_finding_new_card = random.randint(330, 730)
+    max_tabs_without_finding_new_card = random.randint(330, 830)
     tabs_count = 0
 
     while tabs_count < max_tabs_without_finding_new_card:
@@ -693,15 +659,19 @@ def main():
     if not driver:
         return
     
+    tasks = [
+        like_job_changes,
+    ]
+
     #tasks = [
+    #    wish_birthdays,
     #    like_job_changes,
-    #]
+    #    like_work_anniversaries,
+    #    like_education_updates
+    #] 
 
     tasks = [
-        wish_birthdays,
-        like_job_changes,
-        like_work_anniversaries,
-        like_education_updates
+        wish_birthdays
     ]
 
     random.shuffle(tasks)
