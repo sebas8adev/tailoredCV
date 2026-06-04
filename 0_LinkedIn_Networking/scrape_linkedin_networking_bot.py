@@ -11,7 +11,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException, NoSuchElementException
+from selenium.common.exceptions import StaleElementReferenceException, TimeoutException, NoSuchElementException
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.keys import Keys
 
@@ -82,12 +82,27 @@ def connect_to_chrome():
     for i in range(retries):
         try:
             chrome_options = Options()
-            chrome_options.add_experimental_option("debuggerAddress", "127.0.0.1:9222")
+            chrome_options.add_experimental_option("debuggerAddress", "127.0.0.1:9228")
             driver = webdriver.Chrome(options=chrome_options)
             
             # Verify the connection is stable
             _ = driver.title
-            print(f"Successfully connected to browser with title: '{driver.title}'")
+            
+            # --- NEW FIX: Force Chrome to open a new, visible tab ---
+            try:
+                # This opens a fresh tab and brings it to the front
+                driver.switch_to.new_window('tab')
+                driver.maximize_window()
+            except AttributeError:
+                # Fallback just in case you are using an older version of Selenium
+                driver.execute_script("window.open('');")
+                driver.switch_to.window(driver.window_handles[-1])
+                driver.maximize_window()
+            except Exception:
+                pass
+            # --------------------------------------------------------
+            
+            print("  - Successfully connected to the existing Chrome instance.")
             return driver
         except Exception as e:
             print(f"Connection attempt {i+1}/{retries} failed.")
@@ -99,6 +114,7 @@ def connect_to_chrome():
                 return None
 
 def wish_birthdays(driver):
+    time.sleep(random.uniform(18, 180))
     """Navigates to the birthday page and sends wishes."""
     # --- Timezone Check ---
     try:
@@ -117,7 +133,7 @@ def wish_birthdays(driver):
     print("--- Phase 0: Wishing Birthdays ---")
     driver.get(BIRTHDAY_URL)
     print("Navigated to birthdays page. Waiting for a random time...")
-    time.sleep(random.uniform(3, 7))
+    time.sleep(random.uniform(8, 20))
     
     actions = ActionChains(driver)
 
@@ -136,33 +152,33 @@ def wish_birthdays(driver):
 
     belated_messages = [
         "Happy belated birthday, [Name]! I hope you had a wonderful time celebrating.",
-        "Happy belated, [Name]! Sorry I missed the actual day, but I hope it was a great one.",
+        "Happy belated birthday, [Name]! Sorry I missed the actual day, but I hope it was a great one.",
         "Wishing you a happy belated birthday, [Name]! I hope the celebrations are still going strong.",
         "Happy belated birthday, [Name]! Hope you got to take some time offline to enjoy it.",
         "Sorry to miss the big day, but happy belated birthday, [Name]! Wishing you a fantastic year ahead.",
         "Happy belated birthday, [Name]! I’m a little late to the party, but wishing you nothing but the best this year.",
         "Wishing you a happy belated birthday, [Name]! Hope this coming year is full of great projects and personal wins.",
-        "Happy belated, [Name]! Always great being connected here. Hope you had a fantastic time celebrating.",
+        "Happy belated birthday, [Name]! Always great being connected here. Hope you had a fantastic time celebrating.",
         "Happy belated birthday, [Name]! Hope it was a memorable one and that you have a great year ahead.",
         "Wishing you a happy belated birthday, [Name]! Hope you had a great day surrounded by friends and family."
     ]
 
     wished_count = 0
-    daily_limit = random.randint(5, 15)
+    daily_limit = random.randint(13,30)
     print(f"Today's birthday wish limit is set to {daily_limit}.")
-    max_tabs_without_finding_new_person = random.randint(150, 850)
+    max_tabs_without_finding_new_person = random.randint(188, 588)
     tabs_count = 0
 
     while tabs_count < max_tabs_without_finding_new_person:
         actions.send_keys(Keys.TAB).perform()
         tabs_count += 1
-        time.sleep(random.uniform(0.52, 0.99))
+        time.sleep(random.uniform(0.82, 0.99))
 
         try:
             active_element = driver.switch_to.active_element
             aria_label = active_element.get_attribute("aria-label")
             
-            if active_element.tag_name == 'a' and aria_label and aria_label.startswith("Message ") and 'birthday' in aria_label:
+            if active_element.tag_name in ['a', 'button'] and aria_label and aria_label.startswith("Message ") and 'birthday' in aria_label:
                 
                 name = aria_label.split(':')[0].replace("Message ", "").strip()
 
@@ -176,6 +192,8 @@ def wish_birthdays(driver):
                 first_name = name.split()[0]
                 
                 if "belated" in aria_label.lower():
+                    # print("Skipping belated birthday for now.")
+                    # continue
                     birthday_type = "belated birthday"
                     message_template = random.choice(belated_messages)
                     new_message = message_template.replace("[Name]", first_name)
@@ -188,38 +206,38 @@ def wish_birthdays(driver):
 
                 active_element.send_keys(Keys.ENTER)
                 print("Pressed Enter. Waiting for message dialog to appear...")
-                time.sleep(random.uniform(1, 3))
+                time.sleep(random.uniform(4, 10))
 
                 try:
                     print("Assuming focus is now on the message box.")
-                    for _ in range(random.randint(30, 50)):
+                    for _ in range(random.randint(55, 99)):
                         actions.send_keys(Keys.BACK_SPACE)
                     actions.perform()
 
                     print("Cleared default message.")
-                    time.sleep(random.uniform(1, 3))
+                    time.sleep(random.uniform(4, 10))
                     
                     actions.send_keys(new_message).perform()
                     print(f"Typed new message: '{new_message}'")
-                    time.sleep(random.uniform(1, 3))
+                    time.sleep(random.uniform(4, 10))
 
                     print("Waiting 5 seconds before sending message with Enter key...")
-                    time.sleep(5)
+                    time.sleep(random.randint(6, 12))
                     actions.send_keys(Keys.ENTER).perform()
                     print("Sent Enter key.")
 
                     wished_count += 1
-                    time.sleep(random.randint(480, 880))
 
                     print("Message sent. Reloading birthdays page to refresh the list...")
+                    time.sleep(random.randint(480, 880))
                     driver.get(BIRTHDAY_URL)
                     print("Page reloaded. Waiting 5 seconds to load...")
-                    time.sleep(random.uniform(3, 7))
+                    time.sleep(random.uniform(8, 20))
 
                 except Exception as e:
                     print(f"Error: An error occurred while handling the message dialog for {name}: {e}")
                     driver.find_element(By.TAG_NAME, 'body').send_keys(Keys.ESCAPE)
-                    time.sleep(random.uniform(1, 3))
+                    time.sleep(random.uniform(4, 10))
 
         except NoSuchElementException:
             continue
@@ -236,25 +254,26 @@ def wish_birthdays(driver):
 
 
 def like_job_changes(driver):
+    time.sleep(random.uniform(18, 180))
     """Navigates to the job changes page and likes new job updates."""
     print("--- Phase 1: Liking Job Changes ---")
     job_changes_url = "https://www.linkedin.com/mynetwork/catch-up/job_changes/"
     driver.get(job_changes_url)
     print("Navigated to job changes page. Waiting for a random time...")
-    time.sleep(random.uniform(3, 7))
+    time.sleep(random.uniform(8, 20))
 
     actions = ActionChains(driver)
 
     liked_count = 0
     daily_limit = random.randint(8, 18)
     print(f"Today's job change like limit is set to {daily_limit}.")
-    max_tabs_without_finding_new_card = random.randint(180, 880)
+    max_tabs_without_finding_new_card = random.randint(88, 188)
     tabs_count = 0
 
     while tabs_count < max_tabs_without_finding_new_card:
         actions.send_keys(Keys.TAB).perform()
         tabs_count += 1
-        time.sleep(random.uniform(0.52, 0.99))
+        time.sleep(random.uniform(0.82, 0.99))
 
         try:
             active_element = driver.switch_to.active_element
@@ -276,7 +295,7 @@ def like_job_changes(driver):
                 active_element.send_keys(Keys.SPACE)
                 print("Pressed Space to like the post.")
                 liked_count += 1
-                time.sleep(random.uniform(1, 3))  # Wait a bit before continuing
+                time.sleep(random.uniform(4, 10))  # Wait a bit before continuing
 
             except NoSuchElementException:
                 # This active element doesn't contain the like button we're looking for.
@@ -297,25 +316,26 @@ def like_job_changes(driver):
 
 
 def like_work_anniversaries(driver):
+    time.sleep(random.uniform(18, 180))
     """Navigates to the work anniversaries page and likes new anniversary updates."""
     print("--- Phase 2: Liking Work Anniversaries ---")
     work_anniversaries_url = "https://www.linkedin.com/mynetwork/catch-up/work_anniversaries/"
     driver.get(work_anniversaries_url)
     print("Navigated to work anniversaries page. Waiting for a random time...")
-    time.sleep(random.uniform(3, 7))
+    time.sleep(random.uniform(8, 20))
 
     actions = ActionChains(driver)
 
     liked_count = 0
     daily_limit = random.randint(8, 18)
     print(f"Today's work anniversary like limit is set to {daily_limit}.")
-    max_tabs_without_finding_new_card = random.randint(260, 860)
+    max_tabs_without_finding_new_card = random.randint(88, 188)
     tabs_count = 0
 
     while tabs_count < max_tabs_without_finding_new_card:
         actions.send_keys(Keys.TAB).perform()
         tabs_count += 1
-        time.sleep(random.uniform(0.52, 0.99))
+        time.sleep(random.uniform(0.82, 0.99))
 
         try:
             active_element = driver.switch_to.active_element
@@ -337,7 +357,7 @@ def like_work_anniversaries(driver):
                 active_element.send_keys(Keys.ENTER)
                 print("Pressed Enter to like the post.")
                 liked_count += 1
-                time.sleep(random.uniform(1, 3))  # Wait a bit before continuing
+                time.sleep(random.uniform(4, 10))  # Wait a bit before continuing
 
             except NoSuchElementException:
                 # This active element doesn't contain the like button we're looking for.
@@ -358,25 +378,26 @@ def like_work_anniversaries(driver):
 
 
 def like_education_updates(driver):
+    time.sleep(random.uniform(18, 180))
     """Navigates to the education updates page and likes new updates."""
     print("--- Phase 3: Liking Education Updates ---")
     education_updates_url = "https://www.linkedin.com/mynetwork/catch-up/education/"
     driver.get(education_updates_url)
     print("Navigated to education updates page. Waiting for a random time...")
-    time.sleep(random.uniform(3, 7))
+    time.sleep(random.uniform(8, 20))
 
     actions = ActionChains(driver)
 
     liked_count = 0
     daily_limit = random.randint(8, 18)
     print(f"Today's education update like limit is set to {daily_limit}.")
-    max_tabs_without_finding_new_card = random.randint(330, 830)
+    max_tabs_without_finding_new_card = random.randint(88, 188)
     tabs_count = 0
 
     while tabs_count < max_tabs_without_finding_new_card:
         actions.send_keys(Keys.TAB).perform()
         tabs_count += 1
-        time.sleep(random.uniform(0.52, 0.99))
+        time.sleep(random.uniform(0.82, 0.99))
 
         try:
             active_element = driver.switch_to.active_element
@@ -394,7 +415,7 @@ def like_education_updates(driver):
                 active_element.send_keys(Keys.ENTER)
                 print("Pressed Enter to like the post.")
                 liked_count += 1
-                time.sleep(random.uniform(1, 3))  # Wait a bit before continuing
+                time.sleep(random.uniform(4, 10))  # Wait a bit before continuing
 
             except NoSuchElementException:
                 continue
@@ -633,6 +654,111 @@ def like_search_results(driver, search_url, keyword):
     print(f"--- Liking from search results for '{keyword}' complete. ---")
 
 
+def connect_with_people(driver):
+    time.sleep(random.uniform(18, 180))
+    """Navigates to search results and sends connection requests."""
+    print("--- Phase 7: Connecting with People ---")
+    connect_url = "https://www.linkedin.com/search/results/people/?keywords=it%20project%20manager&origin=FACETED_SEARCH&geoUrn=%5B%2290000596%22%5D"
+    driver.get(connect_url)
+    print("Navigated to search results page. Waiting 10 seconds...")
+    time.sleep(random.uniform(8, 20))
+
+    actions = ActionChains(driver)
+
+    connection_messages = [
+        "Your path is really inspiring, [Name]. As an Orlando-based professional always looking to learn from driven locals, I'd love to connect and follow your journey.",        
+        "Great coming across your profile, [Name]. Your background really stands out. I’m a fellow Orlando professional passionate about continuous growth, and I'd love to connect to learn from your insights.",        
+        "Always great to see local Orlando talent doing such impactful work, [Name]! I’m looking to connect with and learn from bright minds in our area, and I would be honored to add you to my network.",        
+        "I really admire your professional journey, [Name]. As a fellow Central Florida resident, I value learning from dedicated professionals in our community. I’d love to connect and follow your work.",        
+        "I enjoyed reviewing your background, [Name]. As I grow my professional roots here in Orlando, my goal is to connect with and learn from talented locals like yourself. Let's connect!",        
+        "[Name], your dedication to your field really caught my eye. I’m eager to expand my Orlando network by connecting with passionate people to share insights and learn. I’d love to stay connected!",        
+        "I’m really impressed by the work you’re doing, [Name]. I’m currently building my network with driven individuals in the Orlando area to learn and grow my own craft. I’d love to stay connected!",        
+        "Hello [Name], I was glad to come across your profile. Your dedication and background are truly inspiring. As an Orlando-based professional, I'd love to connect and learn from your journey.",        
+        "Your background is incredibly impressive, [Name]. I’m always looking to learn from ambitious peers across the Orlando community and would love the opportunity to add you to my network.",        
+        "Hope you're having a great week, [Name]. Your trajectory is a great inspiration! As a fellow professional here in Orlando, I’m always looking to connect with and learn from inspiring locals. I’d love to connect."    
+    ]
+
+    connection_count = 0
+    daily_limit = random.randint(1, 3)
+    print(f"Today's connection limit is set to {daily_limit}.")
+    max_tabs_without_finding_new_person = random.randint(188, 388)
+    tabs_count = 0
+
+    while tabs_count < max_tabs_without_finding_new_person and connection_count < daily_limit:
+        actions.send_keys(Keys.TAB).perform()
+        tabs_count += 1
+        time.sleep(random.uniform(0.82, 0.99))
+
+        try:
+            active_element = driver.switch_to.active_element
+            aria_label = active_element.get_attribute("aria-label")
+
+            if aria_label and aria_label.startswith("Invite ") and " to connect" in aria_label:
+                try:
+                    name = aria_label.replace("Invite ", "").replace(" to connect", "").strip()
+                    print(f"Found 'Connect' button for: {name}")
+                    tabs_count = 0
+
+                    active_element.send_keys(Keys.ENTER)
+                    print("Pressed Enter to open connect modal.")
+                    time.sleep(random.randint(5, 15))
+
+                    # Modal interaction
+                    add_note_button = None
+                    send_button = None
+                    
+                    # Per user request, tab twice to find the "Add a note" button.
+                    print("Tabbing twice to find 'Add a note' button.")
+                    for _ in range(2):
+                        ActionChains(driver).send_keys(Keys.TAB).perform()
+                        time.sleep(random.uniform(0.3, 0.6))
+                    
+                    add_note_button = driver.switch_to.active_element
+
+                    print("Found 'Add a note' button.")
+                    add_note_button.send_keys(Keys.ENTER)
+                    time.sleep(random.randint(5, 15))
+                    
+                    first_name = name.split()[0]
+                    message = random.choice(connection_messages).replace("[Name]", first_name)
+                    
+                    ActionChains(driver).send_keys(message).perform()
+                    print(f"Typed message: '{message}'")
+                    time.sleep(random.uniform(4, 10))
+
+                    print("Waiting 5 seconds before sending message with Enter key...")
+                    time.sleep(random.randint(6, 12))
+
+                    for _ in range(3):
+                        ActionChains(driver).send_keys(Keys.TAB).perform()
+                        time.sleep(random.uniform(0.3, 0.6))
+
+                    ActionChains(driver).send_keys(Keys.ENTER).perform()
+                    print("Pressed Enter to send invitation.")
+
+                    connection_count += 1             
+                                
+                    print(f"Connection request sent to {name}. Total sent: {connection_count}")
+                    time.sleep(random.randint(480, 880))
+                except Exception as e:
+                    print(f"Error: An error occurred while handling the message dialog for {name}: {e}")
+                    driver.find_element(By.TAG_NAME, 'body').send_keys(Keys.ESCAPE)
+                    time.sleep(random.uniform(4, 10))                
+
+        except (NoSuchElementException, StaleElementReferenceException):
+            continue
+        except Exception as e:
+            print(f"An unexpected error occurred in the main connect loop: {e}")
+            continue
+
+    if connection_count > 0:
+        print(f"Successfully sent {connection_count} connection requests.")
+    else:
+        print("No new people found to connect with on the page.")
+
+    print("--- Connection task complete ---")
+
+
 def main():
     """Main function to run the LinkedIn networking bot."""
     print("--- LinkedIn Networking Bot Starting ---")
@@ -644,29 +770,40 @@ def main():
 
     driver = connect_to_chrome()
     if not driver:
+        print("not driver")
         return
     
+    print("--- Let's continue ---")
+    
+    # tasks = [
+    #     like_job_changes,
+    # ]
+
     tasks = [
+        wish_birthdays,
         like_job_changes,
-    ]
+        like_work_anniversaries,
+        like_education_updates,
+        connect_with_people
+    ] 
+
+    # tasks = [
+    #     wish_birthdays,
+    #     like_job_changes,
+    #     like_work_anniversaries,
+    #     like_education_updates
+    # ]
 
     #tasks = [
-    #    wish_birthdays,
-    #    like_job_changes,
-    #    like_work_anniversaries,
-    #    like_education_updates
-    #] 
-
-    tasks = [
-        wish_birthdays
-    ]
+    #    wish_birthdays
+    #]
 
     random.shuffle(tasks)
 
     for i, task in enumerate(tasks):
         task(driver)
         if i < len(tasks) - 1:  # Don't sleep after the last task
-            sleep_time = random.randint(180, 900)
+            sleep_time = random.randint(188, 488)
             print(f"Waiting for {sleep_time // 60} minutes and {sleep_time % 60} seconds before the next task...")
             time.sleep(sleep_time)
     

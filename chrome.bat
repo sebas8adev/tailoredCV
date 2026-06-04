@@ -1,1 +1,2 @@
-"C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222 --user-data-dir="I:\Playground\techguys\tailoredCV\ChromeDebugProfile" --window-name="Chrome Personal LinkedIn Debugger"
+@echo off
+"C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9228 --user-data-dir="I:\Playground\techguys\tailoredCV\ChromeDebugProfile" "data:text/html;charset=utf-8,<title>Chrome Personal LinkedIn Debugger</title><h1>LinkedIn Bot Debugger Active</h1><p>Leave this tab open so the script can find the window.</p>"
