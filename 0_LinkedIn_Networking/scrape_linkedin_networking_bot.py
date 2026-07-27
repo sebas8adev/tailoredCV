@@ -22,6 +22,7 @@ PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
 NEWS_LOG_FILE_JSON = os.path.join(PROJECT_ROOT, 'news_log.json')
 LIKED_POSTS_LOG_JSON = os.path.join(PROJECT_ROOT, 'liked_posts_log.json')
 CONNECTION_LOG_FILE_JSON = os.path.join(PROJECT_ROOT, 'connection_log.json')
+PROCESSED_BIRTHDAYS_JSON = os.path.join(PROJECT_ROOT, 'data', 'processed_birthdays.json')
 BIRTHDAY_LOG_FILE_OLD = os.path.join(PROJECT_ROOT, 'birthday_log.txt')
 BIRTHDAY_URL = "https://www.linkedin.com/mynetwork/catch-up/birthday/"
 
@@ -74,6 +75,28 @@ def save_connection_log(log_data):
     with open(CONNECTION_LOG_FILE_JSON, 'w', encoding='utf-8') as f:
         json.dump(log_data, f, indent=4, ensure_ascii=False)
 
+def load_processed_birthdays():
+    """Loads processed birthdays log from JSON file. Returns a list of dicts."""
+    if not os.path.exists(PROCESSED_BIRTHDAYS_JSON):
+        return []
+    try:
+        with open(PROCESSED_BIRTHDAYS_JSON, 'r', encoding='utf-8') as f:
+            content = f.read()
+            if not content:
+                return []
+            return json.loads(content)
+    except (json.JSONDecodeError, FileNotFoundError):
+        return []
+
+def save_processed_birthdays(log_data):
+    """Saves the entire processed birthdays log data list to the JSON file."""
+    # Ensure the 'data' directory exists
+    data_dir = os.path.dirname(PROCESSED_BIRTHDAYS_JSON)
+    if not os.path.exists(data_dir):
+        os.makedirs(data_dir)
+    with open(PROCESSED_BIRTHDAYS_JSON, 'w', encoding='utf-8') as f:
+        json.dump(log_data, f, indent=4, ensure_ascii=False)
+
 def connect_to_chrome():
     """Establishes a connection to the running Chrome debugger instance with retries."""
     print("Attempting to connect to Chrome...")
@@ -121,7 +144,7 @@ def wish_birthdays(driver):
         est_tz = pytz.timezone('America/New_York')
         now_est = datetime.datetime.now(est_tz)
         
-        start_hour = 9
+        start_hour = 8
         end_hour = 19
 
         if not (start_hour <= now_est.hour < end_hour):
@@ -166,8 +189,10 @@ def wish_birthdays(driver):
     wished_count = 0
     daily_limit = random.randint(13,30)
     print(f"Today's birthday wish limit is set to {daily_limit}.")
-    max_tabs_without_finding_new_person = random.randint(188, 588)
+    max_tabs_without_finding_new_person = random.randint(88, 888)
     tabs_count = 0
+
+    processed_birthdays_log = load_processed_birthdays()
 
     while tabs_count < max_tabs_without_finding_new_person:
         actions.send_keys(Keys.TAB).perform()
@@ -181,6 +206,26 @@ def wish_birthdays(driver):
             if active_element.tag_name in ['a', 'button'] and aria_label and aria_label.startswith("Message ") and 'birthday' in aria_label:
                 
                 name = aria_label.split(':')[0].replace("Message ", "").strip()
+
+                # --- New: Check if already wished this year ---
+                try:
+                    # Find the parent container (which could be a div with role="listitem")
+                    profile_card = active_element.find_element(By.XPATH, "ancestor::div[@role='listitem']")
+                    profile_link_element = profile_card.find_element(By.CSS_SELECTOR, "a[href*='/in/']")
+                    profile_url = profile_link_element.get_attribute('href').split('?')[0]
+                    current_year = datetime.datetime.now().year
+
+                    already_wished = any(
+                        entry['url'] == profile_url and entry['year'] == current_year
+                        for entry in processed_birthdays_log
+                    )
+
+                    if already_wished:
+                        print(f"Already wished {name} ({profile_url}) a happy birthday this year. Skipping.")
+                        continue
+                except Exception as e:
+                    print(f"Could not find profile URL for {name}. Skipping to be safe. Err: {e}")
+                    continue
 
                 if wished_count >= daily_limit:
                     print(f"Reached the processing limit of {daily_limit} people for this run. Stopping.")
@@ -228,6 +273,15 @@ def wish_birthdays(driver):
 
                     wished_count += 1
 
+                    # --- New: Log the processed birthday ---
+                    processed_birthdays_log.append({
+                        "url": profile_url,
+                        "name": name,
+                        "year": current_year,
+                        "type": birthday_type
+                    })
+                    save_processed_birthdays(processed_birthdays_log)
+
                     print("Message sent. Reloading birthdays page to refresh the list...")
                     time.sleep(random.randint(480, 880))
                     driver.get(BIRTHDAY_URL)
@@ -251,7 +305,6 @@ def wish_birthdays(driver):
         print("No new birthdays found to process on the page.")
 
     print("--- Birthday wishing complete ---")
-
 
 def like_job_changes(driver):
     time.sleep(random.uniform(18, 180))
@@ -314,7 +367,6 @@ def like_job_changes(driver):
 
     print("--- Job change liking complete ---")
 
-
 def like_work_anniversaries(driver):
     time.sleep(random.uniform(18, 180))
     """Navigates to the work anniversaries page and likes new anniversary updates."""
@@ -376,7 +428,6 @@ def like_work_anniversaries(driver):
 
     print("--- Work anniversary liking complete ---")
 
-
 def like_education_updates(driver):
     time.sleep(random.uniform(18, 180))
     """Navigates to the education updates page and likes new updates."""
@@ -432,7 +483,6 @@ def like_education_updates(driver):
         print("No new education updates found to like on the page.")
 
     print("--- Education update liking complete ---")
-
 
 def view_connection_profiles(driver, base_search_url, keyword):
     """
@@ -510,7 +560,6 @@ def view_connection_profiles(driver, base_search_url, keyword):
         print("No new profiles to view/scrape were found within the first 5 pages.")
         
     print("--- Profile viewing and scraping complete ---")
-
 
 def share_linkedin_news(driver):
     print("--- Phase 5: Sharing LinkedIn News ---")
@@ -653,7 +702,6 @@ def like_search_results(driver, search_url, keyword):
 
     print(f"--- Liking from search results for '{keyword}' complete. ---")
 
-
 def connect_with_people(driver):
     time.sleep(random.uniform(18, 180))
     """Navigates to search results and sends connection requests."""
@@ -681,10 +729,13 @@ def connect_with_people(driver):
     connection_count = 0
     daily_limit = random.randint(1, 3)
     print(f"Today's connection limit is set to {daily_limit}.")
-    max_tabs_without_finding_new_person = random.randint(188, 388)
+    # Increased tabbing limit to ensure it can find the next button
+    max_tabs_without_finding_new_person = random.randint(388, 588)
     tabs_count = 0
+    pages_viewed = 1
+    max_pages = 3 # Safety limit for pages to view in one run
 
-    while tabs_count < max_tabs_without_finding_new_person and connection_count < daily_limit:
+    while connection_count < daily_limit and pages_viewed <= max_pages:
         actions.send_keys(Keys.TAB).perform()
         tabs_count += 1
         time.sleep(random.uniform(0.82, 0.99))
@@ -693,6 +744,22 @@ def connect_with_people(driver):
             active_element = driver.switch_to.active_element
             aria_label = active_element.get_attribute("aria-label")
 
+            # Check for pagination if we've tabbed a lot
+            if tabs_count >= max_tabs_without_finding_new_person:
+                if aria_label and "Next" in aria_label:
+                    print("Reached end of profiles on this page. Clicking 'Next'...")
+                    active_element.send_keys(Keys.ENTER)
+                    time.sleep(random.uniform(8, 15)) # Wait for next page to load
+                    tabs_count = 0 # Reset tab counter for the new page
+                    pages_viewed += 1
+                    print(f"Now on page {pages_viewed}.")
+                    continue
+                elif tabs_count >= max_tabs_without_finding_new_person + 100: # Extra buffer to find the button
+                    print("Could not find 'Next' button after extensive tabbing. Ending connection task.")
+                    break
+                else:
+                    continue # Continue tabbing to find either a person or the 'Next' button
+            
             if aria_label and aria_label.startswith("Invite ") and " to connect" in aria_label:
                 try:
                     name = aria_label.replace("Invite ", "").replace(" to connect", "").strip()
@@ -758,7 +825,6 @@ def connect_with_people(driver):
 
     print("--- Connection task complete ---")
 
-
 def main():
     """Main function to run the LinkedIn networking bot."""
     print("--- LinkedIn Networking Bot Starting ---")
@@ -780,12 +846,12 @@ def main():
     # ]
 
     tasks = [
-        wish_birthdays,
-        like_job_changes,
-        like_work_anniversaries,
-        like_education_updates,
-        connect_with_people
-    ] 
+       wish_birthdays,
+       like_job_changes,
+       like_work_anniversaries,
+       like_education_updates,
+       connect_with_people
+    ]  
 
     # tasks = [
     #     wish_birthdays,
@@ -840,7 +906,6 @@ def main():
     #     like_search_results(driver, url, keyword)
     
     print("--- LinkedIn Networking Bot Finished ---")
-
 
 if __name__ == '__main__':
     main()
