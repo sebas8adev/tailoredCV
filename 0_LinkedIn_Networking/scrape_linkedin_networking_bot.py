@@ -729,13 +729,13 @@ def connect_with_people(driver):
     connection_count = 0
     daily_limit = random.randint(1, 3)
     print(f"Today's connection limit is set to {daily_limit}.")
-    # Increased tabbing limit to ensure it can find the next button
-    max_tabs_without_finding_new_person = random.randint(388, 588)
+    max_tabs_without_finding_new_person = random.randint(188, 388)
     tabs_count = 0
     pages_viewed = 1
     max_pages = 3 # Safety limit for pages to view in one run
+    page_just_loaded = True
 
-    while connection_count < daily_limit and pages_viewed <= max_pages:
+    while tabs_count < max_tabs_without_finding_new_person and connection_count < daily_limit and pages_viewed <= max_pages:
         actions.send_keys(Keys.TAB).perform()
         tabs_count += 1
         time.sleep(random.uniform(0.82, 0.99))
@@ -743,22 +743,6 @@ def connect_with_people(driver):
         try:
             active_element = driver.switch_to.active_element
             aria_label = active_element.get_attribute("aria-label")
-
-            # Check for pagination if we've tabbed a lot
-            if tabs_count >= max_tabs_without_finding_new_person:
-                if aria_label and "Next" in aria_label:
-                    print("Reached end of profiles on this page. Clicking 'Next'...")
-                    active_element.send_keys(Keys.ENTER)
-                    time.sleep(random.uniform(8, 15)) # Wait for next page to load
-                    tabs_count = 0 # Reset tab counter for the new page
-                    pages_viewed += 1
-                    print(f"Now on page {pages_viewed}.")
-                    continue
-                elif tabs_count >= max_tabs_without_finding_new_person + 100: # Extra buffer to find the button
-                    print("Could not find 'Next' button after extensive tabbing. Ending connection task.")
-                    break
-                else:
-                    continue # Continue tabbing to find either a person or the 'Next' button
             
             if aria_label and aria_label.startswith("Invite ") and " to connect" in aria_label:
                 try:
@@ -811,6 +795,16 @@ def connect_with_people(driver):
                     print(f"Error: An error occurred while handling the message dialog for {name}: {e}")
                     driver.find_element(By.TAG_NAME, 'body').send_keys(Keys.ESCAPE)
                     time.sleep(random.uniform(4, 10))                
+            
+            # --- NEW: Check for the "Next" button on every tab ---
+            elif active_element.get_attribute("data-testid") == "pagination-controls-next-button-visible":
+                print("Found 'Next' pagination button. Clicking to go to the next page...")
+                active_element.send_keys(Keys.ENTER)
+                time.sleep(random.uniform(88, 150)) # Wait for next page to load
+                tabs_count = 0 # Reset tab counter for the new page
+                pages_viewed += 1
+                print(f"Now on page {pages_viewed}.")
+                # The main `while` loop will continue the tabbing process
 
         except (NoSuchElementException, StaleElementReferenceException):
             continue
@@ -818,10 +812,12 @@ def connect_with_people(driver):
             print(f"An unexpected error occurred in the main connect loop: {e}")
             continue
 
-    if connection_count > 0:
+    if connection_count >= daily_limit:
+        print(f"Daily connection limit of {daily_limit} reached.")
+    elif connection_count > 0:
         print(f"Successfully sent {connection_count} connection requests.")
     else:
-        print("No new people found to connect with on the page.")
+        print("No new people found to connect with after scanning.")
 
     print("--- Connection task complete ---")
 
@@ -861,7 +857,7 @@ def main():
     # ]
 
     #tasks = [
-    #    wish_birthdays
+    #    connect_with_people
     #]
 
     random.shuffle(tasks)
