@@ -187,7 +187,7 @@ def wish_birthdays(driver):
     ]
 
     wished_count = 0
-    daily_limit = random.randint(13,30)
+    daily_limit = random.randint(4,14)
     print(f"Today's birthday wish limit is set to {daily_limit}.")
     max_tabs_without_finding_new_person = random.randint(88, 888)
     tabs_count = 0
