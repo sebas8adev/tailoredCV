@@ -857,7 +857,7 @@ def main():
     # ]
 
     #tasks = [
-    #    connect_with_people
+    #    wish_birthdays
     #]
 
     random.shuffle(tasks)
