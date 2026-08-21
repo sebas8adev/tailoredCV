@@ -206,73 +206,66 @@ def wish_birthdays(driver):
             if active_element.tag_name in ['a', 'button'] and aria_label and aria_label.startswith("Message ") and 'birthday' in aria_label:
                 
                 name = aria_label.split(':')[0].replace("Message ", "").strip()
-
-                # --- New: Check if already wished this year ---
+ 
                 try:
-                    # Find the parent container (which could be a div with role="listitem")
                     profile_card = active_element.find_element(By.XPATH, "ancestor::div[@role='listitem']")
                     profile_link_element = profile_card.find_element(By.CSS_SELECTOR, "a[href*='/in/']")
                     profile_url = profile_link_element.get_attribute('href').split('?')[0]
                     current_year = datetime.datetime.now().year
-
-                    already_wished = any(
+ 
+                    # Determine if it's a belated birthday *before* checking the log
+                    is_belated = "belated" in aria_label.lower()
+                    birthday_type = "belated birthday" if is_belated else "birthday"
+ 
+                    # Now, check if we've already wished them a happy birthday this year
+                    already_wished_this_year = any(
                         entry['url'] == profile_url and entry['year'] == current_year
                         for entry in processed_birthdays_log
                     )
-
-                    if already_wished:
+ 
+                    if already_wished_this_year:
                         print(f"Already wished {name} ({profile_url}) a happy birthday this year. Skipping.")
                         continue
-                except Exception as e:
-                    print(f"Could not find profile URL for {name}. Skipping to be safe. Err: {e}")
-                    continue
-
-                if wished_count >= daily_limit:
-                    print(f"Reached the processing limit of {daily_limit} people for this run. Stopping.")
-                    break
-
-                print(f"Found unprocessed birthday for: {name}")
-                tabs_count = 0 # Reset counter
-
-                first_name = name.split()[0]
-                
-                if "belated" in aria_label.lower():
-                    # print("Skipping belated birthday for now.")
-                    # continue
-                    birthday_type = "belated birthday"
-                    message_template = random.choice(belated_messages)
+ 
+                    if wished_count >= daily_limit:
+                        print(f"Reached the processing limit of {daily_limit} people for this run. Stopping.")
+                        break
+ 
+                    print(f"Found unprocessed {birthday_type} for: {name}")
+                    tabs_count = 0 # Reset counter
+ 
+                    first_name = name.split()[0]
+ 
+                    if is_belated:
+                        message_template = random.choice(belated_messages)
+                    else:
+                        message_template = random.choice(same_day_messages)
+                    
                     new_message = message_template.replace("[Name]", first_name)
-                    print("Identified as a belated birthday.")
-                else:
-                    birthday_type = "birthday"
-                    message_template = random.choice(same_day_messages)
-                    new_message = message_template.replace("[Name]", first_name)
-
-
-                active_element.send_keys(Keys.ENTER)
-                print("Pressed Enter. Waiting for message dialog to appear...")
-                time.sleep(random.uniform(4, 10))
-
-                try:
+ 
+                    active_element.send_keys(Keys.ENTER)
+                    print("Pressed Enter. Waiting for message dialog to appear...")
+                    time.sleep(random.uniform(4, 10))
+ 
                     print("Assuming focus is now on the message box.")
                     for _ in range(random.randint(55, 99)):
                         actions.send_keys(Keys.BACK_SPACE)
                     actions.perform()
-
+ 
                     print("Cleared default message.")
                     time.sleep(random.uniform(4, 10))
                     
                     actions.send_keys(new_message).perform()
                     print(f"Typed new message: '{new_message}'")
                     time.sleep(random.uniform(4, 10))
-
+ 
                     print("Waiting 5 seconds before sending message with Enter key...")
                     time.sleep(random.randint(6, 12))
                     actions.send_keys(Keys.ENTER).perform()
                     print("Sent Enter key.")
-
+ 
                     wished_count += 1
-
+ 
                     # --- New: Log the processed birthday ---
                     processed_birthdays_log.append({
                         "url": profile_url,
@@ -281,18 +274,18 @@ def wish_birthdays(driver):
                         "type": birthday_type
                     })
                     save_processed_birthdays(processed_birthdays_log)
-
+ 
                     print("Message sent. Reloading birthdays page to refresh the list...")
                     time.sleep(random.randint(480, 880))
                     driver.get(BIRTHDAY_URL)
                     print("Page reloaded. Waiting 5 seconds to load...")
                     time.sleep(random.uniform(8, 20))
-
+ 
                 except Exception as e:
-                    print(f"Error: An error occurred while handling the message dialog for {name}: {e}")
+                    print(f"Could not process birthday for {name}. Error: {e}")
                     driver.find_element(By.TAG_NAME, 'body').send_keys(Keys.ESCAPE)
                     time.sleep(random.uniform(4, 10))
-
+                    continue
         except NoSuchElementException:
             continue
         except Exception as e:
@@ -845,9 +838,17 @@ def main():
        wish_birthdays,
        like_job_changes,
        like_work_anniversaries,
-       like_education_updates,
-       connect_with_people
+       like_education_updates,  
+       connect_with_people     
     ]  
+
+    #tasks = [
+    #   wish_birthdays,
+    #   like_job_changes,
+    #   like_work_anniversaries,
+    #   like_education_updates,
+    #   connect_with_people
+    #]      
 
     # tasks = [
     #     wish_birthdays,
