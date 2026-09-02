@@ -7,6 +7,7 @@ import datetime
 import random
 import pytz
 from selenium import webdriver
+import argparse
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -97,15 +98,15 @@ def save_processed_birthdays(log_data):
     with open(PROCESSED_BIRTHDAYS_JSON, 'w', encoding='utf-8') as f:
         json.dump(log_data, f, indent=4, ensure_ascii=False)
 
-def connect_to_chrome():
+def connect_to_chrome(port):
     """Establishes a connection to the running Chrome debugger instance with retries."""
-    print("Attempting to connect to Chrome...")
+    print(f"Attempting to connect to Chrome on port {port}...")
     retries = 10
     wait_time = 3 # seconds
     for i in range(retries):
         try:
             chrome_options = Options()
-            chrome_options.add_experimental_option("debuggerAddress", "127.0.0.1:9228")
+            chrome_options.add_experimental_option("debuggerAddress", f"127.0.0.1:{port}")
             driver = webdriver.Chrome(options=chrome_options)
             
             # Verify the connection is stable
@@ -136,7 +137,7 @@ def connect_to_chrome():
                 print(f"FATAL: Could not connect to Chrome after multiple retries. Error: {e}")
                 return None
 
-def wish_birthdays(driver):
+def wish_birthdays(driver, profile_id):
     time.sleep(random.uniform(18, 180))
     """Navigates to the birthday page and sends wishes."""
     # --- Timezone Check ---
@@ -192,7 +193,11 @@ def wish_birthdays(driver):
     max_tabs_without_finding_new_person = random.randint(88, 888)
     tabs_count = 0
 
-    processed_birthdays_log = load_processed_birthdays()
+    all_processed_birthdays = load_processed_birthdays()
+    # Filter for birthdays processed by the current profile
+    processed_birthdays_for_profile = [
+        entry for entry in all_processed_birthdays if entry.get('profileId') == profile_id
+    ]
 
     while tabs_count < max_tabs_without_finding_new_person:
         actions.send_keys(Keys.TAB).perform()
@@ -219,8 +224,8 @@ def wish_birthdays(driver):
  
                     # Now, check if we've already wished them a happy birthday this year
                     already_wished_this_year = any(
-                        entry['url'] == profile_url and entry['year'] == current_year
-                        for entry in processed_birthdays_log
+                        entry['url'] == profile_url and entry['year'] == current_year and entry.get('profileId') == profile_id
+                        for entry in all_processed_birthdays
                     )
  
                     if already_wished_this_year:
@@ -267,13 +272,14 @@ def wish_birthdays(driver):
                     wished_count += 1
  
                     # --- New: Log the processed birthday ---
-                    processed_birthdays_log.append({
+                    all_processed_birthdays.append({
                         "url": profile_url,
                         "name": name,
                         "year": current_year,
-                        "type": birthday_type
+                        "type": birthday_type,
+                        "profileId": profile_id
                     })
-                    save_processed_birthdays(processed_birthdays_log)
+                    save_processed_birthdays(all_processed_birthdays)
  
                     print("Message sent. Reloading birthdays page to refresh the list...")
                     time.sleep(random.randint(480, 880))
@@ -695,11 +701,10 @@ def like_search_results(driver, search_url, keyword):
 
     print(f"--- Liking from search results for '{keyword}' complete. ---")
 
-def connect_with_people(driver):
+def connect_with_people(driver, connect_url):
     time.sleep(random.uniform(18, 180))
     """Navigates to search results and sends connection requests."""
     print("--- Phase 7: Connecting with People ---")
-    connect_url = "https://www.linkedin.com/search/results/people/?keywords=it%20project%20manager&origin=FACETED_SEARCH&geoUrn=%5B%2290000596%22%5D"
     driver.get(connect_url)
     print("Navigated to search results page. Waiting 10 seconds...")
     time.sleep(random.uniform(8, 20))
@@ -816,6 +821,12 @@ def connect_with_people(driver):
 
 def main():
     """Main function to run the LinkedIn networking bot."""
+    parser = argparse.ArgumentParser(description="LinkedIn Networking Bot")
+    parser.add_argument('--port', type=int, default=9228, help='The debugging port for the Chrome session.')
+    parser.add_argument('--connect_url', type=str, required=True, help='The URL for connecting with people on LinkedIn.')
+    parser.add_argument('--profile_id', type=str, default='profile1', help='The ID of the profile to use for this session.')
+    args = parser.parse_args()
+
     print("--- LinkedIn Networking Bot Starting ---")
     
     # --- Cleanup old log file ---
@@ -823,7 +834,7 @@ def main():
         print(f"Removing old log file: {BIRTHDAY_LOG_FILE_OLD}")
         os.remove(BIRTHDAY_LOG_FILE_OLD)
 
-    driver = connect_to_chrome()
+    driver = connect_to_chrome(args.port)
     if not driver:
         print("not driver")
         return
@@ -839,7 +850,6 @@ def main():
        like_job_changes,
        like_work_anniversaries,
        like_education_updates,  
-       connect_with_people     
     ]  
 
     #tasks = [
@@ -864,11 +874,20 @@ def main():
     random.shuffle(tasks)
 
     for i, task in enumerate(tasks):
-        task(driver)
+        if task.__name__ == 'wish_birthdays':
+            task(driver, args.profile_id)
+        else:
+            task(driver)
         if i < len(tasks) - 1:  # Don't sleep after the last task
             sleep_time = random.randint(188, 488)
             print(f"Waiting for {sleep_time // 60} minutes and {sleep_time % 60} seconds before the next task...")
             time.sleep(sleep_time)
+
+    # Run connect_with_people separately as it requires an additional argument
+    sleep_time = random.randint(188, 488)
+    print(f"Waiting for {sleep_time // 60} minutes and {sleep_time % 60} seconds before the next task (connect_with_people)...")
+    time.sleep(sleep_time)
+    connect_with_people(driver, args.connect_url)
     
     search_tasks = {
         "project manager": "https://www.linkedin.com/search/results/people/?keywords=project%20manager&network=%5B%22S%22%5D&origin=FACETED_SEARCH&page=",

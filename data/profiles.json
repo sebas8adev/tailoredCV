@@ -1,0 +1,20 @@
+{
+    "profiles": [
+        {
+            "id": "profile1",
+            "name": "Sebastian",
+            "script": "i:\\Playground\\techguys\\tailoredCV\\chrome.bat",
+            "port": 9228,
+            "connect_url": "https://www.linkedin.com/search/results/people/?keywords=it%20project%20manager&origin=FACETED_SEARCH&geoUrn=%5B%2290000596%22%5D",
+            "enabled": true
+        },
+        {
+            "id": "profile2",
+            "name": "Alejo",
+            "script": "i:\\Playground\\techguys\\tailoredCV\\chrome-alejo.bat",
+            "port": 9229,
+            "connect_url": "https://www.linkedin.com/search/results/people/?keywords=production%20manager&origin=FACETED_SEARCH&geoUrn=%5B%22100547700%22%5D",
+            "enabled": false
+        }
+    ]
+}
