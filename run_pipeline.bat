@@ -6,13 +6,12 @@ set "PYTHON_EXE=python"
 set "BOT_SCRIPT=i:\Playground\techguys\tailoredCV\0_LinkedIn_Networking\scrape_linkedin_networking_bot.py"
 set "PROFILES_JSON=i:\Playground\techguys\tailoredCV\data\profiles.json"
 set "SESSION_JSON=i:\Playground\techguys\tailoredCV\data\profile-session-manager.json"
-set "HELPER_SCRIPT=i:\Playground\techguys\tailoredCV\get_next_profile.ps1"
 
 echo --- LinkedIn Bot Pipeline ---
 
-REM --- 1. Determine the next profile to use by calling the helper script ---
-echo Determining next profile...
-for /f "tokens=1,2,3,4 delims=;" %%a in ('powershell -NoProfile -ExecutionPolicy Bypass -File "%HELPER_SCRIPT%" -profilesJsonPath "%PROFILES_JSON%" -sessionJsonPath "%SESSION_JSON%"') do (
+REM --- 1. Determine a random enabled profile to use ---
+echo Determining random profile...
+for /f "tokens=1,2,3* delims=;" %%a in ('powershell -NoProfile -Command "$p = @((Get-Content -Raw $env:PROFILES_JSON ^| ConvertFrom-Json).profiles ^| Where-Object { $_.enabled }); if ($p.Count -gt 0) { $last = if (Test-Path $env:SESSION_JSON) { (Get-Content -Raw $env:SESSION_JSON ^| ConvertFrom-Json).last_used_profile_id } else { $null }; $c = @($p ^| Where-Object { $_.id -ne $last }); if ($c.Count -eq 0) { $c = $p }; $s = $c[(Get-Random -Maximum $c.Count)]; Write-Output ($s.id, $s.script, $s.port, $s.connect_url -join ';') }"') do (
     set "NEXT_PROFILE_ID=%%a"
     set "NEXT_PROFILE_SCRIPT=%%b"
     set "NEXT_PROFILE_PORT=%%c"

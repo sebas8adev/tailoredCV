@@ -25,6 +25,7 @@ LIKED_POSTS_LOG_JSON = os.path.join(PROJECT_ROOT, 'liked_posts_log.json')
 CONNECTION_LOG_FILE_JSON = os.path.join(PROJECT_ROOT, 'connection_log.json')
 PROCESSED_BIRTHDAYS_JSON = os.path.join(PROJECT_ROOT, 'data', 'processed_birthdays.json')
 BIRTHDAY_LOG_FILE_OLD = os.path.join(PROJECT_ROOT, 'birthday_log.txt')
+PROFILES_JSON = os.path.join(PROJECT_ROOT, 'data', 'profiles.json')
 BIRTHDAY_URL = "https://www.linkedin.com/mynetwork/catch-up/birthday/"
 
 def load_news_log():
@@ -98,6 +99,24 @@ def save_processed_birthdays(log_data):
     with open(PROCESSED_BIRTHDAYS_JSON, 'w', encoding='utf-8') as f:
         json.dump(log_data, f, indent=4, ensure_ascii=False)
 
+def load_profile_data(profile_id):
+    """Loads profile data from JSON and returns data for the specified profile."""
+    if not os.path.exists(PROFILES_JSON):
+        print(f"Warning: Profile data file not found at {PROFILES_JSON}")
+        return None
+    try:
+        with open(PROFILES_JSON, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            profiles = data.get("profiles", [])
+            for profile in profiles:
+                if profile.get('id') == profile_id:
+                    return profile
+            print(f"Warning: Profile with id '{profile_id}' not found in {PROFILES_JSON}")
+            return None
+    except (json.JSONDecodeError, FileNotFoundError) as e:
+        print(f"Error loading profile data: {e}")
+        return None
+
 def connect_to_chrome(port):
     """Establishes a connection to the running Chrome debugger instance with retries."""
     print(f"Attempting to connect to Chrome on port {port}...")
@@ -162,29 +181,49 @@ def wish_birthdays(driver, profile_id):
     actions = ActionChains(driver)
 
     same_day_messages = [
-        "Happy Birthday, [Name]! Wishing you a fantastic day and a highly successful year ahead.",
-        "Wishing you the happiest of birthdays, [Name]! Hope you get some time to unplug and celebrate today.",
-        "Happy Birthday, [Name]! Always great having you in my network. Have a wonderful day!",
-        "Have a fantastic birthday, [Name]! Wishing you all the best both personally and professionally this year.",
-        "Happy Birthday! Hope you get to enjoy some great food and good company today, [Name].",
-        "Wishing you a very happy birthday, [Name]! Hope this next year brings you lots of great opportunities.",
-        "Happy Birthday, [Name]! Make sure you take some time to celebrate yourself today.",
-        "Have a wonderful birthday, [Name]! Hope this next trip around the sun is your best one yet.",
-        "Happy Birthday, [Name]! Wishing you a great day and a year full of big wins.",
-        "Wishing you a fantastic birthday today, [Name]! Keep up the great work this year."
+        "Happy birthday, [Name]! Hope you have a great day and get some time to enjoy it.",
+        "Happy birthday, [Name]! Hope there's something fun planned for today.",
+        "Wishing you a very happy birthday, [Name]. Hope it's a good one!",
+        "Happy birthday, [Name]! Enjoy your day, work can wait a little.",
+        "Hope you're having a great birthday, [Name]! Wishing you a really good year ahead.",
+        "Happy birthday, [Name]! Hope you get to celebrate with some good people and good food today.",
+        "Hey [Name], happy birthday! Hope you're doing something fun to celebrate.",
+        "Happy birthday, [Name]! Just wanted to send a quick note and wish you a great one.",
+        "Hope today treats you well, [Name]. Happy birthday!",
+        "Happy birthday, [Name]! Here's to a good day and an even better year ahead.",
+        "Wishing you a great birthday, [Name]. Hope you get a chance to step away from everything and enjoy it.",
+        "Hey [Name], saw it's your birthday. Hope you have a great one!",
+        "Happy birthday, [Name]! Hope today includes a little less work and a lot more celebrating.",
+        "Have a great birthday, [Name]! Hope the year ahead brings some good surprises.",
+        "Happy birthday, [Name]. Nothing complicated, just hope you have a really good day.",
+        "[Name], happy birthday! Hope you're celebrating properly today.",
+        "Hope you have a fantastic birthday, [Name]! Enjoy it.",
+        "Happy birthday, [Name]! Sending good wishes your way today.",
+        "Hey [Name], wishing you a very happy birthday. Hope it's been a good day so far.",
+        "Happy birthday, [Name]! Hope you get to do something you actually enjoy today."
     ]
 
     belated_messages = [
-        "Happy belated birthday, [Name]! I hope you had a wonderful time celebrating.",
-        "Happy belated birthday, [Name]! Sorry I missed the actual day, but I hope it was a great one.",
-        "Wishing you a happy belated birthday, [Name]! I hope the celebrations are still going strong.",
-        "Happy belated birthday, [Name]! Hope you got to take some time offline to enjoy it.",
-        "Sorry to miss the big day, but happy belated birthday, [Name]! Wishing you a fantastic year ahead.",
-        "Happy belated birthday, [Name]! I’m a little late to the party, but wishing you nothing but the best this year.",
-        "Wishing you a happy belated birthday, [Name]! Hope this coming year is full of great projects and personal wins.",
-        "Happy belated birthday, [Name]! Always great being connected here. Hope you had a fantastic time celebrating.",
-        "Happy belated birthday, [Name]! Hope it was a memorable one and that you have a great year ahead.",
-        "Wishing you a happy belated birthday, [Name]! Hope you had a great day surrounded by friends and family."
+        "A little late, [Name], but happy birthday! Hope you had a great one. ",
+        "Belated happy birthday, [Name]! Hope you had a chance to celebrate properly. ",
+        "I'm a day late, [Name]. Hope you had a great birthday! ",
+        "Missed the day, but not the birthday. Hope it was a good one, [Name]! ",
+        "A slightly late happy birthday, [Name]! Hope you had a fun day. ",
+        "Belated birthday wishes, [Name]. Hope you enjoyed your day and got some time to celebrate. ",
+        "Hey [Name], a little late to this one, but hope you had a fantastic birthday. ",
+        "I'm late to the party, [Name], but happy birthday! Hope it was a good one. ",
+        "Belated happy birthday, [Name]! Hope yesterday treated you well. ",
+        "A day late, but the good wishes still count. Happy birthday, [Name]! ",
+        "Just catching up and saw I missed your birthday, [Name]. Hope you had a great one! ",
+        "Happy belated birthday, [Name]! Hope there was good food and good company involved. ",
+        "Late birthday wishes coming your way, [Name]. Hope you had a really nice day. ",
+        "Hey [Name], looks like I'm a little late. Hope you had a great birthday! ",
+        "Better late than never, right? Happy birthday, [Name]. Hope it was a good one. ",
+        "A belated happy birthday to you, [Name]! Hope you got to enjoy it. ",
+        "Missed it by a day, [Name]. Hope you had a fantastic birthday. ",
+        "[Name], sending you a slightly late happy birthday. Hope it was a memorable one. ",
+        "Just missed it! Hope you had a wonderful birthday, [Name]. ",
+        "One day late, [Name], but hope the celebration is still going. Happy birthday! "
     ]
 
     wished_count = 0
@@ -194,10 +233,6 @@ def wish_birthdays(driver, profile_id):
     tabs_count = 0
 
     all_processed_birthdays = load_processed_birthdays()
-    # Filter for birthdays processed by the current profile
-    processed_birthdays_for_profile = [
-        entry for entry in all_processed_birthdays if entry.get('profileId') == profile_id
-    ]
 
     while tabs_count < max_tabs_without_finding_new_person:
         actions.send_keys(Keys.TAB).perform()
@@ -701,29 +736,29 @@ def like_search_results(driver, search_url, keyword):
 
     print(f"--- Liking from search results for '{keyword}' complete. ---")
 
-def connect_with_people(driver, connect_url):
+def connect_with_people(driver, connect_url, location="your area"):
     time.sleep(random.uniform(18, 180))
     """Navigates to search results and sends connection requests."""
     print("--- Phase 7: Connecting with People ---")
     driver.get(connect_url)
     print("Navigated to search results page. Waiting 10 seconds...")
     time.sleep(random.uniform(8, 20))
-
+    
     actions = ActionChains(driver)
 
     connection_messages = [
-        "Your path is really inspiring, [Name]. As an Orlando-based professional always looking to learn from driven locals, I'd love to connect and follow your journey.",        
-        "Great coming across your profile, [Name]. Your background really stands out. I’m a fellow Orlando professional passionate about continuous growth, and I'd love to connect to learn from your insights.",        
-        "Always great to see local Orlando talent doing such impactful work, [Name]! I’m looking to connect with and learn from bright minds in our area, and I would be honored to add you to my network.",        
-        "I really admire your professional journey, [Name]. As a fellow Central Florida resident, I value learning from dedicated professionals in our community. I’d love to connect and follow your work.",        
-        "I enjoyed reviewing your background, [Name]. As I grow my professional roots here in Orlando, my goal is to connect with and learn from talented locals like yourself. Let's connect!",        
-        "[Name], your dedication to your field really caught my eye. I’m eager to expand my Orlando network by connecting with passionate people to share insights and learn. I’d love to stay connected!",        
-        "I’m really impressed by the work you’re doing, [Name]. I’m currently building my network with driven individuals in the Orlando area to learn and grow my own craft. I’d love to stay connected!",        
-        "Hello [Name], I was glad to come across your profile. Your dedication and background are truly inspiring. As an Orlando-based professional, I'd love to connect and learn from your journey.",        
-        "Your background is incredibly impressive, [Name]. I’m always looking to learn from ambitious peers across the Orlando community and would love the opportunity to add you to my network.",        
-        "Hope you're having a great week, [Name]. Your trajectory is a great inspiration! As a fellow professional here in Orlando, I’m always looking to connect with and learn from inspiring locals. I’d love to connect."    
+        f"Hi [Name], your profile popped up and I wanted to say hi. I'm local to {location} too.",
+        f"[Name], looks like we're both in {location}. Figured that's worth a hello.",
+        f"Hi [Name], noticed you're local to me here in {location}. Let's connect.",
+        f"Hey [Name], another {location} person in my feed. Would be good to know you.",
+        f"Hi [Name], we haven't crossed paths yet, but we're both in {location}. Fixing that.",
+        f"[Name], saw you're based in {location} too. Glad to have you in my network.",
+        f"Hi [Name], your profile showed up today and the {location} connection stood out.",
+        f"Hey [Name], looks like we run in some of the same {location} circles. Let's connect.",
+        f"Hi [Name], always glad to meet more people doing good work around {location}.",
+        f"[Name], fellow from {location} here. Good enough reason to connect."
     ]
-
+    
     connection_count = 0
     daily_limit = random.randint(1, 3)
     print(f"Today's connection limit is set to {daily_limit}.")
@@ -827,6 +862,12 @@ def main():
     parser.add_argument('--profile_id', type=str, default='profile1', help='The ID of the profile to use for this session.')
     args = parser.parse_args()
 
+    # Load profile data to get location
+    profile_data = load_profile_data(args.profile_id)
+    location = "your area" # Default fallback
+    if profile_data and profile_data.get('location'):
+        location = profile_data['location']
+
     print("--- LinkedIn Networking Bot Starting ---")
     
     # --- Cleanup old log file ---
@@ -887,7 +928,7 @@ def main():
     sleep_time = random.randint(188, 488)
     print(f"Waiting for {sleep_time // 60} minutes and {sleep_time % 60} seconds before the next task (connect_with_people)...")
     time.sleep(sleep_time)
-    connect_with_people(driver, args.connect_url)
+    connect_with_people(driver, args.connect_url, location)
     
     search_tasks = {
         "project manager": "https://www.linkedin.com/search/results/people/?keywords=project%20manager&network=%5B%22S%22%5D&origin=FACETED_SEARCH&page=",
